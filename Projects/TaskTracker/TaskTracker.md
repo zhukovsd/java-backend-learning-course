@@ -11,7 +11,7 @@
 - Брокер сообщений RabbitMQ - очереди
 - HTML/CSS, Bootstrap
 - JS - jQuery, Ajax
-- Docker - контейнеры, образы, volumes, докеризация Spring Boot приложения, Docker Compose
+- Docker - контейнеры, образы, volumes, написание Dockerfile, Docker Compose
 
 ## Мотивация проекта
 
