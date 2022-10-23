@@ -91,7 +91,7 @@ Spring Boot - основной фреймворк Java разработчика 
 
 Перечисленные выше знания и инструменты - база для Java Junior. Если есть желание и необходимость углубиться в Backend технологии, советую обратить внимание на:
 - Websocket
-- JSON vs Protobuf
-- REST API vs GRPC
-- GraphQL
+- XML, Protobuf
+- Альтернативны REST - SOAP, GRPC, GraphQL
 - Более новые Java фреймворки - Micronaut, Quarkus
+- Реактивный бэкенд - Spring Webflux
