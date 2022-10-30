@@ -39,7 +39,10 @@
 ### Описание требуемых знаний
 
 Для колонок из схем выше я написал документы с описанием того, что нужно знать, ссылками с начальной информацией:
-- TODO
+- [Java](Technologies/Java/)
+- [Backend](Technologies/Backend/)
+- [Databases](Technologies/Databases/)
+- TODO Frontend, Microservices/Docker, Deploy/DevOps, Testing
 
 ### Общение
 
