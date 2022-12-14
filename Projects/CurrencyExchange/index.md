@@ -255,7 +255,6 @@ HTTP коды ответов:
 Пример ответа:
 ```
 {
-    "id": 0,
     "baseCurrency": {
         "id": 0,
         "name": "United States dollar",
