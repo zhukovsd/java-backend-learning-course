@@ -50,6 +50,7 @@
 - [Java](Technologies/Java/)
 - [Backend](Technologies/Backend/)
 - [Databases](Technologies/Databases/)
+- [Системы сборки](Technologies/BuildSystems/)
 - TODO Frontend, Microservices/Docker, Deploy/DevOps, Testing
 
 ## Общение
@@ -63,6 +64,8 @@
 ### Ревью проектов
 
 К законченному проекту всегда можно написать ряд замечаний, видных только с высоты опыта. В рамках менторства, я делаю ревью  реализованных проектов (в своё свободное время). Процесс схож с моим рабочим взаимодействием с джуниорами, в рамках которого я провожу ревью их работы.
+
+Плейлист с моими публичными ревью - https://studio.youtube.com/channel/UCCIzq0Y00g1Z6G83qOXsPWg/content/playlists.
 
 ### Помощь в выборе учебных материалов
 
