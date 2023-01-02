@@ -6,14 +6,14 @@ REST API для описания валют и обменных курсов. П
 
 ## Что нужно знать
 
-- [Java](Technologies/Java/) - коллекции, ООП
-- [Maven/Gradle](Technologies/BuildSystems/)
-- [Backend](Technologies/Backend/)
+- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
+- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - Java сервлеты
   - HTTP - GET и POST запросы, коды ответа
   - REST API, JSON
-- [Базы данных](Technologies/Databases/) - SQL, JDBC
-- [Деплой](Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQL, JDBC
+- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 Фреймворки не используем.
 
