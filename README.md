@@ -49,7 +49,7 @@
 Для колонок из схем выше я написал документы с описанием того, что нужно знать, ссылками с начальной информацией:
 - [Java](Technologies/Java/)
 - [Backend](Technologies/Backend/)
-- [Databases](Technologies/Databases/)
+- [Базы данных](Technologies/Databases/)
 - [Системы сборки](Technologies/BuildSystems/)
 - TODO Frontend, Microservices/Docker, Deploy/DevOps, Testing
 
