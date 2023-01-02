@@ -51,7 +51,8 @@
 - [Backend](Technologies/Backend/)
 - [Базы данных](Technologies/Databases/)
 - [Системы сборки](Technologies/BuildSystems/)
-- TODO Frontend, Microservices/Docker, Deploy/DevOps, Testing
+- [DevOps](Technologies/DevOps/) - Git, деплой, CI/CD
+- TODO Frontend, Microservices/Docker, Testing
 
 ## Общение
 
