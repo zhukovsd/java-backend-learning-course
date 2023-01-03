@@ -41,7 +41,7 @@ REST API для описания валют и обменных курсов. П
 | --- | --- | --- | --- |
 | 1 | AUD | Australian dollar | A$ |
 
-Коды валют мира - https://www.iban.com/currency-codes.
+Коды валют мира - [https://www.iban.com/currency-codes](https://www.iban.com/currency-codes).
 
 Индексы:
 - Первичный ключ по полю ID
