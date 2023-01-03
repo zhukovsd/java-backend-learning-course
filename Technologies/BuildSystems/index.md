@@ -14,11 +14,11 @@
 
 Что нужно знать, где почитать:
 
-- Идеи Maven - что такое Maven lifecycle, phase и goal - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
-- Локальный репозиторий Maven - https://www.baeldung.com/maven-local-repository
-- Maven POM - что это такое, основные секции файла - зависимости, build плагины, свойства проекта - https://maven.apache.org/guides/introduction/introduction-to-the-pom.html
+- Идеи Maven - что такое Maven lifecycle, phase и goal - [https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
+- Локальный репозиторий Maven - [https://www.baeldung.com/maven-local-repository](https://www.baeldung.com/maven-local-repository)
+- Maven POM - что это такое, основные секции файла - зависимости, build плагины, свойства проекта - [https://maven.apache.org/guides/introduction/introduction-to-the-pom.html](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html)
 - Практика - создание Spring Boot Maven проекта с помощью Spring Initializr:
-  - На сайте https://start.spring.io/
+  - На сайте [https://start.spring.io/](https://start.spring.io/)
   - В среде Intellij IDEA
 - Практика - использование Maven в Java проектах
   - Добавление зависимостей
@@ -26,11 +26,11 @@
 
 Полезно, но не обязательно:
 
-- Что такое Maven BOM - https://www.baeldung.com/spring-maven-bom
-- Что такое транзитивные зависимости, и как Maven BOM решает эту проблему - https://reflectoring.io/maven-bom/
-- Maven BOM фреймворка Spring Boot - https://www.baeldung.com/spring-maven-bom
-- Multi-module проекты - https://www.baeldung.com/maven-multi-module
-- Maven архетипы - https://www.baeldung.com/maven-archetype
+- Что такое Maven BOM - [https://www.baeldung.com/spring-maven-bom](https://www.baeldung.com/spring-maven-bom)
+- Что такое транзитивные зависимости, и как Maven BOM решает эту проблему - [https://reflectoring.io/maven-bom/](https://reflectoring.io/maven-bom/)
+- Maven BOM фреймворка Spring Boot - [https://www.baeldung.com/spring-maven-bom](https://www.baeldung.com/spring-maven-bom)
+- Multi-module проекты - [https://www.baeldung.com/maven-multi-module](https://www.baeldung.com/maven-multi-module)
+- Maven архетипы - [https://www.baeldung.com/maven-archetype](https://www.baeldung.com/maven-archetype)
 - Развёртывание своих Maven репозиториев
 - Релиз артефактов в Maven репозитории
 
@@ -40,11 +40,11 @@ Gradle - более новая система сборки, чем Maven. Для
 
 Что нужно знать, где почитать:
 
-- Отличия Gradle от Maven - https://gradle.org/maven-vs-gradle/
-- Gradle Lifecycle - https://docs.gradle.org/current/userguide/build_lifecycle.html
-- Что такое DSL. Gradle Groovy/Kotlin DSL - https://docs.gradle.org/current/userguide/tutorial_using_tasks.html
+- Отличия Gradle от Maven - [https://gradle.org/maven-vs-gradle/](https://gradle.org/maven-vs-gradle/)
+- Gradle Lifecycle - [https://docs.gradle.org/current/userguide/build_lifecycle.html](https://docs.gradle.org/current/userguide/build_lifecycle.html)
+- Что такое DSL. Gradle Groovy/Kotlin DSL - [https://docs.gradle.org/current/userguide/tutorial_using_tasks.html](https://docs.gradle.org/current/userguide/tutorial_using_tasks.html)
 - Практика - создание Spring Boot Gradle проекта с помощью Spring Initializr:
-  - На сайте https://start.spring.io/
+  - На сайте [https://start.spring.io/](https://start.spring.io/)
   - В среде Intellij IDEA
 - Практика - использование Gradle в Java проектах
   - Добавление зависимостей
