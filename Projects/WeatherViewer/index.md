@@ -4,14 +4,17 @@
 
 ## Что нужно знать
 
-- Java - коллекции, ООП
-- Maven/Gradle
-- `javax` сервлеты
-- GET и POST запросы, HTTP заголовки, cookies
-- SQL, Hibernate
-- Паттерн MVC
-- HTML/CSS
-- Thymeleaf
+- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
+- Паттерн MVC(S)
+- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+  - Java сервлеты
+  - GET и POST запросы, HTTP заголовки, cookies
+  - Thymeleaf
+- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+  - SQL
+  - Hibernate
+- HTML/CSS/Bootstrap
 
 Spring MVC/Spring Boot не используем.
 
@@ -34,6 +37,8 @@ Spring MVC/Spring Boot не используем.
 - Удаление из списка
 
 ## Интерфейс приложения
+
+Для вёрстки предлагаю пользоваться [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 
 ### Главная страница
 
@@ -67,9 +72,11 @@ Spring MVC/Spring Boot не используем.
 
 Фреймворки, в том числе Spring Boot, умеют управлять всем этим. Цель этого проекта - поработать с cookies и сессиями вручную, чтобы понимать, как они работают.
 
-## Структура базы данных
+## База данных
 
-### Users
+В этом проекте предлагаю использовать MySQL/MariaDB/Postgres.
+
+### Таблица `Users`
 
 | Колонка | Тип | Комментарий |
 | --- | --- | --- |
@@ -77,7 +84,7 @@ Spring MVC/Spring Boot не используем.
 | Login | Varchar | Логин пользователя, username или email |
 | Password | Varchar | Хранить пароль в открытом виде небезопасно, лучше использовать шифрование, например BCrypt |
 
-### Locations
+### Таблица `Locations`
 
 Локации пользователя, в которых он хочет знать погоду. Одна и та же локация может повторяться для нескольких пользователей.
 
@@ -89,7 +96,7 @@ Spring MVC/Spring Boot не используем.
 | Latitude | Decimal | Широта локации |
 | Longitude | Decimal | Долгота локации |
 
-### Sessions
+### Таблица `Sessions`
 
 | Колонка | Тип | Комментарий |
 | --- | --- | --- |
@@ -103,22 +110,22 @@ Spring MVC/Spring Boot не используем.
 
 ### OpenWeather
 
-Существует множество сервисов, предоставляющих API с таким функционалом, один из них - https://openweathermap.org/. Я выбрал этот вариант, потому что он позволяет бесплатно совершать 60 запросов в минуту.
+Существует множество сервисов, предоставляющих API с таким функционалом, один из них - [https://openweathermap.org/](https://openweathermap.org/). Я выбрал этот вариант, потому что он позволяет бесплатно совершать 60 запросов в минуту.
 
 Для выполнения запросов к API нужен ключ, для его получения необходимо:
-- Зарегистрироваться на https://openweathermap.org/
+- Зарегистрироваться на [https://openweathermap.org/](https://openweathermap.org/)
 - Создать бесплатный ключ с лимитом 60 запросов в минуту
 - Дождаться активации ключа (
 
 ### Работа с API
 
-Документация - https://openweathermap.org/api.
+Документация - [https://openweathermap.org/api](https://openweathermap.org/api).
 
 Нам нужно 2 метода API:
-- Поиск локаций по названию - https://openweathermap.org/current#geocoding
-- Получение погоды по координатам локации - https://openweathermap.org/current#one
+- Поиск локаций по названию - [https://openweathermap.org/current#geocoding](https://openweathermap.org/current#geocoding)
+- Получение погоды по координатам локации - [https://openweathermap.org/current#one](https://openweathermap.org/current#one)
 
-Первым делом следует поэксперементировать с API вручную, чтобы понять как делать запросы, и что приходит в ответе. Сделать это можно в [HTTP клиенте](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) встроенном в Intellij IDEA, либо воспользоваться отдельным приложением, например https://insomnia.rest/.
+Первым делом следует поэксперементировать с API вручную, чтобы понять как делать запросы, и что приходит в ответе. Сделать это можно в [HTTP клиенте](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) встроенном в Intellij IDEA, либо воспользоваться отдельным приложением, например [https://insomnia.rest/](https://insomnia.rest/).
 
 ### Интеграция OpenWeather API с Java приложением
 
@@ -127,9 +134,21 @@ Spring MVC/Spring Boot не используем.
 - Получаем ответ
 - Десериализуем ответ в объект Java
 
-Для работы с API потребуется HTTP Client, например https://www.baeldung.com/java-9-http-client.
+Для работы с API потребуется HTTP Client, например [https://www.baeldung.com/java-9-http-client](https://www.baeldung.com/java-9-http-client).
 
 С десериализацией поможет `JsonMapper` из библиотеки Jackson.
+
+## Деплой
+
+Будем вручную деплоить war артефакт в Tomcat, установленный на удалённом сервере. Потребуется установка внешней SQL БД по выбору.
+
+Шаги:
+- Локально собрать war артефакт приложения
+- В хостинг-провайдере по выбору арендовать облачный сервер на Linux
+- Установить JRE, Tomcat, выбранную SQL БД
+- Зайти в админский интерфейс Tomcat, установить собранный war артефакт
+
+Ожидаемый результат - приложение доступно по адресу `http://$server_ip:8080/$app_root_path`.
 
 ## План работы над приложением
 
@@ -140,3 +159,4 @@ Spring MVC/Spring Boot не используем.
 - Написать сервис для работы с OpenWeather API
 - Реализовать бизнес логику приложения - поиск, добавление, удаление локаций, просмотр погоды
 - Создать интерфейс главной страницы и страницы поиска локаций
+- Деплой
