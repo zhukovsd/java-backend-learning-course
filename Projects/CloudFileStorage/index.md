@@ -16,6 +16,7 @@
   - Представление о NoSQL хранилищах
 - HTML/CSS
 - Docker (контейнеры, образы, volumes), Docker Compose
+- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 ## Мотивация проекта
 
