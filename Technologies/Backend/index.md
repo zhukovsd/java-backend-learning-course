@@ -16,8 +16,8 @@
 - Что такое DNS
 
 Эти статьи помогут начать:
-- https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work
-- https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+- [https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ### HTTP
 
@@ -30,7 +30,7 @@
 - Form data, multipart form data
 
 Поможет начать:
-- https://ru.wikipedia.org/wiki/HTTP
+- [https://ru.wikipedia.org/wiki/HTTP](https://ru.wikipedia.org/wiki/HTTP)
 
 ## REST API
 
@@ -41,10 +41,10 @@ REST - набор правил взаимодействия клиента и с
 - Базовые дизайн принципы и типовые ошибки, которых следует избегать
 
 Поможет начать:
-- https://habr.com/ru/post/483202/
-- https://habr.com/ru/post/351890/
+- [https://habr.com/ru/post/483202/](https://habr.com/ru/post/483202/)
+- [https://habr.com/ru/post/351890/](https://habr.com/ru/post/351890/)
 
-Книга по дизайну REST API - https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508.
+Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508).
 
 Проект #2 "обмен валют" содержит пример дизайна REST API.
 
@@ -61,7 +61,7 @@ REST - набор правил взаимодействия клиента и с
 - Запускать Java проект с сервлетами с помощью Tomcat
 
 Поможет начать:
-- https://www.baeldung.com/intro-to-servlets
+- [https://www.baeldung.com/intro-to-servlets](https://www.baeldung.com/intro-to-servlets)
 
 ### Spring Boot
 
@@ -76,8 +76,8 @@ Spring Boot - основной фреймворк Java разработчика 
 По Spring существует огромное количество обучающих материалов, курсов, книг.
 
 Поможет начать:
-- https://www.udemy.com/course/spring-framework/
-- https://www.udemy.com/course/spring-alishev/
+- [https://www.udemy.com/course/spring-framework/](https://www.udemy.com/course/spring-framework/)
+- [https://www.udemy.com/course/spring-alishev/](https://www.udemy.com/course/spring-alishev/)
 
 ### Шаблонизаторы веб-страниц
 
