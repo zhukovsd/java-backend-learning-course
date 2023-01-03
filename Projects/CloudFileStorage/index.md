@@ -4,12 +4,16 @@
 
 ## Что нужно знать
 
-- Java - коллекции, ООП
-- Maven/Gradle
-- Spring Boot, Spring Security, Spring Sessions
-- Thymeleaf
-- Базы данных - SQL, Spring Data JPA, представление о NoSQL хранилищах
-- Веб - upload файлов, заголовки HTTP запросов, cookies, cессии
+- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
+- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+  - Spring Boot, Spring Security, Spring Sessions
+  - Thymeleaf
+  - Upload файлов, заголовки HTTP запросов, cookies, cессии
+- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+  - SQL
+  - Spring Data JPA
+  - Представление о NoSQL хранилищах
 - HTML/CSS
 - Docker (контейнеры, образы, volumes), Docker Compose
 
@@ -75,24 +79,24 @@
 
 За авторизацию, управление доступом к страницам отвечает Spring Security.
 
-За работу с сессиями отвечает Spring Sessions. По умолчанию Spring Boot хранит сессии внутри приложения, и они теряются после каждого перезапуска приложения. Мы воспользуемся Redis для хранения сессий. Пример - https://www.baeldung.com/spring-session. Redis - NoSQL хранилище, имеющее встроенный TTL (time to live) атрибут для записей, что делает его удобным для хранения сессий - истекшие сессии автоматически удаляются. 
+За работу с сессиями отвечает Spring Sessions. По умолчанию Spring Boot хранит сессии внутри приложения, и они теряются после каждого перезапуска приложения. Мы воспользуемся Redis для хранения сессий. Пример - [https://www.baeldung.com/spring-session](https://www.baeldung.com/spring-session). Redis - NoSQL хранилище, имеющее встроенный TTL (time to live) атрибут для записей, что делает его удобным для хранения сессий - истекшие сессии автоматически удаляются. 
 
 ## SQL база данных
 
-В этом проекте студент самостоятельно разрабатывает структуру базы данных для хранения пользователей (файлы и сессии распологаются в других хранилищах).
+В этом проекте студент самостоятельно разрабатывает структуру базы данных для хранения пользователей (файлы и сессии распологаются в других хранилищах). Предлагаю использовать MySQL.
 
 Ориентироваться стоит на интеграцию с Spring Security. Эта библиотека экосистемы Spring подразумевает определённые атрибуты, которыми должен обладать пользователь, и список которых и станет основой колонок для таблицы `Users`.
 
-Пример интеграции между Spring Security и Spring Data JPA - https://www.baeldung.com/registration-with-spring-mvc-and-spring-security.
+Пример интеграции между Spring Security и Spring Data JPA - [https://www.baeldung.com/registration-with-spring-mvc-and-spring-security](https://www.baeldung.com/registration-with-spring-mvc-and-spring-security).
 
 Важно помнить о создании необходимых индексов в таблице `Users`. Например, логин пользователя должен быть уникальным.
 
 ## Хранилище файлов S3
 
-Для хранения файлов будем пользоваться S3 - simple storage service. Проект, разработанный Amazon Cloud Services, представляет из себя облачный сервис и протокол для файлового хранилища. Чтобы не зависеть от платных сервисов Amazon в этом проекте, воспользуемся альтернативным S3-совместимым хранилищем, которое можно запустить локально - https://min.io/
+Для хранения файлов будем пользоваться S3 - simple storage service. Проект, разработанный Amazon Cloud Services, представляет из себя облачный сервис и протокол для файлового хранилища. Чтобы не зависеть от платных сервисов Amazon в этом проекте, воспользуемся альтернативным S3-совместимым хранилищем, которое можно запустить локально - [https://min.io/](https://min.io/)
 
-- Докер образ для локального запуска MinIO - https://hub.docker.com/r/minio/minio/
-- Для работы с протоколом S3 воспользуемся AWS Java SDK, пример - https://docs.min.io/docs/how-to-use-aws-sdk-for-java-with-minio-server.html
+- Докер образ для локального запуска MinIO - [https://hub.docker.com/r/minio/minio/](https://hub.docker.com/r/minio/minio/)
+- Для работы с протоколом S3 воспользуемся AWS Java SDK, пример - [https://docs.min.io/docs/how-to-use-aws-sdk-for-java-with-minio-server.html](https://docs.min.io/docs/how-to-use-aws-sdk-for-java-with-minio-server.html)
 
 ### Структура S3 хранилища
 
@@ -114,7 +118,7 @@
 
 ## Upload файлов
 
-Для загрузки файлов необходимо воспользоваться HTML file input - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file. Рапространённый подход оформить это в виде зоны, на которую можно перетягивать файлы из проводника, пример - https://codepen.io/dcode-software/pen/xxwpLQo.
+Для загрузки файлов необходимо воспользоваться HTML file input - [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file). Рапространённый подход оформить это в виде зоны, на которую можно перетягивать файлы из проводника, пример - [https://codepen.io/dcode-software/pen/xxwpLQo](https://codepen.io/dcode-software/pen/xxwpLQo).
 
 На уровне HTTP, передача файлов осуществляется с помощью `multipart/form-data`.
 
@@ -140,6 +144,19 @@ File input может быть использован для загрузки л
 - Уничтожаем или останавливаем контейнеры (с сохранением данных на volumes), когда работа не ведётся
 - По необходимости уничтожаем данные на volumes, если хотим очистить то или иное хранилище
 
+## Деплой
+
+Будем вручную деплоить jar артефакт. Для его запуска не требуется Tomcat, потому что в собранное Spring Boot приложение уже встроен веб-сервер. Все остальные приложения этого проекта (SQL, Redis, MinIO) запускаем через Docker Compose.
+
+Шаги:
+- Локально собрать jar артефакт приложения
+- В хостинг-провайдере по выбору арендовать облачный сервер на Linux
+- Установить JRE, Docker
+- Скопировать на удалённый сервер Docker Compose файл для запуска MySQL, Redis, MinIO
+- Скопировать на удалённый сервер локально собранный jar, запустить
+
+Ожидаемый результат - приложение доступно по адресу `http://$server_ip:8080/$app_root_path`.
+
 ## План работы над приложением
 
 - Docker Compose - добавить MySQL
@@ -151,3 +168,4 @@ File input может быть использован для загрузки л
 - Поиск файлов - сервис, контроллер и Thymeleaf шаблон
 - Docker Compose - добавить Redis
 - Spring Sessions - сконфигурировать хранение сессий внутри Redis
+- Деплой
