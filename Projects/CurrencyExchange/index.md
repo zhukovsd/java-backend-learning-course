@@ -73,13 +73,13 @@ REST API для описания валют и обменных курсов. П
 Получение списка валют. Пример ответа:
 ```
 [
-    "currency": {
+    {
         "id": 0,
         "name": "United States dollar",
         "code": "USD",
         "sign": "$"
     },   
-    "currency": {
+    {
         "id": 0,
         "name": "Euro",
         "code": "EUR",
@@ -135,8 +135,8 @@ HTTP коды ответов:
 Получение списка всех обменных курсов. Пример ответа:
 ```
 [
-    "id": 0,
-    "exchangeRate": {
+    {
+        "id": 0,
         "baseCurrency": {
             "id": 0,
             "name": "United States dollar",
