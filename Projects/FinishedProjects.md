@@ -12,7 +12,7 @@
 | [Hangman](https://github.com/belgrano82/Hangman) | [belgrano82](https://github.com/belgrano82) | Java | [https://t.me/zhukovsd_it_chat/1264](https://t.me/zhukovsd_it_chat/1264) |
 | [gallows](https://github.com/AntoNeo174/gallows) | [AntoNeo174](https://github.com/AntoNeo174) | Java | [https://t.me/zhukovsd_it_chat/594](https://t.me/zhukovsd_it_chat/594) |
 | [Hangman](https://github.com/u-cha/Hangman) | [u-cha](https://github.com/u-cha) | Python | [https://t.me/zhukovsd_it_chat/691](https://t.me/zhukovsd_it_chat/691) |
-| [hangman](https://github.com/KhariZZma/hangman) | [KhariZZma](https://github.com/KhariZZma) | Java | [https://t.me/zhukovsd_it_chat/508](https://t.me/zhukovsd_it_chat/508) |
+| [hangman](https://github.com/KhariZZma/hangman) | [KhariZZma](https://github.com/KhariZZma) | Java, JavaFX | [https://t.me/zhukovsd_it_chat/508](https://t.me/zhukovsd_it_chat/508) |
 | [gallows](https://github.com/dublXq/gallows) | [dublXq](https://github.com/dublXq) | Java | [https://t.me/zhukovsd_it_chat/439?thread=324](https://t.me/zhukovsd_it_chat/439?thread=324) |
 | [word_game](https://github.com/garaninnv/word_game) | [garaninnv](https://github.com/garaninnv) | Java | [https://t.me/zhukovsd_it_chat/647](https://t.me/zhukovsd_it_chat/647) |
 | [project_hanged](https://github.com/PavelFurochkin/project_hanged) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |
@@ -27,6 +27,7 @@
 | [simulation](https://github.com/lesliefernsby/simulation) | [lesliefernsby](https://github.com/lesliefernsby) | Java | [https://t.me/zhukovsd_it_chat/849](https://t.me/zhukovsd_it_chat/849) |
 | [Simulation_Console_App](https://github.com/Asenim/Simulation_Console_App) | [Asenim](https://github.com/Asenim) | Python | [https://www.youtube.com/watch?v=Ctyha5ec0LE](https://www.youtube.com/watch?v=Ctyha5ec0LE) |
 | [Matrix2077](https://github.com/immagixe/Matrix2077) | [immagixe](https://github.com/immagixe) | Java |  |
+| [simulation2077](https://github.com/anelfer/simulation2077) | [anelfer](https://github.com/anelfer) | Kotlin, JavaFX |  |
 
 ## Обмен валют
 
