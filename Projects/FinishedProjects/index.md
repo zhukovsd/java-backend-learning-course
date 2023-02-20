@@ -28,6 +28,7 @@
 | [Simulation_Console_App](https://github.com/Asenim/Simulation_Console_App) | [Asenim](https://github.com/Asenim) | Python | [https://www.youtube.com/watch?v=Ctyha5ec0LE](https://www.youtube.com/watch?v=Ctyha5ec0LE) |
 | [Matrix2077](https://github.com/immagixe/Matrix2077) | [immagixe](https://github.com/immagixe) | Java |  |
 | [simulation2077](https://github.com/anelfer/simulation2077) | [anelfer](https://github.com/anelfer) | Kotlin, JavaFX |  |
+| [WarhammerWB](https://github.com/BorBoris23/WarhammerWB) | [BorBoris23](https://github.com/BorBoris23) | PHP, Javascript |  |
 
 ## Обмен валют
 
