@@ -14,7 +14,7 @@
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
   - SQL
   - Hibernate
-- HTML/CSS/Bootstrap
+- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
 
 Spring MVC/Spring Boot не используем.
 
