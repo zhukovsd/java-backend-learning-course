@@ -10,9 +10,7 @@
   - Spring Boot, Spring Security, Spring Session, Spring AMQP, Spring Scheduler, Spring Mail
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
   - SQL, Spring Data JPA
-- Frontend
-  - HTML/CSS, Bootstrap
-  - JS - jQuery, Ajax
+- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap, Javascript, Ajax
 - Docker - контейнеры, образы, volumes, написание Dockerfile, Docker Compose
 - Брокер сообщений RabbitMQ - очереди
 - [DevOps]({{ site.baseurl }}/Technologies/DevOps/)
