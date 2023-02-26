@@ -14,7 +14,7 @@
   - SQL
   - Spring Data JPA
   - Представление о NoSQL хранилищах
-- HTML/CSS
+- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
 - Docker (контейнеры, образы, volumes), Docker Compose
 - [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
