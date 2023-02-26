@@ -45,3 +45,11 @@ Javascript является опциональным для большинств
 - Курсы, книги, учебники по Javascript. Мне нравится [https://learn.javascript.ru/](https://learn.javascript.ru/)
 - Практика - решение задач на синтаксис, например, на [https://app.codesignal.com/](https://app.codesignal.com/)
 - [Проект "Планировщик задач"](../../Projects/TaskTracker/index.md) включает в себя разработку одностраничного веб-приложения на Javascript
+
+## Что дальше
+
+Если хотите развиваться в сторону Full stack разработчика:
+- Javascript 2015
+- Системы сборки фронтенда - Webpack
+- Javascript фреймворки - React, Vue
+- CSS препроцессоры - SCSS/SASS
