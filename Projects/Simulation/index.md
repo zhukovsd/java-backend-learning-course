@@ -8,7 +8,7 @@
 
 ## Что нужно знать
 
-- Java - коллекции, ООП
+- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
 
 ## Мотивация проекта
 
@@ -79,3 +79,9 @@
 Опциональные идеи для усложнения проекта:
 - Механика размножения существ
 - Механика голода, когда от отсутствия пищи у них начинает уменьшаться HP
+
+## Ресурсы для работы над ошибками
+
+- Эталонная [реализация проекта](https://github.com/zhukovsd/chess) похожего уровня сложности, написанного на серии [стримов](https://www.youtube.com/watch?v=Pzydm8GZzMs)
+- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
