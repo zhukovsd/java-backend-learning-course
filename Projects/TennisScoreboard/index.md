@@ -5,7 +5,7 @@
 ## Что нужно знать
 
 - [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- Архитектурный паттерн MVC(S)
+- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
 - [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - Java сервлеты
