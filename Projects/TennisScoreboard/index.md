@@ -12,7 +12,7 @@
   - Веб - GET и POST запросы, формы
   - Java Servlets, JSP
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQL, JDBC, H2 - in-memory SQL database
-- HTML/CSS
+- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, блочная вёрстка
 - [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 ## Мотивация проекта
