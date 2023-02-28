@@ -40,6 +40,7 @@
 |---------------------------------------------------------------------------------------------------------|-------------------------------------------|------|--------------------------------------------------------------------------------------------|
 | [CurrencyExchanger](https://github.com/lcaitlyn/CurrencyExchanger)                                      | [lcaitlyn](https://github.com/lcaitlyn)   | Java | [https://www.youtube.com/watch?v=x2I655fucmo](https://www.youtube.com/watch?v=x2I655fucmo) |
 | [pet-project-2-currency-exchange-api](https://github.com/krios2146/pet-project-2-currency-exchange-api) | [krios2146](https://github.com/krios2146) | Java |                                                                                            |
+| [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | |
 
 ## Табло теннисного матча
 
