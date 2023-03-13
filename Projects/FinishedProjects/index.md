@@ -31,6 +31,7 @@
 | [simulation2077](https://github.com/anelfer/simulation2077)                           | [anelfer](https://github.com/anelfer)             | Kotlin, JavaFX  |                                                                                            |
 | [WarhammerWB](https://github.com/BorBoris23/WarhammerWB)                              | [BorBoris23](https://github.com/BorBoris23)       | PHP, Javascript |                                                                                            |
 | [pet-project-1-simulation](https://github.com/krios2146/pet-project-1-simulation)     | [krios2146](https://github.com/krios2146)         | Java            | [https://t.me/zhukovsd_it_chat/1860](https://t.me/zhukovsd_it_chat/1860) |
+| [Simulation](https://github.com/u-cha/Simulation) | [u-cha](https://github.com/u-cha/) | Python | [https://t.me/zhukovsd_it_chat/2444](https://t.me/zhukovsd_it_chat/2444) |
 
 ## Обмен валют
 
