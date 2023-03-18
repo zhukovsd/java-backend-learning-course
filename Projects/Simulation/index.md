@@ -85,3 +85,4 @@
 - Эталонная [реализация проекта](https://github.com/zhukovsd/chess) похожего уровня сложности, написанного на серии [стримов](https://www.youtube.com/watch?v=Pzydm8GZzMs)
 - Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
+  - **[Обновление от 18 марта 2023]** - целевое количество ревью проекта "Симуляция" на Java накоплено, новые реализации на Java к ревью не принимаются, на других языках принимаются. Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
