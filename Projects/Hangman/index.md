@@ -36,3 +36,4 @@
 - Эталонная [реализация проекта](https://github.com/zhukovsd/tic-tac-toe) похожего уровня сложности, написанного на [стриме](https://www.youtube.com/watch?v=PPikj1qHxrA)
 - Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
+  - **[Обновление от 18 марта 2023]** - целевое количество ревью проекта "Виселица" на Java накоплено, новые проекты на Java к ревью не принимаются, на других языках принимаются. Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
