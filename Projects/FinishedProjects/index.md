@@ -17,6 +17,7 @@
 | [word_game](https://github.com/garaninnv/word_game)                         | [garaninnv](https://github.com/garaninnv)           | Java         | [https://t.me/zhukovsd_it_chat/647](https://t.me/zhukovsd_it_chat/647)                       |
 | [project_hanged](https://github.com/PavelFurochkin/project_hanged)          | [PavelFurochkin](https://github.com/PavelFurochkin) | Python       |                                                                                              |
 | [pet-project-0-hangman](https://github.com/krios2146/pet-project-0-hangman) | [krios2146](https://github.com/krios2146)           | Java         |                                                                                              |
+| [Word_game_new](https://github.com/madriot1337/Word_game_new) | [madriot1337](https://github.com/madriot1337)           | Java         | [https://t.me/zhukovsd_it_chat/2568](https://t.me/zhukovsd_it_chat/2568) |
 
 ## Симуляция
 
