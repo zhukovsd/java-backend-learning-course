@@ -18,8 +18,9 @@
 | [project_hanged](https://github.com/PavelFurochkin/project_hanged)          | [PavelFurochkin](https://github.com/PavelFurochkin) | Python       |                                                                                              |
 | [pet-project-0-hangman](https://github.com/krios2146/pet-project-0-hangman) | [krios2146](https://github.com/krios2146)           | Java         |                                                                                              |
 | [Word_game_new](https://github.com/madriot1337/Word_game_new) | [madriot1337](https://github.com/madriot1337)           | Java         | [https://t.me/zhukovsd_it_chat/2568](https://t.me/zhukovsd_it_chat/2568) |
-| [hangman_game](https://github.com/egovoryn/hangman_game) | [egovoryn](https://github.com/egovoryn)           | Java         | [Часть #1](https://t.me/zhukovsd_it_chat/2655), [часть 2](https://t.me/zhukovsd_it_chat/2677) |
+| [hangman_game](https://github.com/egovoryn/hangman_game) | [egovoryn](https://github.com/egovoryn)           | Java         | [часть #1](https://t.me/zhukovsd_it_chat/2655), [часть #2](https://t.me/zhukovsd_it_chat/2677) |
 | [Hangman-in-Kotlin](https://github.com/belgrano82/Hangman-in-Kotlin) | [belgrano82](https://github.com/belgrano82) | Kotlin | [https://t.me/zhukovsd_it_chat/2916](https://t.me/zhukovsd_it_chat/2916) |
+| [hangman](https://github.com/Kostiku/hangman) | [Kostiku](https://github.com/Kostiku) | Java | [https://t.me/zhukovsd_it_chat/2940](https://t.me/zhukovsd_it_chat/2940) |
 
 ## Симуляция
 
