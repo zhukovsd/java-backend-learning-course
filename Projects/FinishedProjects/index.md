@@ -82,7 +82,7 @@
 
 | Репозиторий                                                          | Автор                                   | Стек                                        | Ревью |
 |----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|-------|
-| [task-tracker-stack](https://github.com/immagixe/task-tracker-stack) | [immagixe](https://github.com/immagixe) | Java, Kotlin, Spring Boot, Docker, RabbitMQ |       |
+| [task-tracker-stack](https://github.com/immagixe/task-tracker-stack) | [immagixe](https://github.com/immagixe) | Java, Kotlin, Spring Boot, Docker, RabbitMQ | [https://www.youtube.com/watch?v=QwFlp35yaqw](https://www.youtube.com/watch?v=QwFlp35yaqw) |
 
 ## Остальное
 
