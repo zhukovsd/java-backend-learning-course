@@ -37,6 +37,7 @@
 | [pet-project-1-simulation](https://github.com/krios2146/pet-project-1-simulation)     | [krios2146](https://github.com/krios2146)         | Java            | [https://t.me/zhukovsd_it_chat/1860](https://t.me/zhukovsd_it_chat/1860) |
 | [Simulation](https://github.com/u-cha/Simulation) | [u-cha](https://github.com/u-cha/) | Python | [https://t.me/zhukovsd_it_chat/2444](https://t.me/zhukovsd_it_chat/2444) |
 | [simulation_2d](https://github.com/egovoryn/simulation_2d) | [egovoryn](https://github.com/egovoryn) | Java | [https://t.me/zhukovsd_it_chat/3811](https://t.me/zhukovsd_it_chat/3811) |
+| [HungaryGames](https://github.com/KhariZZma/HungaryGames) | [KhariZZma](https://github.com/KhariZZma) | Java, JavaFX | [https://t.me/zhukovsd_it_chat/3950](https://t.me/zhukovsd_it_chat/3950) |
 
 ## Обмен валют
 
