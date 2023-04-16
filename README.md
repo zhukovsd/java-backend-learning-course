@@ -55,7 +55,8 @@
 - [Системы сборки](Technologies/BuildSystems/)
 - [DevOps](Technologies/DevOps/) - Git, деплой, CI/CD
 - [Frontend](Technologies/Frontend/)
-- TODO - Microservices/Docker, Testing
+- [Тесты](Technologies/Tests)
+- TODO - Microservices/Docker
 
 ## Общение
 
