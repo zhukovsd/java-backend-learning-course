@@ -39,6 +39,7 @@
 | [simulation_2d](https://github.com/egovoryn/simulation_2d) | [egovoryn](https://github.com/egovoryn) | Java | [https://t.me/zhukovsd_it_chat/3811](https://t.me/zhukovsd_it_chat/3811) |
 | [HungaryGames](https://github.com/KhariZZma/HungaryGames) | [KhariZZma](https://github.com/KhariZZma) | Java, JavaFX | [https://t.me/zhukovsd_it_chat/3950](https://t.me/zhukovsd_it_chat/3950) |
 | [LifeSimulation](https://github.com/aseptimu/LifeSimulation) | [aseptimu](https://github.com/aseptimu) | Java |  |
+| [Simulation](https://github.com/PavelFurochkin/Simulation) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010) |
 
 ## Обмен валют
 
