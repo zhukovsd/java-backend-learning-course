@@ -315,3 +315,9 @@ HTTP коды ответов:
 - Реализовать методы REST API для работы с валютами и обменными курсами
 - Реализовать метод REST API с подсчётом обмена валюты
 - Деплой на удалённый сервер
+
+## Ресурсы для работы над ошибками
+
+- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
+  - **[Обновление от 28 апреля 2023]** - целевое количество ревью проекта "Обмен валют" на Java накоплено, новые реализации на Java к полноценным ревью не принимаются, на других языках принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), по возможности делаю краткие текстовые ревью. Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
