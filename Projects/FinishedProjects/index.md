@@ -21,6 +21,9 @@
 | [hangman_game](https://github.com/egovoryn/hangman_game) | [egovoryn](https://github.com/egovoryn)           | Java         | [часть #1](https://t.me/zhukovsd_it_chat/2655), [часть #2](https://t.me/zhukovsd_it_chat/2677) |
 | [Hangman-in-Kotlin](https://github.com/belgrano82/Hangman-in-Kotlin) | [belgrano82](https://github.com/belgrano82) | Kotlin | [https://t.me/zhukovsd_it_chat/2916](https://t.me/zhukovsd_it_chat/2916) |
 | [hangman](https://github.com/Kostiku/hangman) | [Kostiku](https://github.com/Kostiku) | Java | [https://t.me/zhukovsd_it_chat/2940](https://t.me/zhukovsd_it_chat/2940) |
+| [Pet_projects/Gallows](https://github.com/NazarovIlya/Pet_projects/tree/main/Gallows) | [NazarovIlya](https://github.com/NazarovIlya) | C# | [https://t.me/zhukovsd_it_chat/5064](https://t.me/zhukovsd_it_chat/5064) |
+| [gallows-console](https://github.com/LastOfWhom/gallows-console) | [LastOfWhom](https://github.com/LastOfWhom) | PHP | [https://t.me/zhukovsd_it_chat/5275](https://t.me/zhukovsd_it_chat/5275) |
+| [newGallow](https://github.com/RomanV79/newGallow) | [RomanV79](https://github.com/RomanV79) | Java |  |
 
 ## Симуляция
 
@@ -52,6 +55,7 @@
 | [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | |
 | [exchange](https://github.com/garaninnv/exchange) | [garaninnv](https://github.com/garaninnv) | Java | [https://t.me/zhukovsd_it_chat/2156](https://t.me/zhukovsd_it_chat/2156) |
 | [CurrencyExchange](https://github.com/KhariZZma/CurrencyExchange) | [KhariZZma](https://github.com/KhariZZma) | Java | [https://t.me/zhukovsd_it_chat/4813](https://t.me/zhukovsd_it_chat/4813) |
+| [currency-exchange-java](https://github.com/lesliefernsby/currency-exchange-java) | [lesliefernsby](https://github.com/lesliefernsby) | Java, Spring Boot |  |
 
 ## Табло теннисного матча
 
