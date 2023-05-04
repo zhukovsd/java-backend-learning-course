@@ -24,6 +24,7 @@
 | [Pet_projects/Gallows](https://github.com/NazarovIlya/Pet_projects/tree/main/Gallows) | [NazarovIlya](https://github.com/NazarovIlya) | C# | [https://t.me/zhukovsd_it_chat/5064](https://t.me/zhukovsd_it_chat/5064) |
 | [gallows-console](https://github.com/LastOfWhom/gallows-console) | [LastOfWhom](https://github.com/LastOfWhom) | PHP | [https://t.me/zhukovsd_it_chat/5275](https://t.me/zhukovsd_it_chat/5275) |
 | [newGallow](https://github.com/RomanV79/newGallow) | [RomanV79](https://github.com/RomanV79) | Java |  |
+| [hangman](https://github.com/halftimedeus/hangman) | [halftimedeus](https://github.com/halftimedeus) | Java |  |
 
 ## Симуляция
 
