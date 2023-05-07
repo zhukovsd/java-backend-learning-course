@@ -66,7 +66,7 @@
 |------------------------------------------------------------------|-----------------------------------------|-------------------|-------|
 | [TennisScore](https://github.com/immagixe/TennisScore)           | [immagixe](https://github.com/immagixe) | Java, Spring MVC  |       |
 | [tennisTableboard](https://github.com/Jollykai/tennisTableboard) | [Jollykai](https://github.com/Jollykai) | Java, Spring Boot |       |
-| [tennisscore](https://github.com/AtoDaX/tennisscore) | [AtoDaX](https://github.com/AtoDaX/) | JavaEE, JSP |  |
+| [tennisscore](https://github.com/AtoDaX/tennisscore) | [AtoDaX](https://github.com/AtoDaX/) | JavaEE, JSP | [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
 
 ## Погода
 
