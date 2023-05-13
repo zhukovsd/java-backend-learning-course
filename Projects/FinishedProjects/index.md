@@ -58,6 +58,7 @@
 | [CurrencyExchange](https://github.com/KhariZZma/CurrencyExchange) | [KhariZZma](https://github.com/KhariZZma) | Java | [https://t.me/zhukovsd_it_chat/4813](https://t.me/zhukovsd_it_chat/4813) |
 | [currency-exchange-java](https://github.com/lesliefernsby/currency-exchange-java) | [lesliefernsby](https://github.com/lesliefernsby) | Java, Spring Boot |  |
 | [currency_exchanger](https://github.com/egovoryn/currency_exchanger) | [egovoryn](https://github.com/egovoryn) | Java | [https://t.me/zhukovsd_it_chat/5655](https://t.me/zhukovsd_it_chat/5655) |
+| [CurrencyExchange](https://github.com/Dgeyms/CurrencyExchange) | [Dgeyms](https://github.com/Dgeyms) | Java | [https://t.me/zhukovsd_it_chat/5860](https://t.me/zhukovsd_it_chat/5860) |
 
 ## Табло теннисного матча
 
