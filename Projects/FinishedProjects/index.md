@@ -25,6 +25,7 @@
 | [gallows-console](https://github.com/LastOfWhom/gallows-console) | [LastOfWhom](https://github.com/LastOfWhom) | PHP | [https://t.me/zhukovsd_it_chat/5275](https://t.me/zhukovsd_it_chat/5275) |
 | [newGallow](https://github.com/RomanV79/newGallow) | [RomanV79](https://github.com/RomanV79) | Java |  |
 | [hangman](https://github.com/halftimedeus/hangman) | [halftimedeus](https://github.com/halftimedeus) | Java |  |
+| [Hangman](https://github.com/ekataeva/Hangman) | [ekataeva](https://github.com/ekataeva) | Python | [https://t.me/zhukovsd_it_chat/5908](https://t.me/zhukovsd_it_chat/5908) |
 
 ## Симуляция
 
