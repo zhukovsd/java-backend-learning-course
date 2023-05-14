@@ -11,8 +11,9 @@
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
   - SQL, Spring Data JPA
 - [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap, Javascript, Ajax
-- Docker - контейнеры, образы, volumes, написание Dockerfile, Docker Compose
-- Брокер сообщений RabbitMQ - очереди
+- [Docker и микросервисы]({{ site.baseurl }}/Technologies/Microservices/)
+  - Контейнеры, образы, volumes, написание Dockerfile, Docker Compose
+  - Брокер сообщений RabbitMQ
 - [DevOps]({{ site.baseurl }}/Technologies/DevOps/)
   - Деплой
   - CI/CD, GitHub Actions
