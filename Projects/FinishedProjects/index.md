@@ -53,7 +53,6 @@
 | Репозиторий                                                                                             | Автор                                     | Язык | Ревью                                                                                      |
 |---------------------------------------------------------------------------------------------------------|-------------------------------------------|------|--------------------------------------------------------------------------------------------|
 | [CurrencyExchanger](https://github.com/lcaitlyn/CurrencyExchanger)                                      | [lcaitlyn](https://github.com/lcaitlyn)   | Java | [https://www.youtube.com/watch?v=x2I655fucmo](https://www.youtube.com/watch?v=x2I655fucmo) |
-| [pet-project-2-currency-exchange-api](https://github.com/krios2146/pet-project-2-currency-exchange-api) | [krios2146](https://github.com/krios2146) | Java |                                                                                            |
 | [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | |
 | [exchange](https://github.com/garaninnv/exchange) | [garaninnv](https://github.com/garaninnv) | Java | [https://t.me/zhukovsd_it_chat/2156](https://t.me/zhukovsd_it_chat/2156) |
 | [CurrencyExchange](https://github.com/KhariZZma/CurrencyExchange) | [KhariZZma](https://github.com/KhariZZma) | Java | [https://t.me/zhukovsd_it_chat/4813](https://t.me/zhukovsd_it_chat/4813) |
