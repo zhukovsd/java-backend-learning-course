@@ -97,7 +97,7 @@
 Для хранения файлов будем пользоваться S3 - simple storage service. Проект, разработанный Amazon Cloud Services, представляет из себя облачный сервис и протокол для файлового хранилища. Чтобы не зависеть от платных сервисов Amazon в этом проекте, воспользуемся альтернативным S3-совместимым хранилищем, которое можно запустить локально - [https://min.io/](https://min.io/)
 
 - Докер образ для локального запуска MinIO - [https://hub.docker.com/r/minio/minio/](https://hub.docker.com/r/minio/minio/)
-- Для работы с протоколом S3 воспользуемся AWS Java SDK, пример - [https://docs.min.io/docs/how-to-use-aws-sdk-for-java-with-minio-server.html](https://docs.min.io/docs/how-to-use-aws-sdk-for-java-with-minio-server.html)
+- Для работы с протоколом S3 воспользуемся AWS Java SDK, пример - [Java Quickstart Guide](https://min.io/docs/minio/linux/developers/java/minio-java.html)
 
 ### Структура S3 хранилища
 
