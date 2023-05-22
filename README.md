@@ -28,7 +28,7 @@
 
 #### Матрица навыков и проектов
 
-![Screenshot 2022-08-28 at 21 46 12](https://user-images.githubusercontent.com/14361885/187087679-af2baa37-6721-4d96-b357-76b1bf5ba485.png)
+![Screenshot 2023-05-22 at 12 39 45](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/33b80e1a-0311-47a0-8f1b-e5d4a284e681)
 
 Идея матрицы - визуализировать, как проекты охватывают больше и больше сфер знаний.
 
