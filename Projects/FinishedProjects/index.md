@@ -26,6 +26,11 @@
 | [newGallow](https://github.com/RomanV79/newGallow)                                    | [RomanV79](https://github.com/RomanV79)             | Java         |                                                                                                |
 | [hangman](https://github.com/halftimedeus/hangman)                                    | [halftimedeus](https://github.com/halftimedeus)     | Java         |                                                                                                |
 | [Hangman](https://github.com/ekataeva/Hangman)                                        | [ekataeva](https://github.com/ekataeva)             | Python       | [https://t.me/zhukovsd_it_chat/5908](https://t.me/zhukovsd_it_chat/5908)                       |
+| [hangman](https://github.com/halftimedeus/hangman) | [halftimedeus](https://github.com/halftimedeus) | Java |  |
+| [hangman](https://github.com/RuddyPanta/hangman) | [RuddyPanta](https://github.com/RuddyPanta) | Java |  |
+| [HangmanGame](https://github.com/MaksimIrkha/HangmanGame) | [MaksimIrkha](https://github.com/MaksimIrkha) | Java |  |
+| [Gallows](https://github.com/Lissaveta2610/Gallows) | [Lissaveta2610](https://github.com/Lissaveta2610) | Java |  |
+| [Hangman](https://github.com/alshevskiy/Hangman) | [alshevskiy](https://github.com/alshevskiy) | Java |  |
 
 ## Симуляция
 
@@ -45,6 +50,9 @@
 | [HungaryGames](https://github.com/KhariZZma/HungaryGames)                             | [KhariZZma](https://github.com/KhariZZma)           | Java, JavaFX    | [https://t.me/zhukovsd_it_chat/3950](https://t.me/zhukovsd_it_chat/3950)                   |
 | [LifeSimulation](https://github.com/aseptimu/LifeSimulation)                          | [aseptimu](https://github.com/aseptimu)             | Java            |                                                                                            |
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                            | [PavelFurochkin](https://github.com/PavelFurochkin) | Python          | [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010)                   |
+| [Simulation](https://github.com/MilkoEvgen/Simulation) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java |  |
+| [simulation_v1_1](https://github.com/RomanV79/simulation_v1_1) | [RomanV79](https://github.com/RomanV79) | Java |  |
+| [Simulation](https://github.com/Kostiku/Simulation) | [Kostiku](https://github.com/Kostiku) | C# |  |
 
 ## Обмен валют
 
@@ -60,6 +68,9 @@
 | [currency_exchanger](https://github.com/egovoryn/currency_exchanger)              | [egovoryn](https://github.com/egovoryn)           | Java              | [https://t.me/zhukovsd_it_chat/5655](https://t.me/zhukovsd_it_chat/5655)                   |
 | [CurrencyExchange](https://github.com/Dgeyms/CurrencyExchange)                    | [Dgeyms](https://github.com/Dgeyms)               | Java              | [https://t.me/zhukovsd_it_chat/5860](https://t.me/zhukovsd_it_chat/5860)                   |
 | [currency-exchange-api](https://github.com/krios2146/currency-exchange-api)       | [krios2146](https://github.com/krios2146)         | Java              | [https://t.me/zhukovsd_it_chat/6271](https://t.me/zhukovsd_it_chat/6271)                   |
+| [CurrencyExchange](https://github.com/aseptimu/CurrencyExchange) | [aseptimu](https://github.com/aseptimu) | Java |  |
+| [CurrencyExchange](https://github.com/gassion88/CurrencyExchange) | [gassion88](https://github.com/gassion88) | Java |  |
+| [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java |  |
 
 ## Табло теннисного матча
 
@@ -69,7 +80,8 @@
 |------------------------------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|
 | [TennisScore](https://github.com/immagixe/TennisScore)           | [immagixe](https://github.com/immagixe) | Java, Spring MVC  |                                                                          |
 | [tennisTableboard](https://github.com/Jollykai/tennisTableboard) | [Jollykai](https://github.com/Jollykai) | Java, Spring Boot |                                                                          |
-| [tennisscore](https://github.com/AtoDaX/tennisscore)             | [AtoDaX](https://github.com/AtoDaX/)    | JavaEE, JSP       | [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
+| [tennisscore](https://github.com/AtoDaX/tennisscore)             | [AtoDaX](https://github.com/AtoDaX)    | JavaEE, JSP | [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
+| [TennisScoreboard](https://github.com/aseptimu/TennisScoreboard) | [aseptimu](https://github.com/aseptimu) | JavaEE, JSP |  |
 
 ## Погода
 
@@ -78,6 +90,7 @@
 | Репозиторий                                                | Автор                                   | Стек             | Ревью |
 |------------------------------------------------------------|-----------------------------------------|------------------|-------|
 | [WeatherViewer](https://github.com/immagixe/WeatherViewer) | [immagixe](https://github.com/immagixe) | Java, Spring MVC |       |
+| [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker |  |
 
 ## Облачное хранилище файлов
 
@@ -96,6 +109,7 @@
 | Репозиторий                                                          | Автор                                   | Стек                                        | Ревью                                                                                      |
 |----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------|
 | [task-tracker-stack](https://github.com/immagixe/task-tracker-stack) | [immagixe](https://github.com/immagixe) | Java, Kotlin, Spring Boot, Docker, RabbitMQ | [https://www.youtube.com/watch?v=QwFlp35yaqw](https://www.youtube.com/watch?v=QwFlp35yaqw) |
+| [task-tracker-stack](https://github.com/AtoDaX/task-tracker-stack) | [AtoDaX](https://github.com/AtoDaX) | Java, Spring Boot, Docker, RabbitMQ |  |
 
 ## Остальное
 
@@ -109,3 +123,5 @@
 | Покер на костях | [dice_poker](https://github.com/PavelFurochkin/dice_poker)                            | [PavelFurochkin](https://github.com/PavelFurochkin) | Python     |                                                                                            |
 | Морской бой     | [SeaBattle](https://github.com/Dgeyms/SeaBattle)                                      | [Dgeyms](https://github.com/Dgeyms)                 | Java       | [https://www.youtube.com/watch?v=dyqfbwsbdIM](https://www.youtube.com/watch?v=dyqfbwsbdIM) |
 | Крестики-нолики | [Tic-Tac-Toy](https://github.com/DAMir2013/Tic-Tac-Toy)                               | [DAMir2013](https://github.com/DAMir2013)           | Javascript | [https://t.me/zhukovsd_it_chat/4420](https://t.me/zhukovsd_it_chat/4420)                   |
+| Покер на костях | [Poker-dice](https://github.com/LastOfWhom/Poker-dice) | [LastOfWhom](https://github.com/LastOfWhom) | PHP |  |
+| Flight API | [FlightAPI](https://github.com/u-cha/FlightAPI) | [u-cha](https://github.com/u-cha) | Python |  |
