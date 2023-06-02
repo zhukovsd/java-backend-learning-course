@@ -68,7 +68,7 @@
 | [currency_exchanger](https://github.com/egovoryn/currency_exchanger)              | [egovoryn](https://github.com/egovoryn)           | Java              | [https://t.me/zhukovsd_it_chat/5655](https://t.me/zhukovsd_it_chat/5655)                   |
 | [CurrencyExchange](https://github.com/Dgeyms/CurrencyExchange)                    | [Dgeyms](https://github.com/Dgeyms)               | Java              | [https://t.me/zhukovsd_it_chat/5860](https://t.me/zhukovsd_it_chat/5860)                   |
 | [currency-exchange-api](https://github.com/krios2146/currency-exchange-api)       | [krios2146](https://github.com/krios2146)         | Java              | [https://t.me/zhukovsd_it_chat/6271](https://t.me/zhukovsd_it_chat/6271)                   |
-| [CurrencyExchange](https://github.com/aseptimu/CurrencyExchange) | [aseptimu](https://github.com/aseptimu) | Java |  |
+| [CurrencyExchange](https://github.com/aseptimu/CurrencyExchange) | [aseptimu](https://github.com/aseptimu) | Java | [https://t.me/zhukovsd_it_chat/7460](https://t.me/zhukovsd_it_chat/7460) |
 | [CurrencyExchange](https://github.com/gassion88/CurrencyExchange) | [gassion88](https://github.com/gassion88) | Java |  |
 | [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java |  |
 
