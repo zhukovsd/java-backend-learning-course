@@ -124,4 +124,4 @@
 | Морской бой     | [SeaBattle](https://github.com/Dgeyms/SeaBattle)                                      | [Dgeyms](https://github.com/Dgeyms)                 | Java       | [https://www.youtube.com/watch?v=dyqfbwsbdIM](https://www.youtube.com/watch?v=dyqfbwsbdIM) |
 | Крестики-нолики | [Tic-Tac-Toy](https://github.com/DAMir2013/Tic-Tac-Toy)                               | [DAMir2013](https://github.com/DAMir2013)           | Javascript | [https://t.me/zhukovsd_it_chat/4420](https://t.me/zhukovsd_it_chat/4420)                   |
 | Покер на костях | [Poker-dice](https://github.com/LastOfWhom/Poker-dice) | [LastOfWhom](https://github.com/LastOfWhom) | PHP |  |
-| Flight API | [FlightAPI](https://github.com/u-cha/FlightAPI) | [u-cha](https://github.com/u-cha) | Python |  |
+| Flight API | [FlightAPI](https://github.com/u-cha/FlightAPI) | [u-cha](https://github.com/u-cha) | Python | [https://t.me/zhukovsd_it_chat/7974](https://t.me/zhukovsd_it_chat/7974) |
