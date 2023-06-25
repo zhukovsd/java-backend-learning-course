@@ -90,7 +90,7 @@
 | Репозиторий                                                | Автор                                   | Стек             | Ревью |
 |------------------------------------------------------------|-----------------------------------------|------------------|-------|
 | [WeatherViewer](https://github.com/immagixe/WeatherViewer) | [immagixe](https://github.com/immagixe) | Java, Spring MVC |       |
-| [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker |  |
+| [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker | [https://www.youtube.com/watch?v=yLBn7qmyCOk](https://www.youtube.com/watch?v=yLBn7qmyCOk) |
 
 ## Облачное хранилище файлов
 
