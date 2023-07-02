@@ -31,6 +31,9 @@
 | [HangmanGame](https://github.com/MaksimIrkha/HangmanGame) | [MaksimIrkha](https://github.com/MaksimIrkha) | Java |  |
 | [Gallows](https://github.com/Lissaveta2610/Gallows) | [Lissaveta2610](https://github.com/Lissaveta2610) | Java |  |
 | [Hangman](https://github.com/alshevskiy/Hangman) | [alshevskiy](https://github.com/alshevskiy) | Java |  |
+| [Hangman-game](https://github.com/Matvey-STE/Hangman-game) | [Matvey-STE](https://github.com/Matvey-STE) | Java |  |
+| [Hangman](https://github.com/d-klokov/Hangman) | [d-klokov](https://github.com/d-klokov) | Java |  |
+| [gallows](https://github.com/nikron173/gallows) | [nikron173](https://github.com/nikron173) | Java |  |
 
 ## Симуляция
 
@@ -53,6 +56,10 @@
 | [Simulation](https://github.com/MilkoEvgen/Simulation) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java |  |
 | [simulation_v1_1](https://github.com/RomanV79/simulation_v1_1) | [RomanV79](https://github.com/RomanV79) | Java |  |
 | [Simulation](https://github.com/Kostiku/Simulation) | [Kostiku](https://github.com/Kostiku) | C# |  |
+| [Simulation](https://github.com/MaksimIrkha/Simulation) | [MaksimIrkha](https://github.com/MaksimIrkha) | Java |  |
+| [Simulation2D](https://github.com/GenesizAnt/Simulation2D) | [GenesizAnt](https://github.com/GenesizAnt) | Java |  |
+| [Simulation](https://github.com/d-klokov/Simulation) | [d-klokov](https://github.com/d-klokov) | Java |  |
+| [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java |  |
 
 ## Обмен валют
 
@@ -71,6 +78,7 @@
 | [CurrencyExchange](https://github.com/aseptimu/CurrencyExchange) | [aseptimu](https://github.com/aseptimu) | Java | [https://t.me/zhukovsd_it_chat/7460](https://t.me/zhukovsd_it_chat/7460) |
 | [CurrencyExchange](https://github.com/gassion88/CurrencyExchange) | [gassion88](https://github.com/gassion88) | Java |  |
 | [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java |  |
+| [CurrencyExchange](https://github.com/d-klokov/CurrencyExchange) | [d-klokov](https://github.com/d-klokov) | Java |  |
 
 ## Табло теннисного матча
 
@@ -82,6 +90,8 @@
 | [tennisTableboard](https://github.com/Jollykai/tennisTableboard) | [Jollykai](https://github.com/Jollykai) | Java, Spring Boot |                                                                          |
 | [tennisscore](https://github.com/AtoDaX/tennisscore)             | [AtoDaX](https://github.com/AtoDaX)    | JavaEE, JSP | [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
 | [TennisScoreboard](https://github.com/aseptimu/TennisScoreboard) | [aseptimu](https://github.com/aseptimu) | JavaEE, JSP |  |
+| [TennisScoreBoard](https://github.com/RomanV79/TennisScoreBoard) | [RomanV79](https://github.com/RomanV79) | JavaEE, JSP |  |
+| [tennis_scoreboard](https://github.com/garaninnv/tennis_scoreboard) | [garaninnv](https://github.com/garaninnv) | JavaEE, JSP |  |
 
 ## Погода
 
