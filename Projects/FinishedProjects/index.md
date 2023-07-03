@@ -55,7 +55,7 @@
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                            | [PavelFurochkin](https://github.com/PavelFurochkin) | Python          | [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010)                   |
 | [Simulation](https://github.com/MilkoEvgen/Simulation) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java |  |
 | [simulation_v1_1](https://github.com/RomanV79/simulation_v1_1) | [RomanV79](https://github.com/RomanV79) | Java |  |
-| [Simulation](https://github.com/Kostiku/Simulation) | [Kostiku](https://github.com/Kostiku) | C# |  |
+| [Simulation](https://github.com/Kostiku/Simulation) | [Kostiku](https://github.com/Kostiku) | C# | [https://t.me/zhukovsd_it_chat/8689](https://t.me/zhukovsd_it_chat/8689) |
 | [Simulation](https://github.com/MaksimIrkha/Simulation) | [MaksimIrkha](https://github.com/MaksimIrkha) | Java |  |
 | [Simulation2D](https://github.com/GenesizAnt/Simulation2D) | [GenesizAnt](https://github.com/GenesizAnt) | Java |  |
 | [Simulation](https://github.com/d-klokov/Simulation) | [d-klokov](https://github.com/d-klokov) | Java |  |
