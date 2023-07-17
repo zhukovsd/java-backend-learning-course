@@ -60,6 +60,7 @@
 | [Simulation2D](https://github.com/GenesizAnt/Simulation2D) | [GenesizAnt](https://github.com/GenesizAnt) | Java |  |
 | [Simulation](https://github.com/d-klokov/Simulation) | [d-klokov](https://github.com/d-klokov) | Java |  |
 | [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java |  |
+| [simulation](https://github.com/KostaPo/simulation) | [KostaPo](https://github.com/KostaPo) | Java |  |
 
 ## Обмен валют
 
