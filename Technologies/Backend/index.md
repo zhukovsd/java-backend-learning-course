@@ -15,7 +15,8 @@
 - Клиент-серверное взаимодействие. Что именно происходит, когда браузер запрашивает страницу сайта
 - Что такое DNS
 
-Эти статьи помогут начать:
+#### Избранные курсы и учебные ресурсы
+
 - [https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
@@ -29,8 +30,10 @@
 - Коды ответа
 - Form data, multipart form data
 
-Поможет начать:
-- [https://ru.wikipedia.org/wiki/HTTP](https://ru.wikipedia.org/wiki/HTTP)
+#### Избранные курсы и учебные ресурсы
+
+- [https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html](Статья) про HTTP простым языком
+- Практика - проекты, начиная с 3
 
 ## REST API
 
@@ -40,13 +43,11 @@ REST - набор правил взаимодействия клиента и с
 - Отличие RESTful от RESTless
 - Базовые дизайн принципы и типовые ошибки, которых следует избегать
 
-Поможет начать:
-- [https://habr.com/ru/post/483202/](https://habr.com/ru/post/483202/)
-- [https://habr.com/ru/post/351890/](https://habr.com/ru/post/351890/)
+#### Избранные курсы и учебные ресурсы
 
-Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508).
-
-Проект #3 "обмен валют" содержит пример дизайна REST API.
+- Статьи по REST на хабре - [#1](https://habr.com/ru/post/483202/), [#2](https://habr.com/ru/post/351890/)
+- Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508)
+- Практика - проекты #3 ["Обмен валют"](../../Projects/CurrencyExchange/index.md) и #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) содержат примеры дизайна REST API
 
 ## Java
 
@@ -57,11 +58,15 @@ REST - набор правил взаимодействия клиента и с
 Сервлет - сущность в Java, реализующая клиент-серверное взаимодействие со стороны сервера. Сервлет принимает соединения от клиентов, и отвечает на запросы.
 
 Что нужно уметь:
-- Реализовывать сервлеты, пользуясь пакетом `javax.servlet-api`
+- Реализовывать сервлеты, пользуясь пакетом `javax.servlet-api` (или `jakarta.servlet`)
 - Запускать Java проект с сервлетами с помощью Tomcat
 
-Поможет начать:
-- [https://www.baeldung.com/intro-to-servlets](https://www.baeldung.com/intro-to-servlets)
+#### Избранные курсы и учебные ресурсы
+
+- [Бесплатный курс](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr) по Java EE от Наиля Алиш
+- [Статья](https://javarush.com/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie) с примерами на сайте Javarush
+- [Краткое интро](https://www.baeldung.com/intro-to-servlets) в сервлеты от Baeldung
+- Практика - проекты с 3 по 5
 
 ### Spring Boot
 
@@ -73,11 +78,11 @@ Spring Boot - основной фреймворк Java разработчика 
 - Создавать веб страницы
 - Библиотеки экосистемы Spring Boot - Spring Security, Spring Sessions
 
-По Spring существует огромное количество обучающих материалов, курсов, книг.
+#### Избранные курсы и учебные ресурсы
 
-Поможет начать:
-- [https://www.udemy.com/course/spring-framework/](https://www.udemy.com/course/spring-framework/)
-- [https://www.udemy.com/course/spring-alishev/](https://www.udemy.com/course/spring-alishev/)
+- Начать можно с [бесплатного плейлиста](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ) Алишева на YouTube
+- [Spring - полный курс](https://swiftbook.org/courses/438) Наиля Алишева - разделы Spring Core, Spring MVC, Spring Boot, Spring Security
+- Практика - проекты с 6 и 7
 
 ### Шаблонизаторы веб-страниц
 
@@ -88,6 +93,12 @@ Spring Boot - основной фреймворк Java разработчика 
 Что нужно уметь:
 - Передавать данные из Java в шаблон
 - Thymyleaf - интеграция со Spring Boot, Thymeleaf фрагменты
+
+#### Избранные курсы и учебные ресурсы
+
+- [Видео](https://www.youtube.com/watch?v=w1FjeTZxQrQ&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ&index=23) Алишева про Thymeleaf
+- [Документация](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html)
+- Практика - проекты 5, 6
 
 ## Что дальше
 
