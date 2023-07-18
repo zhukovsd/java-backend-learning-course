@@ -46,7 +46,7 @@
 #### Избранные курсы и учебные ресурсы
 
 - Курс ["Продвинутая Java"](https://www.udemy.com/course/javarussia/) Наиля Алишева, глава "JUnit"
-- [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl5AqvBosxUefReW4nC35P0x) по JUnit5 от dmdev
+- [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl5AqvBosxUefReW4nC35P0x) по JUnit5 от dmdev. Тоже самое в виде курса - [https://www.udemy.com/course/junit5-dmdev/](https://www.udemy.com/course/junit5-dmdev/)
 
 ## Интеграционные тесты
 
