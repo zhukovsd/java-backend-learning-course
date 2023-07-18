@@ -10,9 +10,10 @@
 - HTML формы
 - Блочная вёрстка, Flexbox
 
-Как учить:
-- Многочисленные онлайн тренажёры по вёрстке, мне нравится [https://freecodecamp.com/](https://freecodecamp.com/)
-- Практика - в проекте [Проект "TennisScoreboard"](../../Projects/TennisScoreboard/index.md) необходимо сверстать простой веб-интерфейс с нуля
+#### Избранные курсы и учебные ресурсы
+
+- [Интерактивный курс](https://www.freecodecamp.org/learn/2022/responsive-web-design/) по верстке от FreeCodeCamp
+- Практика - в проекте #4 ["Табло теннисного матча"](../../Projects/TennisScoreboard/index.md) необходимо сверстать простой веб-интерфейс с нуля
 
 ## Bootstrap
 
@@ -24,9 +25,10 @@
 - Контейнеры - [https://getbootstrap.com/docs/5.0/layout/containers/](https://getbootstrap.com/docs/5.0/layout/containers/)
 - Доступные компоненты - кнопки, формы
 
-Как учить:
+#### Избранные курсы и учебные ресурсы
+
 - Раздел про Bootstrap на FreeCodeCamp - [https://www.freecodecamp.org/learn/front-end-development-libraries/](https://www.freecodecamp.org/learn/front-end-development-libraries/)
-- Практика - в проектах c 5 по 7 подразумевается использование Bootstrap
+- Практика - проекты c 5 по 7
 
 ## Javascript, jQuery/Fetch
 
@@ -41,10 +43,12 @@ Javascript является опциональным для большинств
   - jQuery - старый и классический способ исполнять AJAX запросы, считается устаревшим
   - Fetch API, более новый способ, не требующий подключения библиотек - [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-Как учить:
-- Курсы, книги, учебники по Javascript. Мне нравится [https://learn.javascript.ru/](https://learn.javascript.ru/)
-- Практика - решение задач на синтаксис, например, на [https://app.codesignal.com/](https://app.codesignal.com/)
-- [Проект "Планировщик задач"](../../Projects/TaskTracker/index.md) включает в себя разработку одностраничного веб-приложения на Javascript
+#### Избранные курсы и учебные ресурсы
+
+- [https://learn.javascript.ru/](https://learn.javascript.ru/)
+- Практика:
+  - Решение задач на синтаксис, например, на [https://app.codesignal.com/](https://app.codesignal.com/)
+  - [Проект "Планировщик задач"](../../Projects/TaskTracker/index.md) включает в себя разработку одностраничного веб-приложения на Javascript
 
 ## Что дальше
 
