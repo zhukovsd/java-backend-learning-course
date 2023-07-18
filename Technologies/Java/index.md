@@ -10,8 +10,8 @@ Java/Spring - одна из лидирующих платформ для бэк�
 
 #### Избранные курсы и учебные ресурсы
 
-- Курс [Java для начинающих](https://www.udemy.com/course/beginners-java/) Наиля Алишева, глава - "Основы Java", курс [Продвинутая Java](https://www.udemy.com/course/javarussia/), глава "Коллекции"
-- Курс [Java (Джава) для начинающих: с нуля до сертификата Oracle](https://www.udemy.com/course/java-oca-oracle/), первые 20 уроков
+- Курс ["Java для начинающих"](https://www.udemy.com/course/beginners-java/) Наиля Алишева, глава - "Основы Java", курс [Продвинутая Java](https://www.udemy.com/course/javarussia/), глава "Коллекции"
+- Курс ["Java (Джава) для начинающих: с нуля до сертификата Oracle"](https://www.udemy.com/course/java-oca-oracle/) Заура Трегулова, первые 20 уроков
 - "Философия Java" Эккеля, главы 3, 4, 11, 13
 - Мой live-coding стрим по написанию проекта в процедурном стиле - [https://www.youtube.com/watch?v=PPikj1qHxrA](https://www.youtube.com/watch?v=PPikj1qHxrA)
 - Практика:
@@ -35,8 +35,8 @@ Java/Spring - одна из лидирующих платформ для бэк�
 
 #### Избранные курсы и учебные ресурсы
 
-- Курс [Java для начинающих](https://www.udemy.com/course/beginners-java/) Наиля Алишева, главы со второй по пятую
-- Курс [Java (Джава) для начинающих: с нуля до сертификата Oracle](https://www.udemy.com/course/java-oca-oracle/), уроки с 21 до конца
+- Курс ["Java для начинающих"](https://www.udemy.com/course/beginners-java/) Наиля Алишева, главы со второй по пятую
+- Курс ["Java (Джава) для начинающих: с нуля до сертификата Oracle"](https://www.udemy.com/course/java-oca-oracle/), уроки с 21 до конца
 - "Философия Java" Эккеля, главы 1, 2, 6, 7, 8, 12, 19
 - Серия моих live-coding стримов по написанию проекта в ООП стиле - [https://www.youtube.com/watch?v=Pzydm8GZzMs](https://www.youtube.com/watch?v=Pzydm8GZzMs)
 - Практика:
@@ -57,7 +57,7 @@ Java/Spring - одна из лидирующих платформ для бэк�
 
 #### Избранные курсы и учебные ресурсы
 
-- Книги - Java Head First Design Patterns, GoF Design Patterns
+- Книги - "Java Head First Design Patterns", "GoF Design Patterns"
 - Репозиторий с примерами реализации паттернов на Java - [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 - Примеры применения паттернов в стандартных библиотеках Java - [https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
 - [https://refactoring.guru/](https://refactoring.guru/) - коллекция кратких статей по каждому паттерну с примерами
@@ -77,7 +77,7 @@ MVC - самый актуальный для бэкенд приложений �
 #### Избранные курсы и учебные ресурсы
 
 - Статья с примерами - [https://github.com/iluwatar/java-design-patterns/tree/master/model-view-controller](https://github.com/iluwatar/java-design-patterns/tree/master/model-view-controller)
-- Книги - Java Head First Design Pattern, глава 12 "составные паттерны"
+- Книги - "Java Head First Design Pattern", глава 12 "составные паттерны"
 - Практика - проекты курса, начиная с 4
 
 ## Чистый код
