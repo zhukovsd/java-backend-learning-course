@@ -63,7 +63,7 @@ REST - набор правил взаимодействия клиента и с
 
 #### Избранные курсы и учебные ресурсы
 
-- [Бесплатный курс](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr) по Java EE от Наиля Алиш
+- [Бесплатный курс](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr) по Java EE от Наиля Алишева
 - [Статья](https://javarush.com/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie) с примерами на сайте Javarush
 - [Краткое интро](https://www.baeldung.com/intro-to-servlets) в сервлеты от Baeldung
 - Практика - проекты с 3 по 5
