@@ -29,12 +29,15 @@ DevOps - размытый термин. Его "эталонное" значен
 Git - система контроля версий. Здравая разработка немыслима без системы контроля версий, и Git стал доминирующим инструментом в этой области, поэтому есть смысл учить именно его. Что касается сервисов хранения репозиториев, тут конкуренции больше, для проектов курса предлагаю пользоваться GitHub.
 
 Что нужно знать и уметь Junior'у:
-- Основы Git - [https://githowto.com/ru](https://githowto.com/ru)
+- Основы Git - add, commit, push, pull, clone
 - GitHub - создание репозиторев, работа с доступом (токены, SSH ключи) - [https://docs.github.com/ru](https://docs.github.com/ru)
 - Pull requests, умение решать конфликты слияния - [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 - GitFlow - [https://habr.com/ru/post/106912/](https://habr.com/ru/post/106912/). Достаточно понять основные идеи, чтобы быть готовым пользоваться этими практиками в командной работе
 
-У многих новичков возникают сложности с пониманием веток, слияний, rebase. Если с этим есть сложности, советую интерактивный учебник по ветвлению в git - [https://learngitbranching.js.org/?locale=ru_RU](https://learngitbranching.js.org/?locale=ru_RU)
+#### Избранные курсы и учебные ресурсы
+
+- Курс по Git - [https://githowto.com/ru](https://githowto.com/ru)
+- Интерактивный учебник по ветвлению в git - [https://learngitbranching.js.org/?locale=ru_RU](https://learngitbranching.js.org/?locale=ru_RU)
 
 ## Деплой
 
