@@ -17,12 +17,13 @@
 
 #### Избранные курсы и учебные ресурсы
 
+- [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl7_p5MgevvA41PvxQWq-jC8) от dmdev - уроки с 1 по 6
 - [https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ### HTTP
 
-Главный протокол WEB
+Главный протокол WEB.
 
 Что нужно знать:
 - HTTP методы
