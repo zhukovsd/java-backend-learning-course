@@ -34,6 +34,12 @@
 - Развёртывание своих Maven репозиториев
 - Релиз артефактов в Maven репозитории
 
+#### Избранные курсы и учебные ресурсы
+
+- [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5) от dmdev
+- Курс ["Продвинутая Java"](https://www.udemy.com/course/javarussia/) Наиля Алишева - глава "Maven"
+- Практика - проекты с 3 по 7
+
 ## Gradle
 
 Gradle - более новая система сборки, чем Maven. Для Java Backend проектов на Spring, Maven и Gradle в большинстве случаев взаимозаменяемы, лично я предпочитаю Gradle из-за производительности. Для Android проектов используется только Gradle.
@@ -49,3 +55,8 @@ Gradle - более новая система сборки, чем Maven. Для
 - Практика - использование Gradle в Java проектах
   - Добавление зависимостей
   - Сборка и запуск приложения через командную строку
+
+#### Избранные курсы и учебные ресурсы
+
+- [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl7JYxhZs7CfxyTsUMvcBXig) от dmdev
+- Практика - проекты с 3 по 7
