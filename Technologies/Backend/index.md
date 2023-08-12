@@ -33,7 +33,7 @@
 
 #### Избранные курсы и учебные ресурсы
 
-- [https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html](Статья) про HTTP простым языком
+- [Статья](https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html) про HTTP простым языком
 - Практика - проекты, начиная с 3
 
 ## REST API
