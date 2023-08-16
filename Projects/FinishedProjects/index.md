@@ -34,7 +34,7 @@
 | [Hangman-game](https://github.com/Matvey-STE/Hangman-game) | [Matvey-STE](https://github.com/Matvey-STE) | Java |  |
 | [Hangman](https://github.com/d-klokov/Hangman) | [d-klokov](https://github.com/d-klokov) | Java |  |
 | [gallows](https://github.com/nikron173/gallows) | [nikron173](https://github.com/nikron173) | Java |  |
-| [Gallows](https://github.com/IppolitMik/Gallows)                                      | [IppolitMik] (https://github.com/IppolitMik)        | Java         |     
+| [Gallows](https://github.com/IppolitMik/Gallows)  | [IppolitMik](https://github.com/IppolitMik) | Java |     
 | [gallows](https://github.com/Aleksandrov-AE/gallows) | [Aleksandrov-AE](https://github.com/Aleksandrov-AE) | Java |  |
 | [HangmanGame](https://github.com/feduuusha/HangmanGame) | [feduuusha](https://github.com/feduuusha) | Python |  |
 | [Hangman-game](https://github.com/Airat163/Hangman-game) | [Airat163](https://github.com/Airat163) | Java |  |
