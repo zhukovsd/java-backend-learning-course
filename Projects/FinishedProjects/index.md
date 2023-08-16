@@ -35,6 +35,17 @@
 | [Hangman](https://github.com/d-klokov/Hangman) | [d-klokov](https://github.com/d-klokov) | Java |  |
 | [gallows](https://github.com/nikron173/gallows) | [nikron173](https://github.com/nikron173) | Java |  |
 | [Gallows](https://github.com/IppolitMik/Gallows)                                      | [IppolitMik] (https://github.com/IppolitMik)        | Java         |     
+| [gallows](https://github.com/Aleksandrov-AE/gallows) | [Aleksandrov-AE](https://github.com/Aleksandrov-AE) | Java |  |
+| [HangmanGame](https://github.com/feduuusha/HangmanGame) | [feduuusha](https://github.com/feduuusha) | Python |  |
+| [Hangman-game](https://github.com/Airat163/Hangman-game) | [Airat163](https://github.com/Airat163) | Java |  |
+| [Hangman-game](https://github.com/istominrs/Hangman) | [grishuchkov](https://github.com/grishuchkov) | Java |  |
+| [Hangman](https://github.com/istominrs/Hangman) | [istominrs](https://github.com/istominrs) | Java |  |
+| [Gallows](https://github.com/dDevusS/Gallows) | [dDevusS](https://github.com/dDevusS) | Java |  |
+| [Hungman_python](https://github.com/Drowchik/Hungman_python) | [Drowchik](https://github.com/Drowchik) | Python |  |
+| [hangman](https://github.com/N1decker/hangman) | [N1decker](https://github.com/N1decker) | Java |  |
+| [gallows](https://github.com/chskela/gallows) | [chskela](https://github.com/chskela) | Kotlin |  |
+| [HangMan](https://github.com/Restout/HangMan) | [Restout](https://github.com/Restout) | Java |  |
+| [Hangman](https://github.com/Crystaliseddx/Hangman) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
 
 ## Симуляция
 
@@ -62,6 +73,9 @@
 | [Simulation](https://github.com/d-klokov/Simulation) | [d-klokov](https://github.com/d-klokov) | Java |  |
 | [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java |  |
 | [simulation](https://github.com/KostaPo/simulation) | [KostaPo](https://github.com/KostaPo) | Java |  |
+| [simulation](https://github.com/ImyaFamilia/simulation) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java |  |
+| [Simulation](https://github.com/ekataeva/Simulation) | [ekataeva](https://github.com/ekataeva) | Python |  |
+| [simulation](https://github.com/cyberpunkoff/simulation) | [cyberpunkoff](https://github.com/cyberpunkoff) | Java |  |
 
 ## Обмен валют
 
@@ -81,6 +95,9 @@
 | [CurrencyExchange](https://github.com/gassion88/CurrencyExchange) | [gassion88](https://github.com/gassion88) | Java |  |
 | [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java |  |
 | [CurrencyExchange](https://github.com/d-klokov/CurrencyExchange) | [d-klokov](https://github.com/d-klokov) | Java |  |
+| [exchange_currency](https://github.com/nikron173/exchange_currency) | [nikron173](https://github.com/nikron173) | Java |  |
+| [currency-exchange-service](https://github.com/ElizavetaChulkova/currency-exchange-service) | [ElizavetaChulkova](https://github.com/ElizavetaChulkova) | Java |  |
+| [currency-exchanger](https://github.com/KostaPo/currency-exchanger) | [KostaPo](https://github.com/KostaPo) | Java |  |
 
 ## Табло теннисного матча
 
@@ -94,6 +111,8 @@
 | [TennisScoreboard](https://github.com/aseptimu/TennisScoreboard) | [aseptimu](https://github.com/aseptimu) | JavaEE, JSP |  |
 | [TennisScoreBoard](https://github.com/RomanV79/TennisScoreBoard) | [RomanV79](https://github.com/RomanV79) | JavaEE, JSP | https://www.youtube.com/watch?v=mI7SICN0ekc |
 | [tennis_scoreboard](https://github.com/garaninnv/tennis_scoreboard) | [garaninnv](https://github.com/garaninnv) | JavaEE, JSP |  |
+| [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java |  |
+| [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java |  |
 
 ## Погода
 
