@@ -35,8 +35,8 @@
 | [Hangman](https://github.com/d-klokov/Hangman) | [d-klokov](https://github.com/d-klokov) | Java |  |
 | [gallows](https://github.com/nikron173/gallows) | [nikron173](https://github.com/nikron173) | Java |  |
 | [Gallows](https://github.com/IppolitMik/Gallows)  | [IppolitMik](https://github.com/IppolitMik) | Java |     
-| [gallows](https://github.com/Aleksandrov-AE/gallows) | [Aleksandrov-AE](https://github.com/Aleksandrov-AE) | Java |  |
-| [HangmanGame](https://github.com/feduuusha/HangmanGame) | [feduuusha](https://github.com/feduuusha) | Python |  |
+| [gallows](https://github.com/Aleksandrov-AE/gallows) | [Aleksandrov-AE](https://github.com/Aleksandrov-AE) | Java | 📝 [https://t.me/zhukovsd_it_chat/9209](https://t.me/zhukovsd_it_chat/9209) |
+| [HangmanGame](https://github.com/feduuusha/HangmanGame) | [feduuusha](https://github.com/feduuusha) | Python | 📝 [https://t.me/zhukovsd_it_chat/9408](https://t.me/zhukovsd_it_chat/9408) |
 | [Hangman-game](https://github.com/Airat163/Hangman-game) | [Airat163](https://github.com/Airat163) | Java |  |
 | [Hangman-game](https://github.com/istominrs/Hangman) | [grishuchkov](https://github.com/grishuchkov) | Java |  |
 | [Hangman](https://github.com/istominrs/Hangman) | [istominrs](https://github.com/istominrs) | Java |  |
@@ -63,17 +63,17 @@
 | [Simulation](https://github.com/u-cha/Simulation)                                     | [u-cha](https://github.com/u-cha/)                  | Python          | [https://t.me/zhukovsd_it_chat/2444](https://t.me/zhukovsd_it_chat/2444)                   |
 | [simulation_2d](https://github.com/egovoryn/simulation_2d)                            | [egovoryn](https://github.com/egovoryn)             | Java            | [https://t.me/zhukovsd_it_chat/3811](https://t.me/zhukovsd_it_chat/3811)                   |
 | [HungaryGames](https://github.com/KhariZZma/HungaryGames)                             | [KhariZZma](https://github.com/KhariZZma)           | Java, JavaFX    | [https://t.me/zhukovsd_it_chat/3950](https://t.me/zhukovsd_it_chat/3950)                   |
-| [LifeSimulation](https://github.com/aseptimu/LifeSimulation)                          | [aseptimu](https://github.com/aseptimu)             | Java            |                                                                                            |
+| [LifeSimulation](https://github.com/aseptimu/LifeSimulation)                          | [aseptimu](https://github.com/aseptimu)             | Java            | 📝 [https://t.me/zhukovsd_it_chat/4195](https://t.me/zhukovsd_it_chat/4195)                                                                                         |
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                            | [PavelFurochkin](https://github.com/PavelFurochkin) | Python          | [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010)                   |
-| [Simulation](https://github.com/MilkoEvgen/Simulation) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java |  |
-| [simulation_v1_1](https://github.com/RomanV79/simulation_v1_1) | [RomanV79](https://github.com/RomanV79) | Java |  |
+| [Simulation](https://github.com/MilkoEvgen/Simulation) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java | 📝 [https://t.me/zhukovsd_it_chat/5652](https://t.me/zhukovsd_it_chat/5652)  |
+| [simulation_v1_1](https://github.com/RomanV79/simulation_v1_1) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [https://t.me/zhukovsd_it_chat/5645](https://t.me/zhukovsd_it_chat/5645) |
 | [Simulation](https://github.com/Kostiku/Simulation) | [Kostiku](https://github.com/Kostiku) | C# | [https://t.me/zhukovsd_it_chat/8689](https://t.me/zhukovsd_it_chat/8689) |
 | [Simulation](https://github.com/MaksimIrkha/Simulation) | [MaksimIrkha](https://github.com/MaksimIrkha) | Java |  |
-| [Simulation2D](https://github.com/GenesizAnt/Simulation2D) | [GenesizAnt](https://github.com/GenesizAnt) | Java |  |
+| [Simulation2D](https://github.com/GenesizAnt/Simulation2D) | [GenesizAnt](https://github.com/GenesizAnt) | Java | 📝 [https://t.me/zhukovsd_it_chat/8885](https://t.me/zhukovsd_it_chat/8885)  |
 | [Simulation](https://github.com/d-klokov/Simulation) | [d-klokov](https://github.com/d-klokov) | Java |  |
-| [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java |  |
+| [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java | 📝 [https://t.me/zhukovsd_it_chat/8674](https://t.me/zhukovsd_it_chat/8674)  |
 | [simulation](https://github.com/KostaPo/simulation) | [KostaPo](https://github.com/KostaPo) | Java |  |
-| [simulation](https://github.com/ImyaFamilia/simulation) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java |  |
+| [simulation](https://github.com/ImyaFamilia/simulation) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java | 📝 [https://t.me/zhukovsd_it_chat/11209](https://t.me/zhukovsd_it_chat/11209)  |
 | [Simulation](https://github.com/ekataeva/Simulation) | [ekataeva](https://github.com/ekataeva) | Python |  |
 | [simulation](https://github.com/cyberpunkoff/simulation) | [cyberpunkoff](https://github.com/cyberpunkoff) | Java |  |
 
@@ -93,9 +93,9 @@
 | [currency-exchange-api](https://github.com/krios2146/currency-exchange-api)       | [krios2146](https://github.com/krios2146)         | Java              | [https://t.me/zhukovsd_it_chat/6271](https://t.me/zhukovsd_it_chat/6271)                   |
 | [CurrencyExchange](https://github.com/aseptimu/CurrencyExchange) | [aseptimu](https://github.com/aseptimu) | Java | [https://t.me/zhukovsd_it_chat/7460](https://t.me/zhukovsd_it_chat/7460) |
 | [CurrencyExchange](https://github.com/gassion88/CurrencyExchange) | [gassion88](https://github.com/gassion88) | Java |  |
-| [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java |  |
-| [CurrencyExchange](https://github.com/d-klokov/CurrencyExchange) | [d-klokov](https://github.com/d-klokov) | Java |  |
-| [exchange_currency](https://github.com/nikron173/exchange_currency) | [nikron173](https://github.com/nikron173) | Java |  |
+| [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [https://t.me/zhukovsd_it_chat/6559](https://t.me/zhukovsd_it_chat/6559) |
+| [CurrencyExchange](https://github.com/d-klokov/CurrencyExchange) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/8638](https://t.me/zhukovsd_it_chat/8638)  |
+| [exchange_currency](https://github.com/nikron173/exchange_currency) | [nikron173](https://github.com/nikron173) | Java | 📝 [https://t.me/zhukovsd_it_chat/11208](https://t.me/zhukovsd_it_chat/11208)  |
 | [currency-exchange-service](https://github.com/ElizavetaChulkova/currency-exchange-service) | [ElizavetaChulkova](https://github.com/ElizavetaChulkova) | Java |  |
 | [currency-exchanger](https://github.com/KostaPo/currency-exchanger) | [KostaPo](https://github.com/KostaPo) | Java |  |
 
