@@ -154,6 +154,7 @@
 | [cloudFileStorage](https://github.com/BorBoris23/cloudFileStorage)                           | [BorBoris23](https://github.com/BorBoris23) | PHP, Laravel, Docker      | 🎬 [https://www.youtube.com/watch?v=OVXmQifkexA](https://www.youtube.com/watch?v=OVXmQifkexA) |
 | [https://github.com/immagixe/CloudFileStorage](https://github.com/immagixe/CloudFileStorage) | [immagixe](https://github.com/immagixe)     | Java, Spring Boot, Docker |                                                                                            |
 | [GoogleDriveClone](https://github.com/DLISM/GoogleDriveClone) | [DLISM](https://github.com/DLISM) | Java, Spring Boot, Docker | 🎬 [https://t.me/zhukovsd_it_chat/6767](https://t.me/zhukovsd_it_chat/6767) |
+| [cloud-file-storage](https://github.com/krios2146/cloud-file-storage) | [krios2146](https://github.com/krios2146) | Java, Spring Boot, Docker | |
 
 ## Планировщик задач
 
