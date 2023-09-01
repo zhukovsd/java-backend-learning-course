@@ -46,6 +46,12 @@
 | [gallows](https://github.com/chskela/gallows) | [chskela](https://github.com/chskela) | Kotlin |  |
 | [HangMan](https://github.com/Restout/HangMan) | [Restout](https://github.com/Restout) | Java |  |
 | [Hangman](https://github.com/Crystaliseddx/Hangman) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
+| [Gallows](https://github.com/IppolitMik/Gallows) | [IppolitMik](https://github.com/IppolitMik) | Java |  |
+| [Gallow_Game](https://github.com/Cxatek18/Gallow_Game) | [Cxatek18](https://github.com/Cxatek18) | Java |  |
+| [Gallows](https://github.com/MrSinkaaa/Gallows) | [MrSinkaaa](https://github.com/MrSinkaaa) | Java |  |
+| [hangman](https://github.com/rybin-dev/hangman) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
+| [hangman](https://github.com/VladimirKokourov/hangman) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
+| [Hangman](https://github.com/AleksandrS112/test/blob/main/Hangman) | [AleksandrS112](https://github.com/AleksandrS112) | Java |  |
 
 ## Симуляция
 
@@ -74,8 +80,11 @@
 | [simulation](https://github.com/nikron173/simulation) | [nikron173](https://github.com/nikron173) | Java | 📝 [https://t.me/zhukovsd_it_chat/8674](https://t.me/zhukovsd_it_chat/8674)  |
 | [simulation](https://github.com/KostaPo/simulation) | [KostaPo](https://github.com/KostaPo) | Java |  |
 | [simulation](https://github.com/ImyaFamilia/simulation) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java | 📝 [https://t.me/zhukovsd_it_chat/11209](https://t.me/zhukovsd_it_chat/11209)  |
-| [Simulation](https://github.com/ekataeva/Simulation) | [ekataeva](https://github.com/ekataeva) | Python |  |
+| [Simulation](https://github.com/ekataeva/Simulation) | [ekataeva](https://github.com/ekataeva) | Python | 📝 [https://t.me/zhukovsd_it_chat/14115](https://t.me/zhukovsd_it_chat/14115) |
 | [simulation](https://github.com/cyberpunkoff/simulation) | [cyberpunkoff](https://github.com/cyberpunkoff) | Java |  |
+| [Simulation-](https://github.com/dDevusS/Simulation-) | [dDevusS](https://github.com/dDevusS) | Java |  |
+| [Simulation_pet_project](https://github.com/Restout/Simulation_pet_project) | [Restout](https://github.com/Restout) | Java |  |
+| [Simulation](https://github.com/Keks18/Simulation) | [Keks18](https://github.com/Keks18) | Java |  |
 
 ## Обмен валют
 
@@ -96,8 +105,17 @@
 | [currencyExchangeVer1](https://github.com/RomanV79/currencyExchangeVer1) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [https://t.me/zhukovsd_it_chat/6559](https://t.me/zhukovsd_it_chat/6559) |
 | [CurrencyExchange](https://github.com/d-klokov/CurrencyExchange) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/8638](https://t.me/zhukovsd_it_chat/8638)  |
 | [exchange_currency](https://github.com/nikron173/exchange_currency) | [nikron173](https://github.com/nikron173) | Java | 📝 [https://t.me/zhukovsd_it_chat/11208](https://t.me/zhukovsd_it_chat/11208)  |
-| [currency-exchange-service](https://github.com/ElizavetaChulkova/currency-exchange-service) | [ElizavetaChulkova](https://github.com/ElizavetaChulkova) | Java |  |
+| [currency-exchange-service](https://github.com/ElizavetaChulkova/currency-exchange-service) | [ElizavetaChulkova](https://github.com/ElizavetaChulkova) | Java | 📝 [https://t.me/zhukovsd_it_chat/13774](https://t.me/zhukovsd_it_chat/13774) |
 | [currency-exchanger](https://github.com/KostaPo/currency-exchanger) | [KostaPo](https://github.com/KostaPo) | Java |  |
+| [currencyRate](https://github.com/SpicyW0lf/currencyRate) | [SpicyW0lf](https://github.com/SpicyW0lf) | Java |  |
+| [CurrencyExchange](https://github.com/GenesizAnt/CurrencyExchange) | [GenesizAnt](https://github.com/GenesizAnt) | Java | 📝 [https://t.me/zhukovsd_it_chat/16164](https://t.me/zhukovsd_it_chat/16164) |
+| [currency-exchange](https://github.com/DSLuchenko/currency-exchange) | [DSLuchenko](https://github.com/DSLuchenko) | Java |  |
+| [exchange](https://github.com/MilkoEvgen/exchange) | [MilkoEvgen](https://github.com/MilkoEvgen) | Java |  |
+| [CurrencyExchange](https://github.com/cyberpunkoff/CurrencyExchange) | [cyberpunkoff](https://github.com/cyberpunkoff) | Java |  |
+| [currency-exchange](https://github.com/farneser/currency-exchange) | [farneser](https://github.com/farneser) | Java |  |
+| [Currency-Exchanger-REST-API](https://github.com/olegnelezin/Currency-Exchanger-REST-API) | [olegnelezin](https://github.com/olegnelezin) | Java |  |
+| [CurrencyExchange](https://github.com/Crystaliseddx/CurrencyExchange) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
+| [CurrencieExgange_Pet_project](https://github.com/Restout/CurrencieExgange_Pet_project) | [Restout](https://github.com/Restout) | Java |  |
 
 ## Табло теннисного матча
 
@@ -109,10 +127,12 @@
 | [tennisTableboard](https://github.com/Jollykai/tennisTableboard) | [Jollykai](https://github.com/Jollykai) | Java, Spring Boot |                                                                          |
 | [tennisscore](https://github.com/AtoDaX/tennisscore)             | [AtoDaX](https://github.com/AtoDaX)    | JavaEE, JSP | 🎬 [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
 | [TennisScoreboard](https://github.com/aseptimu/TennisScoreboard) | [aseptimu](https://github.com/aseptimu) | JavaEE, JSP |  |
-| [TennisScoreBoard](https://github.com/RomanV79/TennisScoreBoard) | [RomanV79](https://github.com/RomanV79) | JavaEE, JSP | 🎬 https://www.youtube.com/watch?v=mI7SICN0ekc |
+| [TennisScoreBoard](https://github.com/RomanV79/TennisScoreBoard) | [RomanV79](https://github.com/RomanV79) | JavaEE, JSP | 🎬 [https://www.youtube.com/watch?v=mI7SICN0ekc](https://www.youtube.com/watch?v=mI7SICN0ekc) |
 | [tennis_scoreboard](https://github.com/garaninnv/tennis_scoreboard) | [garaninnv](https://github.com/garaninnv) | JavaEE, JSP |  |
 | [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java |  |
-| [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java |  |
+| [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/13171](https://t.me/zhukovsd_it_chat/13171) |
+| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |  |
+| [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java |  |
 
 ## Погода
 
@@ -122,6 +142,8 @@
 |------------------------------------------------------------|-----------------------------------------|------------------|-------|
 | [WeatherViewer](https://github.com/immagixe/WeatherViewer) | [immagixe](https://github.com/immagixe) | Java, Spring MVC |       |
 | [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker | 🎬 [https://www.youtube.com/watch?v=yLBn7qmyCOk](https://www.youtube.com/watch?v=yLBn7qmyCOk) |
+| [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java |  |
+| [weather](https://github.com/garaninnv/weather) | [garaninnv](https://github.com/garaninnv) | Java | 🎬 [https://t.me/zhukovsd_it_chat/16352](https://t.me/zhukovsd_it_chat/16352) |
 
 ## Облачное хранилище файлов
 
