@@ -49,7 +49,9 @@
 | [Gallows](https://github.com/IppolitMik/Gallows) | [IppolitMik](https://github.com/IppolitMik) | Java |  |
 | [Gallow_Game](https://github.com/Cxatek18/Gallow_Game) | [Cxatek18](https://github.com/Cxatek18) | Java |  |
 | [Gallows](https://github.com/MrSinkaaa/Gallows) | [MrSinkaaa](https://github.com/MrSinkaaa) | Java |  |
-| [hangman](https://github.com/rybin-dev/hangman) | [rybin-dev](https://github.com/rybin-dev) | JAva |  |
+| [hangman](https://github.com/rybin-dev/hangman) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
+| [hangman](https://github.com/VladimirKokourov/hangman) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
+| [Hangman](https://github.com/AleksandrS112/test/blob/main/Hangman) | [AleksandrS112](https://github.com/AleksandrS112) | Java |  |
 
 ## Симуляция
 
@@ -84,7 +86,6 @@
 | [Simulation_pet_project](https://github.com/Restout/Simulation_pet_project) | [Restout](https://github.com/Restout) | Java |  |
 | [Simulation](https://github.com/Keks18/Simulation) | [Keks18](https://github.com/Keks18) | Java |  |
 
-
 ## Обмен валют
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)
@@ -113,6 +114,8 @@
 | [CurrencyExchange](https://github.com/cyberpunkoff/CurrencyExchange) | [cyberpunkoff](https://github.com/cyberpunkoff) | Java |  |
 | [currency-exchange](https://github.com/farneser/currency-exchange) | [farneser](https://github.com/farneser) | Java |  |
 | [Currency-Exchanger-REST-API](https://github.com/olegnelezin/Currency-Exchanger-REST-API) | [olegnelezin](https://github.com/olegnelezin) | Java |  |
+| [CurrencyExchange](https://github.com/Crystaliseddx/CurrencyExchange) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
+| [CurrencieExgange_Pet_project](https://github.com/Restout/CurrencieExgange_Pet_project) | [Restout](https://github.com/Restout) | Java |  |
 
 ## Табло теннисного матча
 
