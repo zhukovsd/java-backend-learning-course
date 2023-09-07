@@ -86,7 +86,7 @@
 - Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Симуляция" накоплено, новые реализации к бесплатным публичным ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Симуляция" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Чеклист для самопроверки
 
