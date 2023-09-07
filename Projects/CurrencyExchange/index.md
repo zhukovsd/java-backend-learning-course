@@ -7,6 +7,7 @@ REST API для описания валют и обменных курсов. П
 ## Что нужно знать
 
 - [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
+- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
 - [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - Java сервлеты
@@ -19,6 +20,7 @@ REST API для описания валют и обменных курсов. П
 
 ## Мотивация проекта
 
+- Знакомство с MVC
 - REST API - правильное именование ресурсов, использование HTTP кодов ответа
 - SQL - базовый синтаксис, создание таблиц
 
