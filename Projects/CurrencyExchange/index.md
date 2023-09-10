@@ -325,6 +325,17 @@ HTTP коды ответов:
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
   - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
+## Тестовый фронтенд
+
+Для тестирования ваших реализаций REST API и визуализации результата я написал тестовый фронтенд - [https://github.com/zhukovsd/currency-exchange-frontend](https://github.com/zhukovsd/currency-exchange-frontend).
+
+Проект представляет из себя набор статических HTML/CSS/JS файлов и состоит из одной веб-страницы, отвечающей за работу со всеми эндпоинтами API.
+
+Пример интеграции фронтенда с API можно посмотреть в ревью, основные шаги:
+- Установить корень REST API в app.js - [https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2)
+- Реализовать поддержку CORS в вашем API
+- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом]((https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
+
 ## Чеклист для самопроверки
 
 ❗️**Спойлеры**: советую не читать этот список до того момента, пока не допишете первую самостоятельную работающую версию проекта❗️
