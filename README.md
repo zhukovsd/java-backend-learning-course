@@ -22,7 +22,7 @@
 
 #### Схема навыков
 
-![Java Backend developer roadmap drawio](https://user-images.githubusercontent.com/14361885/187087148-513333d6-c2bf-42af-b037-b9ba52dc468d.png)
+![Screenshot 2023-09-23 at 19 25 34](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/8423dbe3-cf9e-4b18-8148-5c6b3e75a1f4)
 
 Подробно я рассказывал про эту схему и навыках на [стриме](https://www.youtube.com/watch?v=4B21MDbtbWE).
 
