@@ -2,6 +2,8 @@
 
 Веб-приложение, реализующее табло счёта теннисного матча.
 
+Комментарии по проекту - [https://www.youtube.com/watch?v=zAOiNa24jpg](https://www.youtube.com/watch?v=zAOiNa24jpg).
+
 ## Что нужно знать
 
 - [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
