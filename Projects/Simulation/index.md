@@ -6,6 +6,8 @@
 
 Идея взята [отсюда](https://www.youtube.com/watch?v=SfEZSyvbj2w) и упрощена.
 
+Комментарии по проекту - [https://www.youtube.com/watch?v=3Vrwx4iryhw](https://www.youtube.com/watch?v=3Vrwx4iryhw).
+
 ## Что нужно знать
 
 - [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
