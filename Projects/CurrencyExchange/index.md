@@ -4,6 +4,8 @@ REST API для описания валют и обменных курсов. П
 
 Веб-интерфейс для проекта не подразумевается.
 
+Комментарии по проекту - [https://www.youtube.com/watch?v=013b_b7PszM](https://www.youtube.com/watch?v=013b_b7PszM).
+
 ## Что нужно знать
 
 - [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
