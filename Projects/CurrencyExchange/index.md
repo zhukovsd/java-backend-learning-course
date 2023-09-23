@@ -15,7 +15,7 @@ REST API для описания валют и обменных курсов. П
   - Java сервлеты
   - HTTP - GET и POST запросы, коды ответа
   - REST API, JSON
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQL, JDBC
+- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQLite, JDBC
 - [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 Фреймворки не используем.
