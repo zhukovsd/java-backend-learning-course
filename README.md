@@ -12,7 +12,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/zhukovsd/)
 - [Резюме](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf)
-- [Telegram](https://t.me/zhukovsd)
+- [Telegram канал](https://t.me/zhukovsd_it_mentor)
 
 ## Содержимое курса
 
