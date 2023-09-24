@@ -22,13 +22,13 @@
 
 #### Схема навыков
 
-![Screenshot 2023-09-23 at 19 25 34](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/8423dbe3-cf9e-4b18-8148-5c6b3e75a1f4)
+![Java Backend developer roadmap drawio](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/71102727-c9c2-46c2-ae84-68d7deb9b25f)
 
 Подробно я рассказывал про эту схему и навыках на [стриме](https://www.youtube.com/watch?v=4B21MDbtbWE).
 
 #### Матрица навыков и проектов
 
-![Screenshot 2023-05-22 at 12 39 45](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/33b80e1a-0311-47a0-8f1b-e5d4a284e681)
+![Screenshot 2023-09-24 at 21 27 19](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/8d311420-7ba3-4885-8d46-d9d219ca7997)
 
 Идея матрицы - визуализировать, как проекты охватывают больше и больше сфер знаний.
 
