@@ -142,7 +142,7 @@
 |------------------------------------------------------------|-----------------------------------------|------------------|-------|
 | [WeatherViewer](https://github.com/immagixe/WeatherViewer) | [immagixe](https://github.com/immagixe) | Java, Spring MVC |       |
 | [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker | 🎬 [https://www.youtube.com/watch?v=yLBn7qmyCOk](https://www.youtube.com/watch?v=yLBn7qmyCOk) |
-| [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java |  |
+| [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java | 📝[Notes](https://gist.github.com/zhukovsd/197150aa3691f6f711f4d622526cad2a) |
 | [weather](https://github.com/garaninnv/weather) | [garaninnv](https://github.com/garaninnv) | Java | 🎬 [https://t.me/zhukovsd_it_chat/16352](https://t.me/zhukovsd_it_chat/16352) |
 
 ## Облачное хранилище файлов
