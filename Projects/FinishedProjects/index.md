@@ -52,6 +52,9 @@
 | [hangman](https://github.com/rybin-dev/hangman) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
 | [hangman](https://github.com/VladimirKokourov/hangman) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
 | [Hangman](https://github.com/AleksandrS112/test/blob/main/Hangman) | [AleksandrS112](https://github.com/AleksandrS112) | Java |  |
+| [My_pet_projects](https://github.com/Victor-Smirnoff/My_pet_projects/tree/main/1.%20Hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [hangman](https://github.com/swssb/hangman) | [swssb](https://github.com/swssb) | Python |  |
+| [Gallows-2.0](https://github.com/Smska23/Gallows-2.0) | [Smska23](https://github.com/Smska23) | Java |  |
 
 ## Симуляция
 
@@ -85,6 +88,10 @@
 | [Simulation-](https://github.com/dDevusS/Simulation-) | [dDevusS](https://github.com/dDevusS) | Java |  |
 | [Simulation_pet_project](https://github.com/Restout/Simulation_pet_project) | [Restout](https://github.com/Restout) | Java |  |
 | [Simulation](https://github.com/Keks18/Simulation) | [Keks18](https://github.com/Keks18) | Java |  |
+| [study-simulation-project](https://github.com/grishuchkov/study-simulation-project) | [grishuchkov](https://github.com/grishuchkov) | Java |  |
+| [simulation](https://github.com/VladimirKokourov/simulation) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
+| [simulation](https://github.com/rybin-dev/simulation) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
+| [My_pet_projects](https://github.com/Victor-Smirnoff/My_pet_projects/tree/main/2.%20Simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
 ## Обмен валют
 
@@ -116,6 +123,9 @@
 | [Currency-Exchanger-REST-API](https://github.com/olegnelezin/Currency-Exchanger-REST-API) | [olegnelezin](https://github.com/olegnelezin) | Java |  |
 | [CurrencyExchange](https://github.com/Crystaliseddx/CurrencyExchange) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
 | [CurrencieExgange_Pet_project](https://github.com/Restout/CurrencieExgange_Pet_project) | [Restout](https://github.com/Restout) | Java |  |
+| [Petproject](https://github.com/ArtemPronkin/Petproject) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
+| [CurrencyExchange](https://github.com/Keks18/CurrencyExchange) | [Keks18](https://github.com/Keks18) | Java |  |
+| [CurrencyExchange](https://github.com/urgmaker/CurrencyExchange) | [urgmaker](https://github.com/urgmaker) | Java |  |
 
 ## Табло теннисного матча
 
@@ -133,6 +143,10 @@
 | [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/13171](https://t.me/zhukovsd_it_chat/13171) |
 | [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |  |
 | [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java | 🎬 [https://t.me/zhukovsd_it_chat/19560](https://t.me/zhukovsd_it_chat/19560) |
+| [tennis-scoreboard](https://github.com/farneser/tennis-scoreboard) | [farneser](https://github.com/farneser) | Java | 📝[Notes](https://gist.github.com/zhukovsd/f18617439273169bfbd9054707bb5c53) |
+| [tennis-scoreboard](https://github.com/ImyaFamilia/tennis-scoreboard/tree/main) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java | 📝[Notes](https://gist.github.com/zhukovsd/36966961ed3ca1223471ae561aa19fbd) |
+| [TennisMatchScoreboard](https://github.com/u-cha/tennisMatchScoreboard/) | [u-cha](https://github.com/u-cha) | Python | 📝[Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87) |
+| [Tennis-scoreboard](https://github.com/ArtemPronkin/Tennis-scoreboard) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
 
 ## Погода
 
@@ -144,6 +158,10 @@
 | [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker | 🎬 [https://www.youtube.com/watch?v=yLBn7qmyCOk](https://www.youtube.com/watch?v=yLBn7qmyCOk) |
 | [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java |  |
 | [weather](https://github.com/garaninnv/weather) | [garaninnv](https://github.com/garaninnv) | Java | 🎬 [https://t.me/zhukovsd_it_chat/16352](https://t.me/zhukovsd_it_chat/16352) |
+| [weather](https://github.com/RomanV79/weather) | [RomanV79](https://github.com/RomanV79) | Java |  |
+| [WeatherApp](https://github.com/d-klokov/WeatherApp) | [d-klokov](https://github.com/d-klokov) | Java | 📝[Notes](https://gist.github.com/zhukovsd/bee1b4885d854f0cad02ae1a4ac5ff85) |
+| [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java |  |
+| [Weather](https://github.com/gassion88/Weather) | [gassion88](https://github.com/gassion88) | Java |  |
 
 ## Облачное хранилище файлов
 
@@ -155,6 +173,8 @@
 | [https://github.com/immagixe/CloudFileStorage](https://github.com/immagixe/CloudFileStorage) | [immagixe](https://github.com/immagixe)     | Java, Spring Boot, Docker |                                                                                            |
 | [GoogleDriveClone](https://github.com/DLISM/GoogleDriveClone) | [DLISM](https://github.com/DLISM) | Java, Spring Boot, Docker | 🎬 [https://t.me/zhukovsd_it_chat/6767](https://t.me/zhukovsd_it_chat/6767) |
 | [cloud-file-storage](https://github.com/krios2146/cloud-file-storage) | [krios2146](https://github.com/krios2146) | Java, Spring Boot, Docker | |
+| [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) | [TurboGoose](https://github.com/TurboGoose) | Java, Spring Boot, Docker |  |
+| [filesCloud](https://github.com/RomanV79/filesCloud) | [RomanV79](https://github.com/RomanV79) | Java, Spring Boot, Docker |  |
 
 ## Планировщик задач
 
