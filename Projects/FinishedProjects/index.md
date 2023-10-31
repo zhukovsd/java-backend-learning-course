@@ -163,6 +163,7 @@
 | [TennisScoreboard](https://github.com/Crystaliseddx/TennisScoreboard) | [Crystaliseddx](https://github.com/Crystaliseddx) | Java |  |
 | [tennis-scoreboard](https://github.com/KostaPo/tennis-scoreboard) | [KostaPo](https://github.com/KostaPo) | Java |  |
 | [scoreboard](https://github.com/rybin-dev/scoreboard) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
+| [SmalkoScoreBoard](https://github.com/Smalko1/SmalkoScoreBoard/tree/migration_to_H2_database) | [Smalko1](https://github.com/Smalko1) | Java |  |
 
 ## Погода
 
@@ -180,7 +181,6 @@
 | [weather-viewer](https://github.com/farneser/weather-viewer/) | [farneser](https://github.com/farneser) | Java |  |
 | [WeatherService](https://github.com/ArtemPronkin/WeatherService) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
 | [WeatherApp](https://github.com/u-cha/WeatherApp/) | [u-cha](https://github.com/u-cha) | Python |  |
-| [SmalkoScoreBoard](https://github.com/Smalko1/SmalkoScoreBoard/tree/migration_to_H2_database) | [Smalko1](https://github.com/Smalko1) | Java |  |
 
 ## Облачное хранилище файлов
 
