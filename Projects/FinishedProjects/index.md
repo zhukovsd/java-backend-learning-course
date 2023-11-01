@@ -139,6 +139,8 @@
 | [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [exchange-rate.-v2](https://github.com/skostia91/exchange-rate.-v2) | [skostia91](https://github.com/skostia91) | Java |  |
 | [currency-exchange-service](https://github.com/Aselivm/currency-exchange-service) | [Aselivm](https://github.com/Aselivm) | Java |  |
+| [CurrencyExchange](https://github.com/MrSinkaaa/CurrencyExchange) | [MrSinkaaa](https://github.com/MrSinkaaa) | Java |  |
+| [servlert-currency-exchange](https://github.com/grishuchkov/servlert-currency-exchange) | [grishuchkov](https://github.com/grishuchkov) | Java |  |
 
 ## Табло теннисного матча
 
