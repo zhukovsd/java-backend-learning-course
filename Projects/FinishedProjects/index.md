@@ -156,7 +156,6 @@
 | [tennis_scoreboard](https://github.com/garaninnv/tennis_scoreboard) | [garaninnv](https://github.com/garaninnv) | JavaEE, JSP |  |
 | [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java |  |
 | [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/13171](https://t.me/zhukovsd_it_chat/13171) |
-| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |  |
 | [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java | 🎬 [https://t.me/zhukovsd_it_chat/19560](https://t.me/zhukovsd_it_chat/19560) |
 | [tennis-scoreboard](https://github.com/farneser/tennis-scoreboard) | [farneser](https://github.com/farneser) | Java | 📝[Notes](https://gist.github.com/zhukovsd/f18617439273169bfbd9054707bb5c53) |
 | [tennis-scoreboard](https://github.com/ImyaFamilia/tennis-scoreboard/tree/main) | [ImyaFamilia](https://github.com/ImyaFamilia) | Java | 📝[Notes](https://gist.github.com/zhukovsd/36966961ed3ca1223471ae561aa19fbd) |
