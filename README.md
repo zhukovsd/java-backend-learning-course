@@ -105,4 +105,4 @@
 
 Материально:
 - [https://boosty.to/zhukovsd](https://boosty.to/zhukovsd)
-- [Личные консультуации]([https://t.me/zhukovsd_it_mentor/98](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11)https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11)
+- [Личные консультуации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11)
