@@ -154,7 +154,6 @@
 | [TennisScoreboard](https://github.com/aseptimu/TennisScoreboard) | [aseptimu](https://github.com/aseptimu) | JavaEE, JSP |  |
 | [TennisScoreBoard](https://github.com/RomanV79/TennisScoreBoard) | [RomanV79](https://github.com/RomanV79) | JavaEE, JSP | 🎬 [https://www.youtube.com/watch?v=mI7SICN0ekc](https://www.youtube.com/watch?v=mI7SICN0ekc) |
 | [tennis_scoreboard](https://github.com/garaninnv/tennis_scoreboard) | [garaninnv](https://github.com/garaninnv) | JavaEE, JSP |  |
-| [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java |  |
 | [TennisScoreBoard](https://github.com/d-klokov/TennisScoreBoard) | [d-klokov](https://github.com/d-klokov) | Java | 📝 [https://t.me/zhukovsd_it_chat/13171](https://t.me/zhukovsd_it_chat/13171) |
 | [TennisScoreboard](https://github.com/kopyshov/TennisScoreboard) | [kopyshov](https://github.com/kopyshov) | Java | 🎬 [https://t.me/zhukovsd_it_chat/19560](https://t.me/zhukovsd_it_chat/19560) |
 | [tennis-scoreboard](https://github.com/farneser/tennis-scoreboard) | [farneser](https://github.com/farneser) | Java | 📝[Notes](https://gist.github.com/zhukovsd/f18617439273169bfbd9054707bb5c53) |
