@@ -157,6 +157,8 @@
 | [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
 | [Currency_exchange](https://github.com/MaxemsSpaghetti/Currency_exchange) | [MaxemsSpaghetti](https://github.com/MaxemsSpaghetti) | Java |  |
 | [zhukovProject3](https://github.com/MakarovK/zhukovProject3) | [MakarovK](https://github.com/MakarovK) | Java |  |
+| [Currency-exchange-api](https://github.com/AleksandrKamen/Currency-exchange-api) | [AleksandrKamen](https://github.com/AleksandrKamen) | Java |  |
+| [Currency-Exchange](https://github.com/Cofisweak/Currency-Exchange) | [Cofisweak](https://github.com/Cofisweak) | Java |  |
 
 ## Табло теннисного матча
 
