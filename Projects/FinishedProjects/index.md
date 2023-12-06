@@ -213,9 +213,8 @@
 | [https://github.com/immagixe/CloudFileStorage](https://github.com/immagixe/CloudFileStorage) | [immagixe](https://github.com/immagixe)     | Java, Spring Boot, Docker |                                                                                            |
 | [GoogleDriveClone](https://github.com/DLISM/GoogleDriveClone) | [DLISM](https://github.com/DLISM) | Java, Spring Boot, Docker | 🎬 [https://t.me/zhukovsd_it_chat/6767](https://t.me/zhukovsd_it_chat/6767) |
 | [cloud-file-storage](https://github.com/krios2146/cloud-file-storage) | [krios2146](https://github.com/krios2146) | Java, Spring Boot, Docker | |
-| [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) | [TurboGoose](https://github.com/TurboGoose) | Java, Spring Boot, Docker |  |
+| [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) | [TurboGoose](https://github.com/TurboGoose) | Java, Spring Boot, Docker | 🎬 [https://t.me/zhukovsd_it_chat/36625](https://t.me/zhukovsd_it_chat/36625), 📝[Notes](https://gist.github.com/zhukovsd/2289c7861de6610b7931ff9335a906f9) |
 | [filesCloud](https://github.com/RomanV79/filesCloud) | [RomanV79](https://github.com/RomanV79) | Java, Spring Boot, Docker |  |
-| [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) | [TurboGoose](https://github.com/TurboGoose) | Java | 📝[Notes](https://gist.github.com/zhukovsd/2289c7861de6610b7931ff9335a906f9) |
 | [cloud-file-storage](https://github.com/farneser/cloud-file-storage) | [farneser](https://github.com/farneser) | Java |  |
 | [Cloud-file-storage](https://github.com/ArtemPronkin/Cloud-file-storage) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
 
