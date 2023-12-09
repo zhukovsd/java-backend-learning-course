@@ -52,7 +52,7 @@
 | [hangman](https://github.com/rybin-dev/hangman) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
 | [hangman](https://github.com/VladimirKokourov/hangman) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
 | [Hangman](https://github.com/AleksandrS112/test/blob/main/Hangman) | [AleksandrS112](https://github.com/AleksandrS112) | Java |  |
-| [My_pet_projects](https://github.com/Victor-Smirnoff/My_pet_projects/tree/main/1.%20Hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [hangman](https://github.com/Victor-Smirnoff/hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [hangman](https://github.com/swssb/hangman) | [swssb](https://github.com/swssb) | Python |  |
 | [Gallows-2.0](https://github.com/Smska23/Gallows-2.0) | [Smska23](https://github.com/Smska23) | Java |  |
 | [hangman](https://github.com/Dias77/hangman) | [Dias77](https://github.com/Dias77) | Python |  |
@@ -106,7 +106,7 @@
 | [study-simulation-project](https://github.com/grishuchkov/study-simulation-project) | [grishuchkov](https://github.com/grishuchkov) | Java |  |
 | [simulation](https://github.com/VladimirKokourov/simulation) | [VladimirKokourov](https://github.com/VladimirKokourov) | Java |  |
 | [simulation](https://github.com/rybin-dev/simulation) | [rybin-dev](https://github.com/rybin-dev) | Java |  |
-| [My_pet_projects](https://github.com/Victor-Smirnoff/My_pet_projects/tree/main/2.%20Simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Simulation](https://github.com/Nistelroy/Simulation) | [Nistelroy](https://github.com/Nistelroy) | Java |  |
 | [Simulation2D](https://github.com/Nikitavj/Simulation2D) | [Nikitavj](https://github.com/Nikitavj) | Java |  |
 | [Simulation](https://github.com/MrSinkaaa/Simulation) | [MrSinkaaa](https://github.com/MrSinkaaa) | Java |  |
