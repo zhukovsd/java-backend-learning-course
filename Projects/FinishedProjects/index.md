@@ -76,6 +76,7 @@
 | [01-project--Handman-game](https://github.com/VictorGotsenko/01-project--Handman-game) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java |  |
 | [scaffold2](https://github.com/SuleymanovSergey/scaffold2) | [SuleymanovSergey](https://github.com/SuleymanovSergey) | Java |  |
 | [hungman](https://github.com/VladislavLevchikIsAProger/hungman/tree/master/Viselnitsa) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java | 📝[Notes](https://gist.github.com/Asenim/92e1f486c18b32b97765c6dde866c4b1) |
+| [Gallow](https://github.com/EvKnv/Gallow) | [EvKnv](https://github.com/EvKnv) | Java |  |
 
 ## Симуляция
 
@@ -223,6 +224,7 @@
 | [WeatherSmalko](https://github.com/Smalko1/WeatherSmalko) | [Smalko1](https://github.com/Smalko1) | Java |  |
 | [weather-viewer](https://github.com/Icekubit/weather-viewer) | [Icekubit](https://github.com/Icekubit) | Java |  |
 | [Weather](https://github.com/Cofisweak/Weather) | [Cofisweak](https://github.com/Cofisweak) | Java |  |
+| [my-weather](https://github.com/KostaPo/my-weather) | [KostaPo](https://github.com/KostaPo) | Java |  |
 
 ## Облачное хранилище файлов
 
