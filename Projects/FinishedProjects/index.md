@@ -130,7 +130,7 @@
 | [pet-project-02-simulation](https://github.com/Jurdio/pet-project-02-simulation) | [Jurdio](https://github.com/Jurdio) | Java |  |
 | [Life-Simulation](https://github.com/WillSalas2002/Life-Simulation) | [WillSalas2002](https://github.com/WillSalas2002) | Java |  |
 | [Simulation](https://github.com/Mibak87/Simulation) | [Mibak87](https://github.com/Mibak87) | Java |  |
-| [simulation-of-life](https://github.com/DmitriyDevv/simulation-of-life?tab=readme-ov-file#quickStart) | [DmitriyDevv](https://github.com/DmitriyDevv)     | Python |                   |
+| [simulation-of-life](https://github.com/DmitriyDevv/simulation-of-life) | [DmitriyDevv](https://github.com/DmitriyDevv)     | Java |                   |
 | [Simulation](https://github.com/BondarevM/Simulation)                                                 | [BondarevM](https://github.com/BondarevM)         | Java   |                   |
 | [LifeSimulation](https://github.com/timcol1/LifeSimulation)                                           | [timcol1](https://github.com/timcol1)             | Java   |                   |
 | [Simulation](https://github.com/YuriyNekludov/Simulation)                                             | [YuriyNekludov](https://github.com/YuriyNekludov) | Java   |                   |
