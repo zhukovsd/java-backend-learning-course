@@ -278,7 +278,7 @@ HTTP коды ответов:
         "sign": "A€"
     },
     "rate": 1.45,
-    "amount": 10.00
+    "amount": 10.00,
     "convertedAmount": 14.50
 }
 ```
