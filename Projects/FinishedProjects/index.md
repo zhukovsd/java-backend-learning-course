@@ -85,6 +85,7 @@
 | [hangman](https://github.com/IlPl123454/hangman)  | [IlPl123454](https://github.com/IlPl123454)        | Java   |       📝 [Notes](https://gist.github.com/zhukovsd/9ddf43d475c48313492a6a51a6552417)           |
 | [hagman-v2](https://github.com/grihich/hagman-v2)             | [grihich](https://github.com/grihich)              | Java   |                   |
 | [hangman-kotlin](https://github.com/krios2146/hangman-kotlin) | [krios2146](https://github.com/krios2146)          | Kotlin |                   |
+| [hangman](https://github.com/SergeyTimofeev1989/hangman) | [SergeyTimofeev1989](https://github.com/SergeyTimofeev1989)          | Java |                   |
 
 ## Симуляция
 
