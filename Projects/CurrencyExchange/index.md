@@ -337,7 +337,7 @@ HTTP коды ответов:
 Пример интеграции фронтенда с API можно посмотреть в ревью, основные шаги:
 - Установить корень REST API в app.js - [https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2)
 - Реализовать поддержку CORS в вашем API
-- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом]((https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
+- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
 
 ## Чеклист для самопроверки
 
