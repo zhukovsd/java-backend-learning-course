@@ -337,7 +337,7 @@ HTTP коды ответов:
 Пример интеграции фронтенда с API можно посмотреть в ревью, основные шаги:
 - Установить корень REST API в app.js - [https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2)
 - Реализовать поддержку CORS в вашем API
-- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом]((https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
+- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
 
 ## Чеклист для самопроверки
 
@@ -352,7 +352,7 @@ HTTP коды ответов:
 - Нечёткие границы между слоями Controller/Service/DAO.
 - Контроллеры, отвечающие за слишком большое количество задач. Они должны отвечать за валидацию, сериализацию json ответов, обработку ошибок от слоёв DAO/Service
 - Неправильная или неполная обработка ошибок. Предпочтительный вариант - слои DAO/Service кидают исключения, контроллер их обрабатывает и формирует ответ с нужным кодом и телом 
-- Уязвимость к race conditions, подробно на примере разбирал здесь - https://t.me/zhukovsd_it_chat/16351 (ревью другого проекта, но суть та же)
+- Уязвимость к race conditions, подробно на примере разбирал [здесь](https://t.me/zhukovsd_it_chat/16351) (ревью другого проекта, но суть та же)
 - БД:
   - Отсутствие unique индексов на поля или комбинации полей, которые должны быть уникальными. Например - код валюты в таблице `currencies`
   - Отсутствие внешних ключей между таблицами
