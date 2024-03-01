@@ -157,7 +157,7 @@
 | [Simulation](https://github.com/AleksandrS112/Simulation)                        | [AleksandrS112](https://github.com/AleksandrS112)                         | Java       |                                                                             |
 | [Simulation](https://github.com/anton-kulakov/Simulation)                        | [anton-kulakov](https://github.com/anton-kulakov)                         | Java       |                                                                             |
 | [Simulation](https://github.com/Krooshk/Simulation)                              | [Krooshk](https://github.com/Krooshk)                                     | JavaScript |                                                                             |
-
+| [Simulation-project](https://github.com/asckarugin/Simulation-project)                              | [asckarugin](https://github.com/asckarugin)                                     | Java |                                                                             |
 
 ## Обмен валют
 
@@ -250,8 +250,8 @@
 | [Scoreboard](https://github.com/privetEdik/Scoreboard/tree/master) | [privetEdik](https://github.com/privetEdik) | Java   |                   |
 | [TennisScoreBoard](https://github.com/Vo1odey/TennisScoreBoard)    | [Vo1odey](https://github.com/Vo1odey)       | Java   |                   |
 | [tennis_scoreboard](https://github.com/nikron173/tennis_scoreboard)                            | [nikron173](https://github.com/nikron173) | Java   |                   |
-| [pet-project-06-tennis-scoreboard](https://github.com/Jurdio/pet-project-06-tennis-scoreboard) | [Jurdio](https://github.com/Jurdio)       | Java   |                   |
-
+| [pet-project-06-tennis-scoreboard](https://github.com/Jurdio/pet-project-06-tennis-scoreboard) | [Jurdio](https://github.com/Jurdio)       | Java   |  📝 [Notes](https://gist.github.com/zhukovsd/bb0d6e3347f1187c73addbe9a46e43da) |
+| [Tennis-Scoreboard](https://github.com/dDevusS/Tennis-Scoreboard) | [dDevusS](https://github.com/dDevusS)       | Java   |  |
 
 ## Погода
 
