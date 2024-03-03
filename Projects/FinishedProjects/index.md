@@ -102,6 +102,7 @@
 | [hangman](https://github.com/klescevg/hangman)                                            | [klescevg](https://github.com/klescevg)                         | Java   |                                                                          |
 | [Hangman](https://github.com/DmitryTyukilin/Hangman/tree/master)                          | [DmitryTyukilin](https://github.com/DmitryTyukilin)             | Java   |                                                                          |
 | [Hangman](https://github.com/Spacier829/Hangman) | [Spacier829](https://github.com/Spacier829) | Java | 📝 [Notes](https://gist.github.com/Asenim/a166b886d5587c2cb7e8698ada944eb6) |
+| [HangmanQuest](https://github.com/meshalk1n/HangmanQuest) | [meshalk1n](https://github.com/meshalk1n) | Java |  |
 
 ## Симуляция
 
