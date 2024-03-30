@@ -103,6 +103,15 @@
 | [Hangman](https://github.com/DmitryTyukilin/Hangman/tree/master)                          | [DmitryTyukilin](https://github.com/DmitryTyukilin)             | Java   |                                                                          |
 | [Hangman](https://github.com/Spacier829/Hangman) | [Spacier829](https://github.com/Spacier829) | Java | 📝 [Notes](https://gist.github.com/Asenim/a166b886d5587c2cb7e8698ada944eb6) |
 | [HangmanQuest](https://github.com/meshalk1n/HangmanQuest) | [meshalk1n](https://github.com/meshalk1n) | Java |  |
+| [Hangman](https://github.com/geozakharenko/Hangman)                                   | [geozakharenko](https://github.com/geozakharenko) | Java   |                                                                          |
+| [hangman-java-implementation](https://github.com/DispooL/hangman-java-implementation) | [DispooL](https://github.com/DispooL)             | Java   |                                                                          |
+| [hangman](https://github.com/EvgenVoit/hangman)                                       | [EvgenVoit](https://github.com/EvgenVoit)         | Java   | 📝 [Notes](https://gist.github.com/Asenim/2ea031cdcd57ad3e37148f0e94083b8f) |
+| [hangman_gleam](https://github.com/krios2146/hangman_gleam)                           | [krios2146](https://github.com/krios2146)         | Gleam  |                                                                          |
+| [hangman](https://github.com/murashkd/hangman)                                        | [murashkd](https://github.com/murashkd)           | Java   |                                                                          |
+| [hangman](https://github.com/salogubovay/hangman/tree/main)                           | [salogubovay](https://github.com/salogubovay)     | Java   |                                                                          |
+| [Pet_Project_GallowsGame](https://github.com/AALLEEXXEEYY/Pet_Project_GallowsGame)    | [AALLEEXXEEYY](https://github.com/AALLEEXXEEYY)   | Java   |                                                                          |
+| [go-hangman](https://github.com/albakov/go-hangman)                                   | [albakov](https://github.com/albakov)             | Go     |                                                                          |
+| [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
 
 ## Симуляция
 
@@ -159,6 +168,9 @@
 | [Simulation](https://github.com/anton-kulakov/Simulation)                        | [anton-kulakov](https://github.com/anton-kulakov)                         | Java       |                                                                             |
 | [Simulation](https://github.com/Krooshk/Simulation)                              | [Krooshk](https://github.com/Krooshk)                                     | JavaScript |                                                                             |
 | [Simulation-project](https://github.com/asckarugin/Simulation-project)                              | [asckarugin](https://github.com/asckarugin)                                     | Java |                                                                             |
+| [simulation](https://github.com/escape-8/simulation)      | [escape-8](https://github.com/escape-8)           | PHP    |                   |
+| [Simulation](https://github.com/Solo83/Simulation)        | [Solo83](https://github.com/Solo83)               | Java   |                   |
+| [Simulation](https://github.com/geozakharenko/Simulation) | [geozakharenko](https://github.com/geozakharenko) | Java   |                   |
 
 ## Обмен валют
 
@@ -219,6 +231,8 @@
 | [currency-exchange](https://github.com/liemartt/currency-exchange)                        | [liemartt](https://github.com/liemartt)               | Java   | 📝 [Notes](https://gist.github.com/krios2146/1991ee95c8c4774bc48507995d174650) |
 | [Currency_Exchange](https://github.com/asckarugin/Currency_Exchange)                      | [asckarugin](https://github.com/asckarugin)           | Java   |                                                                             |
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
+| [Currency_exchange](https://github.com/Mich4107/Currency_exchange)            | [Mich4107](https://github.com/Mich4107)       | Java   |                                                                          |
+| [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) | [ArturChegur](https://github.com/ArturChegur) | Java   | 📝 [Notes](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083) |
 
 
 ## Табло теннисного матча
@@ -253,6 +267,8 @@
 | [tennis_scoreboard](https://github.com/nikron173/tennis_scoreboard)                            | [nikron173](https://github.com/nikron173) | Java   |                   |
 | [pet-project-06-tennis-scoreboard](https://github.com/Jurdio/pet-project-06-tennis-scoreboard) | [Jurdio](https://github.com/Jurdio)       | Java   |  📝 [Notes](https://gist.github.com/zhukovsd/bb0d6e3347f1187c73addbe9a46e43da) |
 | [Tennis-Scoreboard](https://github.com/dDevusS/Tennis-Scoreboard) | [dDevusS](https://github.com/dDevusS)       | Java   |  |
+| [TennisScoreboard](https://github.com/timmawv/TennisScoreboard) | [timmawv](https://github.com/timmawv) | Java   |                   |
+| [tennis_scoreboard](https://github.com/Dmplo/tennis_scoreboard) | [Dmplo](https://github.com/Dmplo)     | Java   |                   |
 
 ## Погода
 
@@ -274,7 +290,7 @@
 | [weather-viewer](https://github.com/urgmaker/weather-viewer) | [urgmaker](https://github.com/urgmaker) | Java |  |
 | [WeatherSmalko](https://github.com/Smalko1/WeatherSmalko) | [Smalko1](https://github.com/Smalko1) | Java |  |
 | [weather-viewer](https://github.com/Icekubit/weather-viewer) | [Icekubit](https://github.com/Icekubit) | Java |  |
-| [Weather](https://github.com/Cofisweak/Weather) | [Cofisweak](https://github.com/Cofisweak) | Java |  |
+| [Weather](https://github.com/Cofisweak/Weather) | [Cofisweak](https://github.com/Cofisweak) | Java | 📝 [Notes](https://gist.github.com/Asenim/5a25beeb49ce44e8ee4b1e50ba1d295e) |
 | [my-weather](https://github.com/KostaPo/my-weather) | [KostaPo](https://github.com/KostaPo) | Java |  |
 | [weather-app](https://github.com/skostia91/weather-app)    | [skostia91](https://github.com/skostia91)             | Java   |                   |
 | [weather](https://github.com/Aselivm/weather)              | [Aselivm](https://github.com/Aselivm)                 | Java   |                   |
@@ -298,7 +314,8 @@
 | [cloud-file-storage](https://github.com/farneser/cloud-file-storage) | [farneser](https://github.com/farneser) | Java |  |
 | [Cloud-file-storage](https://github.com/ArtemPronkin/Cloud-file-storage) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
 | [fstored](https://github.com/makeitvsolo/fstored) | [Ivan Makeitvsolo](https://github.com/makeitvsolo) | Java   |                   |
-| [cloud-storage](https://github.com/Cofisweak/cloud-storage) | [Cofisweak](https://github.com/Cofisweak) | Java   |                   |
+| [cloud-storage](https://github.com/Cofisweak/cloud-storage) | [Cofisweak](https://github.com/Cofisweak) | Java   |  |
+| [cloud-file-storage](https://github.com/vadimistar/cloud-file-storage) | [vadimistar](https://github.com/vadimistar) | Java   |                   |
 
 ## Планировщик задач
 
