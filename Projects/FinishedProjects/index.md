@@ -233,7 +233,7 @@
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
 | [Currency_exchange](https://github.com/Mich4107/Currency_exchange)            | [Mich4107](https://github.com/Mich4107)       | Java   |                                                                          |
 | [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) | [ArturChegur](https://github.com/ArturChegur) | Java   | 📝 [Notes](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083) |
-
+| [CurrencyExchange](https://github.com/BondarevM/CurrencyExchange)            | [BondarevM](https://github.com/BondarevM)       | Java   |                                                                          |
 
 ## Табло теннисного матча
 
