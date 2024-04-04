@@ -112,6 +112,7 @@
 | [Pet_Project_GallowsGame](https://github.com/AALLEEXXEEYY/Pet_Project_GallowsGame)    | [AALLEEXXEEYY](https://github.com/AALLEEXXEEYY)   | Java   |                                                                          |
 | [go-hangman](https://github.com/albakov/go-hangman)                                   | [albakov](https://github.com/albakov)             | Go     |                                                                          |
 | [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
+| [Gallows](https://github.com/DarkRubin/Gallows)                                      | [DarkRubin](https://github.com/DarkRubin)       | Java |                                                                          |
 
 ## Симуляция
 
