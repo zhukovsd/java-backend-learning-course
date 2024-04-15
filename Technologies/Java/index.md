@@ -76,6 +76,7 @@ MVC - самый актуальный для бэкенд приложений �
 
 #### Избранные курсы и учебные ресурсы
 
+- Моя лекция по MVC - [https://www.youtube.com/watch?v=syjOb_jPJWE](https://www.youtube.com/watch?v=syjOb_jPJWE)
 - Статья с примерами - [https://github.com/iluwatar/java-design-patterns/tree/master/model-view-controller](https://github.com/iluwatar/java-design-patterns/tree/master/model-view-controller)
 - Книги - "Java Head First Design Pattern", глава 12 "составные паттерны"
 - Практика - проекты курса, начиная с 4
