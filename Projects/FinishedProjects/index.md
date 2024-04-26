@@ -6,9 +6,9 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/)
 
-| Репозиторий | Автор | Язык | Ревью |
-|-------------|-------|------|-------|
-| [Hangman](https://github.com/NovikovP/Hangman)                                        | [NovikovP](https://github.com/NovikovP)             | Java         | 🎬 [https://t.me/zhukovsd_it_chat/1476](https://t.me/zhukovsd_it_chat/1476), 📝 [Notes](https://gist.github.com/zhukovsd/f7b3a5622968ec554cf851bda95299b5) |
+| Репозиторий | Автор | Язык | Ревью | Автор ревью |
+|-------------|-------|------|-------|-------------|
+| [Hangman](https://github.com/NovikovP/Hangman)                                        | [NovikovP](https://github.com/NovikovP)             | Java         | 🎬 [Видео](https://t.me/zhukovsd_it_chat/1476), 📝 [Заметки](https://gist.github.com/zhukovsd/f7b3a5622968ec554cf851bda95299b5) | [@zhukovsd](https://t.me/zhukovsd) |
 | [Hangman](https://github.com/belgrano82/Hangman)                                      | [belgrano82](https://github.com/belgrano82)         | Java         | 🎬 [https://t.me/zhukovsd_it_chat/1264](https://t.me/zhukovsd_it_chat/1264), 📝 [Notes](https://gist.github.com/zhukovsd/a3dfe3a47cf7fb38cf4fe7606fba150b) |
 | [gallows](https://github.com/AntoNeo174/gallows)                                      | [AntoNeo174](https://github.com/AntoNeo174)         | Java         | 🎬 [https://t.me/zhukovsd_it_chat/594](https://t.me/zhukovsd_it_chat/594), 📝 [Notes](https://gist.github.com/zhukovsd/2dd77f4421aa2f152369dc495033b626) |
 | [Hangman](https://github.com/u-cha/Hangman)                                           | [u-cha](https://github.com/u-cha)                   | Python       | 🎬 [https://t.me/zhukovsd_it_chat/691](https://t.me/zhukovsd_it_chat/691), 📝 [Notes](https://gist.github.com/zhukovsd/cfa5ae5f20b85f77316ef487460c7275) |
