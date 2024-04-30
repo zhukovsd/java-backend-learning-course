@@ -113,13 +113,23 @@
 | [go-hangman](https://github.com/albakov/go-hangman)                                   | [albakov](https://github.com/albakov)             | Go     |                                                                          |
 | [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
 | [Gallows](https://github.com/DarkRubin/Gallows)                                      | [DarkRubin](https://github.com/DarkRubin)       | Java |                                                                          |
+| [hangman](https://github.com/Rusgar1/hangman)                                     | [Rusgar1](https://github.com/Rusgar1)         | Java   | 📝 [Заметки](https://gist.github.com/Asenim/8c9f0f07dd2032b7e7ad49122b7a7d18) | [Илья](@coderilya)           |
+| [GallowsGame](https://github.com/mrcoder17/GallowsGame)                           | [mrcoder17](https://github.com/mrcoder17)     | Java   | 📝 [Заметки](https://gist.github.com/Asenim/843e462512d9d0979e954f8741617c2f) | [Илья](@coderilya) и Алексей |
+| [hangman](https://github.com/zhenklchhh/hangman)                                  | [zhenklchhh](https://github.com/zhenklchhh)   | Java   | 📝 [Заметки](https://gist.github.com/Asenim/3057db288d7eefed43c4b116c323c11e) | Алексей                      |
+| [viselitsa](https://github.com/Lexusnikos/viselitsa)                              | [Lexusnikos](https://github.com/Lexusnikos)   | Java   |                                                                            |                              |
+| [Hangman](https://gitverse.ru/killer7897/Hangman/content/master)                  | [killer7897](https://gitverse.ru/killer7897)  | Python |                                                                            |                              |
+| [GallowsGame](https://github.com/EgorFurman/GallowsGame)                          | [EgorFurman](https://github.com/EgorFurman)   | Python | 📝 [Заметки](https://gist.github.com/Asenim/41863eb98f37fb35e19f5c483617641d) | Сергей Удачин                |
+| [Hangman](https://github.com/Ilyalapin/Hangman/tree/master)                       | [Ilyalapin](https://github.com/Ilyalapin)     | Java   | 📝 [Заметки](https://gist.github.com/Asenim/9d75929eed8e7fff8823d477c959a95f) | Алексей                      |
+| [Game_Hangman](https://github.com/Awakary/Game_Hangman)                           | [Awakary](https://github.com/Awakary)         | Python | 📝 [Заметки](https://gist.github.com/Asenim/34af01cc3b1556b04ad65780364595d4) | Сергей Удачин                |
+| [HangMan-Console-Game](https://github.com/Oldsize/HangMan-Console-Game/tree/main) | [Oldsize](https://github.com/Oldsize)         | Java   |                                                                            |                              |
+| [Hangman](https://github.com/GogAndMagog/Hangman)                                 | [GogAndMagog](https://github.com/GogAndMagog) | Java   | 📝 [Заметки](https://gist.github.com/Asenim/5676e2e2022181e1c0367a581e3df50e) | Алексей                      |
 
 ## Симуляция
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/)
 
-| Репозиторий | Автор | Язык | Ревью |
-|-------------|-------|------|-------|
+| Репозиторий | Автор | Язык | Ревью | Автор ревью |
+|-------------|-------|------|-------|-------------|
 | [com.garanin.simulation_oop](https://github.com/garaninnv/com.garanin.simulation_oop) | [garaninnv](https://github.com/garaninnv)           | Java            | 🎬 [https://t.me/zhukovsd_it_chat/1158](https://t.me/zhukovsd_it_chat/1158), 📝 [Notes](https://gist.github.com/zhukovsd/2d230b392a26ae92fa714738cd165c67) |
 | [simulation](https://github.com/lesliefernsby/simulation)                             | [lesliefernsby](https://github.com/lesliefernsby)   | Java            | 🎬 [https://t.me/zhukovsd_it_chat/849](https://t.me/zhukovsd_it_chat/849), 📝 [Notes](https://gist.github.com/zhukovsd/8d3c8c5a0f286ae67a2ca4104f042bbb) |
 | [Simulation_Console_App](https://github.com/Asenim/Simulation_Console_App)            | [Asenim](https://github.com/Asenim)                 | Python          | 🎬 [https://youtu.be/Ctyha5ec0LE](https://youtu.be/Ctyha5ec0LE) |
@@ -162,7 +172,6 @@
 | [Simulation](https://github.com/BondarevM/Simulation)                                                 | [BondarevM](https://github.com/BondarevM)         | Java   |                   |
 | [LifeSimulation](https://github.com/timcol1/LifeSimulation)                                           | [timcol1](https://github.com/timcol1)             | Java   |                   |
 | [Simulation](https://github.com/YuriyNekludov/Simulation)                                             | [YuriyNekludov](https://github.com/YuriyNekludov) | Java   |                   |
-| [simulation](https://github.com/VladislavLevchikIsAProger/simulation)            | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java       | 📝 [Notes](https://gist.github.com/Asenim/d1e5e6591c9ae7b609e635b793d4ed4f)    |
 | [MySimulation2.0](https://github.com/SahaPWNZ/MySimulation2.0/tree/work-branch2) | [SahaPWNZ](https://github.com/SahaPWNZ)                                   | Java       |                                                                             |
 | [Simulation](https://github.com/ArturChegur/Simulation)                          | [ArturChegur](https://github.com/ArturChegur)                             | Java       | 📝 [Notes](https://gist.github.com/krios2146/e162daa53714a5d74281e5189b1ce8c2) |
 | [Simulation](https://github.com/AleksandrS112/Simulation)                        | [AleksandrS112](https://github.com/AleksandrS112)                         | Java       |                                                                             |
@@ -172,13 +181,18 @@
 | [simulation](https://github.com/escape-8/simulation)      | [escape-8](https://github.com/escape-8)           | PHP    |                   |
 | [Simulation](https://github.com/Solo83/Simulation)        | [Solo83](https://github.com/Solo83)               | Java   |                   |
 | [Simulation](https://github.com/geozakharenko/Simulation) | [geozakharenko](https://github.com/geozakharenko) | Java   |                   |
+| [go-simulation](https://github.com/albakov/go-simulation)                             | [albakov](https://github.com/albakov)                                     | go     |                                                                            |               |
+| [simulation](https://github.com/PavelPerunov/simulation)                              | [PavelPerunov](https://github.com/PavelPerunov)                           | Java   | 📝 [Заметки](https://gist.github.com/Asenim/014a3ea9361e098f8838409d1f8c0981) | Алексей       |
+| [simulation_project](https://github.com/VladislavLevchikIsAProger/simulation_project) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java   | 📝 [Заметки](https://gist.github.com/Asenim/d1e5e6591c9ae7b609e635b793d4ed4f)                                           |
+| [simulation](https://github.com/IlPl123454/simulation)                                | [IlPl123454](https://github.com/IlPl123454)                               | Java   | 📝 [Заметки](https://gist.github.com/Asenim/810a2f3c0579060ac5680a4921870efc) | Владимир      |
+| [Simulation](https://github.com/Ilyalapin/Simulation)                                 | [Ilyalapin](https://github.com/Ilyalapin)                                 | Java   | 📝 [Заметки](https://gist.github.com/Asenim/1354d10f08a6d1d00882b13a5c8c307b) | Алексей       |
 
 ## Обмен валют
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)
 
-| Репозиторий | Автор | Язык | Ревью |
-|-------------|-------|------|-------|
+| Репозиторий | Автор | Язык | Ревью | Автор ревью |
+|-------------|-------|------|-------|-------------|
 | [CurrencyExchanger](https://github.com/lcaitlyn/CurrencyExchanger)                | [lcaitlyn](https://github.com/lcaitlyn)           | Java              | 🎬 [https://youtu.be/x2I655fucmo](https://youtu.be/x2I655fucmo) |
 | [CurrencyExchange](https://github.com/Asenim/CurrencyExchange)                    | [Asenim](https://github.com/Asenim)               | Python            | 🎬 [https://t.me/zhukovsd_it_chat/3027](https://t.me/zhukovsd_it_chat/3027), 📝 [Notes](https://gist.github.com/zhukovsd/fccfdb588e3bea48db17f39a0b851d32) |
 | [exchange](https://github.com/garaninnv/exchange)                                 | [garaninnv](https://github.com/garaninnv)         | Java              | 🎬 [https://t.me/zhukovsd_it_chat/2156](https://t.me/zhukovsd_it_chat/2156), 📝 [Notes](https://gist.github.com/zhukovsd/b34c440299aea6d9942e8684ac2c6f08) |
@@ -235,13 +249,20 @@
 | [Currency_exchange](https://github.com/Mich4107/Currency_exchange)            | [Mich4107](https://github.com/Mich4107)       | Java   |                                                                          |
 | [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) | [ArturChegur](https://github.com/ArturChegur) | Java   | 📝 [Notes](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083) |
 | [CurrencyExchange](https://github.com/BondarevM/CurrencyExchange)            | [BondarevM](https://github.com/BondarevM)       | Java   |                                                                          |
+| [currency_exchange](https://github.com/VladislavLevchikIsAProger/currency_exchange)   | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java   |                                                                            |                      |
+| [CurrencyExchange](https://github.com/nosabr/CurrencyExchange)                        | [nosabr](https://github.com/nosabr)                                       | Java   |                                                                            |                      |
+| [currency-conversion-java-ee](https://github.com/DispooL/currency-conversion-java-ee) | [DispooL](https://github.com/DispooL)                                     | Java   |                                                                            |                      |
+| [Currency_exchange](https://github.com/chskela/Currency_exchange)                     | [chskela](https://github.com/chskela)                                     | Kotlin |                                                                            |                      |
+| [currency-exchange](https://github.com/escape-8/currency-exchange)                    | [escape-8](https://github.com/escape-8)                                   | PHP    |                                                                            |                      |
+| [CurrencyExchange](https://github.com/Solo83/CurrencyExchange)                        | [Solo83](https://github.com/Solo83)                                       | Java   | 📝 [Заметки](https://gist.github.com/Asenim/c22b53f6445e728d0cf073c6fb35bbd0) | [Иван](@makeitvsolo) |
+| [Exchange_Rate](https://github.com/Anikavuk/Exchange_Rate)                            | [Anikavuk](https://github.com/Anikavuk)                                   | Python |                                                                            |                      |
 
 ## Табло теннисного матча
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/)
 
-| Репозиторий                                                      | Автор                                   | Язык              | Ревью                                                                    |
-|------------------------------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|
+| Репозиторий                                                      | Автор                                   | Язык              | Ревью                                                                    | Автор ревью |
+|------------------------------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|------|
 | [TennisScore](https://github.com/immagixe/TennisScore)           | [immagixe](https://github.com/immagixe) | Java, Spring MVC  |                                                                          |
 | [tennisTableboard](https://github.com/Jollykai/tennisTableboard) | [Jollykai](https://github.com/Jollykai) | Java, Spring Boot |                                                                          |
 | [tennisscore](https://github.com/AtoDaX/tennisscore)             | [AtoDaX](https://github.com/AtoDaX)    | JavaEE, JSP | 🎬 [https://t.me/zhukovsd_it_chat/5538](https://t.me/zhukovsd_it_chat/5538) |
@@ -270,13 +291,15 @@
 | [Tennis-Scoreboard](https://github.com/dDevusS/Tennis-Scoreboard) | [dDevusS](https://github.com/dDevusS)       | Java   |  |
 | [TennisScoreboard](https://github.com/timmawv/TennisScoreboard) | [timmawv](https://github.com/timmawv) | Java   |                   |
 | [tennis_scoreboard](https://github.com/Dmplo/tennis_scoreboard) | [Dmplo](https://github.com/Dmplo)     | Java   |                   |
+| [tennis-scoreboard](https://github.com/YuriyNekludov/tennis-scoreboard) | [YuriyNekludov](https://github.com/YuriyNekludov) | Java   |                   |
+| [tennis_scoreboard](https://github.com/Mich4107/tennis_scoreboard)      | [Mich4107](https://github.com/Mich4107)           | Java   |                   |
 
 ## Погода
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/)
 
-| Репозиторий                                                | Автор                                   | Стек             | Ревью |
-|------------------------------------------------------------|-----------------------------------------|------------------|-------|
+| Репозиторий                                                | Автор                                   | Стек             | Ревью | Автор ревью |
+|------------------------------------------------------------|-----------------------------------------|------------------|-------|--------------| 
 | [WeatherViewer](https://github.com/immagixe/WeatherViewer) | [immagixe](https://github.com/immagixe) | Java, Spring MVC |       |
 | [weather-tracker](https://github.com/krios2146/weather-tracker) | [krios2146](https://github.com/krios2146) | Java, Docker | 🎬 [https://www.youtube.com/watch?v=yLBn7qmyCOk](https://www.youtube.com/watch?v=yLBn7qmyCOk) |
 | [Tenki](https://github.com/yakaska/Tenki) | [yakaska](https://github.com/yakaska) | Java | 📝 [Notes](https://gist.github.com/zhukovsd/197150aa3691f6f711f4d622526cad2a) |
@@ -299,13 +322,16 @@
 | [WeatherViewer](https://github.com/kostinvv/WeatherViewer) | [kostinvv](https://github.com/kostinvv)               | C#     |                   |
 | [weather](https://github.com/Victor-Smirnoff/weather)      | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                   |
  [Weather](https://github.com/AleksandrKamen/Weather) | [AleksandrKamen](https://github.com/AleksandrKamen) | Java   | 📝 [Notes](https://gist.github.com/Asenim/5a32d27f0d4af24d575ef786ff9b2f35) |
+ | [WeatherAPI](https://github.com/YuriyNekludov/WeatherAPI) | [YuriyNekludov](https://github.com/YuriyNekludov) | Java   | 📝 [Заметки](https://gist.github.com/Asenim/0983720d9df0363329bab2eb66a3e04c) | [Костя](@hungryman9) |
+| [weather](https://github.com/nikron173/weather)           | [nikron173](https://github.com/nikron173)         | Java   | 📝 [Заметки](https://gist.github.com/Asenim/ab9ebe9d4f044cbedd18d3f936a24fdc) | [Костя](@hungryman9) |
+| [WeatherApp](https://github.com/timmawv/WeatherApp)       | [timmawv](https://github.com/timmawv)             | Java   | 📝 [Заметки](https://gist.github.com/Asenim/cdb1300b41e51bec015c0a5be84ae176) | [Иван](@makeitvsolo) |
 
 ## Облачное хранилище файлов
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CloudFileStorage/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CloudFileStorage/)
 
-| Репозиторий                                                                                  | Автор                                       | Стек                      | Ревью                                                                                      |
-|----------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
+| Репозиторий                                                                                  | Автор                                       | Стек                      | Ревью                                                                                      | Автор ревью |
+|----------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|-------------|
 | [cloudFileStorage](https://github.com/BorBoris23/cloudFileStorage)                           | [BorBoris23](https://github.com/BorBoris23) | PHP, Laravel, Docker      | 🎬 [https://www.youtube.com/watch?v=OVXmQifkexA](https://www.youtube.com/watch?v=OVXmQifkexA) |
 | [https://github.com/immagixe/CloudFileStorage](https://github.com/immagixe/CloudFileStorage) | [immagixe](https://github.com/immagixe)     | Java, Spring Boot, Docker |                                                                                            |
 | [GoogleDriveClone](https://github.com/DLISM/GoogleDriveClone) | [DLISM](https://github.com/DLISM) | Java, Spring Boot, Docker | 🎬 [https://t.me/zhukovsd_it_chat/6767](https://t.me/zhukovsd_it_chat/6767) |
@@ -317,17 +343,21 @@
 | [fstored](https://github.com/makeitvsolo/fstored) | [Ivan Makeitvsolo](https://github.com/makeitvsolo) | Java   |                   |
 | [cloud-storage](https://github.com/Cofisweak/cloud-storage) | [Cofisweak](https://github.com/Cofisweak) | Java   |  |
 | [cloud-file-storage](https://github.com/vadimistar/cloud-file-storage) | [vadimistar](https://github.com/vadimistar) | Java   |                   |
+| [cloud_storage](https://github.com/kolobkevic/cloud_storage)          | [kolobkevic](https://github.com/kolobkevic)         | Java   | 📝 [Заметки](https://gist.github.com/Asenim/fba405ca591617fc5599508c61e895a9) | [Илья](@coderilya) |
+| [CloudDataStorage](https://github.com/YuriyNekludov/CloudDataStorage) | [YuriyNekludov](https://github.com/YuriyNekludov)   | Java   |                                                                            |                    |
+| [Galaxy_drive](https://github.com/AleksandrKamen/Galaxy_drive)        | [AleksandrKamen](https://github.com/AleksandrKamen) | Java   |                                                                            |                    |
 
 ## Планировщик задач
 
 ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/java-backend-learning-course/Projects/TaskTracker/)
 
-| Репозиторий                                                          | Автор                                   | Стек                                        | Ревью                                                                                      |
-|----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------|
+| Репозиторий                                                          | Автор                                   | Стек                                        | Ревью                                                                                      | Автор ревью |
+|----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------|-------------|
 | [task-tracker-stack](https://github.com/immagixe/task-tracker-stack) | [immagixe](https://github.com/immagixe) | Java, Kotlin, Spring Boot, Docker, RabbitMQ | 🎬 [https://www.youtube.com/watch?v=QwFlp35yaqw](https://www.youtube.com/watch?v=QwFlp35yaqw) |
 | [task-tracker-stack](https://github.com/AtoDaX/task-tracker-stack) | [AtoDaX](https://github.com/AtoDaX) | Java, Spring Boot, Docker, RabbitMQ |  |
 | [taskplanner-composestack-mvn](https://github.com/RomanV79/taskplanner-composestack-mvn/tree/master) | [RomanV79](https://github.com/RomanV79) | Java |  |
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |                   |
+| [task-traker-compose](https://github.com/yosakoo/task-traker-compose) | [yosakoo](https://github.com/yosakoo) | Java   |                   |               |
 
 ## Остальное
 
