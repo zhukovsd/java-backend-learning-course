@@ -339,7 +339,7 @@
 | [cloud-file-storage](https://github.com/krios2146/cloud-file-storage) | [krios2146](https://github.com/krios2146) | Java, Spring Boot, Docker | |
 | [cloud-file-storage](https://github.com/TurboGoose/cloud-file-storage) | [TurboGoose](https://github.com/TurboGoose) | Java, Spring Boot, Docker | 🎬 [Видео](https://t.me/zhukovsd_it_chat/36625), 📝 [Заметки](https://gist.github.com/zhukovsd/2289c7861de6610b7931ff9335a906f9) | [zhukovsd](https://t.me/zhukovsd) |
 | [filesCloud](https://github.com/RomanV79/filesCloud) | [RomanV79](https://github.com/RomanV79) | Java, Spring Boot, Docker | 📝 [Заметки](https://gist.github.com/zhukovsd/f1e630b6dcc430762fa28bd74b0a078d) | [zhukovsd](https://t.me/zhukovsd) |
-| [cloud-file-storage](https://github.com/farneser/cloud-file-storage) | [farneser](https://github.com/farneser) | Java | 📝 [Заметки](https://gist.github.com/zhukovsd/662af182fa511b5db31702bd2ac2e934) | [zhukovsd](https://t.me/zhukovsd) |
+| [cloud-file-storage](https://github.com/farneser/cloud-file-storage) | [farneser](https://github.com/farneser) | Java | 📝 [Заметки](https://gist.github.com/zhukovsd/662af182fa511b5db31702bd2ac2e934) | [krios2146](https://t.me/krios2146) |
 | [Cloud-file-storage](https://github.com/ArtemPronkin/Cloud-file-storage) | [ArtemPronkin](https://github.com/ArtemPronkin) | Java |  |
 | [fstored](https://github.com/makeitvsolo/fstored) | [Ivan Makeitvsolo](https://github.com/makeitvsolo) | Java   |                   |
 | [cloud-storage](https://github.com/Cofisweak/cloud-storage) | [Cofisweak](https://github.com/Cofisweak) | Java   |  |
@@ -356,7 +356,7 @@
 |----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------|-------------|
 | [task-tracker-stack](https://github.com/immagixe/task-tracker-stack) | [immagixe](https://github.com/immagixe) | Java, Kotlin, Spring Boot, Docker, RabbitMQ | 🎬 [Видео](https://www.youtube.com/watch?v=QwFlp35yaqw) | [zhukovsd](https://t.me/zhukovsd) |
 | [task-tracker-stack](https://github.com/AtoDaX/task-tracker-stack) | [AtoDaX](https://github.com/AtoDaX) | Java, Spring Boot, Docker, RabbitMQ |  |
-| [taskplanner-composestack-mvn](https://github.com/RomanV79/taskplanner-composestack-mvn/tree/master) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [Заметки](https://gist.github.com/zhukovsd/5dfeea16d2d9fcbca55e1d34f88f6bc6) | [zhukovsd](https://t.me/zhukovsd) |
+| [taskplanner-composestack-mvn](https://github.com/RomanV79/taskplanner-composestack-mvn/tree/master) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [Заметки](https://gist.github.com/zhukovsd/5dfeea16d2d9fcbca55e1d34f88f6bc6) | [krios2146](https://t.me/krios2146) |
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |                   |
 | [task-traker-compose](https://github.com/yosakoo/task-traker-compose) | [yosakoo](https://github.com/yosakoo) | Java   |                   |               |
 
