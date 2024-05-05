@@ -34,6 +34,7 @@
 #### Избранные курсы и учебные ресурсы
 
 - [Статья](https://zametkinapolyah.ru/servera-i-protokoly/chto-nuzhno-znat-pro-http-protokol-veb-razrabotchiku-pravila-http-protokola.html) про HTTP простым языком
+- [Моя лекция](https://www.youtube.com/watch?v=yWzesBoTOvE) по HTTP, API, REST
 - Практика - проекты, начиная с 3
 
 ## Авторизация
@@ -83,6 +84,7 @@ REST - набор правил взаимодействия клиента и с
 #### Избранные курсы и учебные ресурсы
 
 - Статьи по REST на хабре - [#1](https://habr.com/ru/post/483202/), [#2](https://habr.com/ru/post/351890/)
+- [Моя лекция](https://www.youtube.com/watch?v=yWzesBoTOvE) по HTTP, API, REST
 - Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508)
 - Практика - проекты #3 ["Обмен валют"](../../Projects/CurrencyExchange/index.md) и #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) содержат примеры дизайна REST API
 
