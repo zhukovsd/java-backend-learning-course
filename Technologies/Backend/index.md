@@ -72,7 +72,7 @@ JWT расшифровывается как Json Web Token. Информация
 - JWT:
   - [https://jwt.io/introduction](https://jwt.io/introduction)
   - Интеграция JWT со Spring - [https://www.bezkoder.com/spring-boot-jwt-authentication/](https://www.bezkoder.com/spring-boot-jwt-authentication/)
-- Практика - проекты #5 ["Погода"](../../Projects/Weather/index.md) и #6 ["Облачное хранилище файлов"](../../Projects/CloudFileStorage/index.md) (сессии), #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) - JWT
+- Практика - проекты #5 ["Погода"](../../Projects/WeatherViewer/index.md) и #6 ["Облачное хранилище файлов"](../../Projects/CloudFileStorage/index.md) (сессии), #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) - JWT
 
 ## REST API
 
