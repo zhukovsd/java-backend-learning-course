@@ -50,6 +50,7 @@ ORM - инструмент для стирания границ между за�
 #### Избранные курсы и учебные ресурсы
 
 - [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl7dQ77iqr55gFLcyYjedAlE) по Hibernate от dmdev
+- [Плейлист](https://www.youtube.com/playlist?list=PLV_vplloSltGFfLBI-Eun-X849eVxCZvR) по Hibernate от канала "Хьюстон у нас проблемы"
 - [Spring - полный курс](https://swiftbook.org/courses/438) Наиля Алишева - разделы Hibernate, Spring Data JPA
 - Практика - проекты с 4 по 7
 
