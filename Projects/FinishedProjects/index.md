@@ -134,6 +134,20 @@
 | [Hangman](https://github.com/Maxim-olegich/Hangman/tree/master) | [Maxim-olegich](https://github.com/Maxim-olegich) | Java |  |  |
 | [Hangman](https://github.com/BCBotsman/Hangman) | [BCBotsman](https://github.com/BCBotsman) | Java |📝 [Заметки](https://gist.github.com/Asenim/9207c67ded1739a4e07efb0b6275f780) | Алексей |
 | [HangmanGame](https://github.com/Gula1507/HangmanGame) | [Gula1507](https://github.com/Gula1507) | Java | 📝 [Заметки](https://gist.github.com/Asenim/b7a143b7b43406554b8114a8bb5f074e) | Алексей |
+| [Hangman](https://github.com/medvedev888/Hangman) | [medvedev888](https://github.com/medvedev888) | Java |  |  |
+| [Hangman](https://github.com/Maxim-olegich/Hangman/tree/master) | [Maxim-olegich](https://github.com/Maxim-olegich) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c49f6649d6e0633e05ed07950a891af2) | [Krios](https://t.me/krios2146), Алексей |
+| [Hangman](https://github.com/ssss1131/Hangman/tree/main/src/FirstProject) | [ssss1131](https://github.com/ssss1131) | Java |  |  |
+| [Hangman](https://github.com/maximmadan/Hangman) | [maximmadan](https://github.com/maximmadan) | Java |  |  |
+| [Hangman](https://github.com/Rtztdnov/Hangman) | [Rtztdnov](https://github.com/Rtztdnov) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5849d4452312e3b0085fbfe615f3acce) | Illia |
+| [Hangman-Game](https://github.com/Y1-Bit/Hangman-Game) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [hangman](https://github.com/Klasix12/hangman) | [Klasix12](https://github.com/Klasix12) | Java |  |  |
+| [Hangman](https://github.com/thatPhill/Hangman) | [thatPhill](https://github.com/thatPhill) | Java |  |  |
+| [hangmanGame](https://github.com/WishMeLuckPls/hangmanGame) | [WishMeLuckPls](https://github.com/WishMeLuckPls) | Java |  |  |
+| [hangman](https://github.com/salavei-a/hangman) | [salavei-a](https://github.com/salavei-a) | Java | 📝 [Заметки](https://gist.github.com/Asenim/94b8ec1193eb2430cb56854544e6e143) |  |
+| [hang_man_project](https://github.com/stas-yarovikov/hang_man_project) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python |  |  |
+| [telegramBot_Hangman](https://github.com/FinancierJava/telegramBot_Hangman) | [FinancierJava](https://github.com/FinancierJava) | Java | 📝 [Заметки](https://gist.github.com/Asenim/2079b291621fc81e683c8b60e5758219) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Hangman](https://github.com/Konfeton/Hangman) | [Konfeton](https://github.com/Konfeton) | Java | 📝 [Заметки](https://gist.github.com/Asenim/fc5ea77c82c6e1cb2ae6ed0f3d00c834) | Алексей |
+
 
 
 ## Симуляция
@@ -205,6 +219,17 @@
 | [simulation](https://github.com/danyatheworst/simulation) | [danyatheworst](https://github.com/danyatheworst) | Java |  |  |
 | [Simulation](https://github.com/Awakary/Simulation) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/20fb1148b14ed443c67919ca8534b8b3) | [grandpraline](https://t.me/grandpraline) |
 | [Simulation](https://github.com/Runaumov/Simulation) | [Runaumov](https://github.com/Runaumov) | Java | 📝 [Заметки](https://gist.github.com/Asenim/736cbd91d0bd9bfe36c6b6f5db803da9) | Алексей |
+| [Simulation](https://github.com/medvedev888/Simulation) | [medvedev888](https://github.com/medvedev888) | Java |  |  |
+| [Simulation-World](https://github.com/AleksandrKamen/Simulation-World) | [AleksandrKamen](https://github.com/AleksandrKamen) | Java |  |  |
+| [Simulation-Pet-2-](https://github.com/WillSalas2002/Simulation-Pet-2-) | [WillSalas2002](https://github.com/WillSalas2002) | Java | 📝 [Заметки](https://gist.github.com/Asenim/4da99343ad3f7d2694b903a6176037b1) | Алексей |
+| [Simulation](https://github.com/EgorFurman/Simulation) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/50eae3ef698d1a6fca1cb39ab0cca846) | [Иван](http://t.me/makeitvsolo) |
+| [2-Pet-Project-Simulation](https://github.com/phello57/2-Pet-Project-Simulation) | [phello57](https://github.com/phello57) | Java | 📝 [Заметки](https://gist.github.com/Asenim/9d68ade5cc4dec9c926608d69c9ced2e) | Алексей |
+| [simulation](https://github.com/damvih03/simulation) | [damvih03](https://github.com/damvih03) | Java | 📝 [Заметки](https://gist.github.com/Asenim/8efb34e00d8241480ffaca542a7b4409) | Алексей |
+| [pet_2_simulation](https://github.com/dmtb21/pet_2_simulation) | [dmtb21](https://github.com/dmtb21) | Java |  |  |
+| [Simulation](https://github.com/Cohomological/Simulation) | [Cohomological](https://github.com/Cohomological) | Java | 📝 [Заметки](https://gist.github.com/Asenim/51feaf01a90e393a70f07f9e5c7b17f3) | Алексей |
+| [Simulation](https://github.com/Faust32/Simulation) | [Faust32](https://github.com/Faust32) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5460aad410c49de1d82aa2ec0e18740c) | Алексей |
+| [Simulation](https://github.com/Anikavuk/Simulation) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
+
 
 
 ## Обмен валют
@@ -284,6 +309,14 @@
 | [CurrencyExchange](https://github.com/mesler1x/CurrencyExchange) | [mesler1x](https://github.com/mesler1x) | Java |  |  |
 | [Currency-Exchange](https://github.com/DragomirovCode/Currency-Exchange) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |  |
 | [CurrencyConversion](https://github.com/Adam-D-Beno/CurrencyConversion) | [Adam-D-Beno](https://github.com/Adam-D-Beno) | Java |  |  |
+| [Currency_exchanger](https://github.com/medvedev888/Currency_exchanger) | [medvedev888](https://github.com/medvedev888) | Java |  |  |
+| [CurrencyExchange](https://github.com/KirillZabrodin5/CurrencyExchange) | [KirillZabrodin5](https://github.com/KirillZabrodin5) | Java |  |  |
+| [RestAPI-CurrencyExchange](https://github.com/Oldsize/RestAPI-CurrencyExchange) | [Oldsize](https://github.com/Oldsize) | Java |  |  |
+| [CurrenciesExchange-REST-API](https://github.com/grafkust/CurrenciesExchange-REST-API) | [grafkust](https://github.com/grafkust) | Java, Spring Boot |  |  |
+| [currency-exchange-api](https://github.com/DmitriyDevv/currency-exchange-api) | [DmitriyDevv](https://github.com/DmitriyDevv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/db00ee016e68e22b363d0606ed0aca43) | [Сергей Жуков](https://t.me/zhukovsd) |
+| [CurrencyExchange](https://github.com/shinchik17/CurrencyExchange) | [shinchik17](https://github.com/shinchik17) | Java |  |  |
+| [ExchangeService](https://github.com/SahaPWNZ/ExchangeService) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java |  |  |
+
 
 
 ## Табло теннисного матча
@@ -329,6 +362,12 @@
 | [tennis-scoreboard](https://github.com/tonkoshkur/tennis-scoreboard) | [tonkoshkur](https://github.com/tonkoshkur) | Java |  |  |
 | [TennisScoreboard](https://github.com/Mibak87/TennisScoreboard) | [Mibak87](https://github.com/Mibak87) | Java |  |  |
 | [TennisScoreboard](https://github.com/BondarevM/TennisScoreboard) | [BondarevM](https://github.com/BondarevM) | Java |  |  |
+| [TennisScoreboard](https://github.com/medvedev888/TennisScoreboard) | [medvedev888](https://github.com/medvedev888) | Java |  |  |
+| [TennisScoreboard](https://github.com/Solo83/TennisScoreboard) | [Solo83](https://github.com/Solo83) | Java |  |  |
+| [tennis_scoreboard](https://github.com/VladislavLevchikIsAProger/tennis_scoreboard) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java | 📝 [Заметки](https://gist.github.com/Asenim/35d2346498104c4fa46fc6a099638072) | [Иван](http://t.me/makeitvsolo) |
+| [TennisScoreBoard](https://github.com/DarkRubin/TennisScoreBoard) | [DarkRubin](https://github.com/DarkRubin) | Java |  |  |
+| [tennis_match_scoreboard](https://github.com/chskela/tennis_match_scoreboard) | [chskela](https://github.com/chskela) | Kotlin |  |  |
+
 
 
 ## Погода
@@ -367,6 +406,14 @@
 | [weather-tracker](https://github.com/Darfik43/weather-tracker/tree/master) | [Darfik43](https://github.com/Darfik43) | Java |  |  |
 | [WeatherForecast](https://github.com/Nikitavj/WeatherForecast) | [Nikitavj](https://github.com/Nikitavj) | Java |  |  |
 | [weather_viewer](https://github.com/Mich4107/weather_viewer) | [Mich4107](https://github.com/Mich4107) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ced45fd79c4aa27a2510ee8cdafad910) | [Костя](https://t.me/hungryman9) |
+| [Weather_viewer](https://github.com/medvedev888/Weather_viewer) | [medvedev888](https://github.com/medvedev888) | Java |  |  |
+| [WeatherApp](https://github.com/KADI001/WeatherApp/tree/master-unmodules) | [KADI001](https://github.com/KADI001) | Java | 📝 [Заметки](https://gist.github.com/Asenim/461fdfa4cc8f27d275ec26d1f35bd830) | [Иван](https://t.me/makeitvsolo) |
+| [weather-viewer](https://github.com/XuTpoKoT/weather-viewer) | [XuTpoKoT](https://github.com/XuTpoKoT) | Java |  |  |
+| [WeatherApp](https://github.com/BondarevM/WeatherApp) | [BondarevM](https://github.com/BondarevM) | Java | 📝 [Заметки](https://gist.github.com/Asenim/d6e149730f740acbb422142527d40c38) | [Илья](https://t.me/coderilya) |
+| [weather](https://github.com/tonkoshkur/weather) | [tonkoshkur](https://github.com/tonkoshkur) | Java |  |  |
+| [weather-viewer](https://github.com/escape-8/weather-viewer) | [escape-8](https://github.com/escape-8) | PHP |  |  |
+
+
 
 
 ## Облачное хранилище файлов
@@ -389,6 +436,8 @@
 | [cloud_storage](https://github.com/kolobkevic/cloud_storage)          | [kolobkevic](https://github.com/kolobkevic)         | Java   | 📝 [Заметки](https://gist.github.com/Asenim/fba405ca591617fc5599508c61e895a9) | [coderilya](https://t.me/coderilya) |
 | [CloudDataStorage](https://github.com/YuriyNekludov/CloudDataStorage) | [YuriyNekludov](https://github.com/YuriyNekludov)   | Java   |                                                                            |                    |
 | [Galaxy_drive](https://github.com/AleksandrKamen/Galaxy_drive)        | [AleksandrKamen](https://github.com/AleksandrKamen) | Java   |                                                                            |                    |
+| [Cloud-File-Storage](https://github.com/timmawv/Cloud-File-Storage) | [timmawv](https://github.com/timmawv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/7b89de0d3d4d9fea65974d367beda354) | [Илья](http://t.me/coderilya) |
+
 
 ## Планировщик задач
 
