@@ -44,14 +44,12 @@ Docker - основная технология контейнеризации, �
 
 - Введение в тему - "O'Reilly - Software Architecture Patterns" - главы Event-driver Architecture, Microservices Architecture
 - "Building Microservices: Designing Fine-Grained Systems" by Sam Newman
-- RabbitMQ:
-  - Основные идеи и понятия можно освоить, пройдя серию небольших практических туториалов - [https://www.rabbitmq.com/getstarted.html](https://www.rabbitmq.com/getstarted.html)
-  - Работа с RabbitMQ из Spring Boot - [https://www.baeldung.com/spring-amqp](https://www.baeldung.com/spring-amqp)
+- Kafka:
+  - Документация модуля Spring Kafka - [https://docs.spring.io/spring-kafka/reference/index.html](https://docs.spring.io/spring-kafka/reference/index.html)
 - Практика:
   - Проект #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) - разработка проекта в миросервисном стиле (3 сервиса на Spring Boot и 1 сервис для фронтенда), кросс-сервисное общение через брокер сообщений RabbitMQ
 
 Что дальше (уровень middle и выше):
-- Kafka
 - Проектирование микросервисных систем, микросервисные паттерны
 - Мониторинг
 - Отказоустойчивость и масштабирование
