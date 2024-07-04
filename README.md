@@ -69,7 +69,7 @@
 
 Для вопросов по учёбе, проектам, и общения с единомышленниками пишите в чат сообщества студентов, занимающегося по моим материалам - [https://t.me/zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
-Также есть формат парное ментарство. Более подробно можно почитать [тут](https://t.me/zhukovsd_it_mentor/109), доступные менторы в [таблице](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0)
+Также есть формат парное ментарство. Более подробно можно почитать [тут](https://t.me/zhukovsd_it_mentor/109), доступные менторы в [таблице](https://docs.google.com/spreadsheets/d/1_EaS3CRoBeo-PG04O2YGOYSk3afdGxgeqd3x0WRLe68/edit?gid=0#gid=0).
 
 ### Лекции
 
