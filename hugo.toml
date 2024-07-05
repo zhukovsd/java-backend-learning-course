@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru'
+title = 'Java Роадмап Сергея Жукова'
+theme = 'hugo-book'
+
+[params]
+    BookTheme = 'auto'
+    BookSection = '*'
+
+[menu]
+[[menu.after]]
+  name = "Telegram канал"
+  url = "https://t.me/zhukovsd_it_mentor"
+  weight = 10
+
+[[menu.after]]
+  name = "Telegram чат"
+  url = "https://t.me/zhukovsd_it_chat"
+  weight = 10
+
+[[menu.after]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@zhukovsd_it_mentor"
+  weight = 20
