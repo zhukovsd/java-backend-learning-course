@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://krios2146.github.io/java-backend-learning-course/'
 languageCode = 'ru'
 title = 'Java Роадмап Сергея Жукова'
 theme = 'hugo-book'
