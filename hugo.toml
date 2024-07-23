@@ -6,6 +6,7 @@ theme = 'hugo-book'
 [params]
     BookTheme = 'auto'
     BookSection = '*'
+    BookPortableLinks = true
 
 [menu]
 [[menu.after]]
