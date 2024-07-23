@@ -9,20 +9,21 @@ weight = 6
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Java](../technologies/java.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/java.md#mvc) 
+- [Maven/Gradle](../technologies/build-systems.md)
+- [Backend](../technologies/backend.md)
   - Spring Boot, Spring Security, Spring Sessions
   - Thymeleaf
   - Upload файлов, заголовки HTTP запросов, cookies, cессии
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+- [Базы данных](../technologies/databases.md)
   - SQL
   - Spring Data JPA
   - Представление о NoSQL хранилищах
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
-- [Docker]({{ site.baseurl }}/Technologies/Microservices/#docker) - контейнеры, образы, volumes, Docker Compose
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - интеграционное тестирование, JUnit, Testcontainers
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
+- [Тесты](../technologies/tests.md) - интеграционное тестирование, JUnit, Testcontainers
+- [Docker](../technologies/microservices.md#docker) - контейнеры, образы, volumes, Docker Compose
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 ## Мотивация проекта
 
@@ -204,3 +205,8 @@ File input может быть использован для загрузки л
 - Docker Compose - добавить Redis
 - Spring Sessions - сконфигурировать хранение сессий внутри Redis
 - Деплой
+
+## Ресурсы для работы над ошибками
+
+- [Реализации проекта](../finished-projects/cloud-file-storage.md) другими студентами и мои ревью этих реализаций
+- Целевое количество видео и текстовых ревью проекта "Облачное хранилище файлов" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/cloud-file-storage.md). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
