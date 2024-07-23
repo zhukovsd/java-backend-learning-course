@@ -13,15 +13,15 @@ REST API для описания валют и обменных курсов. П
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Java](../technologies/java.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/java.md#mvc) 
+- [Maven/Gradle](../technologies/build-systems.md)
+- [Backend](../technologies/backend.md)
   - Java сервлеты
   - HTTP - GET и POST запросы, коды ответа
   - REST API, JSON
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQLite, JDBC
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Базы данных](../technologies/databases.md) - SQLite, JDBC
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 Фреймворки не используем.
 
@@ -328,10 +328,10 @@ HTTP коды ответов:
 
 ## Ресурсы для работы над ошибками
 
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects/currency-exchange.md) другими студентами и мои ревью этих реализаций
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/currency-exchange.md). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Тестовый фронтенд
 
@@ -355,7 +355,7 @@ HTTP коды ответов:
 
 Проблемы и ошибки в коде:
 - Нечёткие границы между слоями Controller/Service/DAO.
-- Контроллеры, отвечающие за слишком большое количество задач. Они должны отвечать за валидацию, сериализацию json ответов, обработку ошибок от слоёв DAO/Service
+- Контроллеры, отвечающие за слишком большое количество задач. Они должны отвечать за валидацию, сериализацию JSON ответов, обработку ошибок от слоёв DAO/Service
 - Неправильная или неполная обработка ошибок. Предпочтительный вариант - слои DAO/Service кидают исключения, контроллер их обрабатывает и формирует ответ с нужным кодом и телом 
 - Уязвимость к race conditions, подробно на примере разбирал [здесь](https://t.me/zhukovsd_it_chat/16351) (ревью другого проекта, но суть та же) - проверка на существование валюты с таким же кодом через `SELECT` перед `INSERT`, вместо того чтобы положиться на unique индекс и получить исключение от БД в случае нарушения уникальности
 - БД:
@@ -363,7 +363,7 @@ HTTP коды ответов:
   - Отсутствие внешних ключей между таблицами
   - Некорректный тип данных для хранения курсов и сумм (лучше всего подходит `Decimal`)
 - Уязвимость к SQL injections, следует использовать параметризированные prepared statements
-- Использование double/float для операций с суммами. Следует использовать BigDecimal
+- Использование `double`/`float` для операций с суммами. Следует использовать `BigDecimal`
 - Неиспользование DTO классов для формирования ответов REST API
 - Дублирование кода вместо использования filter для установки заголовков ответов во всех сервлетах - content-type и character encoding
 
