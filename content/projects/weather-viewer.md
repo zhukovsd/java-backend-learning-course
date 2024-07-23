@@ -9,19 +9,19 @@ weight = 5
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
-  - Java сервлеты
-  - GET и POST запросы, HTTP заголовки, cookies
+- [Java](../technologies/java.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/java.md#mvc) 
+- [Maven/Gradle](../technologies/build-systems.md)
+- [Backend](../technologies/backend.md)
+  - Java Servlets, JSP
+  - HTTP - GET и POST запросы, HTTP заголовки, cookies
   - Thymeleaf
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+- [Базы данных](../technologies/databases.md)
   - SQL
   - Hibernate
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - интеграционное тестирование, моки, JUnit 5
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
+- [Тесты](../technologies/tests.md) - интеграционное тестирование, моки, JUnit 5
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 Spring MVC/Spring Boot не используем.
 
@@ -194,6 +194,12 @@ Spring MVC/Spring Boot не используем.
 - Реализовать бизнес логику приложения - поиск, добавление, удаление локаций, просмотр погоды
 - Создать интерфейс главной страницы и страницы поиска локаций
 - Деплой
+
+## Ресурсы для работы над ошибками
+
+- [Реализации проекта](../finished-projects/weather-viewer.md) другими студентами и мои ревью этих реализаций
+- Чеклист для самопроверки с типовыми ошибками (в конце страницы)
+- Целевое количество видео и текстовых ревью проекта "Погода" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/weather-viewer.md). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Чеклист для самопроверки
 
