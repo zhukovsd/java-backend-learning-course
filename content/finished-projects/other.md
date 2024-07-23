@@ -1,5 +1,5 @@
 +++
-title = 'Other'
+title = 'Остальное'
 weight = 8
 bookTOC = false
 +++

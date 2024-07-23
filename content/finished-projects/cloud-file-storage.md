@@ -1,5 +1,5 @@
 +++
-title = 'Cloud File Storage'
+title = 'Облачное хранилище файлов'
 weight = 6
 bookTOC = false
 +++

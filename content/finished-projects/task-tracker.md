@@ -1,5 +1,5 @@
 +++
-title = 'Task Tracker'
+title = 'Планировщик задач'
 weight = 7
 bookTOC = false
 +++

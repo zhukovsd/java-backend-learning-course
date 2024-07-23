@@ -1,5 +1,5 @@
 +++
-title = 'Hangman'
+title = 'Виселица'
 weight = 1
 bookTOC = false
 +++

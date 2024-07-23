@@ -1,5 +1,5 @@
 +++
-title = 'Simulation'
+title = 'Симуляция'
 weight = 2
 bookTOC = false
 +++

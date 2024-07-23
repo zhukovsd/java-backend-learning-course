@@ -1,5 +1,5 @@
 +++
-title = 'Tennis Scoreboard'
+title = 'Табло теннисного матча'
 weight = 4
 bookTOC = false
 +++

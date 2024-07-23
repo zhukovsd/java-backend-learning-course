@@ -1,5 +1,5 @@
 +++
-title = 'Currency Exchange'
+title = 'Обмен валют'
 weight = 3
 bookTOC = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Weather Viewer'
+title = 'Погода'
 weight = 5
 bookTOC = false
 +++
