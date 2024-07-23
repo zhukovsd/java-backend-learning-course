@@ -11,7 +11,7 @@ weight = 1
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - базовый синтаксис
+- [Java](../technologies/java.md#базовый-синтаксис) - базовый синтаксис
 
 Если испытываете трудности "не знаю с чего начать", или "не понимаю что именно сделать", советую лекцию про декомпозицию проектов в задачи - [https://youtube.com/live/3ox5DI_xAog](https://youtube.com/live/3ox5DI_xAog).
 
@@ -43,10 +43,10 @@ weight = 1
 ## Ресурсы для работы над ошибками
 
 - Эталонная [реализация проекта](https://github.com/zhukovsd/tic-tac-toe) похожего уровня сложности, написанного на [стриме](https://www.youtube.com/watch?v=PPikj1qHxrA)
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects/hangman.md) другими студентами и мои ревью этих реализаций
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Виселица" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Виселица" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/hangman.md). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Чеклист для самопроверки
 
