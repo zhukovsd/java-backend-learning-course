@@ -11,17 +11,16 @@ weight = 4
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
-  - Java сервлеты
-  - Веб - GET и POST запросы, формы
+- [Java](../technologies/java.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/java.md#mvc) 
+- [Maven/Gradle](../technologies/build-systems.md)
+- [Backend](../technologies/backend.md)
   - Java Servlets, JSP
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQL, Hibernate, H2 (in-memory SQL database)
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, блочная вёрстка
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - юнит тестирование, JUnit 5
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+  - HTTP - GET и POST запросы, формы
+- [Базы данных](../technologies/databases.md) - SQLite, JDBC
+- [Frontend](../technologies/frontend.md) - HTML/CSS, блочная вёрстка
+- [Тесты](../technologies/tests.md) - юнит тестирование, JUnit 5
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
 ## Мотивация проекта
 
@@ -180,6 +179,6 @@ MVCS - архитектурный паттерн, особенно хорошо 
 
 ## Ресурсы для работы над ошибками
 
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects/tennis-scoreboard.md) другими студентами и мои ревью этих реализаций
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 1 августа 2023]** - целевое количество видеоревью этого проекта на Java накоплено, новые реализации к полноценным видеоревью не принимаются (на Python принимаются). В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), по возможности делаю краткие текстовые ревью. Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57)
+  - **[Обновление от 1 августа 2023]** - целевое количество видеоревью этого проекта на Java накоплено, новые реализации к полноценным видеоревью не принимаются (на Python принимаются). В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/tennis-scoreboard.md). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57)
