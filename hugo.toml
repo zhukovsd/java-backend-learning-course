@@ -1,4 +1,4 @@
-baseURL = 'https://krios2146.github.io/java-backend-learning-course/'
+baseURL = 'https://zhukovsd.github.io/java-backend-learning-course/'
 languageCode = 'ru'
 title = 'Java Роадмап Сергея Жукова'
 theme = 'hugo-book'
@@ -17,9 +17,9 @@ theme = 'hugo-book'
 [[menu.after]]
   name = "Telegram чат"
   url = "https://t.me/zhukovsd_it_chat"
-  weight = 10
+  weight = 20
 
 [[menu.after]]
   name = "YouTube"
   url = "https://www.youtube.com/@zhukovsd_it_mentor"
-  weight = 20
+  weight = 30
