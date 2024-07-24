@@ -22,7 +22,7 @@ title = 'Базы данных'
 - Курс ["SQL для начинающих: с нуля до сертификата Oracle"](https://stepik.org/course/115617) Заура Трегулова - для начала достаточно глав 1-3, 6-7, 10-12
 - Практика:
   - Интерактивные задачи для практики синтаксиса - [https://app.codesignal.com/](https://app.codesignal.com/) (раздел Arcade - Databases)
-  - Проект #3 - ["Обмен валют"](../../Projects/CurrencyExchange/index.md)
+  - Проект #3 - ["Обмен валют"](../projects/currency-exchange.md)
 
 ## JDBC
 
@@ -38,7 +38,7 @@ title = 'Базы данных'
 - Уроки 25-27 из [бесплатного курса](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ) от Наиля Алишева
 - [Статья](https://www.baeldung.com/java-jdbc) от Baeldung
 - Практика:
-  - Проект #3 - ["Обмен валют"](../../Projects/CurrencyExchange/index.md)
+  - Проект #3 - ["Обмен валют"](../projects/currency-exchange.md)
 
 ## ORM
 
