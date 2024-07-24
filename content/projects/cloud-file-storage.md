@@ -10,7 +10,6 @@ weight = 6
 ## Что нужно знать
 
 - [Java](../technologies/java.md) - коллекции, ООП
-- [Паттерн MVC(S)](../technologies/java.md#mvc) 
 - [Maven/Gradle](../technologies/build-systems.md)
 - [Backend](../technologies/backend.md)
   - Spring Boot, Spring Security, Spring Sessions

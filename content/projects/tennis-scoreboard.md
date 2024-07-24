@@ -17,7 +17,7 @@ weight = 4
 - [Backend](../technologies/backend.md)
   - Java Servlets, JSP
   - HTTP - GET и POST запросы, формы
-- [Базы данных](../technologies/databases.md) - SQLite, JDBC
+- [Базы данных](../technologies/databases.md) - SQL, Hibernate, H2 (in-memory SQL database)
 - [Frontend](../technologies/frontend.md) - HTML/CSS, блочная вёрстка
 - [Тесты](../technologies/tests.md) - юнит тестирование, JUnit 5
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat

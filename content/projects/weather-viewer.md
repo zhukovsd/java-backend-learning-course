@@ -13,7 +13,7 @@ weight = 5
 - [Паттерн MVC(S)](../technologies/java.md#mvc) 
 - [Maven/Gradle](../technologies/build-systems.md)
 - [Backend](../technologies/backend.md)
-  - Java Servlets, JSP
+  - Java Servlets
   - HTTP - GET и POST запросы, HTTP заголовки, cookies
   - Thymeleaf
 - [Базы данных](../technologies/databases.md)

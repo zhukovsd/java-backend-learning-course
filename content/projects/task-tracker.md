@@ -10,7 +10,6 @@ weight = 7
 ## Что нужно знать
 
 - [Java](../technologies/java.md) - коллекции, ООП
-- [Паттерн MVC(S)](../technologies/java.md#mvc) 
 - [Maven/Gradle](../technologies/build-systems.md)
 - [Backend](../technologies/backend.md)
   - Spring Boot, Spring Security, Spring Session, Spring Kafka, Spring Scheduler, Spring Mail
@@ -19,7 +18,6 @@ weight = 7
   - SQL
   - Spring Data JPA
 - [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap, Javascript, Ajax
-- [Тесты](../technologies/tests.md) - интеграционное тестирование, JUnit, Testcontainers
 - [Docker и микросервисы](../technologies/microservices.md)
   - Контейнеры, образы, volumes, написание Dockerfile, Docker Compose
   - Брокер сообщений Kafka
