@@ -18,7 +18,7 @@ title = 'Frontend'
 #### Избранные курсы и учебные ресурсы
 
 - [Интерактивный курс](https://www.freecodecamp.org/learn/2022/responsive-web-design/) по верстке от FreeCodeCamp
-- Практика - в проекте #4 ["Табло теннисного матча"](../../Projects/TennisScoreboard/index.md) необходимо сверстать простой веб-интерфейс с нуля
+- Практика - в проекте #4 ["Табло теннисного матча"](../projects/tennis-scoreboard.md) необходимо сверстать простой веб-интерфейс с нуля
 
 ## Bootstrap
 
@@ -53,7 +53,7 @@ Javascript является опциональным для большинств
 - [https://learn.javascript.ru/](https://learn.javascript.ru/)
 - Практика:
   - Решение задач на синтаксис, например, на [https://app.codesignal.com/](https://app.codesignal.com/)
-  - [Проект "Планировщик задач"](../../Projects/TaskTracker/index.md) включает в себя разработку одностраничного веб-приложения на Javascript
+  - [Проект "Планировщик задач"](../projects/task-tracker.md) включает в себя разработку одностраничного веб-приложения на Javascript
 
 ## Что дальше
 
