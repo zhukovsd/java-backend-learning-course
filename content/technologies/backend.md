@@ -24,8 +24,8 @@ title = 'Backend'
 
 - [Моя лекция](https://www.youtube.com/watch?v=9rpgE3nZb94) по основам бэкенда и истории развития бэкенд и веб приложений
 - [Плейлист](https://www.youtube.com/playlist?list=PLnh8EajVFTl7_p5MgevvA41PvxQWq-jC8) от dmdev - уроки с 1 по 6
-- [https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [MDN How does the Internet work](https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [MDN How the Web works](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ### HTTP
 
@@ -77,7 +77,7 @@ JWT расшифровывается как Json Web Token. Информация
 - JWT:
   - [https://jwt.io/introduction](https://jwt.io/introduction)
   - Интеграция JWT со Spring - [https://www.bezkoder.com/spring-boot-jwt-authentication/](https://www.bezkoder.com/spring-boot-jwt-authentication/)
-- Практика - проекты #5 ["Погода"](../../Projects/WeatherViewer/index.md) и #6 ["Облачное хранилище файлов"](../../Projects/CloudFileStorage/index.md) (сессии), #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) - JWT
+- Практика - проекты #5 ["Погода"](../projects/weather-viewer.md) и #6 ["Облачное хранилище файлов"](../projects/cloud-file-storage.md) (сессии), #7 ["Планировщик задач"](../projects/task-tracker.md) - JWT
 
 ## REST API
 
@@ -92,7 +92,7 @@ REST - набор правил взаимодействия клиента и с
 - Статьи по REST на хабре - [#1](https://habr.com/ru/post/483202/), [#2](https://habr.com/ru/post/351890/)
 - [Моя лекция](https://www.youtube.com/watch?v=yWzesBoTOvE) по HTTP, API, REST
 - Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508)
-- Практика - проекты #3 ["Обмен валют"](../../Projects/CurrencyExchange/index.md) и #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) содержат примеры дизайна REST API
+- Практика - проекты #3 ["Обмен валют"](../projects/currency-exchange.md) и #7 ["Планировщик задач"](../projects/task-tracker.md) содержат примеры дизайна REST API
 
 ## Java
 
