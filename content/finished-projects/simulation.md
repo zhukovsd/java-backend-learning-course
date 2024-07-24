@@ -6,7 +6,7 @@ bookTOC = false
 
 # Симуляция
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/)
+[ТЗ проекта](../projects/simulation.md)
 
 | Репозиторий | Автор | Язык | Ревью | Автор Ревью |
 |-------------|-------|------|-------|-------------|

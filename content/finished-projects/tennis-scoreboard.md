@@ -6,7 +6,7 @@ bookTOC = false
 
 # Табло теннисного матча
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/)
+[ТЗ проекта](../projects/tennis-scoreboard.md)
 
 | Репозиторий                                                      | Автор                                   | Язык              | Ревью                                                                    | Автор ревью |
 |------------------------------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|----------|

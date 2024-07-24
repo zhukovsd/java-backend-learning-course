@@ -6,7 +6,7 @@ bookTOC = false
 
 # Виселица
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/)
+[ТЗ проекта](../projects/hangman.md)
 
 | Репозиторий | Автор | Язык | Ревью | Автор ревью                                                                     |
 |-------------|-------|------|-------|---------------------------------------------------------------------------------|

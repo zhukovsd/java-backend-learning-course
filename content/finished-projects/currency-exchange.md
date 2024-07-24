@@ -6,7 +6,7 @@ bookTOC = false
 
 # Обмен валют
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)
+[ТЗ проекта](../projects/currency-exchange.md)
 
 | Репозиторий | Автор | Язык | Ревью | Автор ревью |
 |-------------|-------|------|-------|-------------|

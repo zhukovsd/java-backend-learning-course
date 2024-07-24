@@ -6,7 +6,7 @@ bookTOC = false
 
 # Погода
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/)
+[ТЗ проекта](../projects/weather-viewer.md)
 
 | Репозиторий                                                | Автор                                   | Стек             | Ревью                                                                                                                            | Автор ревью |
 |------------------------------------------------------------|-----------------------------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------|
