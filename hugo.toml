@@ -2,11 +2,15 @@ baseURL = 'https://zhukovsd.github.io/java-backend-learning-course/'
 languageCode = 'ru'
 title = 'Java Роадмап Сергея Жукова'
 theme = 'hugo-book'
+enableGitInfo = true
 
 [params]
     BookTheme = 'auto'
     BookSection = '*'
     BookPortableLinks = true
+    BookRepo = 'https://github.com/zhukovsd/java-backend-learning-course'
+    BookCommitPath = 'commit'
+    BookEditPath = 'edit/main'
 
 [menu]
 [[menu.after]]
