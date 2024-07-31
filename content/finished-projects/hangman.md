@@ -149,4 +149,22 @@ bookTOC = false
 | [hang_man_project](https://github.com/stas-yarovikov/hang_man_project) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python |  |  |
 | [telegramBot_Hangman](https://github.com/FinancierJava/telegramBot_Hangman) | [FinancierJava](https://github.com/FinancierJava) | Java | 📝 [Заметки](https://gist.github.com/Asenim/2079b291621fc81e683c8b60e5758219) | [Ageev Maxim](http://t.me/apostol_fet) |
 | [Hangman](https://github.com/Konfeton/Hangman) | [Konfeton](https://github.com/Konfeton) | Java | 📝 [Заметки](https://gist.github.com/Asenim/fc5ea77c82c6e1cb2ae6ed0f3d00c834) | Алексей |
+| [hangman](https://github.com/luchaninova/hangman) | [luchaninova](https://github.com/luchaninova) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5c6f3ea9bb56e250de268f9ea1d2de44) | Алексей |
+| [The-gallows-in-OOP-style](https://github.com/Niker2023/The-gallows-in-OOP-style) | [Niker2023](https://github.com/Niker2023) | Java |  |  |
+| [gallows](https://github.com/devs7ar/gallows) | [devs7ar](https://github.com/devs7ar) | Python | 📝 [Заметки](https://gist.github.com/Asenim/7e43fe5e7ce78792e749f0dce4b0fd94) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [go-hangman](https://github.com/albakov/go-hangman) | [albakov](https://github.com/albakov) | Go |  |  |
+| [hangman](https://github.com/java-be-course/hangman) | [java-be-course](https://github.com/java-be-course) | Java |  |  |
+| [java-hangman](https://github.com/kekock/java-hangman) | [kekock](https://github.com/kekock) | Java | 📝 [Заметки](https://gist.github.com/Asenim/6c1479d65fa4aa2372b1b8a236d3cef2) | Алексей |
+| [The_Hangman](https://github.com/vasiliy-spb/The_Hangman) | [vasiliy-spb](https://github.com/vasiliy-spb) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1cd84fc4351a7e7a4da6afd4f93fb54e) | Алексей |
+| [hangman](https://github.com/darknight1996/hangman) | [darknight1996](https://github.com/darknight1996) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a1aa250689598c7b3eb27e2ea6122012) | Алексей |
+| [Hangman](https://github.com/falom07/Hangman) | [falom07](https://github.com/falom07) | Java |  |  |
+| [hangman](https://github.com/as1iva/hangman) | [as1iva](https://github.com/as1iva) | Java | 📝 [Заметки](https://gist.github.com/Asenim/8526ef61c900074e4b7c528b3d125a32) | Алексей |
+| [hangman](https://github.com/mak7im-05/hangman) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
+| [hangman](https://github.com/SergeyStol/hangman) | [SergeyStol](https://github.com/SergeyStol) | Java |  |  |
+| [Roadmap](https://github.com/Ghennadi-Berezovschi/Roadmap) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a856ae2e9e7e12ed0adc7a7daa49a56b) | Алексей |
+| [vlidzhigoryaev-hangman](https://github.com/zhukovsd/vlidzhigoryaev-hangman) | [vlidzhigoryaev](https://github.com/vlidzhigoryaev) | Java | 📝 [Заметки](https://gist.github.com/Asenim/2f266584347cb3e0f87369287a560436) | Illia и Алексей |
+| [Hangman](https://github.com/AleksandrTuev/Hangman) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java |  |  |
+| [hangman](https://github.com/N1decker/hangman) | [N1decker](https://github.com/N1decker) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e8b823489e0d55ab27695aa878ca7f61) | Алексей |
+| [hangman](https://github.com/karimpatvari/hangman) | [arimpatvari](https://github.com/karimpatvari) | Java |  |  |
+
 

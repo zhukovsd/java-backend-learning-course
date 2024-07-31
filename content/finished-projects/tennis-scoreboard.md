@@ -52,5 +52,9 @@ bookTOC = false
 | [tennis_scoreboard](https://github.com/VladislavLevchikIsAProger/tennis_scoreboard) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java | 📝 [Заметки](https://gist.github.com/Asenim/35d2346498104c4fa46fc6a099638072) | [Иван](http://t.me/makeitvsolo) |
 | [TennisScoreBoard](https://github.com/DarkRubin/TennisScoreBoard) | [DarkRubin](https://github.com/DarkRubin) | Java |  |  |
 | [tennis_match_scoreboard](https://github.com/chskela/tennis_match_scoreboard) | [chskela](https://github.com/chskela) | Kotlin |  |  |
+| [Tennis-ScoreBoard](https://github.com/ArturChegur/Tennis-ScoreBoard) | [ArturChegur](https://github.com/ArturChegur) | Java | 📝 [Заметки](https://gist.github.com/krios2146/76dcf0e97e1ad099208c081495a6dfc6) | [Krios](http://t.me/krios2146) |
+| [Tennis-Scoreboard](https://github.com/grafkust/Tennis-Scoreboard/tree/main) | [grafkust](https://github.com/grafkust) | Java |  |  |
+| [Tennis-Scoreboard-Hibernate](https://github.com/Oldsize/Tennis-Scoreboard-Hibernate) | [Oldsize](https://github.com/Oldsize) | Java | 📝 [Заметки](https://gist.github.com/Asenim/15de753733acf8faf645826ffbe200d8) | Кostya D |
+
 
 

@@ -83,4 +83,20 @@ bookTOC = false
 | [Simulation](https://github.com/Cohomological/Simulation) | [Cohomological](https://github.com/Cohomological) | Java | 📝 [Заметки](https://gist.github.com/Asenim/51feaf01a90e393a70f07f9e5c7b17f3) | Алексей |
 | [Simulation](https://github.com/Faust32/Simulation) | [Faust32](https://github.com/Faust32) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5460aad410c49de1d82aa2ec0e18740c) | Алексей |
 | [Simulation](https://github.com/Anikavuk/Simulation) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
+| [Simulation](https://github.com/d1rannn/Simulation) | [d1rannn](https://github.com/d1rannn) | Java | 📝 [Заметки](https://gist.github.com/Asenim/8d13ad51fb30fb601a8fa9b6a29235f5) | Алексей |
+| [Simulation](https://github.com/ssss1131/Simulation) | [ssss1131](https://github.com/ssss1131) | Java | 📝 [Заметки](https://gist.github.com/Asenim/0b8f67fe9cc5a4e58c6f55e73f5b122d) | Алексей |
+| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python | 📝 
+[Заметки](https://gist.github.com/Asenim/05a97d76991a3b50f19a8da4045e3214) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Simulation](https://github.com/Dmitry-Strog/Simulation) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/6706f3ea1929e528762048cf613f256e) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [go-simulation](https://github.com/albakov/go-simulation) | [albakov](https://github.com/albakov) | Go |  |  |
+| [Simulation](https://github.com/AlexKos1901/Simulation) | [AlexKos1901](https://github.com/AlexKos1901) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1cf988d1a6b30f6d44ab5539e5abd04e) | Алексей |
+| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [Simulation](https://github.com/OlegTihii/Simulation/tree/master) | [OlegTihii](https://github.com/OlegTihii) | Java |  |  |
+| [Simulation](https://github.com/Niker2023/Simulation) | [Niker2023](https://github.com/Niker2023) | Java | 📝 [Заметки](https://gist.github.com/Asenim/36abdf7fb3e5ce4203662d377f6c80d7) | Алексей |
+| [sim](https://github.com/dmaberlin1/sim) | [dmaberlin1](https://github.com/dmaberlin1) | Java |  |  |
+| [simulation](https://github.com/zhenklchhh/simulation) | [zhenklchhh](https://github.com/zhenklchhh) | Java |  |  |
+| [simulation-go](https://github.com/krios2146/simulation-go) | [krios2146](https://github.com/krios2146) | Go | 📝 [Заметки](https://gist.github.com/Asenim/c71b56dcc6dfc7eceed63b4049d594d2) | Измаил |
+| [Simulation](https://github.com/mak7im-05/Simulation) | [mak7im-05](https://github.com/mak7im-05) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a62779d36b592e4e365ff83b9b0bbcac) | Алексей |
+| [Simulation](https://github.com/leofinder/Simulation) | [leofinder](https://github.com/leofinder) | Java | 📝 [Заметки](https://gist.github.com/Asenim/fc9a875f59636d8785a3e6114d6512cb) | Алексей |
+
 
