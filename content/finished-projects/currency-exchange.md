@@ -64,7 +64,7 @@ bookTOC = false
 | [Currency_Exchange](https://github.com/asckarugin/Currency_Exchange)                      | [asckarugin](https://github.com/asckarugin)           | Java   |                                                                             |
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
 | [Currency_exchange](https://github.com/Mich4107/Currency_exchange)            | [Mich4107](https://github.com/Mich4107)       | Java   |                                                                          |
-| [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) | [ArturChegur](https://github.com/ArturChegur) | Java   | 📝 [Заметки 1](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083), [Заметки 2](https://gist.github.com/krios2146/79088d5bc998e05f3ea172c1fb176b6f) | [krios2146](https://github.com/krios2146) |
+| [Currency-Exchange-API](https://github.com/ArturChegur/Currency-Exchange-API) | [ArturChegur](https://github.com/ArturChegur) | Java   | 📝 [Заметки 1](https://gist.github.com/Asenim/f34870be0ed5b6da687f0e7479836083), 📝 [Заметки 2](https://gist.github.com/krios2146/79088d5bc998e05f3ea172c1fb176b6f) | [krios2146](https://github.com/krios2146) |
 | [CurrencyExchange](https://github.com/BondarevM/CurrencyExchange)            | [BondarevM](https://github.com/BondarevM)       | Java   |                                                                          |
 | [currency_exchange](https://github.com/VladislavLevchikIsAProger/currency_exchange)   | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java   |                                                                            |                      |
 | [CurrencyExchange](https://github.com/nosabr/CurrencyExchange)                        | [nosabr](https://github.com/nosabr)                                       | Java   |                                                                            |                      |
@@ -88,4 +88,13 @@ bookTOC = false
 | [currency-exchange-api](https://github.com/DmitriyDevv/currency-exchange-api) | [DmitriyDevv](https://github.com/DmitriyDevv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/db00ee016e68e22b363d0606ed0aca43) | [Сергей Жуков](https://t.me/zhukovsd) |
 | [CurrencyExchange](https://github.com/shinchik17/CurrencyExchange) | [shinchik17](https://github.com/shinchik17) | Java |  |  |
 | [ExchangeService](https://github.com/SahaPWNZ/ExchangeService) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java |  |  |
+| [go-currency-exchange](https://github.com/albakov/go-currency-exchange) | [albakov](https://github.com/albakov) | Go |  |  |
+| [currency_conversion](https://github.com/Ilyalapin/currency_conversion/tree/master?tab=readme-ov-file) | [Ilyalapin](https://github.com/Ilyalapin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/f99a97b7c7b0bd2ee5d8a04045540d5e) | [Влад](http://t.me/IamNotARapperr) |
+| [CurrencyExchange](https://github.com/sergei-neretin/CurrencyExchange) | [sergei-neretin](https://github.com/sergei-neretin) | Java |  |  |
+| [currency-exchange-rest-api](https://github.com/damvih03/currency-exchange-rest-api) | [damvih03](https://github.com/damvih03) | Java |  |  |
+| [currency-exchange](https://github.com/IlPl123454/currency-exchange) | [IlPl123454](https://github.com/IlPl123454) | Java | 📝 [Заметки](https://gist.github.com/Asenim/275ce281fd08c8db00fb602acac5d72e) | Владимир |
+| [Currency-Exchange](https://github.com/Y1-Bit/Currency-Exchange) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [currency-converter](https://github.com/aleos-dev/currency-converter) | [aleos-dev](https://github.com/aleos-dev) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ea766acd6e26e50ac1986645b6462b66) | [Иван](http://t.me/makeitvsolo) |
+| [CE](https://github.com/PivovarJV/CE) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
+
 
