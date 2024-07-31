@@ -25,4 +25,7 @@ bookTOC = false
 | [CloudDataStorage](https://github.com/YuriyNekludov/CloudDataStorage) | [YuriyNekludov](https://github.com/YuriyNekludov)   | Java   |                                                                            |                    |
 | [Galaxy_drive](https://github.com/AleksandrKamen/Galaxy_drive)        | [AleksandrKamen](https://github.com/AleksandrKamen) | Java   |                                                                            |                    |
 | [Cloud-File-Storage](https://github.com/timmawv/Cloud-File-Storage) | [timmawv](https://github.com/timmawv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/7b89de0d3d4d9fea65974d367beda354) | [Илья](http://t.me/coderilya) |
+| [cloud-file-storage](https://github.com/Mich4107/cloud-file-storage) | [Mich4107](https://github.com/Mich4107) | Java | 📝 [Заметки](https://gist.github.com/Asenim/7209eb8846aef46d4efe8d0d009d1030) | [Иван](http://t.me/makeitvsolo) |
+| [cloud-storage](https://github.com/tonkoshkur/cloud-storage) | [tonkoshkur](https://github.com/tonkoshkur) | Java |  |  |
+
 
