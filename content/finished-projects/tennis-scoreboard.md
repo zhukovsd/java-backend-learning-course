@@ -55,6 +55,12 @@ bookTOC = false
 | [Tennis-ScoreBoard](https://github.com/ArturChegur/Tennis-ScoreBoard) | [ArturChegur](https://github.com/ArturChegur) | Java | 📝 [Заметки](https://gist.github.com/krios2146/76dcf0e97e1ad099208c081495a6dfc6) | [Krios](http://t.me/krios2146) |
 | [Tennis-Scoreboard](https://github.com/grafkust/Tennis-Scoreboard/tree/main) | [grafkust](https://github.com/grafkust) | Java |  |  |
 | [Tennis-Scoreboard-Hibernate](https://github.com/Oldsize/Tennis-Scoreboard-Hibernate) | [Oldsize](https://github.com/Oldsize) | Java | 📝 [Заметки](https://gist.github.com/Asenim/15de753733acf8faf645826ffbe200d8) | Кostya D |
+| [tennis-scoreboard](https://github.com/shinchik17/tennis-scoreboard) | [shinchik17](https://github.com/shinchik17) | Java |  |  |
+| [TennisScoreboard](https://github.com/sergei-neretin/TennisScoreboard) | [sergei-neretin](https://github.com/sergei-neretin) | Java |  |  |
+| [Tennis-Score-Board](https://github.com/Y1-Bit/Tennis-Score-Board) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [tenis_score](https://github.com/slavik-gassiev/tenis_score/tree/demo_one) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java |  |  |
+| [TennisScoreApp](https://github.com/SahaPWNZ/TennisScoreApp) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java | 📝 [Заметки](https://gist.github.com/Asenim/21960d862b55d452253e3aa3c25bf7f9) | Владимир |
+
 
 
 
