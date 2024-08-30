@@ -96,5 +96,16 @@ bookTOC = false
 | [Currency-Exchange](https://github.com/Y1-Bit/Currency-Exchange) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 | [currency-converter](https://github.com/aleos-dev/currency-converter) | [aleos-dev](https://github.com/aleos-dev) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ea766acd6e26e50ac1986645b6462b66) | [Иван](http://t.me/makeitvsolo) |
 | [CE](https://github.com/PivovarJV/CE) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
+| [currency-exchange-service](https://github.com/aglushkovsky/currency-exchange-service) | [aglushkovsky](https://github.com/aglushkovsky) | Java |  |  |
+| [currency-exchange-api](https://github.com/Runaumov/currency-exchange-api) | [Runaumov](https://github.com/Runaumov) | Java |  |  |
+| [currency_exchange_rest_api](https://github.com/PavelPerunov/currency_exchange_rest_api) | [PavelPerunov](https://github.com/PavelPerunov) | Java |  |  |
+| [currency_exchange](https://github.com/Drowchik/currency_exchange) | [Drowchik](https://github.com/Drowchik) | Python | 📝 [Заметки](https://gist.github.com/Asenim/b68dd2661dde8b3573ead4df594d1281) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Currency-Exchanger](https://github.com/ssss1131/Currency-Exchanger) | [ssss1131](https://github.com/ssss1131) | Java |  |  |
+| [Currency-Exchanger](https://github.com/mak7im-05/Currency-Exchanger) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
+| [ExchangeService](https://github.com/SahaPWNZ/ExchangeService) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java | 📝 [Заметки](https://gist.github.com/Asenim/b2fd8b019313b20b46a7876c27c988f0) | [Влад Левчик](http://t.me/IamNotARapperr) |
+| [Currency-Exchanger](https://github.com/mak7im-05/Currency-Exchanger) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
+| [currency-exchange](https://github.com/leofinder/currency-exchange) | [leofinder](https://github.com/leofinder) | Java |  |  |
+| [CurrencyExchanger](https://github.com/v1adis1av28/CurrencyExchanger) | [v1adis1av28](https://github.com/v1adis1av28) | Java |  |  |
+
 
 
