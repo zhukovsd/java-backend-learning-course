@@ -98,5 +98,14 @@ bookTOC = false
 | [simulation-go](https://github.com/krios2146/simulation-go) | [krios2146](https://github.com/krios2146) | Go | 📝 [Заметки](https://gist.github.com/Asenim/c71b56dcc6dfc7eceed63b4049d594d2) | Измаил |
 | [Simulation](https://github.com/mak7im-05/Simulation) | [mak7im-05](https://github.com/mak7im-05) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a62779d36b592e4e365ff83b9b0bbcac) | Алексей |
 | [Simulation](https://github.com/leofinder/Simulation) | [leofinder](https://github.com/leofinder) | Java | 📝 [Заметки](https://gist.github.com/Asenim/fc9a875f59636d8785a3e6114d6512cb) | Алексей |
+| [2d-simulation](https://github.com/salavei-a/2d-simulation) | [salavei-a](https://github.com/salavei-a) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bd72e0a615e994af3d8881513c7e773e) | Алексей |
+| [simulation](https://github.com/Drowchik/simulation) | [Drowchik](https://github.com/Drowchik) | Python |  |  |
+| [Simulation](https://github.com/Nasstyaaa/Simulation) | [Nasstyaaa](https://github.com/Nasstyaaa) | Java | 📝 [Заметки](https://gist.github.com/Asenim/f1d56eb8c88c44d39dc0f9fe731f98f7) | Алексей |
+| [simulation](https://github.com/SergeyStol/simulation) | [SergeyStol](https://github.com/SergeyStol) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a525a9eb5e53f9d04809e9607fffcfad) | Алексей |
+| [simulation_ocaml](https://github.com/krios2146/simulation_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |  |
+| [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
+| [Simulation](https://github.com/gribforyou/Simulation) | [gribforyou](https://github.com/gribforyou) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c3a3fac89b8e700a3e7ef3d624bac507) | Алексей |
+| [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java |  |  |
+
 
 
