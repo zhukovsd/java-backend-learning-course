@@ -52,5 +52,10 @@ bookTOC = false
 | [weather-oracle](https://github.com/dDevusS/weather-oracle) | [dDevusS](https://github.com/dDevusS) | Java |  |  |
 | [weather](https://github.com/DragomirovCode/weather) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |  |
 | [Weather](https://github.com/Mibak87/Weather) | [Mibak87](https://github.com/Mibak87) | Java |  |  |
+| [WeatherApp](https://github.com/DarkRubin/WeatherApp) | [DarkRubin](https://github.com/DarkRubin) | Java |  |  |
+| [weather-app](https://github.com/liemartt/weather-app) | [liemartt](https://github.com/liemartt) | Java | 📝 [Заметки](https://gist.github.com/krios2146/8a9c38bf66dbbfabd8645c7f1a61f567) | [Krios](https://t.me/krios2146) |
+| [WeatherViewer](https://github.com/sergei-neretin/WeatherViewer) | [sergei-neretin](https://github.com/sergei-neretin) | Java |  |  |
+| [WeatherAPI](https://github.com/AlisaDank/WeatherAPI) | [AlisaDank](https://github.com/AlisaDank) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5fd757413752c107e165daf037d3a486) | [Илья](http://t.me/coderilya) |
+
 
 

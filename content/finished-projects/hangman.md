@@ -166,5 +166,22 @@ bookTOC = false
 | [Hangman](https://github.com/AleksandrTuev/Hangman) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java |  |  |
 | [hangman](https://github.com/N1decker/hangman) | [N1decker](https://github.com/N1decker) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e8b823489e0d55ab27695aa878ca7f61) | Алексей |
 | [hangman](https://github.com/karimpatvari/hangman) | [arimpatvari](https://github.com/karimpatvari) | Java |  |  |
+| [Hangman](https://github.com/Mask7IvP/Hangman) | [Mask7IvP](https://github.com/Mask7IvP) | Java | 📝 [Заметки](https://gist.github.com/Asenim/2138624ffca0106055a965bd34e0b979) | Алексей |
+| [Hangman](https://github.com/Big198801/Hangman/tree/master) | [Big198801](https://github.com/Big198801) | Java | 📝 [Заметки](https://gist.github.com/Asenim/f528a5f55351b208aa52d301e4838420) | Алексей |
+| [Hangman](https://github.com/Wh4tisl0ve/Hangman) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
+| [hangman_ocaml](https://github.com/krios2146/hangman_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |  |
+| [HangManConsoleGame](https://github.com/Licesur/HangManConsoleGame) | [Licesur](https://github.com/Licesur) | Java | 📝 [Заметки](https://gist.github.com/Asenim/03b43ba3625195fe89a6a539aed1ea62) | Алексей |
+| [Hangman_rust](https://github.com/Aselivm/Hangman_rust) | [Aselivm](https://github.com/Aselivm) | Rust |  |  |
+| [01_hangman](https://github.com/saydum/01_hangman) | [saydum](https://github.com/saydum) | PHP |  |  |
+| [HangmanKotlin](https://github.com/fakechitor/HangmanKotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin | 📝 [Заметки](https://gist.github.com/Asenim/fadb60d05ebfeab0a5f2db281db53def) | Алексей |
+| [hangman-game](https://github.com/violaceusflame/hangman-game) | [violaceusflame](https://github.com/violaceusflame) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1b5ab9a9c058ea2f3dcb95900ea8e25a) | Алексей |
+| [Hangman](https://github.com/i-kol/Hangman) | [i-kol](https://github.com/i-kol) | Java | 📝 [Заметки](https://gist.github.com/Asenim/03d33ca97441d47adfd801494a829e95) | Алексей |
+| [Hangman](https://github.com/Sss330/Hangman) | [Sss330](https://github.com/Sss330) | Java |  |  |
+| [Hangman](https://github.com/bulatWave/Hangman) | [bulatWave](https://github.com/bulatWave) | Java | 📝 [Заметки](https://gist.github.com/Asenim/9aaf04bc6820f3722b8df83e96377831) | Алексей |
+| [HangmanGame](https://github.com/ShowCM/HangmanGame) | [ShowCM](https://github.com/ShowCM) | Java |  |  |
+| [Gallows](https://github.com/grunder-96/Gallows) | [grunder-96](https://github.com/grunder-96) | Java |  |  |
+| [hangman](https://github.com/maff-maier/hangman) | [maff-maier](https://github.com/maff-maier) | Python | 📝 [Заметки](https://gist.github.com/Asenim/5bea502a39dda92743a060c1b476b415) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Hangman](https://github.com/l1ntv/Hangman) | [l1ntv](https://github.com/l1ntv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/0ff30abe49324154d72865a9775ae1f7) | Владислав |
+
 
 

@@ -27,5 +27,11 @@ bookTOC = false
 | [Cloud-File-Storage](https://github.com/timmawv/Cloud-File-Storage) | [timmawv](https://github.com/timmawv) | Java | 📝 [Заметки](https://gist.github.com/Asenim/7b89de0d3d4d9fea65974d367beda354) | [Илья](http://t.me/coderilya) |
 | [cloud-file-storage](https://github.com/Mich4107/cloud-file-storage) | [Mich4107](https://github.com/Mich4107) | Java | 📝 [Заметки](https://gist.github.com/Asenim/7209eb8846aef46d4efe8d0d009d1030) | [Иван](http://t.me/makeitvsolo) |
 | [cloud-storage](https://github.com/tonkoshkur/cloud-storage) | [tonkoshkur](https://github.com/tonkoshkur) | Java |  |  |
+| [cloudFileStorage](https://github.com/BondarevM/cloudFileStorage) | [BondarevM](https://github.com/BondarevM) | Java |  |  |
+| [cloud_file_storage](https://github.com/VladislavLevchikIsAProger/cloud_file_storage) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java |  |  |
+| [FileStorage](https://github.com/privetEdik/FileStorage) | [privetEdik](https://github.com/privetEdik) | Java | 📝 [Заметки](https://gist.github.com/krios2146/abfa398f9a3d55fcc7bbe899af164ae3) | [Владимир (krios)](htttp://t.me/krios2146) |
+| [cloud-file-storage](https://github.com/escape-8/cloud-file-storage) | [escape-8](https://github.com/escape-8) | PHP |  |  |
+
+
 
 
