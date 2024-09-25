@@ -105,4 +105,4 @@ bookTOC = false
 | [simulation_ocaml](https://github.com/krios2146/simulation_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |  |
 | [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [Simulation](https://github.com/gribforyou/Simulation) | [gribforyou](https://github.com/gribforyou) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c3a3fac89b8e700a3e7ef3d624bac507) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java |  |  |
+| [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bed40b8f0a55defa8dbc205d13b024b5) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
