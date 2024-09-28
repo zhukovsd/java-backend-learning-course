@@ -60,3 +60,8 @@ bookTOC = false
 | [Tennis-Score-Board](https://github.com/Y1-Bit/Tennis-Score-Board) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 | [tenis_score](https://github.com/slavik-gassiev/tenis_score/tree/demo_one) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java |  |  |
 | [TennisScoreApp](https://github.com/SahaPWNZ/TennisScoreApp) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java | 📝 [Заметки](https://gist.github.com/Asenim/21960d862b55d452253e3aa3c25bf7f9) | Владимир [@MaddeningShadow](https://t.me/MaddeningShadow) |
+| [tennis-scoreboard](https://github.com/damvih03/tennis-scoreboard) | [damvih03](https://github.com/damvih03) | Java |  |   |
+| [Tennis-scoreboard](https://github.com/Nasstyaaa/Tennis-scoreboard) | [Nasstyaaa](https://github.com/Nasstyaaa) | Java |  |   |
+| [Tennis-Scoreboard](https://github.com/ssss1131/Tennis-Scoreboard) | [ssss1131](https://github.com/ssss1131) | Java |  |   |
+| [tennis-scoreboard](https://github.com/leofinder/tennis-scoreboard) | [leofinder](https://github.com/leofinder) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3239d9cc6e7335239005580801bce08b) | Илья [@coderilya](https://t.me/coderilya) |
+
