@@ -106,3 +106,13 @@ bookTOC = false
 | [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [Simulation](https://github.com/gribforyou/Simulation) | [gribforyou](https://github.com/gribforyou) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c3a3fac89b8e700a3e7ef3d624bac507) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bed40b8f0a55defa8dbc205d13b024b5) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-project](https://github.com/Gevorji/simulation-project) | [Gevorji](https://github.com/Gevorji) | Python |  |   |
+| [simulation](https://github.com/MrShoffen/simulation) | [MrShoffen](https://github.com/MrShoffen) | Java | 📝 [Заметки](https://gist.github.com/Asenim/187c706340ec46ac3f8bfa93b903f263) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/as1iva/simulation) | [as1iva](https://github.com/as1iva) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bfd7b3ff88b6da62d6926a02e9a71fac) | Владислав [@St4rl1ne](https://t.me/St4rl1ne), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [SimulationKotlin](https://github.com/fakechitor/SimulationKotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |   |
+| [simulation_java](https://github.com/red-eyed-99/simulation_java) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
+| [Simulation2D](https://github.com/Darncol/Simulation2D) | [Darncol](https://github.com/Darncol) | Java |  |   |
+| [Simulation](https://github.com/nulleviy/Simulation) | [nulleviy](https://github.com/nulleviy) | Java |  |   |
+| [Simulation](https://github.com/Konfeton/Simulation) | [Konfeton](https://github.com/Konfeton) | Java |  |   |
+| [Simulation](https://github.com/Ghennadi-Berezovschi/Simulation) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/99b4b415b6f4a89968b879adbfba9736) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+
