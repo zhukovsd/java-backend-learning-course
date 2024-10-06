@@ -13,7 +13,7 @@ weight = 5
 - [Паттерн MVC(S)](../technologies/java.md#mvc) 
 - [Maven/Gradle](../technologies/build-systems.md)
 - [Backend](../technologies/backend.md)
-  - Java Servlets
+  - Spring MVC
   - HTTP - GET и POST запросы, HTTP заголовки, cookies
   - Thymeleaf
 - [Базы данных](../technologies/databases.md)
@@ -24,11 +24,10 @@ weight = 5
 - [Тесты](../technologies/tests.md) - интеграционное тестирование, моки, JUnit 5
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
-Spring MVC/Spring Boot не используем.
-
 ## Мотивация проекта
 
-- Использование cookies и сессий для авторизации пользователей без использования фреймворков
+- Использование cookies и сессий для авторизации пользователей
+- Знакомство со Spring
 - Работа с внешними API
 
 ## Функционал приложения
@@ -78,7 +77,18 @@ Spring MVC/Spring Boot не используем.
 
 Далее, при каждом запросе к любой странице, бэкенд приложение анализирует cookies из запроса и определяет, существует ли сессия для ID из cookies. Если есть - страница рендерится для того пользователя, ID которого соответствует ID сессии из cookies.
 
-Фреймворки, в том числе Spring Boot, умеют управлять всем этим. Цель этого проекта - поработать с cookies и сессиями вручную, чтобы понимать, как они работают.
+Фреймворки, в том числе Spring, умеют управлять всем этим. Цель этого проекта - поработать с cookies и сессиями вручную, чтобы понимать, как они работают, поэтому принципиально советую не ипользовать Spring Security, Spring Session.
+
+## Spring MVC
+
+Какие компоненты Spring пригодятся в проекте:
+
+- Beans, Dependency Injection
+- Контроллеры
+- Профили
+- Интеграция с Thymeleaf, Flyway/Liquibase
+- Spring Tests
+- RestTemplate / WebClient
 
 ## База данных
 
