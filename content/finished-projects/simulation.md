@@ -63,10 +63,10 @@ bookTOC = false
 | [Simulation](https://github.com/Solo83/Simulation)        | [Solo83](https://github.com/Solo83)               | Java   |                   |
 | [Simulation](https://github.com/geozakharenko/Simulation) | [geozakharenko](https://github.com/geozakharenko) | Java   |                   |
 | [go-simulation](https://github.com/albakov/go-simulation)                             | [albakov](https://github.com/albakov)                                     | go     |                                                                            |               |
-| [simulation](https://github.com/PavelPerunov/simulation)                              | [PavelPerunov](https://github.com/PavelPerunov)                           | Java   | 📝 [Заметки](https://gist.github.com/Asenim/014a3ea9361e098f8838409d1f8c0981) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) [@Raketa4000az](https://t.me/Raketa4000az)       |
+| [simulation](https://github.com/PavelPerunov/simulation)                              | [PavelPerunov](https://github.com/PavelPerunov)                           | Java   | 📝 [Заметки](https://gist.github.com/Asenim/014a3ea9361e098f8838409d1f8c0981) | Алексей [@Raketa4000az](https://t.me/Raketa4000az)       |
 | [simulation_project](https://github.com/VladislavLevchikIsAProger/simulation_project) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java   | 📝 [Заметки](https://gist.github.com/Asenim/d1e5e6591c9ae7b609e635b793d4ed4f)                                           |
 | [simulation](https://github.com/IlPl123454/simulation)                                | [IlPl123454](https://github.com/IlPl123454)                               | Java   | 📝 [Заметки](https://gist.github.com/Asenim/810a2f3c0579060ac5680a4921870efc) | Владимир [@MaddeningShadow](https://t.me/MaddeningShadow)      |
-| [Simulation](https://github.com/Ilyalapin/Simulation)                                 | [Ilyalapin](https://github.com/Ilyalapin)                                 | Java   | 📝 [Заметки](https://gist.github.com/Asenim/1354d10f08a6d1d00882b13a5c8c307b) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) [@Raketa4000az](https://t.me/Raketa4000az)       |
+| [Simulation](https://github.com/Ilyalapin/Simulation)                                 | [Ilyalapin](https://github.com/Ilyalapin)                                 | Java   | 📝 [Заметки](https://gist.github.com/Asenim/1354d10f08a6d1d00882b13a5c8c307b) | Алексей [@Raketa4000az](https://t.me/Raketa4000az)      |
 [simulation_app](https://github.com/slavik-gassiev/simulation_app) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java | 📝 [Заметки](https://gist.github.com/Asenim/be6555e6dd6729d77c2f7668f8205253) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/DarkRubin/Simulation) | [DarkRubin](https://github.com/DarkRubin) | Java |  |  |
 | [Simulation](https://github.com/Oldsize/Simulation) | [Oldsize](https://github.com/Oldsize) | Java |  |  |
@@ -85,8 +85,7 @@ bookTOC = false
 | [Simulation](https://github.com/Anikavuk/Simulation) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
 | [Simulation](https://github.com/d1rannn/Simulation) | [d1rannn](https://github.com/d1rannn) | Java | 📝 [Заметки](https://gist.github.com/Asenim/8d13ad51fb30fb601a8fa9b6a29235f5) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/ssss1131/Simulation) | [ssss1131](https://github.com/ssss1131) | Java | 📝 [Заметки](https://gist.github.com/Asenim/0b8f67fe9cc5a4e58c6f55e73f5b122d) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python | 📝 
-[Заметки](https://gist.github.com/Asenim/05a97d76991a3b50f19a8da4045e3214) | Максим [@apostol_fet](http://t.me/apostol_fet) |
+| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python | 📝 [Заметки](https://gist.github.com/Asenim/05a97d76991a3b50f19a8da4045e3214) | Максим [@apostol_fet](http://t.me/apostol_fet) |
 | [Simulation](https://github.com/Dmitry-Strog/Simulation) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/6706f3ea1929e528762048cf613f256e) | Максим [@apostol_fet](http://t.me/apostol_fet) |
 | [go-simulation](https://github.com/albakov/go-simulation) | [albakov](https://github.com/albakov) | Go |  |  |
 | [Simulation](https://github.com/AlexKos1901/Simulation) | [AlexKos1901](https://github.com/AlexKos1901) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1cf988d1a6b30f6d44ab5539e5abd04e) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
@@ -105,4 +104,14 @@ bookTOC = false
 | [simulation_ocaml](https://github.com/krios2146/simulation_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |  |
 | [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [Simulation](https://github.com/gribforyou/Simulation) | [gribforyou](https://github.com/gribforyou) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c3a3fac89b8e700a3e7ef3d624bac507) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java |  |  |
+| [simulation](https://github.com/darknight1996/simulation) | [darknight1996](https://github.com/darknight1996) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bed40b8f0a55defa8dbc205d13b024b5) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-project](https://github.com/Gevorji/simulation-project) | [Gevorji](https://github.com/Gevorji) | Python |  |   |
+| [simulation](https://github.com/MrShoffen/simulation) | [MrShoffen](https://github.com/MrShoffen) | Java | 📝 [Заметки](https://gist.github.com/Asenim/187c706340ec46ac3f8bfa93b903f263) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/as1iva/simulation) | [as1iva](https://github.com/as1iva) | Java | 📝 [Заметки](https://gist.github.com/Asenim/bfd7b3ff88b6da62d6926a02e9a71fac) | Владислав [@St4rl1ne](https://t.me/St4rl1ne), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [SimulationKotlin](https://github.com/fakechitor/SimulationKotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |   |
+| [simulation_java](https://github.com/red-eyed-99/simulation_java) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
+| [Simulation2D](https://github.com/Darncol/Simulation2D) | [Darncol](https://github.com/Darncol) | Java |  |   |
+| [Simulation](https://github.com/nulleviy/Simulation) | [nulleviy](https://github.com/nulleviy) | Java |  |   |
+| [Simulation](https://github.com/Konfeton/Simulation) | [Konfeton](https://github.com/Konfeton) | Java |  |   |
+| [Simulation](https://github.com/Ghennadi-Berezovschi/Simulation) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/99b4b415b6f4a89968b879adbfba9736) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+

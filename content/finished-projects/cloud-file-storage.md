@@ -31,3 +31,7 @@ bookTOC = false
 | [cloud_file_storage](https://github.com/VladislavLevchikIsAProger/cloud_file_storage) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java |  |  |
 | [FileStorage](https://github.com/privetEdik/FileStorage) | [privetEdik](https://github.com/privetEdik) | Java | 📝 [Заметки](https://gist.github.com/krios2146/abfa398f9a3d55fcc7bbe899af164ae3) | Владимир [@krios2146](https://t.me/krios2146) |
 | [cloud-file-storage](https://github.com/escape-8/cloud-file-storage) | [escape-8](https://github.com/escape-8) | PHP |  |  |
+| [cloudFileStorage](https://github.com/KostyaDemens/cloudFileStorage) | [KostyaDemens](https://github.com/KostyaDemens) | Java |  |   |
+| [cloud-drive](https://github.com/wallhackj/cloud-drive) | [wallhackj](https://github.com/wallhackj) | Java |  |   |
+| [CloudStorageApp](https://github.com/Solo83/CloudStorageApp) | [Solo83](https://github.com/Solo83) | Java |  |   |
+

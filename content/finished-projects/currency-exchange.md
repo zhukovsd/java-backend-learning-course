@@ -106,3 +106,11 @@ bookTOC = false
 | [Currency-Exchanger](https://github.com/mak7im-05/Currency-Exchanger) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
 | [currency-exchange](https://github.com/leofinder/currency-exchange) | [leofinder](https://github.com/leofinder) | Java |  |  |
 | [CurrencyExchanger](https://github.com/v1adis1av28/CurrencyExchanger) | [v1adis1av28](https://github.com/v1adis1av28) | Java |  |  |
+| [currency-exchange-project](https://github.com/Gevorji/currency-exchange-project) | [Gevorji](https://github.com/Gevorji) | Python |  |   |
+| [CurrencyExchange](https://github.com/Awakary/CurrencyExchange) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/e5f2e9560937102824173514509551f2) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [currency-exchange-api](https://github.com/salavei-a/currency-exchange-api) | [salavei-a](https://github.com/salavei-a) | Java |  |   |
+| [CurrencyExchange](https://github.com/EgorFurman/CurrencyExchange) | [EgorFurman](https://github.com/EgorFurman) | Python |  |   |
+| [currency_exchange_api_ocaml](https://github.com/krios2146/currency_exchange_api_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |   |
+| [Currency_exchange](https://github.com/Craziy1313/Currency_exchange) | [Craziy1313](https://github.com/Craziy1313) | Java |  |   |
+| [CurrencyExchange](https://github.com/anton-kulakov/CurrencyExchange) | [anton-kulakov](https://github.com/anton-kulakov) | Java |  |   |
+

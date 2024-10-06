@@ -56,3 +56,7 @@ bookTOC = false
 | [weather-app](https://github.com/liemartt/weather-app) | [liemartt](https://github.com/liemartt) | Java | 📝 [Заметки](https://gist.github.com/krios2146/8a9c38bf66dbbfabd8645c7f1a61f567) | Владимир [@krios2146](https://t.me/krios2146) |
 | [WeatherViewer](https://github.com/sergei-neretin/WeatherViewer) | [sergei-neretin](https://github.com/sergei-neretin) | Java |  |  |
 | [WeatherAPI](https://github.com/AlisaDank/WeatherAPI) | [AlisaDank](https://github.com/AlisaDank) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5fd757413752c107e165daf037d3a486) | Илья [@coderilya](https://t.me/coderilya) |
+| [Weather](https://github.com/ArturChegur/Weather) | [ArturChegur](https://github.com/ArturChegur) | Java | 📝 [Заметки](https://gist.github.com/krios2146/79b5cc0325dae7b36d54a6fa16eb855b) | Владимир [@krios2146](https://t.me/krios2146) |
+| [weather_viewer](https://github.com/user873475320/weather_viewer) | [user873475320](https://github.com/user873475320) | Java |  |   |
+| [weather_viewer](https://github.com/user873475320/weather_viewer) | [user873475320](https://github.com/user873475320) | Java |  |   |
+| [weather_servlet_app](https://github.com/chskela/weather_servlet_app) | [chskela](https://github.com/chskela) | Kotlin |  |   |
