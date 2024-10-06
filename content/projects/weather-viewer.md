@@ -19,6 +19,7 @@ weight = 5
 - [Базы данных](../technologies/databases.md)
   - SQL
   - Hibernate
+  - Миграции
 - [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
 - [Тесты](../technologies/tests.md) - интеграционное тестирование, моки, JUnit 5
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
@@ -81,7 +82,7 @@ Spring MVC/Spring Boot не используем.
 
 ## База данных
 
-В этом проекте предлагаю использовать MySQL/MariaDB/Postgres.
+В этом проекте предлагаю использовать MySQL/MariaDB/Postgres. Создавать таблицы будем не через Hibernate, как в предыдущем проекте, а с помощью инструмента миграций - Flyway/Liquibase.
 
 ### Таблица `Users`
 
@@ -185,7 +186,7 @@ Spring MVC/Spring Boot не используем.
 ## План работы над приложением
 
 - Создать заготовку Java бэкенд приложения с `javax.servlet`
-- Написать модели сущностей БД - `User`, `Location`, `Session`
+- Написать модели сущностей БД - `User`, `Location`, `Session` и миграции для создания таблиц
 - С помощью Thymeleaf создать страницы авторизации и регистрации
 - В обработчиках форм авторизации и регистрации реализовать бизнес логику работы с сессиями, cookies, БД
 - Интеграционные тесты для сервиса регистрации 
