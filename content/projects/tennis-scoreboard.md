@@ -18,7 +18,7 @@ weight = 4
   - Java Servlets, JSP
   - HTTP - GET и POST запросы, формы
 - [Базы данных](../technologies/databases.md) - SQL, Hibernate, H2 (in-memory SQL database)
-- [Frontend](../technologies/frontend.md) - HTML/CSS, блочная вёрстка
+- [Опционально] [Frontend](../technologies/frontend.md) - HTML/CSS, блочная вёрстка
 - [Тесты](../technologies/tests.md) - юнит тестирование, JUnit 5
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
 
@@ -99,6 +99,26 @@ weight = 4
 - Форма с фильтром по имени игрока. Поле ввода для имени и кнопка "искать". По нажатию формируется GET запрос вида `/matches?filter_by_player_name=${NAME}`
 - Список найденных матчей
 - Переключатель страниц, если матчей найдено больше, чем влезает на одну страницу
+
+## Фронтенд
+
+Я считаю, что уметь делать простой фронтенд с нуля - универсально полезный навык для всех разработчиков. Однако, в условиях дефицита времени это может быть нерационально.
+
+Поэтому, для проекта существует готовая верстка, которую можно взять за основу. Если хотите расширить функционал проекта или сделать верстку с нуля - приветствую желание самостоятельно это сделать.
+
+Репозиторий с версткой - [https://github.com/zhukovsd/tennis-scoreboard-html-layouts](https://github.com/zhukovsd/tennis-scoreboard-html-layouts).
+
+Что внутри - макеты четырёх страниц, адаптивная верстка (десктопы, телефоны). Минимальный Javascript для показа меню навигации на телефонах.
+
+Задеплоенные на GitHub Pages страницы для демонстрации:
+- [Главная страница](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/)
+- [Новый матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/new-match.html)
+- [Счёт текущего матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/match-score.html)
+- [Завершенные матчи](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/matches.html)
+
+Как пользоваться:
+- Перенести в проект нужные для веб-страниц ресурсы - CSS, JS, картинки
+- На основе HTML верстки создать JSP страницы
 
 ## База данных
 
