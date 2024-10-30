@@ -15,3 +15,5 @@ bookTOC = false
 | [taskplanner-composestack-mvn](https://github.com/RomanV79/taskplanner-composestack-mvn/tree/master) | [RomanV79](https://github.com/RomanV79) | Java | 📝 [Заметки](https://gist.github.com/zhukovsd/5dfeea16d2d9fcbca55e1d34f88f6bc6) | Владимир [@krios2146](https://t.me/krios2146) |
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |                   |
 | [task-traker-compose](https://github.com/yosakoo/task-traker-compose) | [yosakoo](https://github.com/yosakoo) | Java   |                   |               |
+| [nanotracker](https://github.com/nanokulonq/nanotracker) | [nanokulonq](https://github.com/nanokulonq) | Java | 📝 [Заметки](https://gist.github.com/Asenim/adc115e2d7c66d9c2b2ac5bf44237b07) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+
