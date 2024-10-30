@@ -114,4 +114,14 @@ bookTOC = false
 | [Simulation](https://github.com/nulleviy/Simulation) | [nulleviy](https://github.com/nulleviy) | Java |  |   |
 | [Simulation](https://github.com/Konfeton/Simulation) | [Konfeton](https://github.com/Konfeton) | Java |  |   |
 | [Simulation](https://github.com/Ghennadi-Berezovschi/Simulation) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/99b4b415b6f4a89968b879adbfba9736) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Konfeton/Simulation) | [Konfeton](https://github.com/Konfeton) | Java | 📝 [Заметки](https://gist.github.com/Asenim/71dba352c6f0f94581fe086c04eacaa6) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/ApostolFet/Simulation) | [ApostolFet](https://github.com/ApostolFet) | Python |  |   |
+| [Simulation](https://github.com/Sss330/Simulation) | [Sss330](https://github.com/Sss330) | Java |  |   |
+| [Simulation](https://github.com/grunder-96/Simulation) | [grunder-96](https://github.com/grunder-96) | Java | 📝 [Заметки](https://gist.github.com/Asenim/9f9e9234f64439e8fa3a0d28efe33557) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-world-2d](https://github.com/VladimirPokhodnya/simulation-world-2d) | [VladimirPokhodnya](https://github.com/VladimirPokhodnya) | Java |  |   |
+| [Simulation](https://github.com/sierrakurra/Simulation) | [sierrakurra](https://github.com/sierrakurra) | Java |  |   |
+| [Simulation](https://github.com/MaksKav/Simulation) | [MaksKav](https://github.com/MaksKav) | Java | 📝 [Заметки](https://gist.github.com/Asenim/f9e345717ff27943977a47672bfcc34f) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/falom07/Simulation) | [falom07](https://github.com/falom07) | Java |  |   |
+| [second_project-roadmap](https://github.com/Daniyal-Akhadov/second_project-roadmap) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java | 📝 [Замктки](https://gist.github.com/Asenim/98c9a9cd1354277e3e1def68f64b6ff0) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [Simulation_Project.git](https://github.com/skillnez/Simulation_Project.git) | [skillnez](https://github.com/skillnez) | Java |  |   |
 
