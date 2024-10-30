@@ -47,7 +47,6 @@ bookTOC = false
 | [weather](https://github.com/tonkoshkur/weather) | [tonkoshkur](https://github.com/tonkoshkur) | Java |  |  |
 | [weather-viewer](https://github.com/escape-8/weather-viewer) | [escape-8](https://github.com/escape-8) | PHP |  |  |
 | [weather_tracker](https://github.com/VladislavLevchikIsAProger/weather_tracker) | [VladislavLevchikIsAProger](https://github.com/VladislavLevchikIsAProger) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e62220c86a91e2a3a4543ec9cb4ccea5) | Владимир [@krios2146](https://t.me/krios2146) |
-| [LearnProjects](https://github.com/RomanAleynikov/LearnProjects) | [RomanAleynikov](https://github.com/RomanAleynikov) | Java |  |  |
 | [WeatherApp](https://github.com/Solo83/WeatherApp) | [Solo83](https://github.com/Solo83) | Java |  |  |
 | [weather-oracle](https://github.com/dDevusS/weather-oracle) | [dDevusS](https://github.com/dDevusS) | Java |  |  |
 | [weather](https://github.com/DragomirovCode/weather) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |  |
