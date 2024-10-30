@@ -113,4 +113,18 @@ bookTOC = false
 | [currency_exchange_api_ocaml](https://github.com/krios2146/currency_exchange_api_ocaml) | [krios2146](https://github.com/krios2146) | OCaml |  |   |
 | [Currency_exchange](https://github.com/Craziy1313/Currency_exchange) | [Craziy1313](https://github.com/Craziy1313) | Java |  |   |
 | [CurrencyExchange](https://github.com/anton-kulakov/CurrencyExchange) | [anton-kulakov](https://github.com/anton-kulakov) | Java |  |   |
+| [Currency-exchange](https://github.com/grunder-96/Currency-exchange) | [grunder-96](https://github.com/grunder-96) | Java |  |   |
+| [currency_exchange](https://github.com/Pashosi/currency_exchange) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
+| [Currency_exchange](https://github.com/Wh4tisl0ve/Currency_exchange) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |   |
+| [currency-exchange-api-go](https://github.com/krios2146/currency-exchange-api-go) | [krios2146](https://github.com/krios2146) | Go |  |   |
+| [CurrencyExchange](https://github.com/OlegTihii/CurrencyExchange) | [OlegTihii](https://github.com/OlegTihii) | Java |  |   |
+| [currency-exchange](https://github.com/MrShoffen/currency-exchange) | [MrShoffen](https://github.com/MrShoffen) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3a377e3d63d0ccd43705119e221ec67d) | Илья [@coderilya](https://t.me/coderilya) |
+| [CurrencyExchange](https://github.com/red-eyed-99/CurrencyExchange) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
+| [java-currency-exchange](https://github.com/kekock/java-currency-exchange) | [kekock](https://github.com/kekock) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5fe0f873e66d5726d5d929af77dc1dba) | Илья [@coderilya](https://t.me/coderilya) |
+| [currency_exchange](https://github.com/Dmitry-DVal/currency_exchange) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |   |
+| [CurrencyExchange](https://github.com/at0m-cat/CurrencyExchange) | [at0m-cat](https://github.com/at0m-cat) | Java | 📝 [Заметки](https://gist.github.com/Asenim/945045c3115848dff39fa69a1d516657) | Владимир [@krios2146](https://t.me/krios2146) |
+| [CurrencyExchange](https://github.com/Niker2023/CurrencyExchange) | [Niker2023](https://github.com/Niker2023) | Java |  |   |
+| [CurrencyExchange](https://github.com/IlyaDudnikov/CurrencyExchange) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java |  |   |
+| [CurrencyExchangeKotlin](https://github.com/fakechitor/CurrencyExchangeKotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |   |
+
 
