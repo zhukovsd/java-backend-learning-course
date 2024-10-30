@@ -205,4 +205,5 @@ bookTOC = false
 | [VISELICA](https://github.com/SSABAMM/VISELICA) | [SSABAMM](https://github.com/SSABAMM) | Python | 📝 [Заметки](https://gist.github.com/Asenim/367759b0968037f25dd175b9aa2cf31e) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
 | [Hangman2](https://github.com/AlexAnderViktor/Hangman2) | [AlexAnderViktor](https://github.com/AlexAnderViktor) | Java |  |   |
 | [hangman](https://github.com/SiveriusAlter/hangman) | [SiveriusAlter](https://github.com/SiveriusAlter) | Java |  |   |
+| [LearnProjects](https://github.com/RomanAleynikov/LearnProjects) | [RomanAleynikov](https://github.com/RomanAleynikov) | Java |  |  |
 | [Gallows](https://github.com/Tiardo/Gallows) | [Tiardo](https://github.com/Tiardo) | Java |  |   |
