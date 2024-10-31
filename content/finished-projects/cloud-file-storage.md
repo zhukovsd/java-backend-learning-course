@@ -35,4 +35,8 @@ bookTOC = false
 | [cloud-drive](https://github.com/wallhackj/cloud-drive) | [wallhackj](https://github.com/wallhackj) | Java |  |   |
 | [CloudStorageApp](https://github.com/Solo83/CloudStorageApp) | [Solo83](https://github.com/Solo83) | Java |  |   |
 | [custom-cloud-storage](https://github.com/Nikitavj/custom-cloud-storage) | [Nikitavj](https://github.com/Nikitavj) | Java |  |   |
+| [cloud-file-storage](https://github.com/liemartt/cloud-file-storage) | [liemartt](https://github.com/liemartt) | Java | 📝 [Заметки](https://gist.github.com/krios2146/1b862c67a6d284bf81848cd48c2b8ff8) | Владимир [@krios2146](https://t.me/krios2146) |
+| [FileDrive](https://github.com/DarkRubin/FileDrive) | [DarkRubin](https://github.com/DarkRubin) | Java |  |   |
+| [cloud-file-storage](https://github.com/DragomirovCode/cloud-file-storage) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |   |
+| [cloud_storage](https://github.com/Oldsize/cloud_storage) | [Oldsize](https://github.com/Oldsize) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/a47cb7e657b71e3b5076a4b23cdcb99b) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
 
