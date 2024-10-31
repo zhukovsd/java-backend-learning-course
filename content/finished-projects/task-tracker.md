@@ -16,4 +16,8 @@ bookTOC = false
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |                   |
 | [task-traker-compose](https://github.com/yosakoo/task-traker-compose) | [yosakoo](https://github.com/yosakoo) | Java   |                   |               |
 | [nanotracker](https://github.com/nanokulonq/nanotracker) | [nanokulonq](https://github.com/nanokulonq) | Java | 📝 [Заметки](https://gist.github.com/Asenim/adc115e2d7c66d9c2b2ac5bf44237b07) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [TaskTracker](https://github.com/DarkRubin/TaskTracker) | [DarkRubin](https://github.com/DarkRubin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/989924fff0e6dd20448bfc64de341272) | None [@solid_jdk](https://t.me/solid_jdk) |
+| [Task-tracker](https://github.com/AleksandrKamen/Task-tracker) | [AleksandrKamen](https://github.com/AleksandrKamen) | Java |  |   |
+| [task-scheduler](https://github.com/DragomirovCode/task-scheduler) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |   |
+
 
