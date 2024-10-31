@@ -34,4 +34,5 @@ bookTOC = false
 | [cloudFileStorage](https://github.com/KostyaDemens/cloudFileStorage) | [KostyaDemens](https://github.com/KostyaDemens) | Java |  |   |
 | [cloud-drive](https://github.com/wallhackj/cloud-drive) | [wallhackj](https://github.com/wallhackj) | Java |  |   |
 | [CloudStorageApp](https://github.com/Solo83/CloudStorageApp) | [Solo83](https://github.com/Solo83) | Java |  |   |
+| [custom-cloud-storage](https://github.com/Nikitavj/custom-cloud-storage) | [Nikitavj](https://github.com/Nikitavj) | Java |  |   |
 

@@ -64,4 +64,8 @@ bookTOC = false
 | [Tennis-scoreboard](https://github.com/Nasstyaaa/Tennis-scoreboard) | [Nasstyaaa](https://github.com/Nasstyaaa) | Java |  |   |
 | [Tennis-Scoreboard](https://github.com/ssss1131/Tennis-Scoreboard) | [ssss1131](https://github.com/ssss1131) | Java |  |   |
 | [tennis-scoreboard](https://github.com/leofinder/tennis-scoreboard) | [leofinder](https://github.com/leofinder) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3239d9cc6e7335239005580801bce08b) | Илья [@coderilya](https://t.me/coderilya) |
+| [tennis-scoreboard](https://github.com/salavei-a/tennis-scoreboard) | [salavei-a](https://github.com/salavei-a) | Java |  |   |
+| [tennis-scoreboard](https://github.com/aleos-dev/tennis-scoreboard) | [aleos-dev](https://github.com/aleos-dev) | Java |  |   |
+| [TennisMatchScoreboard](https://github.com/IlyaDudnikov/TennisMatchScoreboard) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java |  |   |
+
 
