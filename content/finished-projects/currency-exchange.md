@@ -126,5 +126,11 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/Niker2023/CurrencyExchange) | [Niker2023](https://github.com/Niker2023) | Java |  |   |
 | [CurrencyExchange](https://github.com/IlyaDudnikov/CurrencyExchange) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java |  |   |
 | [CurrencyExchangeKotlin](https://github.com/fakechitor/CurrencyExchangeKotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |   |
+| [currency-exchange](https://github.com/darknight1996/currency-exchange) | [darknight1996](https://github.com/darknight1996) | Java |  |   |
+| [Currency_exchange.git](https://github.com/Craziy1313/Currency_exchange.git) | [Craziy1313](https://github.com/Craziy1313) | Java |  |   |
+| [CurrencyExchange](https://github.com/GogAndMagog/CurrencyExchange) | [GogAndMagog](https://github.com/GogAndMagog) | Java |  |   |
+| [CurrencyExchange](https://github.com/anton-kulakov/CurrencyExchange) | [anton-kulakov](https://github.com/anton-kulakov) | Java | 📝 [Заметки](https://github.com/anton-kulakov/CurrencyExchange/issues/1) | Aleos [@HTSWT](https://t.me/HTSWT) |
+| [CurrencyExchange](https://github.com/VladShi/CurrencyExchange) | [VladShi](https://github.com/VladShi) | Java |  |   |
+| [currencyExchange](https://github.com/Dimas-Ukimas/currencyExchange) | [Dimas-Ukimas](https://github.com/Dimas-Ukimas) | Java |  |   |
 
 

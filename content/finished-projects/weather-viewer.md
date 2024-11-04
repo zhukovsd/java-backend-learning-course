@@ -61,4 +61,6 @@ bookTOC = false
 | [weather_servlet_app](https://github.com/chskela/weather_servlet_app) | [chskela](https://github.com/chskela) | Kotlin |  |   |
 | [weather-app](https://github.com/shinchik17/weather-app) | [shinchik17](https://github.com/shinchik17) | Java |  |   |
 | [weatherViewerApp](https://github.com/SahaPWNZ/weatherViewerApp) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java | 📝 [Заметки](https://gist.github.com/Asenim/93c8495ce55028e1f11978af0403c1d4) | Илья [@coderilya](https://t.me/coderilya) |
+| [WeatherForecastAPI](https://github.com/grafkust/WeatherForecastAPI) | [grafkust](https://github.com/grafkust) | Java |  |   |
+| [weather-tracker](https://github.com/salavei-a/weather-tracker) | [salavei-a](https://github.com/salavei-a) | Java |  |   |
 

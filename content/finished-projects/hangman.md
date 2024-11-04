@@ -207,3 +207,24 @@ bookTOC = false
 | [hangman](https://github.com/SiveriusAlter/hangman) | [SiveriusAlter](https://github.com/SiveriusAlter) | Java |  |   |
 | [LearnProjects](https://github.com/RomanAleynikov/LearnProjects) | [RomanAleynikov](https://github.com/RomanAleynikov) | Java |  |  |
 | [Gallows](https://github.com/Tiardo/Gallows) | [Tiardo](https://github.com/Tiardo) | Java |  |   |
+| [Hangman](https://github.com/M1nce1337/Hangman) | [M1nce1337](https://github.com/M1nce1337) | Java | 📝 [Заметки](https://gist.github.com/Asenim/f01d53563df4195bb5220b79f3101e78) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Gallow.git](https://github.com/Darncol/Gallow.git) | [Darncol](https://github.com/Darncol) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a069ef01fb19f4d05245e0a3e696763b) | Владислав [@St4rl1ne](https://t.me/St4rl1ne) |
+| [hangman_java](https://github.com/red-eyed-99/hangman_java) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
+| [Hangman](https://github.com/red-eyed-99/Hangman) | [red-eyed-99](https://github.com/red-eyed-99) | C# |  |   |
+| [Hangman](https://github.com/Nataliya1111/Hangman) | [Nataliya1111](https://github.com/Nataliya1111) | Java | 📝 [Заметки](https://gist.github.com/Asenim/013aaf7808095dc6d37a94c4dfd3303c) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [HangmanGame](https://github.com/LeonidEreminW/HangmanGame) | [LeonidEreminW](https://github.com/LeonidEreminW) | Java |  |   |
+| [Hangman](https://github.com/nebarrow/Hangman) | [nebarrow](https://github.com/nebarrow) | Java | 📝 [Заметки](https://gist.github.com/Asenim/4b9001d6c6f8f52a2a51682784ef845b) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/Eleefant/Hangman) | [Eleefant](https://github.com/Eleefant) | Python | 📝 [Заметки](https://gist.github.com/Asenim/cfac7eb864dfe0943b9cbdb49758aa9f) | Владислав [@St4rl1ne](https://t.me/St4rl1ne) |
+| [J1_HangmanGame](https://github.com/xidora/J1_HangmanGame) | [xidora](https://github.com/xidora) | Java | 📝 [Заметки](https://gist.github.com/Asenim/c3be4f13fe9a5ce075003340427e1d02) | Владислав [@St4rl1ne](https://t.me/St4rl1ne) |
+| [itmentor](https://github.com/StatsenkoAnna/itmentor) | [StatsenkoAnna](https://github.com/StatsenkoAnna) | Python | 📝 [Заметки](https://gist.github.com/Asenim/75fb7abcbb545bfff802284770f5ca62) | Дмитрий [@DmMaff](https://t.me/DmMaff), Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [Hangman2.0](https://github.com/reqwin/Hangman2.0) | [reqwin](https://github.com/reqwin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/b85320963b48941b14cfa1f3d9288770) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/ratmeow/hangman) | [ratmeow](https://github.com/ratmeow) | Python |  |   |
+| [Hangman](https://github.com/Exelent26/Hangman) | [Exelent26](https://github.com/Exelent26) | Java |  |   |
+| [gallows](https://github.com/toshikator/gallows) | [toshikator](https://github.com/toshikator) | Java | 📝 [Заметки](https://gist.github.com/Asenim/6971ab8767cc8e8f2f8edbf0157b001e) | Владимир [@maddeningshadow](https://t.me/maddeningshadow) |
+| [Hangman](https://github.com/BamblooV/Hangman) | [BamblooV](https://github.com/BamblooV) | С# | 📝 [Заметки](https://gist.github.com/Asenim/94fe926480f30320a595b18f933a9fa3) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman_game](https://github.com/dna1133/hangman_game) | [dna1133](https://github.com/dna1133) | Python |  |   |
+| [hangman](https://github.com/CherevatenkoOV/hangman) | [CherevatenkoOV](https://github.com/CherevatenkoOV) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3a7f6a98e2b66cc7c19f0b94640bb9e7) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/VladShi/Hangman) | [VladShi](https://github.com/VladShi) | Java |  |   |
+| [Hungman.git](https://github.com/BadNonse/Hungman.git) | [BadNonse](https://github.com/BadNonse) | Java |  |   |
+| [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python |  |   |
+

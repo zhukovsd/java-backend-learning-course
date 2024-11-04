@@ -124,4 +124,12 @@ bookTOC = false
 | [Simulation](https://github.com/falom07/Simulation) | [falom07](https://github.com/falom07) | Java |  |   |
 | [second_project-roadmap](https://github.com/Daniyal-Akhadov/second_project-roadmap) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java | 📝 [Замктки](https://gist.github.com/Asenim/98c9a9cd1354277e3e1def68f64b6ff0) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
 | [Simulation_Project.git](https://github.com/skillnez/Simulation_Project.git) | [skillnez](https://github.com/skillnez) | Java |  |   |
+| [Simulation](https://github.com/GogAndMagog/Simulation) | [GogAndMagog](https://github.com/GogAndMagog) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5c4497af146d6722bbbbad6c4e1cec74) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/at0m-cat/Simulation) | [at0m-cat](https://github.com/at0m-cat) | Java |  |   |
+| [Simulation2D.git](https://github.com/Darncol/Simulation2D.git) | [Darncol](https://github.com/Darncol) | Java |  |   |
+| [Simulation.git](https://github.com/Ghennadi-Berezovschi/Simulation.git) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/31aac8af6c86c58356b04b609c301b66) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/fearux/simulation) | [fearux](https://github.com/fearux) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e1dc0565ba5fb6ddaada6512c4b7cf7e) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/progrohan/Simulation) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ca4d0aa09a7c2be008eb5804f425996e) | fearrux [@fearrux](https://t.me/fearrux) |
+| [Simulation2DWorld](https://github.com/VladShi/Simulation2DWorld) | [VladShi](https://github.com/VladShi) | Java |  |   |
+| [simulation](https://github.com/violaceusflame/simulation) | [violaceusflame](https://github.com/violaceusflame) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a7bb6f3ed297cbd0e9e4aa851f120f40) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 

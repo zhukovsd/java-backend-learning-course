@@ -67,5 +67,11 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/salavei-a/tennis-scoreboard) | [salavei-a](https://github.com/salavei-a) | Java |  |   |
 | [tennis-scoreboard](https://github.com/aleos-dev/tennis-scoreboard) | [aleos-dev](https://github.com/aleos-dev) | Java |  |   |
 | [TennisMatchScoreboard](https://github.com/IlyaDudnikov/TennisMatchScoreboard) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java |  |   |
+| [tennis_scoreboard](https://github.com/LGAua/tennis_scoreboard) | [LGAua](https://github.com/LGAua) | Java | 📝 [Заметки](https://gist.github.com/Asenim/73f5f64f223aeff96d3ea171dee55769) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [tennis-scoreboard](https://github.com/Ilyalapin/tennis-scoreboard) | [Ilyalapin](https://github.com/Ilyalapin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/60ac5d8eafe5230724050f63dc71ffac) | Михаил [@dragom1rov](https://t.me/dragom1rov) |
+| [Tennis_scoreboard](https://github.com/Wh4tisl0ve/Tennis_scoreboard) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python | 📝 [Заметки](https://gist.github.com/Asenim/84aa741bb7cd11706929b2c62138e3e9) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [tennis-Scoreboard](https://github.com/mak7im-05/tennis-Scoreboard) | [mak7im-05](https://github.com/mak7im-05) | Java |  |   |
+| [tennis-scoreboard](https://github.com/red-eyed-99/tennis-scoreboard) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
+| [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
 
 

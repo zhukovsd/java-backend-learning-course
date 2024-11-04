@@ -19,3 +19,5 @@ bookTOC = false
 | Покер на костях | [Poker-dice](https://github.com/LastOfWhom/Poker-dice) | [LastOfWhom](https://github.com/LastOfWhom) | PHP |  |
 | Flight API | [FlightAPI](https://github.com/u-cha/FlightAPI) | [u-cha](https://github.com/u-cha) | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/7974) | Сергей [@zhukovsd](https://t.me/zhukovsd) |
 | Flight API | [Airlines](https://github.com/kopyshov/Airlines) | [kopyshov](https://github.com/kopyshov) | Java | 🎬 [Видео](https://t.me/zhukovsd_it_chat/11009) | Сергей [@zhukovsd](https://t.me/zhukovsd) |
+| TicTacToe | [TicTacToe](https://github.com/sess-128/TicTacToe) | [sess-128](https://github.com/sess-128) | Java | 📝 [Заметки](https://gist.github.com/Asenim/508bdec6b1b9536d8738b37b6e09ba7e) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+
