@@ -280,7 +280,7 @@ HTTP коды ответов:
         "id": 1,
         "name": "Australian dollar",
         "code": "AUD",
-        "sign": "A€"
+        "sign": "A$"
     },
     "rate": 1.45,
     "amount": 10.00,
