@@ -180,12 +180,12 @@ HTTP коды ответов:
         "sign": "$"
     },
     "targetCurrency": {
-        "id": 1,
-        "name": "Euro",
-        "code": "EUR",
-        "sign": "€"
+        "id": 2,
+        "name": "Russian Ruble",
+        "code": "RUB",
+        "sign": "₽"
     },
-    "rate": 0.99
+    "rate": 80
 }
 
 ```
@@ -245,12 +245,12 @@ HTTP коды ответов:
         "sign": "$"
     },
     "targetCurrency": {
-        "id": 1,
-        "name": "Euro",
-        "code": "EUR",
-        "sign": "€"
+        "id": 2,
+        "name": "Russian Ruble",
+        "code": "RUB",
+        "sign": "₽"
     },
-    "rate": 0.99
+    "rate": 80
 }
 
 ```
