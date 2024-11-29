@@ -227,4 +227,22 @@ bookTOC = false
 | [Hangman](https://github.com/VladShi/Hangman) | [VladShi](https://github.com/VladShi) | Java |  |   |
 | [Hungman.git](https://github.com/BadNonse/Hungman.git) | [BadNonse](https://github.com/BadNonse) | Java |  |   |
 | [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python |  |   |
+| [Hangman](https://github.com/DjontLong/Hangman) | [DjontLong](https://github.com/DjontLong) | Java |  |   |
+| [hangman](https://github.com/SiveriusAlter/hangman) | [SiveriusAlter](https://github.com/SiveriusAlter) | Java | 📝 [Заметки](https://gist.github.com/Asenim/706425be95b024010c4b6bda9fa35518) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/1b68051eab951a7f7ba5ec55bbe6ab32) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [FirstProject.git](https://github.com/ProgWrite/FirstProject.git) | [ProgWrite](https://github.com/ProgWrite) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e7a9479e6e0db41da11bc38592995689) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [Hangman](https://github.com/IT-DO/Hangman) | [IT-DO](https://github.com/IT-DO) | Java | [Заметки](https://gist.github.com/Asenim/405872a2012b613c944ccf87d2828cfc) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Python_Hangman_Game](https://github.com/JonyKruCode/Python_Hangman_Game) | [JonyKruCode](https://github.com/JonyKruCode) | Python | 📝 [Заметки](https://gist.github.com/Asenim/2b7324e81267cb185ff0b5f71eaf8c62) | Денис [@dnsngrv](https://t.me/dnsngrv), Виктор [@csatom](https://t.me/csatom) |
+| [J1_Hangman](https://github.com/xidora/J1_Hangman) | [xidora](https://github.com/xidora) | Java | 📝 [Заметки](https://gist.github.com/Asenim/64df29c2d395043ffc5fabeb72fb3e90) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangMan](https://github.com/YuukiSayonara/hangMan) | [YuukiSayonara](https://github.com/YuukiSayonara) | Java |  |   |
+| [HangMan](https://github.com/Pars89/HangMan) | [Pars89](https://github.com/Pars89) | Java | 📝 [Заметки](https://gist.github.com/Asenim/b7fa384bf2813ec358e3bf63bf7085ad) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/jdoe058/Hangman) | [jdoe058](https://github.com/jdoe058) | Java | 📝 [Заметки](https://gist.github.com/Asenim/18c6fc2c6816e2958594d575205307ec) | Алексей [@Raketa4000az](https://t.me/Raketa4000az), Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [Gallow](https://github.com/TurtleOnaRock/Gallow) | [TurtleOnaRock](https://github.com/TurtleOnaRock) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a2aadfa4d73108a222bb5bb6632ff241) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hungman.git](https://github.com/BadNonse/Hungman.git) | [BadNonse](https://github.com/BadNonse) | Java | 📝 [Заметки](https://gist.github.com/Asenim/21ba2e565f1593f15a3f11b3d74cc4e2) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [git-lerning.git](https://github.com/Ivan-cyber-code/git-lerning.git) | [Ivan-cyber-code](https://github.com/Ivan-cyber-code) | Java |  |   |
+| [Hangman.git](https://github.com/BelDoor/Hangman.git) | [BelDoor](https://github.com/BelDoor) | Java |  |   |
+| [hangman](https://github.com/flyingDraco193/hangman) | [flyingDraco193](https://github.com/flyingDraco193) | Java |  |   |
+| [HangmanRefactored](https://github.com/Exelent26/HangmanRefactored) | [Exelent26](https://github.com/Exelent26) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3fcc09de74a9d23738a8ac0d6bf2c732) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/Oraleecy/hangman) | [Oraleecy](https://github.com/Oraleecy) | Java | 📝 [Заметки](https://gist.github.com/Asenim/95bad53cc30579cc5af8f0cfafe91605) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+
 
