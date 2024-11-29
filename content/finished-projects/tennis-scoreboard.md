@@ -73,5 +73,17 @@ bookTOC = false
 | [tennis-Scoreboard](https://github.com/mak7im-05/tennis-Scoreboard) | [mak7im-05](https://github.com/mak7im-05) | Java |  |   |
 | [tennis-scoreboard](https://github.com/red-eyed-99/tennis-scoreboard) | [red-eyed-99](https://github.com/red-eyed-99) | Java |  |   |
 | [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
+| [tennis-scoreboard-kotlin](https://github.com/fakechitor/tennis-scoreboard-kotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |   |
+| [TennisMatchScoreboard](https://github.com/EgorFurman/TennisMatchScoreboard) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/71cbb5359181cd1f5a1ff144b79346fa) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python | 📝 [Заметки](https://gist.github.com/Asenim/86dec26d4fca31f83ffa8f8c45808a00) | Виктор [@csatom](https://t.me/csatom) |
+| [TennisScoreBoard.git](https://github.com/Awakary/TennisScoreBoard.git) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/afca15c89b3d4df3a27893d8848957fc) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [TennisScoreboard](https://github.com/AleksandrS112/TennisScoreboard) | [AleksandrS112](https://github.com/AleksandrS112) | Java |  |   |
+| [TenisScoreboard](https://github.com/Mar5sha1l/TenisScoreboard) | [Mar5sha1l](https://github.com/Mar5sha1l) | Java |  |   |
+| [tennis-scoreboard-project](https://github.com/Gevorji/tennis-scoreboard-project) | [Gevorji](https://github.com/Gevorji) | Python | 📝 [Заметки](https://gist.github.com/Asenim/62aae2d9f57cffef92392822855ab77e) | Виктор [@csatom](https://t.me/csatom) |
+| [tennis-scoreboard-kotlin](https://github.com/fakechitor/tennis-scoreboard-kotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin | 📝 [Заметки](https://gist.github.com/Asenim/c55a2972616fd08c5d2ff8599ac6c8c6) | Илья [@coderilya](https://t.me/coderilya) |
+| [TennisMatchProject.git](https://github.com/PavelFurochkin/TennisMatchProject.git) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 📝 [Заметки](https://gist.github.com/Asenim/3658b0589e568d320b4dec495e814ef2) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [Tennis_match_scoreboard](https://github.com/Dmitry-Strog/Tennis_match_scoreboard) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/74b49a9b154097f361aa5e77060992c9) | Виктор [@csatom](https://t.me/csatom) |
+| [tennis-Scoreboard](https://github.com/mak7im-05/tennis-Scoreboard) | [mak7im-05](https://github.com/mak7im-05) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3c4ff9d90c4c519c7f13e3ee86fdc755) | Степан [@xseeljvm](https://t.me/xseeljvm) |
+| [tennis-scoreboard](https://github.com/MrShoffen/tennis-scoreboard) | [MrShoffen](https://github.com/MrShoffen) | Java |  |   |
 
 
