@@ -19,5 +19,7 @@ bookTOC = false
 | [TaskTracker](https://github.com/DarkRubin/TaskTracker) | [DarkRubin](https://github.com/DarkRubin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/989924fff0e6dd20448bfc64de341272) | None [@solid_jdk](https://t.me/solid_jdk) |
 | [Task-tracker](https://github.com/AleksandrKamen/Task-tracker) | [AleksandrKamen](https://github.com/AleksandrKamen) | Java |  |   |
 | [task-scheduler](https://github.com/DragomirovCode/task-scheduler) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |   |
+| [task-tracker](https://github.com/zshri/task-tracker) | [zshri](https://github.com/zshri) | Java |  |   |
+| [Copytrello](https://github.com/Repinskie/Copytrello) | [Repinskie](https://github.com/Repinskie) | Java |  |   |
 
 
