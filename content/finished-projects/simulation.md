@@ -132,4 +132,17 @@ bookTOC = false
 | [Simulation](https://github.com/progrohan/Simulation) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ca4d0aa09a7c2be008eb5804f425996e) | fearrux [@fearrux](https://t.me/fearrux) |
 | [Simulation2DWorld](https://github.com/VladShi/Simulation2DWorld) | [VladShi](https://github.com/VladShi) | Java |  |   |
 | [simulation](https://github.com/violaceusflame/simulation) | [violaceusflame](https://github.com/violaceusflame) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a7bb6f3ed297cbd0e9e4aa851f120f40) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation_Project.git](https://github.com/skillnez/Simulation_Project.git) | [skillnez](https://github.com/skillnez) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5f700c490fa6e28d1602445b16d8017e) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation2DWorld](https://github.com/VladShi/Simulation2DWorld) | [VladShi](https://github.com/VladShi) | Java | 📝 [Заметки](https://gist.github.com/Asenim/fe3c67b393839ed2a12b0268c6765e79) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation.git](https://github.com/dotogo/simulation.git) | [dotogo](https://github.com/dotogo) | Java | 📝 [Заметки](https://gist.github.com/Asenim/db9fcb6abad1c93ba25e349b19b61646) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation2.0](https://github.com/reqwin/Simulation2.0) | [reqwin](https://github.com/reqwin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/d059e3517f62b990d7ccda2e70400d2a) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/Dirol-Mysteri/simulation) | [Dirol-Mysteri](https://github.com/Dirol-Mysteri) | Java |  |   |
+| [Simulation](https://github.com/JaGenn/Simulation) | [JaGenn](https://github.com/JaGenn) | Java |  |   |
+| [Simulation](https://github.com/sess-128/Simulation) | [sess-128](https://github.com/sess-128) | Java |  |   |
+| [SimulationGame](https://github.com/leshinskiy/SimulationGame) | [leshinskiy](https://github.com/leshinskiy) | Java |  |   |
+| [Simulation](https://github.com/Spacier829/Simulation) | [Spacier829](https://github.com/Spacier829) | Java |  |   |
+| [simulation](https://github.com/jdoe058/simulation) | [jdoe058](https://github.com/jdoe058) | Java | 📝 [Заметки](https://gist.github.com/Asenim/6e6545515f8cd5a1fc0d9daa90ebc1d1) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/progrohan/Simulation) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1c2b0c820a2dd3be29c5907b552425e2) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation_java](https://github.com/red-eyed-99/simulation_java) | [red-eyed-99](https://github.com/red-eyed-99) | Java | 📝 [Заметки](https://gist.github.com/Asenim/0c1892a23aa66cefed4631f4eb66d4e0) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/nebarrow/Simulation) | [nebarrow](https://github.com/nebarrow) | Java |  |   |
 

@@ -59,8 +59,13 @@ bookTOC = false
 | [weather_viewer](https://github.com/user873475320/weather_viewer) | [user873475320](https://github.com/user873475320) | Java |  |   |
 | [weather_viewer](https://github.com/user873475320/weather_viewer) | [user873475320](https://github.com/user873475320) | Java |  |   |
 | [weather_servlet_app](https://github.com/chskela/weather_servlet_app) | [chskela](https://github.com/chskela) | Kotlin |  |   |
-| [weather-app](https://github.com/shinchik17/weather-app) | [shinchik17](https://github.com/shinchik17) | Java |  |   |
+| [weather-app](https://github.com/shinchik17/weather-app) | [shinchik17](https://github.com/shinchik17) | Java | 📝 [Заметки](https://github.com/shinchik17/weather-app/issues/1) | Aleos [@HTSWT](https://t.me/HTSWT) |
 | [weatherViewerApp](https://github.com/SahaPWNZ/weatherViewerApp) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java | 📝 [Заметки](https://gist.github.com/Asenim/93c8495ce55028e1f11978af0403c1d4) | Илья [@coderilya](https://t.me/coderilya) |
 | [WeatherForecastAPI](https://github.com/grafkust/WeatherForecastAPI) | [grafkust](https://github.com/grafkust) | Java |  |   |
 | [weather-tracker](https://github.com/salavei-a/weather-tracker) | [salavei-a](https://github.com/salavei-a) | Java |  |   |
+| [weather_tracker](https://github.com/ssss1131/weather_tracker) | [ssss1131](https://github.com/ssss1131) | Java |  |   |
+| [go-weather-viewer](https://github.com/albakov/go-weather-viewer) | [albakov](https://github.com/albakov) | Go |  |   |
+| [WeatherApp](https://github.com/karimpatvari/WeatherApp) | [karimpatvari](https://github.com/karimpatvari) | Java |  |   |
+| [weather-viewer](https://github.com/leofinder/weather-viewer) | [leofinder](https://github.com/leofinder) | Java |  |   |
+| [weather-tracker](https://github.com/aleos-dev/weather-tracker) | [aleos-dev](https://github.com/aleos-dev) | Java |  |   |
 

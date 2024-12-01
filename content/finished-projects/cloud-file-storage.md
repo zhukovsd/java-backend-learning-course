@@ -39,4 +39,8 @@ bookTOC = false
 | [FileDrive](https://github.com/DarkRubin/FileDrive) | [DarkRubin](https://github.com/DarkRubin) | Java |  |   |
 | [cloud-file-storage](https://github.com/DragomirovCode/cloud-file-storage) | [DragomirovCode](https://github.com/DragomirovCode) | Java |  |   |
 | [cloud_storage](https://github.com/Oldsize/cloud_storage) | [Oldsize](https://github.com/Oldsize) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/a47cb7e657b71e3b5076a4b23cdcb99b) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CloudFileStorage](https://github.com/garaninnv/CloudFileStorage) | [garaninnv](https://github.com/garaninnv) | Java |  |   |
+| [cloud-file-storage](https://github.com/KostaPo/cloud-file-storage) | [KostaPo](https://github.com/KostaPo) | Java | 📝 [Заметки](https://gist.github.com/Asenim/2d1db5f72724483af767c0974d5a9f03) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [cloudFileStorage](https://github.com/SahaPWNZ/cloudFileStorage) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java |  |   |
+| [Cloud-files-storage](https://github.com/grafkust/Cloud-files-storage) | [grafkust](https://github.com/grafkust) | Java |  |   |
 

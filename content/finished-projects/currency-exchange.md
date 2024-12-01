@@ -132,5 +132,12 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/anton-kulakov/CurrencyExchange) | [anton-kulakov](https://github.com/anton-kulakov) | Java | 📝 [Заметки](https://github.com/anton-kulakov/CurrencyExchange/issues/1) | Aleos [@HTSWT](https://t.me/HTSWT) |
 | [CurrencyExchange](https://github.com/VladShi/CurrencyExchange) | [VladShi](https://github.com/VladShi) | Java |  |   |
 | [currencyExchange](https://github.com/Dimas-Ukimas/currencyExchange) | [Dimas-Ukimas](https://github.com/Dimas-Ukimas) | Java |  |   |
+| [currency-exchange](https://github.com/Faust32/currency-exchange) | [Faust32](https://github.com/Faust32) | Java |  |   |
+| [currency-exchange](https://github.com/as1iva/currency-exchange) | [as1iva](https://github.com/as1iva) | Java |  |   |
+| [currency-exhcange](https://github.com/PavelPerunov/currency-exhcange) | [PavelPerunov](https://github.com/PavelPerunov) | Java |  |   |
+| [CurrencyExchange](https://github.com/falom07/CurrencyExchange) | [falom07](https://github.com/falom07) | Java |  |   |
+| [third_project_roadmap](https://github.com/Daniyal-Akhadov/third_project_roadmap) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java |  |   |
+| [currency_exchange](https://github.com/dna1133/currency_exchange) | [dna1133](https://github.com/dna1133) | Python |  |   |
+| [currency_exchange](https://github.com/lolipokzz/currency_exchange) | [lolipokzz](https://github.com/lolipokzz) | Java |  |   |
 
 
