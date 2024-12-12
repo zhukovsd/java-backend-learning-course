@@ -115,10 +115,11 @@ weight = 4
 - [Новый матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/new-match.html)
 - [Счёт текущего матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/match-score.html)
 - [Завершенные матчи](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/matches.html)
+- [Страница](https://zhukovsd.github.io/weather-viewer-html-layouts/error.html) с ошибкой
 
 Как пользоваться:
-- Перенести в проект нужные для веб-страниц ресурсы - CSS, JS, картинки
-- На основе HTML верстки создать JSP страницы
+- Перенести в проект нужные для веб-страниц ресурсы - CSS, картинки
+- На основе HTML верстки создать шаблонизированные страницы с добавлением тегов Thymeleaf
 
 ## База данных
 
