@@ -156,6 +156,26 @@ weight = 5
 
 С десериализацией поможет `JsonMapper` из библиотеки Jackson.
 
+## Фронтенд
+
+Я считаю, что уметь делать простой фронтенд с нуля - универсально полезный навык для всех разработчиков. Однако, в условиях дефицита времени это может быть нерационально.
+
+Поэтому, для проекта существует готовая верстка, которую можно взять за основу. Если хотите расширить функционал проекта или сделать верстку с нуля - приветствую желание самостоятельно это сделать.
+
+Репозиторий с версткой - [https://github.com/zhukovsd/weather-viewer-html-layouts](https://github.com/zhukovsd/weather-viewer-html-layouts).
+
+Что внутри - макеты четырёх страниц, адаптивная верстка (десктопы, телефоны). Минимальный Javascript для показа меню навигации на телефонах.
+
+Задеплоенные на GitHub Pages страницы для демонстрации:
+- [Главная страница](https://zhukovsd.github.io/weather-viewer-html-layouts/index.html) с 5 карточками погоды
+- [Результаты поиска](https://zhukovsd.github.io/weather-viewer-html-layouts/search-results.html)
+- [Авторизация](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-in.html), дополнительный [вариант](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-in-with-errors.html) с ошибками валидации
+- [Регистрация](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up.html), дополнительный [вариант](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up-with-errors.html) с ошибками валидации
+
+Как пользоваться:
+- Перенести в проект нужные для веб-страниц ресурсы - CSS, картинки
+- На основе HTML верстки создать шаблонизированные страницы с добавлением тегов Thymeleaf
+
 ## Тесты
 
 ### Интеграционные тесты сервисов по работе с пользователями и сессиями
