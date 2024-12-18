@@ -171,6 +171,7 @@ weight = 5
 - [Результаты поиска](https://zhukovsd.github.io/weather-viewer-html-layouts/search-results.html)
 - [Авторизация](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-in.html), дополнительный [вариант](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-in-with-errors.html) с ошибками валидации
 - [Регистрация](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up.html), дополнительный [вариант](https://zhukovsd.github.io/weather-viewer-html-layouts/sign-up-with-errors.html) с ошибками валидации
+- [Страница](https://zhukovsd.github.io/weather-viewer-html-layouts/error.html) с ошибкой
 
 Как пользоваться:
 - Перенести в проект нужные для веб-страниц ресурсы - CSS, картинки
