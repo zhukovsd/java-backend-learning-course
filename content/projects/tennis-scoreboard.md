@@ -158,7 +158,7 @@ MVCS - архитектурный паттерн, особенно хорошо 
 - Через `OngoingMatchesService` получает экземпляр класса `Match` для текущего матча, который является моделью/частью модели `MatchScoreModel`
 - Через `MatchScoreCalculationService` обновляет счёт в матче
 - Если матч закончился - через `FinishedMatchesPersistenceService` сохраняет законченный матч в базу данных
-- С помощью `MatchScoreView` отображает `MatchScoreModel` в виде отрендеренного HTML
+- С помощью JSP шаблона отображает `MatchScoreModel` в виде отрендеренного HTML
 
 Каждый из упомянутых сервисов делает конкретную работу:
 - `OngoingMatchesService` хранит текущие матчи и позволяет их записывать/читать
