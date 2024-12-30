@@ -68,4 +68,11 @@ bookTOC = false
 | [WeatherApp](https://github.com/karimpatvari/WeatherApp) | [karimpatvari](https://github.com/karimpatvari) | Java |  |   |
 | [weather-viewer](https://github.com/leofinder/weather-viewer) | [leofinder](https://github.com/leofinder) | Java |  |   |
 | [weather-tracker](https://github.com/aleos-dev/weather-tracker) | [aleos-dev](https://github.com/aleos-dev) | Java |  |   |
+| [WeatherApp](https://github.com/Wh4tisl0ve/WeatherApp) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |  
+| [weatherViewer](https://github.com/EgorFurman/weatherViewer) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aa26e724619a4273c623b6e620438a6c) | Сергей [@grandpraline](https//t.me/grandpraline) |  
+| [weather-tracker](https://github.com/VladShi/weather-tracker) | [VladShi](https://github.com/VladShi) | Java |  |  |  
+| [weather-tracker](https://github.com/Ilyalapin/weather-tracker) | [Ilyalapin](https://github.com/Ilyalapin) | Java |  |  |  
+| [DjangoProjectWeather](https://github.com/Pashosi/DjangoProjectWeather) | [Pashosi](https://github.com/Pashosi) | Python |  |  |  
+| [WeatherApp.git](https://github.com/slavik-gassiev/WeatherApp.git) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java |  |  |  
+
 
