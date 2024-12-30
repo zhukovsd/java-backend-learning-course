@@ -85,5 +85,10 @@ bookTOC = false
 | [Tennis_match_scoreboard](https://github.com/Dmitry-Strog/Tennis_match_scoreboard) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/74b49a9b154097f361aa5e77060992c9) | Виктор [@csatom](https://t.me/csatom) |
 | [tennis-Scoreboard](https://github.com/mak7im-05/tennis-Scoreboard) | [mak7im-05](https://github.com/mak7im-05) | Java | 📝 [Заметки](https://gist.github.com/Asenim/3c4ff9d90c4c519c7f13e3ee86fdc755) | Степан [@xseeljvm](https://t.me/xseeljvm) |
 | [tennis-scoreboard](https://github.com/MrShoffen/tennis-scoreboard) | [MrShoffen](https://github.com/MrShoffen) | Java |  |   |
+| [TenisScoreBoard](https://github.com/falom07/TenisScoreBoard) | [falom07](https://github.com/falom07) | Java |  |  |  
+| [tennis-scoreboard](https://github.com/as1iva/tennis-scoreboard) | [as1iva](https://github.com/as1iva) | java |  |  |  
+| [tennis-score-board](https://github.com/Faust32/tennis-score-board) | [Faust32](https://github.com/Faust32) | Java |  |  |  
+| [TennisScoreboard](https://github.com/anton-kulakov/TennisScoreboard) | [anton-kulakov](https://github.com/anton-kulakov) | Java |  |  |  
+
 
 
