@@ -44,7 +44,7 @@ bookTOC = false
 | [cloudFileStorage](https://github.com/SahaPWNZ/cloudFileStorage) | [SahaPWNZ](https://github.com/SahaPWNZ) | Java |  |   |
 | [Cloud-files-storage](https://github.com/grafkust/Cloud-files-storage) | [grafkust](https://github.com/grafkust) | Java |  |   |
 | [cloud-file-storage](https://github.com/salavei-a/cloud-file-storage) | [salavei-a](https://github.com/salavei-a) | Java |  |  |  
-| [CloudFileStorage](https://github.com/Mibak87/CloudFileStorage) | [Mibak87](https://github.com/Mibak87) | Java |  |  |  
-| [cloud-keeper](https://github.com/shinchik17/cloud-keeper) | [shinchik17](https://github.com/shinchik17) | Java | 📝 [Заметки](https://gist.github.com/Asenim/81b00010952c11352b749169715ae099) | Евгений [@solid_jdk](https://t.me/solid_jdk) |  
+| [CloudFileStorage](https://github.com/Mibak87/CloudFileStorage) | [Mibak87](https://github.com/Mibak87) | Java | 📝 [Заметки](https://gist.github.com/Asenim/81b00010952c11352b749169715ae099) | Евгений [@solid_jdk](https://t.me/solid_jdk) |  
+| [cloud-keeper](https://github.com/shinchik17/cloud-keeper) | [shinchik17](https://github.com/shinchik17) | Java |  |  |  
 | [file-storage](https://github.com/LGAzx/file-storage) | [LGAzx](https://github.com/LGAzx) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/a7e79ffdb0c4e326e90caacf7e7804ac) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |  
 
