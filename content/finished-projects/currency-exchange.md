@@ -139,5 +139,13 @@ bookTOC = false
 | [third_project_roadmap](https://github.com/Daniyal-Akhadov/third_project_roadmap) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java |  |   |
 | [currency_exchange](https://github.com/dna1133/currency_exchange) | [dna1133](https://github.com/dna1133) | Python |  |   |
 | [currency_exchange](https://github.com/lolipokzz/currency_exchange) | [lolipokzz](https://github.com/lolipokzz) | Java |  |   |
-
+| [currency-exchanger](https://github.com/Dirol-Mysteri/currency-exchanger) | [Dirol-Mysteri](https://github.com/Dirol-Mysteri) | Java |  |  |  
+| [CurrencyExchange.git](https://github.com/IliasNumberOne/CurrencyExchange.git) | [IliasNumberOne](https://github.com/IliasNumberOne) | Java | 📝 [Заметки](https://gist.github.com/Asenim/79266d46f4cc92ddddbddba9603573f5) | Евгений [@zhekadoe](https://t.me/zhekadoe) |  
+| [currency_exchanger](https://github.com/ratmeow/currency_exchanger) | [ratmeow](https://github.com/ratmeow) | Python |  |  |  
+| [CurrencyExchange.git](https://github.com/Darncol/CurrencyExchange.git) | [Darncol](https://github.com/Darncol) | Java |  |  |  
+| [currency-exchange](https://github.com/tem1dev/currency-exchange) | [tem1dev](https://github.com/tem1dev) | Java |  |  |  
+| [CurrencyExchange](https://github.com/Sss330/CurrencyExchange) | [Sss330](https://github.com/Sss330) | Java |  |  |  
+| [CurrencyExchange](https://github.com/jdoe058/CurrencyExchange) | [jdoe058](https://github.com/jdoe058) | Java |  |  |  
+| [currency_exchange_backendv=1](https://github.com/RadomirGross/currency_exchange_backendv=1) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |  
+| [currency-exchanger](https://github.com/nebarrow/currency-exchanger) | [nebarrow](https://github.com/nebarrow) | Java |  |  |  
 

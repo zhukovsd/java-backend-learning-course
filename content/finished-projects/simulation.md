@@ -145,4 +145,12 @@ bookTOC = false
 | [Simulation](https://github.com/progrohan/Simulation) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/Asenim/1c2b0c820a2dd3be29c5907b552425e2) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation_java](https://github.com/red-eyed-99/simulation_java) | [red-eyed-99](https://github.com/red-eyed-99) | Java | 📝 [Заметки](https://gist.github.com/Asenim/0c1892a23aa66cefed4631f4eb66d4e0) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/nebarrow/Simulation) | [nebarrow](https://github.com/nebarrow) | Java |  |   |
+| [Simulation](https://github.com/NiceBruce/Simulation) | [NiceBruce](https://github.com/NiceBruce) | Java |  |  |  
+| [Simulation](https://github.com/fernerman/Simulation) | [fernerman](https://github.com/fernerman) | Java |  |  |  
+| [Py_pet_pr2_Simulation](https://github.com/JonyHelloWorld/Py_pet_pr2_Simulation) | [JonyHelloWorld](https://github.com/JonyHelloWorld) | Python |  |  |  
+| [simulation](https://github.com/ratmeow/simulation) | [ratmeow](https://github.com/ratmeow) | Python |  |  |  
+| [simulation_improved.git](https://github.com/Chukcha1337/simulation_improved.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5a285e0567a3395ea14ce8c13fefe9fd) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |  
+| [Simulation.git](https://github.com/legotin212/Simulation.git) | [legotin212](https://github.com/legotin212) | Java | 📝 [Заметки](https://gist.github.com/Asenim/9d1cb1ad1f55a461acd9190c5e4b35b8) | Fearrux [@fearrux](https://t.me/fearrux) |  
+| [Simulation.git](https://github.com/Chukcha1337/Simulation.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e8f8ccb4e83afef4274611071da2c1c4) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |  
+
 
