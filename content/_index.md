@@ -116,9 +116,9 @@
 
 [Подробнее](https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21) про материалы, какую проблему решают и из чего состоят.
 
-По состоянию на май 2024:
+По состоянию на январь 2025:
 
-- Виселица - в работе
+- Виселица - [https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8)
 - Симуляция - в работе
 - Обмен валют - [https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b)
 
