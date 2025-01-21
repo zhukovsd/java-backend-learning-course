@@ -30,4 +30,4 @@ enableGitInfo = true
 
 [services]
 [[services.googleAnalytics]]
-  id = G-VXVWNDJ3VL
+  id = "G-VXVWNDJ3VL"
