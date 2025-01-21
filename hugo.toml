@@ -29,5 +29,5 @@ enableGitInfo = true
   weight = 30
 
 [services]
-[[services.googleAnalytics]]
+[services.googleAnalytics]
   id = "G-VXVWNDJ3VL"
