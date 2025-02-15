@@ -111,7 +111,7 @@ REST - набор правил взаимодействия клиента и с
 - [Бесплатный курс](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr) по Java EE от Наиля Алишева
 - [Статья](https://javarush.com/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie) с примерами на сайте Javarush
 - [Краткое интро](https://www.baeldung.com/intro-to-servlets) в сервлеты от Baeldung
-- Практика - проекты с 3 по 5
+- Практика - проекты с 3 по 4
 
 ### Spring
 
@@ -127,7 +127,7 @@ Spring - основной фреймворк Java разработчика с д
 
 - Начать можно с [бесплатного плейлиста](https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ) Алишева на YouTube
 - [Spring - полный курс](https://swiftbook.org/courses/438) Наиля Алишева - разделы Spring Core, Spring MVC, Spring Boot, Spring Security
-- Практика - проекты с 6 и 7
+- Практика - проекты с 5 по 7
 
 ### Шаблонизаторы веб-страниц
 
