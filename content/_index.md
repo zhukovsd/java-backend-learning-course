@@ -13,6 +13,7 @@
 
 С 2009 года профессионально занимаюсь разработкой, на Java пишу с 2014. Рабочая должность и обязанности находятся где-то на пересечении Architect/Fullstack Dev/Team Lead. Люблю и умею учить и менторить начинающих и развивающихся разработчиков.
 
+- [Блог](https://zhukovsd.it/)
 - [LinkedIn](https://www.linkedin.com/in/zhukovsd/)
 - [Резюме](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf)
 - [Telegram канал](https://t.me/zhukovsd_it_mentor)
