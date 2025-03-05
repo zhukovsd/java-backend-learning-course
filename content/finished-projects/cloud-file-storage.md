@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-41 реализаций на Java, PHP, Python. 17 ревью.
+47 реализаций на Java, PHP, Python. 18 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -55,3 +55,9 @@ bookTOC = false
 | [cloud](https://github.com/Yvnushevskiy/cloud) | [Yvnushevskiy](https://github.com/Yvnushevskiy) | Java |  |  |
 | [Cloud_file_storage](https://github.com/Wh4tisl0ve/Cloud_file_storage) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [cloud_file_storage](https://github.com/PavelPerunov/cloud_file_storage) | [PavelPerunov](https://github.com/PavelPerunov) | Java |  |  |
+| [cloud-storage-rest-api](https://github.com/MrShoffen/cloud-storage-rest-api) | [MrShoffen](https://github.com/MrShoffen) | Java |  |  |
+| [files_cloud.git](https://github.com/slavik-gassiev/files_cloud.git) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java |  |  |
+| [cloud-file-storage](https://github.com/at0m-cat/cloud-file-storage) | [at0m-cat](https://github.com/at0m-cat) | Java |  |  |
+| [CloudFileStorage](https://github.com/mak7im-05/CloudFileStorage) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
+| [cloud-file-storage](https://github.com/IlyaDudnikov/cloud-file-storage) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/65cab1bedcace799073316067a30c25f) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CloudFileStorage](https://github.com/VladShi/CloudFileStorage) | [VladShi](https://github.com/VladShi) | Java |  |  |
