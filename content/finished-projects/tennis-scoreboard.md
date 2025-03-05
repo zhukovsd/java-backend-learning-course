@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-90 реализаций на Java, Python, Kotlin, PHP, Ruby. 35 ревью.
+100 реализаций на Java, Python, Kotlin, PHP, Ruby. 37 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -99,8 +99,18 @@ bookTOC = false
 | [scoreboard](https://github.com/at0m-cat/scoreboard) | [at0m-cat](https://github.com/at0m-cat) | Java |  |  |
 | [tennis-scoreboard](https://github.com/Iposhka54/tennis-scoreboard) | [Iposhka54](https://github.com/Iposhka54) | Java |  |  |
 | [TennisScoreBoard](https://github.com/IlPl123454/TennisScoreBoard) | [IlPl123454](https://github.com/IlPl123454) | Java |  |  |
-| [tennis_scoreboard](https://github.com/ratmeow/tennis_scoreboard) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
+| [tennis_scoreboard](https://github.com/ratmeow/tennis_scoreboard) | [ratmeow](https://github.com/ratmeow) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/62cb7a144572231a589e18f90e48bfd9) | Виктор [@csatom](https://t.me/csatom) |
 | [TennisScoreBoard.git](https://github.com/Darncol/TennisScoreBoard.git) | [Darncol](https://github.com/Darncol) | Java |  |  |
 | [tennis_scoreboard](https://github.com/krios2146/tennis_scoreboard) | [krios2146](https://github.com/krios2146) | Ruby |  |  |
-| [Tennis_Match_Scoreboard](https://github.com/Anikavuk/Tennis_Match_Scoreboard) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
+| [Tennis_Match_Scoreboard](https://github.com/Anikavuk/Tennis_Match_Scoreboard) | [Anikavuk](https://github.com/Anikavuk) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/8f4424f9e05f97e91930467bc80df01b) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [Tennis-scoreboard](https://github.com/grunder-96/Tennis-scoreboard) | [grunder-96](https://github.com/grunder-96) | Java |  |  |
+| [TennisScoreboard](https://github.com/Spacier829/TennisScoreboard) | [Spacier829](https://github.com/Spacier829) | Java |  |  |
+| [tennis-scoreboard](https://github.com/fearrux/tennis-scoreboard) | [fearrux](https://github.com/fearrux) | Java |  |  |
+| [Tennis_Score_Board](https://github.com/OlegTihii/Tennis_Score_Board) | [OlegTihii](https://github.com/OlegTihii) | Java |  |  |
+| [tennis-scoreboard](https://github.com/Dirol-Mysteri/tennis-scoreboard) | [Dirol-Mysteri](https://github.com/Dirol-Mysteri) | Java |  |  |
+| [tennisScoreBoard](https://github.com/artyyoom/tennisScoreBoard) | [artyyoom](https://github.com/artyyoom) | Java |  |  |
+| [tennis-match-scoreboard](https://github.com/cakeslayer00/tennis-match-scoreboard) | [cakeslayer00](https://github.com/cakeslayer00) | Java |  |  |
+| [tennisScoreBoard](https://github.com/sess-128/tennisScoreBoard) | [sess-128](https://github.com/sess-128) | Java |  |  |
+| [tennis_score_board](https://github.com/RadomirGross/tennis_score_board) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |
+| [Tennis-Scoreboard](https://github.com/Dimas-Ukimas/Tennis-Scoreboard) | [Dimas-Ukimas](https://github.com/Dimas-Ukimas) | Java |  |  |
+| [TennisScoreboard](https://github.com/PivovarJV/TennisScoreboard) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
