@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-152 реализаций на Java, Python, Go, Kotlin, PHP, C#, JavaScript, OCaml. 84 ревью.
+161 реализаций на Java, Python, Go, Kotlin, PHP, C#, JavaScript, OCaml. 95 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -155,14 +155,23 @@ bookTOC = false
 | [Simulation.git](https://github.com/ProgWrite/Simulation.git) | [ProgWrite](https://github.com/ProgWrite) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/c9c72fc0216c3c5d004475b76ccb81a5) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation2D](https://github.com/DmitryTyukilin/Simulation2D) | [DmitryTyukilin](https://github.com/DmitryTyukilin) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/14bf078975b5c6f20f28b63ca2abcfad) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/uollouu/Simulation) | [uollouu](https://github.com/uollouu) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/9fcab424b91cd4425078a3eb09cc33f2) | Максим [@apostol_fet](https://t.me/apostol_fet) |
-| [Simulation](https://github.com/JavaThugNGG/Simulation) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java |  |  |
+| [Simulation](https://github.com/JavaThugNGG/Simulation) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/49d21a70c06953ae1a55ec7c9f9c9def) | Даниял [@daniyal_daniyal](https://t.me/daniyal_daniyal) |
 | [Simulation](https://github.com/TurtleOnaRock/Simulation) | [TurtleOnaRock](https://github.com/TurtleOnaRock) | Java | 📝 [#1](https://gist.github.com/OlegTihii/78e80746589e4b49dab0078fcc0776ce), 📝 [#2](https://gist.github.com/OlegTihii/9b7fa9fce004d0d6aa688bf34cc1194c) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/maff-maier/simulation) | [maff-maier](https://github.com/maff-maier) | Python |  |  |
-| [simulationv2](https://github.com/Rinvel/simulationv2) | [Rinvel](https://github.com/Rinvel) | Java |  |  |
-| [Simulation](https://github.com/Andr0id0/Simulation) | [Andr0id0](https://github.com/Andr0id0) | Java |  |  |
-| [Simulation](https://github.com/makson4986/Simulation) | [makson4986](https://github.com/makson4986) | Java |  |  |
+| [simulationv2](https://github.com/Rinvel/simulationv2) | [Rinvel](https://github.com/Rinvel) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim050-lubabelik-rinvel.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Andr0id0/Simulation) | [Andr0id0](https://github.com/Andr0id0) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim051-andrey-Andr0id0.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/makson4986/Simulation) | [makson4986](https://github.com/makson4986) | Java | 📝 [#1](https://gist.github.com/Review-Gist/eda5206970f398586003d28b960d6cfb), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim052-maks-makson4986.md) | Евгений [@solid_jdk](https://t.me/solid_jdk), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/stas-yarovikov/simulation) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/d3c262abe1b26773bc8097c5509c4650) | Сергей [@grandpraline](https://t.me/grandpraline) |
-| [SimulationGame](https://github.com/Luri1337/SimulationGame) | [Luri1337](https://github.com/Luri1337) | Java |  |  |
+| [SimulationGame](https://github.com/Luri1337/SimulationGame) | [Luri1337](https://github.com/Luri1337) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim054-Dima-Luri1337.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simultaion_aka_ZAYC_EST_TRAVU](https://github.com/Exelent26/Simultaion_aka_ZAYC_EST_TRAVU) | [Exelent26](https://github.com/Exelent26) | Java |  |  |
-| [Simulation](https://github.com/MikitaRudy/Simulation) | [MikitaRudy](https://github.com/MikitaRudy) | Java |  |  |
-| [simulation](https://github.com/xkodxdf/simulation) | [xkodxdf](https://github.com/xkodxdf) | Java |  |  |
+| [Simulation](https://github.com/MikitaRudy/Simulation) | [MikitaRudy](https://github.com/MikitaRudy) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim055-mikitarudy-MikitaRudy.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/xkodxdf/simulation) | [xkodxdf](https://github.com/xkodxdf) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim056-yanda-xkodxdf.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/zmt982/simulation) | [zmt982](https://github.com/zmt982) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim058-q-zmt982.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/muted987/simulation) | [muted987](https://github.com/muted987) | Java |  |  |
+| [Simulation](https://github.com/AleksandrTuev/Simulation) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim057-Alexander-AleksandrTuev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/V3rgi9ly/Simulation) | [V3rgi9ly](https://github.com/V3rgi9ly) | Java |  |  |
+| [HangManSmoleva](https://github.com/ViktoriaSmoleva/HangManSmoleva) | [ViktoriaSmoleva](https://github.com/ViktoriaSmoleva) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm070-viktoriyasmoleva-ViktoriaSmoleva.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [The_Simulation](https://github.com/vasiliy-spb/The_Simulation) | [vasiliy-spb](https://github.com/vasiliy-spb) | Java |  |  |
+| [SimulationJava](https://github.com/Ar4ik4ik/SimulationJava) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
+| [simulation-cats-and-mice](https://github.com/DavidTagirov/simulation-cats-and-mice) | [DavidTagirov](https://github.com/DavidTagirov) | Java |  |  |
+| [Simulation2.git](https://github.com/Ghennadi-Berezovschi/Simulation2.git) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java |  |  |
