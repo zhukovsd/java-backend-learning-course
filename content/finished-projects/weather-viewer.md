@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-74 реализаций на Java, Python, Kotlin, C#, Go, PHP. 26 ревью.
+81 реализаций на Java, Python, Kotlin, C#, Go, PHP. 32 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -81,10 +81,17 @@ bookTOC = false
 | [weather-app](https://github.com/Yvnushevskiy/weather-app) | [Yvnushevskiy](https://github.com/Yvnushevskiy) | Java |  |  |
 | [weather-app-rest-api](https://github.com/MrShoffen/weather-app-rest-api) | [MrShoffen](https://github.com/MrShoffen) | Java |  |  |
 | [weather-tracker-kotlin](https://github.com/fakechitor/weather-tracker-kotlin) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |  |
-| [WeatherApp](https://github.com/mak7im-05/WeatherApp) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
+| [WeatherApp](https://github.com/mak7im-05/WeatherApp) | [mak7im-05](https://github.com/mak7im-05) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/99f70e7e1af2472370ad1a8533b8fd19) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
 | [com.saymk.weathertracker](https://github.com/saymkarjat/com.saymk.weathertracker) | [saymkarjat](https://github.com/saymkarjat) | Java |  |  |
 | [WeatherApp](https://github.com/Dmitry-Strog/WeatherApp) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |  |  |
-| [weather-app](https://github.com/as1iva/weather-app) | [as1iva](https://github.com/as1iva) | Java |  |  |
+| [weather-app](https://github.com/as1iva/weather-app) | [as1iva](https://github.com/as1iva) | Java | 📝 [Заметки](https://gist.github.com/krios2146/addd8b6b0f7dcb16f7a2739da6e35984) | Владимир [@krios2146](https://t.me/krios2146) |
 | [weather-viewer](https://github.com/Iposhka54/weather-viewer) | [Iposhka54](https://github.com/Iposhka54) | Java |  |  |
 | [weather](https://github.com/at0m-cat/weather) | [at0m-cat](https://github.com/at0m-cat) | Java |  |  |
 | [weather_roadmap](https://github.com/Daniyal-Akhadov/weather_roadmap) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java |  |  |
+| [weather-tracker](https://github.com/nebarrow/weather-tracker) | [nebarrow](https://github.com/nebarrow) | Java | 📝 [Заметки](https://gist.github.com/Kek20703/6ee5d13078d015c022fccf05906f6b4f) | Артем [@legotin212](https://t.me/legotin212) |
+| [WeatherApp](https://github.com/anton-kulakov/WeatherApp) | [anton-kulakov](https://github.com/anton-kulakov) | Java |  |  |
+| [WeatherRestApi](https://github.com/progrohan/WeatherRestApi) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/c8248131deea611127eea1f5c66c6084) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [Weather_viewer](https://github.com/PavelFurochkin/Weather_viewer) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
+| [WeatherService-](https://github.com/Awakary/WeatherService-) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c0011664cc4f716a91a5c61772905963) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [WeatherApp](https://github.com/Kek20703/WeatherApp) | [Kek20703](https://github.com/Kek20703) | Java | 📝 [Заметки](https://gist.github.com/nebarrow/726159d574e7ce2086b66756d0da50c0) | Тарас [@nebarrow](https://t.me/nebarrow) |
+| [Weather](https://github.com/Sss330/Weather) | [Sss330](https://github.com/Sss330) | Java |  |  |
