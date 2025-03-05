@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-161 реализаций на Java, Python, Go, Kotlin, PHP, C#, JavaScript, OCaml. 95 ревью.
+160 реализаций на Java, Python, Go, Kotlin, PHP, C#, JavaScript, OCaml. 94 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -170,7 +170,6 @@ bookTOC = false
 | [simulation](https://github.com/muted987/simulation) | [muted987](https://github.com/muted987) | Java |  |  |
 | [Simulation](https://github.com/AleksandrTuev/Simulation) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim057-Alexander-AleksandrTuev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/V3rgi9ly/Simulation) | [V3rgi9ly](https://github.com/V3rgi9ly) | Java |  |  |
-| [HangManSmoleva](https://github.com/ViktoriaSmoleva/HangManSmoleva) | [ViktoriaSmoleva](https://github.com/ViktoriaSmoleva) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm070-viktoriyasmoleva-ViktoriaSmoleva.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [The_Simulation](https://github.com/vasiliy-spb/The_Simulation) | [vasiliy-spb](https://github.com/vasiliy-spb) | Java |  |  |
 | [SimulationJava](https://github.com/Ar4ik4ik/SimulationJava) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
 | [simulation-cats-and-mice](https://github.com/DavidTagirov/simulation-cats-and-mice) | [DavidTagirov](https://github.com/DavidTagirov) | Java |  |  |
