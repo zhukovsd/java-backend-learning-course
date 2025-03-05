@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-274 реализаций на Java, Python, Kotlin, C#, Go, PHP, Rust, Gleam, OCaml, Prolog. 150 ревью.
+275 реализаций на Java, Python, Kotlin, C#, Go, PHP, Rust, Gleam, OCaml, Prolog. 151 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -282,6 +282,7 @@ bookTOC = false
 | [hangman_go](https://github.com/ibobrov/hangman_go) | [ibobrov](https://github.com/ibobrov) | Go |  |  |
 | [Gallow_v3](https://github.com/lkodos/Gallow_v3) | [lkodos](https://github.com/lkodos) | Java |  |  |
 | [Handman](https://github.com/koihoz/Handman) | [koihoz](https://github.com/koihoz) | Java |  |  |
+| [HangManSmoleva](https://github.com/ViktoriaSmoleva/HangManSmoleva) | [ViktoriaSmoleva](https://github.com/ViktoriaSmoleva) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm070-viktoriyasmoleva-ViktoriaSmoleva.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [HangmanConsoleGame](https://github.com/Im-Okey/HangmanConsoleGame) | [Im-Okey](https://github.com/Im-Okey) | Python |  |  |
 | [java-hangman](https://github.com/aleksandr-makarov-dev/java-hangman) | [aleksandr-makarov-dev](https://github.com/aleksandr-makarov-dev) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm072-aleksandr-aleksandr-makarov-dev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [HangMan](https://github.com/mthbttrfl/HangMan) | [mthbttrfl](https://github.com/mthbttrfl) | Java |  |  |
