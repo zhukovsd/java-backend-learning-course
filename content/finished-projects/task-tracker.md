@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-13 реализаций на Java, Go, Python. 4 ревью.
+14 реализаций на Java, Go, Python. 4 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -27,3 +27,4 @@ bookTOC = false
 | [task-tracker](https://github.com/vadimistar/task-tracker) | [vadimistar](https://github.com/vadimistar) | Java |  |  |
 | [TaskTracker](https://github.com/DarkRubin/TaskTracker) | [DarkRubin](https://github.com/DarkRubin) | Java | 📝 [Заметки](https://gist.github.com/Asenim/989924fff0e6dd20448bfc64de341272) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
 | [Copytrello](https://github.com/Repinskie/Copytrello) | [Repinskie](https://github.com/Repinskie) | Java |  |  |
+| [planboard](https://github.com/lynxiox/planboard) | [lynxiox](https://github.com/lynxiox) | Java |  |  |

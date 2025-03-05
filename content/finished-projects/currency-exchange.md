@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-150 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP. 42 ревью.
+151 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP. 45 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -158,9 +158,10 @@ bookTOC = false
 | [currency-exchange](https://github.com/cakeslayer00/currency-exchange) | [cakeslayer00](https://github.com/cakeslayer00) | Java |  |  |
 | [CurrencyExchanger.git](https://github.com/Spacier829/CurrencyExchanger.git) | [Spacier829](https://github.com/Spacier829) | Java |  |  |
 | [CurrencyExchange](https://github.com/NiceBruce/CurrencyExchange) | [NiceBruce](https://github.com/NiceBruce) | Java |  |  |
-| [Currency_Exchange](https://github.com/MaksKav/Currency_Exchange) | [MaksKav](https://github.com/MaksKav) | Java |  |  |
+| [Currency_Exchange](https://github.com/MaksKav/Currency_Exchange) | [MaksKav](https://github.com/MaksKav) | Java | 📝 [Заметки](https://gist.github.com/Review-Gist/9cc7f62132c500a50e80fbf7d24029f9) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
 | [CurrencyExchangeDRF.git](https://github.com/Awakary/CurrencyExchangeDRF.git) | [Awakary](https://github.com/Awakary) | Python |  |  |
-| [exchange_currencies](https://github.com/velz01/exchange_currencies) | [velz01](https://github.com/velz01) | Java |  |  |
+| [exchange_currencies](https://github.com/velz01/exchange_currencies) | [velz01](https://github.com/velz01) | Java | 📝 [Заметки](https://gist.github.com/Review-Gist/97ca8e7e4f60e6b2adf3fa27af2bbf41) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
 | [currency-exchange](https://github.com/ilyutsik/currency-exchange) | [ilyutsik](https://github.com/ilyutsik) | Java |  |  |
 | [currency-exchange.git](https://github.com/Chukcha1337/currency-exchange.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
-| [Currency_Exchanger](https://github.com/dontmax/Currency_Exchanger) | [dontmax](https://github.com/dontmax) | Java |  |  |
+| [Currency_Exchanger](https://github.com/dontmax/Currency_Exchanger) | [dontmax](https://github.com/dontmax) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/31aa0c6fe444090dbb2f427bd54e091e) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [currency_exchange_FastAPI](https://github.com/Pashosi/currency_exchange_FastAPI) | [Pashosi](https://github.com/Pashosi) | Python |  |  |
