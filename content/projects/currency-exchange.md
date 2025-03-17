@@ -338,10 +338,11 @@ HTTP коды ответов:
 
 Проект представляет из себя набор статических HTML/CSS/JS файлов и состоит из одной веб-страницы, отвечающей за работу со всеми эндпоинтами API.
 
-Пример интеграции фронтенда с API можно посмотреть в ревью, основные шаги:
-- Установить корень REST API в app.js - [https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2)
-- Реализовать поддержку CORS в вашем API
-- Запустить проект currency-exchange-frontend. Я для этого пользовался [скриптом](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh), запускающим проект через Nginx + Docker
+Существует 2 способа интеграции фронтенда с проектом:
+- Положить статические файлы фронтенда внутрь нашего проекта, чтобы index.html был доступен по корневому пути
+- Запустить проект currency-exchange-frontend с помощью Docker. [Cкрипт для запуска](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/launch-local-nginx.sh). Вариант потребует CORS заголовков
+
+В обоих вариантах важно установить верный корень REST API в app.js - [https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2](https://github.com/zhukovsd/currency-exchange-frontend/blob/main/js/app.js#L2).
 
 ## Чеклист для самопроверки
 
