@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-47 реализаций на Java, PHP, Python. 18 ревью.
+63 реализаций на Java, PHP, Python, Kotlin. 25 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -61,3 +61,19 @@ bookTOC = false
 | [CloudFileStorage](https://github.com/mak7im-05/CloudFileStorage) | [mak7im-05](https://github.com/mak7im-05) | Java |  |  |
 | [cloud-file-storage](https://github.com/IlyaDudnikov/cloud-file-storage) | [IlyaDudnikov](https://github.com/IlyaDudnikov) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/65cab1bedcace799073316067a30c25f) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
 | [CloudFileStorage](https://github.com/VladShi/CloudFileStorage) | [VladShi](https://github.com/VladShi) | Java |  |  |
+| [Cloud-Storage](https://github.com/Kirillzhukov737/Cloud-Storage) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java |  |  |
+| [file-storage-api](https://github.com/Iposhka54/file-storage-api) | [Iposhka54](https://github.com/Iposhka54) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/b5aec4ef62a272ba1941ca87329d1050) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [cloud-file-storage](https://github.com/fakechitor/cloud-file-storage) | [fakechitor](https://github.com/fakechitor) | Kotlin |  |  |
+| [Cloud-File-Storage](https://github.com/Niks5041/Cloud-File-Storage) | [Niks5041](https://github.com/Niks5041) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/37368fa3c7cfcd77cef5304981ad151c) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CS](https://github.com/911boe/CS) | [911boe](https://github.com/911boe) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/97438d8b9eb3d9527049566b16298b2e) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
+| [cloud-storage](https://github.com/iqubb/cloud-storage) | [iqubb](https://github.com/iqubb) | Java |  |  |
+| [cloud-file-storage-rest-api](https://github.com/lolipokzz/cloud-file-storage-rest-api) | [lolipokzz](https://github.com/lolipokzz) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/15de5001f01ca72e661aa5c33aac0bff) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CloudStorage](https://github.com/ZhekaSl/CloudStorage) | [ZhekaSl](https://github.com/ZhekaSl) | Java |  |  |
+| [cloud-storage](https://github.com/Ilyalapin/cloud-storage) | [Ilyalapin](https://github.com/Ilyalapin) | Java | 📝 [Заметки](https://github.com/ArtemPronkin/review/blob/main/lapin/cloud_storage/review.md) | Артем [@pronkin_artem](https://t.me/pronkin_artem) |
+| [com.saymk.cloudapp.git](https://github.com/saymkarjat/com.saymk.cloudapp) | [saymkarjat](https://github.com/saymkarjat) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/9070a1a15d5e5d22833b17e863fdaa78) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [cloud-file-storage](https://github.com/as1iva/cloud-file-storage) | [as1iva](https://github.com/as1iva) | Java | 📝 [Заметки](https://github.com/evg-rdm-reviews/project-reviews/blob/master/cloud-storage/REVIEW_9%2C1e-31.md) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
+| [cloud-file-storage](https://github.com/nebarrow/cloud-file-storage) | [nebarrow](https://github.com/nebarrow) | Java |  |  |
+| [Cloud-file-storage](https://github.com/Sss330/Cloud-file-storage) | [Sss330](https://github.com/Sss330) | Java |  |  |
+| [CloudFileStorage-api](https://github.com/progrohan/CloudFileStorage-api) | [progrohan](https://github.com/progrohan) | Java |  |  |
+| [CloudStorage](https://github.com/Kek20703/CloudStorage) | [Kek20703](https://github.com/Kek20703) | Java |  |  |
