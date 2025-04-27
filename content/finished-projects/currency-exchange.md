@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-151 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP. 45 ревью.
+175 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP, Perl. 51 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -150,8 +150,10 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/jdoe058/CurrencyExchange) | [jdoe058](https://github.com/jdoe058) | Java |  |  |
 | [currency_exchange_backendv=1](https://github.com/RadomirGross/currency_exchange_backendv=1) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |
 | [currency-exchanger](https://github.com/nebarrow/currency-exchanger) | [nebarrow](https://github.com/nebarrow) | Java |  |  |
+| [CurrencyExchange](https://github.com/ApostolFet/CurrencyExchange) | [ApostolFet](https://github.com/ApostolFet) | Python |  |  |
 | [CurrencyExchange](https://github.com/legotin212/CurrencyExchange) | [legotin212](https://github.com/legotin212) | Java |  |  |
 | [CurrencyConversion](https://github.com/progrohan/CurrencyConversion) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/8eae690bc5d840398f44f129b5ee150a) | Евгений [@zhekadoe](https://t.me/zhekadoe) |
+| [CurrencyExchange](https://github.com/fernerman/CurrencyExchange) | [fernerman](https://github.com/fernerman) | Java | 📝 [#1](https://gist.github.com/liemartt/7def1142680868522fd0145f7afdda56), 📝 [#2](https://gist.github.com/gonertheowner/0052bed0ad7af424dac8985a1ffdef18) | Артем [@liemartt](https://t.me/liemartt), Кирилл [@gonertheowner](https://t.me/gonertheowner) |
 | [currencyExchangeFastAPI](https://github.com/EgorFurman/currencyExchangeFastAPI) | [EgorFurman](https://github.com/EgorFurman) | Python |  |  |
 | [currency-exchanger-api](https://github.com/Iposhka54/currency-exchanger-api) | [Iposhka54](https://github.com/Iposhka54) | Java |  |  |
 | [currencyExchange](https://github.com/sess-128/currencyExchange) | [sess-128](https://github.com/sess-128) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/d85a04ea88abffa71c68a91a075023b1) | Евгений [@solid_jdk](https://t.me/solid_jdk) |
@@ -165,3 +167,25 @@ bookTOC = false
 | [currency-exchange.git](https://github.com/Chukcha1337/currency-exchange.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
 | [Currency_Exchanger](https://github.com/dontmax/Currency_Exchanger) | [dontmax](https://github.com/dontmax) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/31aa0c6fe444090dbb2f427bd54e091e) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
 | [currency_exchange_FastAPI](https://github.com/Pashosi/currency_exchange_FastAPI) | [Pashosi](https://github.com/Pashosi) | Python |  |  |
+| [currency_exchange](https://github.com/JaGenn/currency_exchange) | [JaGenn](https://github.com/JaGenn) | Java |  |  |
+| [CurrencyExchange](https://github.com/dankts/CurrencyExchange) | [dankts](https://github.com/dankts) | Java |  |  |
+| [CurrencyExchange](https://github.com/makson4986/CurrencyExchange) | [makson4986](https://github.com/makson4986) | Java |  |  |
+| [CurrencyExchange](https://github.com/kivislime/CurrencyExchange) | [kivislime](https://github.com/kivislime) | Java |  |  |
+| [CurrencyExchange](https://github.com/skillnez/CurrencyExchange) | [skillnez](https://github.com/skillnez) | Java |  |  |
+| [currency-exchange](https://github.com/losevskiyfz/currency-exchange) | [losevskiyfz](https://github.com/losevskiyfz) | Java |  |  |
+| [currency-exchange](https://github.com/RustamLee/currency-exchange) | [RustamLee](https://github.com/RustamLee) | Java |  |  |
+| [currency_exchange](https://github.com/aleksLiss/currency_exchange) | [aleksLiss](https://github.com/aleksLiss) | Java |  |  |
+| [currency_exchange_fastapi](https://github.com/Dmitry-Strog/currency_exchange_fastapi) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |  |  |
+| [CurrencyExchange](https://github.com/Nataliya1111/CurrencyExchange) | [Nataliya1111](https://github.com/Nataliya1111) | Java |  |  |
+| [currency-exchange](https://github.com/Rinvel/currency-exchange) | [Rinvel](https://github.com/Rinvel) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/0c98ece0a2b17ee56b553bdc94518f05) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [Exchange_currency_FastAPI](https://github.com/PavelFurochkin/Exchange_currency_FastAPI) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
+| [Exchanger](https://github.com/D0cCT0R/Exchanger) | [D0cCT0R](https://github.com/D0cCT0R) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/68458ca20238df754ef1cd1a646ef18d) | Федор [@flosevskiy](https://t.me/flosevskiy) |
+| [currency-exchange](https://github.com/Konfeton/currency-exchange) | [Konfeton](https://github.com/Konfeton) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/d67d2aad4087efd98e9b8cbe2c598564) | Федор [@flosevskiy](https://t.me/flosevskiy) |
+| [currency_exchanger](https://github.com/xkodxdf/currency_exchanger) | [xkodxdf](https://github.com/xkodxdf) | Java |  |  |
+| [CurrencyExchange](https://github.com/JavaThugNGG/CurrencyExchange) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/9c41b066f4f3e8f12b9e6a5ee9620aca) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [CurrencyExchange](https://github.com/MikitaRudy/CurrencyExchange) | [MikitaRudy](https://github.com/MikitaRudy) | Java |  |  |
+| [currency_exchange](https://github.com/dotogo/currency_exchange) | [dotogo](https://github.com/dotogo) | Java |  |  |
+| [currencyExchange](https://github.com/muted987/currencyExchange) | [muted987](https://github.com/muted987) | Java |  |  |
+| [CurrrencyExchange](https://github.com/V3rgi9ly/CurrrencyExchange) | [V3rgi9ly](https://github.com/V3rgi9ly) | Java |  |  |
+| [currency-exchange](https://github.com/Ar4ik4ik/currency-exchange) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
+| [currency-exchange-api-perl](https://github.com/krios2146/currency-exchange-api-perl) | [krios2146](https://github.com/krios2146) | Perl |  |  |
