@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-301 реализаций на Java, Python, Go, Kotlin, PHP, C#, Rust, Gleam, OCaml, Prolog. 172 ревью.
+303 реализаций на Java, Python, Go, Kotlin, PHP, C#, Rust, Gleam, OCaml, Prolog. 173 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -298,7 +298,7 @@ bookTOC = false
 | [Hangman.git](https://github.com/youlovehamit/Hangman.git) | [youlovehamit](https://github.com/youlovehamit) | Java |  |  |
 | [hangman-game](https://github.com/RustamLee/hangman-game) | [RustamLee](https://github.com/RustamLee) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm077-rustam-RustamLee.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Hangman](https://github.com/FiSheNiR/Hangman) | [FiSheNiR](https://github.com/FiSheNiR) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm078-mark-FiSheNiR.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Hangman](https://github.com/Nazar-Goat/Hangman) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/53244/213859) |  |
+| [Hangman](https://github.com/Nazar-Goat/Hangman) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python | 📝 [Заметки](https://gist.github.com/ApostolFet/641a75e3beae364bedbdf6a09e450045) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [Hangman](https://github.com/tkhorik/Hangman) | [tkhorik](https://github.com/tkhorik) | Java |  |  |
 | [visilica](https://github.com/sergei-ostrovskiii/visilica) | [sergei-ostrovskiii](https://github.com/sergei-ostrovskiii) | Java | 📝 [#1](https://github.com/Daniyal-Akhadov/student_review/blob/main/sergei-ostrovskiii-visilica.md), 📝 [#2](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm085-sergeiostrovskiii-sergei-ostrovskiii.md) | Даниял [@daniyal_daniyal](https://t.me/daniyal_daniyal), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman_game](https://github.com/WayneHays/hangman_game) | [WayneHays](https://github.com/WayneHays) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm081-waynehays-WayneHays.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
@@ -315,3 +315,5 @@ bookTOC = false
 | [hangman](https://github.com/Gilenor/hangman) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
 | [Hangman](https://github.com/atroshchenkoi/Hangman) | [atroshchenkoi](https://github.com/atroshchenkoi) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm084-ilya-atroshchenkoi.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Hangman-OOP](https://github.com/Gilenor/Hangman-OOP) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
+| [Hangman](https://github.com/temaswaga/Hangman) | [temaswaga](https://github.com/temaswaga) | Java | 📝 [Заметки](https://gist.github.com/ArturChegur/f2938c22881e43627c3fa6fb7dfe1888) | Артур [@ArturChegur](https://t.me/ArturChegur) |
+| [Hangman](https://github.com/nevvvo/Hangman) | [nevvvo](https://github.com/nevvvo) | Python |  |  |

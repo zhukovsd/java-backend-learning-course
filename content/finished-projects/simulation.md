@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-179 реализаций на Java, Python, Go, PHP, Kotlin, C#, JavaScript, OCaml. 113 ревью.
+181 реализаций на Java, Python, Go, PHP, Kotlin, C#, JavaScript, OCaml. 115 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -186,10 +186,12 @@ bookTOC = false
 | [Simulation](https://github.com/vltolstov/Simulation) | [vltolstov](https://github.com/vltolstov) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim071-vladimir-vltolstov.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulationJavaProject](https://github.com/ZloyPomidor/simulationJavaProject) | [ZloyPomidor](https://github.com/ZloyPomidor) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/1eaf724d80f427eaee33febb06126dec) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/MsSabo/simulation) | [MsSabo](https://github.com/MsSabo) | Go |  |  |
-| [simulation](https://github.com/CicadaN/simulation) | [CicadaN](https://github.com/CicadaN) | Java | 📝 [#1](https://gist.github.com/EGladki/ea288d2afa636804854664f67e44309f), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim072-in-CicadaN.md) | Евгений, Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/CicadaN/simulation) | [CicadaN](https://github.com/CicadaN) | Java | 📝 [#1](https://gist.github.com/EGladki/ea288d2afa636804854664f67e44309f), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim072-in-CicadaN.md) | Евгений [@egladki](https://t.me/egladki), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/Ephirious/Simulation) | [Ephirious](https://github.com/Ephirious) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim075-danila-Ephirious.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/Rtztdnov/Simulation) | [Rtztdnov](https://github.com/Rtztdnov) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim073-rust-Rtztdnov.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Simulation.git](https://github.com/LlqWst/Simulation.git) | [LlqWst](https://github.com/LlqWst) | Java |  |  |
+| [Simulation.git](https://github.com/LlqWst/Simulation.git) | [LlqWst](https://github.com/LlqWst) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim076-ivan-LlqWst.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation_PHP](https://github.com/Wh4tisl0ve/Simulation_PHP) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | PHP |  |  |
 | [simulation](https://github.com/ferty460/simulation) | [ferty460](https://github.com/ferty460) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim074-zestkonechno-ferty460.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulaaation](https://github.com/atroshchenkoi/Simulaaation) | [atroshchenkoi](https://github.com/atroshchenkoi) | Java |  |  |
+| [simulation](https://github.com/dmitry-shuplev/simulation) | [dmitry-shuplev](https://github.com/dmitry-shuplev) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim067-dmitryror-dmitry-shuplev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [newSimulation](https://github.com/Ephirious/newSimulation) | [Ephirious](https://github.com/Ephirious) | Java |  |  |

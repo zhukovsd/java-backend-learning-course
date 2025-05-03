@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-175 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP, Perl. 51 ревью.
+176 реализаций на Java, Python, Go, Kotlin, C++, OCaml, PHP, Perl. 54 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -181,11 +181,12 @@ bookTOC = false
 | [Exchange_currency_FastAPI](https://github.com/PavelFurochkin/Exchange_currency_FastAPI) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
 | [Exchanger](https://github.com/D0cCT0R/Exchanger) | [D0cCT0R](https://github.com/D0cCT0R) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/68458ca20238df754ef1cd1a646ef18d) | Федор [@flosevskiy](https://t.me/flosevskiy) |
 | [currency-exchange](https://github.com/Konfeton/currency-exchange) | [Konfeton](https://github.com/Konfeton) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/d67d2aad4087efd98e9b8cbe2c598564) | Федор [@flosevskiy](https://t.me/flosevskiy) |
-| [currency_exchanger](https://github.com/xkodxdf/currency_exchanger) | [xkodxdf](https://github.com/xkodxdf) | Java |  |  |
+| [currency_exchanger](https://github.com/xkodxdf/currency_exchanger) | [xkodxdf](https://github.com/xkodxdf) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/54bf26f4eddc2626025f2a7dcb65eb6e) | Федор [@flosevskiy](https://t.me/flosevskiy) |
 | [CurrencyExchange](https://github.com/JavaThugNGG/CurrencyExchange) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/9c41b066f4f3e8f12b9e6a5ee9620aca) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
-| [CurrencyExchange](https://github.com/MikitaRudy/CurrencyExchange) | [MikitaRudy](https://github.com/MikitaRudy) | Java |  |  |
+| [CurrencyExchange](https://github.com/MikitaRudy/CurrencyExchange) | [MikitaRudy](https://github.com/MikitaRudy) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/0d6e929f68d7af0c7ae23376ba56e0af) | Федор [@flosevskiy](https://t.me/flosevskiy) |
 | [currency_exchange](https://github.com/dotogo/currency_exchange) | [dotogo](https://github.com/dotogo) | Java |  |  |
-| [currencyExchange](https://github.com/muted987/currencyExchange) | [muted987](https://github.com/muted987) | Java |  |  |
+| [currencyExchange](https://github.com/muted987/currencyExchange) | [muted987](https://github.com/muted987) | Java | 📝 [Заметки](https://gist.github.com/Badbadr/56dbaba4bd74d1c5c6acacb3f4f0bf8d) | Камил [@badrbad](https://t.me/badrbad) |
 | [CurrrencyExchange](https://github.com/V3rgi9ly/CurrrencyExchange) | [V3rgi9ly](https://github.com/V3rgi9ly) | Java |  |  |
 | [currency-exchange](https://github.com/Ar4ik4ik/currency-exchange) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
 | [currency-exchange-api-perl](https://github.com/krios2146/currency-exchange-api-perl) | [krios2146](https://github.com/krios2146) | Perl |  |  |
+| [Curency-Exchange-Service](https://github.com/EGladki/Curency-Exchange-Service) | [EGladki](https://github.com/EGladki) | Java |  |  |

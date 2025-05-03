@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-114 реализаций на Java, Python, Kotlin, PHP, Ruby. 39 ревью.
+114 реализаций на Java, Python, Kotlin, PHP, Ruby. 42 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -121,10 +121,10 @@ bookTOC = false
 | [tennis_match_score_table.git](https://github.com/Chukcha1337/tennis_match_score_table.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
 | [TennisScoreboard](https://github.com/dontmax/TennisScoreboard) | [dontmax](https://github.com/dontmax) | Java |  |  |
 | [TennisScoreboard](https://github.com/makson4986/TennisScoreboard) | [makson4986](https://github.com/makson4986) | Java |  |  |
-| [tennis-scoreboard](https://github.com/Rinvel/tennis-scoreboard) | [Rinvel](https://github.com/Rinvel) | Java |  |  |
+| [tennis-scoreboard](https://github.com/Rinvel/tennis-scoreboard) | [Rinvel](https://github.com/Rinvel) | Java | 📝 [#1](https://gist.github.com/grishuchkov/b4dd28edd049e500b8223979794cbbbd), 📝 [#2](https://gist.github.com/Badbadr/785a8cd90d43b4f9b785fc21a6ea9ed7) | Данила [@ggnavi](https://t.me/ggnavi), Камил [@badrbad](https://t.me/badrbad) |
 | [tennis-dashboard](https://github.com/RustamLee/tennis-dashboard) | [RustamLee](https://github.com/RustamLee) | Java |  |  |
 | [tenis-scoreboard](https://github.com/frost2329/tenis-scoreboard) | [frost2329](https://github.com/frost2329) | Java | 📝 [Заметки](https://gist.github.com/ArturChegur/c6121b81cc06e01f365d7233380169c1) | Артур [@ArturChegur](https://t.me/ArturChegur) |
 | [TennisBoard](https://github.com/JaGenn/TennisBoard) | [JaGenn](https://github.com/JaGenn) | Java | 📝 [Заметки](https://gist.github.com/krios2146/038c10107110537039f04f748631ac55) | Владимир [@krios2146](https://t.me/krios2146) |
 | [TennisScoreBoard](https://github.com/Dmitry-DVal/TennisScoreBoard) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |  |
-| [TennisScoreboard](https://github.com/Niker2023/TennisScoreboard) | [Niker2023](https://github.com/Niker2023) | Java |  |  |
+| [TennisScoreboard](https://github.com/Niker2023/TennisScoreboard) | [Niker2023](https://github.com/Niker2023) | Java | 📝 [Заметки](https://gist.github.com/Badbadr/1c8f9f2f21538a39ccc5f7765af2f917) | Камил [@badrbad](https://t.me/badrbad) |
 | [Tennis-Scoreboard](https://github.com/kivislime/Tennis-Scoreboard) | [kivislime](https://github.com/kivislime) | Java |  |  |
