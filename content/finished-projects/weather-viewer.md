@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-91 реализаций на Java, Python, Kotlin, C#, Go, PHP. 36 ревью.
+97 реализаций на Java, Python, Kotlin, C#, Go, PHP. 37 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -104,4 +104,10 @@ bookTOC = false
 | [weather-app](https://github.com/cakeslayer00/weather-app) | [cakeslayer00](https://github.com/cakeslayer00) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/926b3617d5e581c460124d50211c7dcc) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
 | [WeatherProject-Dev](https://github.com/PivovarJV/WeatherProject-Dev) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
 | [Weather_Radar](https://github.com/MaksKav/Weather_Radar) | [MaksKav](https://github.com/MaksKav) | Java |  |  |
-| [weather.git](https://github.com/Chukcha1337/weather) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
+| [weather.git](https://github.com/Chukcha1337/weather) | [Chukcha1337](https://github.com/Chukcha1337) | Java | 📝 [Заметки](https://gist.github.com/Badbadr/c756a52f8d82110396a06976d7d74478) | Камил [@badrbad](https://t.me/badrbad) |
+| [weather](https://github.com/Rinvel/weather) | [Rinvel](https://github.com/Rinvel) | Java |  |  |
+| [Weather](https://github.com/GogAndMagog/Weather) | [GogAndMagog](https://github.com/GogAndMagog) | Java |  |  |
+| [weather-tracker](https://github.com/ratmeow/weather-tracker) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
+| [Weather](https://github.com/Dimas-Ukimas/Weather) | [Dimas-Ukimas](https://github.com/Dimas-Ukimas) | Java |  |  |
+| [Weather-tracker](https://github.com/grunder-96/Weather-tracker) | [grunder-96](https://github.com/grunder-96) | Java |  |  |
+| [Weather](https://github.com/makson4986/Weather) | [makson4986](https://github.com/makson4986) | Java |  |  |
