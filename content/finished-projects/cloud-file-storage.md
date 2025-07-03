@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-63 реализаций на Java, PHP, Python, Kotlin. 25 ревью.
+76 реализаций на Java, PHP, Python, Go, Kotlin. 27 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -77,3 +77,16 @@ bookTOC = false
 | [Cloud-file-storage](https://github.com/Sss330/Cloud-file-storage) | [Sss330](https://github.com/Sss330) | Java |  |  |
 | [CloudFileStorage-api](https://github.com/progrohan/CloudFileStorage-api) | [progrohan](https://github.com/progrohan) | Java |  |  |
 | [CloudStorage](https://github.com/Kek20703/CloudStorage) | [Kek20703](https://github.com/Kek20703) | Java |  |  |
+| [fileStorage](https://github.com/sess-128/fileStorage) | [sess-128](https://github.com/sess-128) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/5458484267020dcd0c35d949bc8715b2) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [docker-cloud-file-storage](https://github.com/albakov/docker-cloud-file-storage) | [albakov](https://github.com/albakov) | Go | 📝 [Заметки](https://gist.github.com/OlegTihii/2908f1799318aba4f8bcc64f07fe84f7) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Filo-frontend](https://github.com/ssss1131/Filo-frontend) | [ssss1131](https://github.com/ssss1131) | Java |  |  |
+| [cloud-storage](https://github.com/lysunckindanil/cloud-storage) | [lysunckindanil](https://github.com/lysunckindanil) | Java |  |  |
+| [cloud-file-storage](https://github.com/syncline139/cloud-file-storage) | [syncline139](https://github.com/syncline139) | Java |  |  |
+| [cloudstorage](https://github.com/Rinvel/cloudstorage) | [Rinvel](https://github.com/Rinvel) | Java |  |  |
+| [cloud-file-storage](https://github.com/eternallyu/cloud-file-storage) | [eternallyu](https://github.com/eternallyu) | Java |  |  |
+| [cloud-storage](https://github.com/Chukcha1337/cloud-storage) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
+| [SkyDrive](https://github.com/VladBaykin/SkyDrive) | [VladBaykin](https://github.com/VladBaykin) | Java |  |  |
+| [CloudStorage](https://github.com/skillnez/CloudStorage) | [skillnez](https://github.com/skillnez) | Java |  |  |
+| [clowd-box](https://github.com/RustamLee/clowd-box) | [RustamLee](https://github.com/RustamLee) | Java |  |  |
+| [Cloud_File_Storage](https://github.com/MaksKav/Cloud_File_Storage) | [MaksKav](https://github.com/MaksKav) | Java |  |  |
+| [cloud-file-storage](https://github.com/cakeslayer00/cloud-file-storage) | [cakeslayer00](https://github.com/cakeslayer00) | Java |  |  |
