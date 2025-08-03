@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-63 реализаций на Java, PHP, Python, Kotlin. 25 ревью.
+84 реализаций на Java, Python, PHP, Go, Kotlin. 31 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -77,3 +77,24 @@ bookTOC = false
 | [Cloud-file-storage](https://github.com/Sss330/Cloud-file-storage) | [Sss330](https://github.com/Sss330) | Java |  |  |
 | [CloudFileStorage-api](https://github.com/progrohan/CloudFileStorage-api) | [progrohan](https://github.com/progrohan) | Java |  |  |
 | [CloudStorage](https://github.com/Kek20703/CloudStorage) | [Kek20703](https://github.com/Kek20703) | Java |  |  |
+| [fileStorage](https://github.com/sess-128/fileStorage) | [sess-128](https://github.com/sess-128) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/5458484267020dcd0c35d949bc8715b2) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [docker-cloud-file-storage](https://github.com/albakov/docker-cloud-file-storage) | [albakov](https://github.com/albakov) | Go | 📝 [Заметки](https://gist.github.com/OlegTihii/2908f1799318aba4f8bcc64f07fe84f7) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Filo-frontend](https://github.com/ssss1131/Filo-frontend) | [ssss1131](https://github.com/ssss1131) | Java |  |  |
+| [cloud-storage](https://github.com/lysunckindanil/cloud-storage) | [lysunckindanil](https://github.com/lysunckindanil) | Java |  |  |
+| [cloud-file-storage](https://github.com/syncline139/cloud-file-storage) | [syncline139](https://github.com/syncline139) | Java |  |  |
+| [cloudstorage](https://github.com/Rinvel/cloudstorage) | [Rinvel](https://github.com/Rinvel) | Java |  |  |
+| [cloud-file-storage](https://github.com/eternallyu/cloud-file-storage) | [eternallyu](https://github.com/eternallyu) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/8a547f1c22f9cc9ca245811d4156a5a0) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
+| [cloud-storage](https://github.com/Chukcha1337/cloud-storage) | [Chukcha1337](https://github.com/Chukcha1337) | Java |  |  |
+| [SkyDrive](https://github.com/VladBaykin/SkyDrive) | [VladBaykin](https://github.com/VladBaykin) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/28a14631572ba6b26021b08514be6840) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [CloudStorage](https://github.com/skillnez/CloudStorage) | [skillnez](https://github.com/skillnez) | Java |  |  |
+| [clowd-box](https://github.com/RustamLee/clowd-box) | [RustamLee](https://github.com/RustamLee) | Java |  |  |
+| [Cloud_File_Storage](https://github.com/MaksKav/Cloud_File_Storage) | [MaksKav](https://github.com/MaksKav) | Java |  |  |
+| [cloud-file-storage](https://github.com/cakeslayer00/cloud-file-storage) | [cakeslayer00](https://github.com/cakeslayer00) | Java |  |  |
+| [storage_project](https://github.com/velz01/storage_project) | [velz01](https://github.com/velz01) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/7659d3a07e6afd165f7bb4c5db1df748) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [CloudFileStorage](https://github.com/Gichie/CloudFileStorage) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [CloudFileStorage](https://github.com/jsteran/CloudFileStorage) | [jsteran](https://github.com/jsteran) | Java |  |  |
+| [cloud-storage](https://github.com/Egor250625/cloud-storage) | [Egor250625](https://github.com/Egor250625) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/bdf9ef630cb94ad016cfb63875ccfc74) | Иван [@makeitvsolo](https://t.me/makeitvsolo) |
+| [cloudfilestorage](https://github.com/fernerman/cloudfilestorage) | [fernerman](https://github.com/fernerman) | Java |  |  |
+| [cloud-storage](https://github.com/frost2329/cloud-storage) | [frost2329](https://github.com/frost2329) | Java |  |  |
+| [storage](https://github.com/DavidTagirov/storage) | [DavidTagirov](https://github.com/DavidTagirov) | Java |  |  |
+| [cloud_storage](https://github.com/Evgeni-Kramerov/cloud_storage) | [Evgeni-Kramerov](https://github.com/Evgeni-Kramerov) | Java |  |  |
