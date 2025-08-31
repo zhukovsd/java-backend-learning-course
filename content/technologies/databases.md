@@ -21,7 +21,7 @@ title = 'Базы данных'
 
 - Курс ["SQL для начинающих: с нуля до сертификата Oracle"](https://stepik.org/course/115617) Заура Трегулова - для начала достаточно глав 1-3, 6-7, 10-12
 - Практика:
-  - Интерактивные задачи для практики синтаксиса - [https://app.codesignal.com/](https://app.codesignal.com/) (раздел Arcade - Databases)
+  - Интерактивные задачи для практики синтаксиса - [https://sql-academy.org/ru/trainer](https://sql-academy.org/ru/trainer)
   - Проект #3 - ["Обмен валют"](../projects/currency-exchange.md)
 
 ## JDBC
