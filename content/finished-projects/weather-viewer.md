@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-108 реализаций на Java, Python, Kotlin, C#, Go, PHP. 45 ревью.
+118 реализаций на Java, Python, Kotlin, C#, Go, PHP. 46 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -121,4 +121,14 @@ bookTOC = false
 | [weather.git](https://github.com/frost2329/weather.git) | [frost2329](https://github.com/frost2329) | Java |  |  |
 | [Weather](https://github.com/RadomirGross/Weather) | [RadomirGross](https://github.com/RadomirGross) | Java | 📝 [Заметки](https://gist.github.com/grishuchkov/51fa20b9ef939ba3f77b0c6730b3483c) | Данила [@ggnavi](https://t.me/ggnavi) |
 | [WeatherApp](https://gitlab.com/Anikavuk/WeatherApp) | [Anikavuk](https://gitlab.com/Anikavuk) | Python |  |  |
+| [Weather](https://github.com/floMaxter/Weather) | [floMaxter](https://github.com/floMaxter) | Java |  |  |
 | [weather_app](https://github.com/JaGenn/weather_app) | [JaGenn](https://github.com/JaGenn) | Java |  |  |
+| [Weather](https://github.com/FiSheNiR/Weather) | [FiSheNiR](https://github.com/FiSheNiR) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/ac2a85e0476c51cdc1b78c2888e00738) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [weather-tracker-v1](https://github.com/Ar4ik4ik/weather-tracker-v1) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
+| [ProjectWheather](https://github.com/V3rgi9ly/ProjectWheather) | [V3rgi9ly](https://github.com/V3rgi9ly) | Java |  |  |
+| [weather-viewer](https://github.com/a333werfser/weather-viewer) | [a333werfser](https://github.com/a333werfser) | Java |  |  |
+| [WeatherApp.git](https://github.com/walkmanx21/WeatherApp.git) | [walkmanx21](https://github.com/walkmanx21) | Java |  |  |
+| [fa0a006dbb364514b9ccf71feeb5df63](https://gist.github.com/grishuchkov/fa0a006dbb364514b9ccf71feeb5df63) | [grishuchkov](https://gist.github.com/grishuchkov) | Java |  |  |
+| [WeatherApp](https://github.com/IlPl123454/WeatherApp) | [IlPl123454](https://github.com/IlPl123454) | Java |  |  |
+| [weather-tracker.git](https://github.com/ilyutsik/weather-tracker.git) | [ilyutsik](https://github.com/ilyutsik) | Java |  |  |
+| [Weather](https://github.com/EGladki/Weather) | [EGladki](https://github.com/EGladki) | Java |  |  |
