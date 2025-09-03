@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-197 реализаций на Java, Python, Go, Kotlin, PHP, C++, OCaml, Perl. 64 ревью.
+209 реализаций на Java, Python, Go, Kotlin, PHP, C++, OCaml, Perl. 68 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -190,6 +190,7 @@ bookTOC = false
 | [currency-exchange](https://github.com/Ar4ik4ik/currency-exchange) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/0a5e87b6c2b973b696dc00184e4904da) | Федор [@flosevskiy](https://t.me/flosevskiy) |
 | [currency-exchange-api-perl](https://github.com/krios2146/currency-exchange-api-perl) | [krios2146](https://github.com/krios2146) | Perl |  |  |
 | [Curency-Exchange-Service](https://github.com/EGladki/Curency-Exchange-Service) | [EGladki](https://github.com/EGladki) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/e7ef51b08b27fb65bba97608e0876dca) | Федор [@flosevskiy](https://t.me/flosevskiy) |
+| [currency-conversion](https://github.com/floMaxter/currency-conversion) | [floMaxter](https://github.com/floMaxter) | Java |  |  |
 | [Currency_Exchange.git](https://github.com/Dimkin33/Currency_Exchange.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [exchange-rates](https://github.com/TurtleOnaRock/exchange-rates) | [TurtleOnaRock](https://github.com/TurtleOnaRock) | Java | 📝 [Заметки](https://gist.github.com/losevskiyfz/e514ecc0b171d2a6fbcec129d6e54ed1) | Федор [@flosevskiy](https://t.me/flosevskiy) |
 | [currencyExchange](https://github.com/CicadaN/currencyExchange) | [CicadaN](https://github.com/CicadaN) | Java | 📝 [Заметки](https://gist.github.com/urantech/6c3b4cac6c5a8ffc0eb6827f7df9e302) | Роман [@urantech](https://t.me/urantech) |
@@ -210,4 +211,15 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/PetrovYegor/CurrencyExchange) | [PetrovYegor](https://github.com/PetrovYegor) | Java |  |  |
 | [currency_exchange](https://github.com/WayneHays/currency_exchange) | [WayneHays](https://github.com/WayneHays) | Java |  |  |
 | [currency_exchange_rest_api_new](https://github.com/alexgrekhov/currency_exchange_rest_api_new) | [alexgrekhov](https://github.com/alexgrekhov) | Java |  |  |
-| [currency-exchange](https://github.com/grihich/currency-exchange) | [grihich](https://github.com/grihich) | Java |  |  |
+| [currency-exchange](https://github.com/grihich/currency-exchange) | [grihich](https://github.com/grihich) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/b60d50fee178540c7997249bb15f7f8d) | Марк [@yeahigh](https://t.me/yeahigh) |
+| [currency-exchange-fastapi](https://github.com/Gichie/currency-exchange-fastapi) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [python-exchange-currency](https://github.com/Worker2088/python-exchange-currency) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
+| [Exchange_app](https://github.com/George11pro/Exchange_app) | [George11pro](https://github.com/George11pro) | Python |  |  |
+| [currency_exchange_api](https://github.com/Nazar-Goat/currency_exchange_api) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python |  |  |
+| [MoneySwap](https://github.com/dmitry-shuplev/MoneySwap) | [dmitry-shuplev](https://github.com/dmitry-shuplev) | Java |  |  |
+| [Currencies_Exchange](https://github.com/Exelent26/Currencies_Exchange) | [Exelent26](https://github.com/Exelent26) | Java | 📝 [Заметки](https://github.com/FiSheNiR/Reviews/blob/main/DmitriyKuzinCurrencyReview.md) | Марк [@yeahigh](https://t.me/yeahigh) |
+| [currency-exchange](https://github.com/zux13/currency-exchange) | [zux13](https://github.com/zux13) | Java | 📝 [Заметки](https://github.com/FiSheNiR/Reviews/blob/main/RustemGaliulinCurrencyReview.md) | Марк [@yeahigh](https://t.me/yeahigh) |
+| [thirdProjectHope.git](https://github.com/PancoManco/thirdProjectHope.git) | [PancoManco](https://github.com/PancoManco) | Java |  |  |
+| [currency-exchanger](https://github.com/artem-harper/currency-exchanger) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
+| [currency-exchange-api-pet-3](https://github.com/WillSalas2002/currency-exchange-api-pet-3) | [WillSalas2002](https://github.com/WillSalas2002) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/da0934dc2bdb8a311c29be0321192f53) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [exchanger](https://github.com/sierrakurra/exchanger) | [sierrakurra](https://github.com/sierrakurra) | Java |  |  |
