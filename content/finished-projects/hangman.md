@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-341 реализаций на Java, Python, Go, Kotlin, PHP, C#, Rust, Gleam, OCaml, Prolog. 201 ревью.
+359 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 211 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -354,4 +354,22 @@ bookTOC = false
 | [hangman_1](https://github.com/byprogger/hangman_1) | [byprogger](https://github.com/byprogger) | Java |  |  |
 | [hangman.py](https://github.com/nakedborn666/hangman.py) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
 | [hangman](https://github.com/40iron/hangman) | [40iron](https://github.com/40iron) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm110-user-40iron.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Hangman](https://github.com/dinazzz/Hangman) | [dinazzz](https://github.com/dinazzz) | Java |  |  |
+| [Hangman](https://github.com/dinazzz/Hangman) | [dinazzz](https://github.com/dinazzz) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm113-dinarvaliulin-dinazzz.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/lilium-fleur/hangman) | [lilium-fleur](https://github.com/lilium-fleur) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm114-hruuuh-lilium-fleur.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [gallows-console-game](https://github.com/kkkvnp/gallows-console-game) | [kkkvnp](https://github.com/kkkvnp) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm115-elina-kkkvnp.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [gallows](https://github.com/Pavlo-2201/gallows) | [Pavlo-2201](https://github.com/Pavlo-2201) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm116-paul-Pavlo-2201.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/Metty1337/Hangman) | [Metty1337](https://github.com/Metty1337) | Java | 📝 [#1](https://gist.github.com/OlegTihii/8fa8b1aa6e8c39182fa2044aad1b9263), 📝 [#2](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm117-anton-Metty1337.md) | Дмитрий [@prplhd](https://t.me/prplhd), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/murlov/hangman) | [murlov](https://github.com/murlov) | Java |  |  |
+| [hangman](https://github.com/solvman/hangman) | [solvman](https://github.com/solvman) | Java |  |  |
+| [hangman](https://github.com/cr1phy/hangman) | [cr1phy](https://github.com/cr1phy) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/3bd83e848e957d4054bc803f0bd8259b) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [oop_hangman](https://github.com/szzmmdv/oop_hangman) | [szzmmdv](https://github.com/szzmmdv/) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/szzmmdv-s1mtsh/REVIEW.MD) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [IT_Mentor_Hangman](https://github.com/KoFeVarKaA/IT_Mentor_Hangman) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python |  |  |
+| [Hangman1.git](https://github.com/Ivan-cyber-code/Hangman1.git) | [Ivan-cyber-code](https://github.com/Ivan-cyber-code) | Java |  |  |
+| [hangman-game](https://github.com/Deikun-Alena/hangman-game) | [Deikun-Alena](https://github.com/Deikun-Alena) | Java | 📝 [Заметки](https://gist.github.com/prplhd/c6fce7faf55b77a9cbb2f675d41c9cbd) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [hangman_golang](https://github.com/asalaschenko/hangman_golang) | [asalaschenko](https://github.com/asalaschenko) | Go | 📝 [Заметки](https://gist.github.com/OlegTihii/cad45e74f41d117d5900f8b019d1aeca) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [hangman-game-csharp](https://github.com/JavaThugNGG/hangman-game-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C# |  |  |
+| [Hangman](https://github.com/akinoyara/Hangman) | [akinoyara](https://github.com/akinoyara) | Java |  |  |
+| [Hangman1](https://github.com/phoboy725/Hangman1) | [phoboy725](https://github.com/phoboy725) | Java |  |  |
+| [The_Gallows](https://github.com/TheSat/The_Gallows) | [TheSat](https://github.com/TheSat) | Java |  |  |
+| [hangman.git](https://github.com/bychenkv/hangman.git) | [bychenkv](https://github.com/bychenkv) | Java |  |  |
+| [hangman](https://github.com/IsmoilovMunir/hangman) | [IsmoilovMunir](https://github.com/IsmoilovMunir) | Java |  |  |

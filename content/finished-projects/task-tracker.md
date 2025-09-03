@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-18 реализаций на Java, Go, Python. 5 ревью.
+20 реализаций на Java, Go, Python. 6 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -32,3 +32,5 @@ bookTOC = false
 | [task-tracker](https://github.com/MetaRash-web/task-tracker) | [MetaRash-web](https://github.com/MetaRash-web) | Java |  |  |
 | [task-tracker.git](https://github.com/slavik-gassiev/task-tracker.git) | [slavik-gassiev](https://github.com/slavik-gassiev) | Java |  |  |
 | [task-tracker](https://github.com/MrShoffen/task-tracker) | [MrShoffen](https://github.com/MrShoffen) | Java |  |  |
+| [task-tracker](https://github.com/IsaIsmailzade/task-tracker) | [IsaIsmailzade](https://github.com/IsaIsmailzade) | Java |  |  |
+| [Task-Tracker-1](https://github.com/Egor250625/Task-Tracker-1) | [Egor250625](https://github.com/Egor250625) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/20ccf210aaa1107aaeffbd67b1a215e1) | Иван [@makeitvsolo](https://t.me/makeitvsolo) |

@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-131 реализаций на Java, Python, Kotlin, Go, PHP, Ruby. 47 ревью.
+136 реализаций на Java, Python, Kotlin, Go, PHP, Ruby. 48 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -133,6 +133,7 @@ bookTOC = false
 | [go-tennis-scoreboard](https://github.com/albakov/go-tennis-scoreboard) | [albakov](https://github.com/albakov) | Go |  |  |
 | [tennis-scoreboard](https://github.com/D0cCT0R/tennis-scoreboard) | [D0cCT0R](https://github.com/D0cCT0R) | Java | 📝 [Заметки](https://gist.github.com/Badbadr/6a82a414d91c68f326751f0fd04f768b) | Камиль [@badrbad](https://t.me/badrbad) |
 | [tennis-scoreboard](https://github.com/TurtleOnaRock/tennis-scoreboard) | [TurtleOnaRock](https://github.com/TurtleOnaRock) | Java |  |  |
+| [tennis-scoreboard](https://github.com/floMaxter/tennis-scoreboard) | [floMaxter](https://github.com/floMaxter) | Java |  |  |
 | [tennis_scoreboard.git](https://github.com/Dimkin33/tennis_scoreboard.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [tennis-scoreboard](https://github.com/losevskiyfz/tennis-scoreboard) | [losevskiyfz](https://github.com/losevskiyfz) | Java |  |  |
 | [TennisScoreBoard](https://github.com/Nataliya1111/TennisScoreBoard) | [Nataliya1111](https://github.com/Nataliya1111) | Java | 📝 [Заметки](https://gist.github.com/DarkRubin/80db4a406ebb98743986e24e1b561ee6) | Вадим [@oneQwerty2](https://t.me/oneQwerty2) |
@@ -145,3 +146,7 @@ bookTOC = false
 | [TennisScoreBoard](https://github.com/vltolstov/TennisScoreBoard) | [vltolstov](https://github.com/vltolstov) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/54864e51a2fb3dce9472a033cb7bb34f) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [tennis-scoreboard.git](https://github.com/Ghennadi-Berezovschi/tennis-scoreboard.git) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java |  |  |
 | [tennis-scoreboard](https://github.com/kzmaxim/tennis-scoreboard) | [kzmaxim](https://github.com/kzmaxim) | Java |  |  |
+| [TennisScoreboard](https://github.com/LlqWst/TennisScoreboard) | [LlqWst](https://github.com/LlqWst) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/ea286fb1e040a9a98a74aec7e768e457) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [tennis-scoreboard-app](https://github.com/JavaThugNGG/tennis-scoreboard-app) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java |  |  |
+| [tennis-scoreboard-pet](https://github.com/WillSalas2002/tennis-scoreboard-pet) | [WillSalas2002](https://github.com/WillSalas2002) | Java |  |  |
+| [tennis-scoreboard.git](https://github.com/artem-harper/tennis-scoreboard.git) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
