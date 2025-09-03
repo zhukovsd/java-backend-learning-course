@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-199 реализаций на Java, Python, Go, PHP, Kotlin, C#, JavaScript, OCaml. 128 ревью.
+209 реализаций на Java, Python, Go, PHP, C#, Kotlin, JavaScript, OCaml. 133 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -149,6 +149,7 @@ bookTOC = false
 | [simulation_improved.git](https://github.com/Chukcha1337/simulation_improved.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java | 📝 [Заметки](https://gist.github.com/Asenim/5a285e0567a3395ea14ce8c13fefe9fd) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation.git](https://github.com/legotin212/Simulation.git) | [legotin212](https://github.com/legotin212) | Java | 📝 [Заметки](https://gist.github.com/Asenim/9d1cb1ad1f55a461acd9190c5e4b35b8) | Fearrux [@fearrux](https://t.me/fearrux) |
 | [Simulation.git](https://github.com/Chukcha1337/Simulation.git) | [Chukcha1337](https://github.com/Chukcha1337) | Java | 📝 [Заметки](https://gist.github.com/Asenim/e8f8ccb4e83afef4274611071da2c1c4) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-of-life](https://github.com/floMaxter/simulation-of-life) | [floMaxter](https://github.com/floMaxter) | Java |  |  |
 | [simulation](https://github.com/z01de/simulation) | [z01de](https://github.com/z01de) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/0db6d789d92c76e6b59220555ed01ff0) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation2d.git](https://github.com/BelDoor/simulation2d.git) | [BelDoor](https://github.com/BelDoor) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/aeb9fe6a7fe6729ff4d3c2b1ceef50d0) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [java-simulation](https://github.com/LzAxel/java-simulation) | [LzAxel](https://github.com/LzAxel) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/6baa468a9081d1957a70199c48675c28) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
@@ -209,7 +210,16 @@ bookTOC = false
 | [Simulation1.git](https://github.com/Ikigai-del/Simulation1) | [Ikigai-del](https://github.com/Ikigai-del) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim089-ikigai-Ikigai-del.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [world_simulation](https://github.com/zux13/world_simulation) | [zux13](https://github.com/zux13) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim090-rustemgaliullin-zux13.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [LifeSimulation](https://github.com/Fristret/LifeSimulation) | [Fristret](https://github.com/Fristret) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim091-rg-Fristret.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Simulation](https://github.com/Stroitell/Simulation) | [Stroitell](https://github.com/Stroitell) | Java |  |  |
+| [Simulation](https://github.com/Stroitell/Simulation) | [Stroitell](https://github.com/Stroitell) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim094-naborbukv-Stroitell.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation.git](https://github.com/Arsen0205/simulation) | [Arsen0205](https://github.com/Arsen0205) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim092-zoro-Arsen0205.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/mthbttrfl/Simulation) | [mthbttrfl](https://github.com/mthbttrfl) | Java |  |  |
-| [SimGame](https://github.com/Ciltonn/SimGame) | [Ciltonn](https://github.com/Ciltonn) | Java |  |  |
+| [SimGame](https://github.com/Ciltonn/SimGame) | [Ciltonn](https://github.com/Ciltonn) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim093-elenakazakova-Ciltonn.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/ASmolenkov/Simulation) | [ASmolenkov](https://github.com/ASmolenkov) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim095-alexander-ASmolenkov.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/mandalorianec/Simulation) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [nature-lifecycle-simulation](https://github.com/cakeslayer00/nature-lifecycle-simulation) | [cakeslayer00](https://github.com/cakeslayer00) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim096-v-cakeslayer00.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation.git](https://github.com/FrankCHL/Simulation.git) | [FrankCHL](https://github.com/FrankCHL) | Java |  |  |
+| [Simulation](https://github.com/DMgen10/Simulation) | [DMgen10](https://github.com/DMgen10) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim097-dmitry-DMgen10.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/40iron/simulation) | [40iron](https://github.com/40iron) | Java |  |  |
+| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
+| [phSimulation](https://github.com/prplhd/phSimulation) | [prplhd](https://github.com/prplhd) | Java |  |  |
+| [simulation-game-csharp](https://github.com/JavaThugNGG/simulation-game-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C# |  |  |
