@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-209 реализаций на Java, Python, Go, Kotlin, PHP, C++, OCaml, Perl. 68 ревью.
+219 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 70 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -223,3 +223,13 @@ bookTOC = false
 | [currency-exchanger](https://github.com/artem-harper/currency-exchanger) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
 | [currency-exchange-api-pet-3](https://github.com/WillSalas2002/currency-exchange-api-pet-3) | [WillSalas2002](https://github.com/WillSalas2002) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/da0934dc2bdb8a311c29be0321192f53) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [exchanger](https://github.com/sierrakurra/exchanger) | [sierrakurra](https://github.com/sierrakurra) | Java |  |  |
+| [currency-exchange-app-csharp](https://github.com/JavaThugNGG/currency-exchange-app-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C\# |  |  |
+| [CurrencyExchangeWeb](https://github.com/mthbttrfl/CurrencyExchangeWeb) | [mthbttrfl](https://github.com/mthbttrfl) | Java |  |  |
+| [currencies](https://github.com/aleksiuz/currencies) | [aleksiuz](https://github.com/aleksiuz) | Java |  |  |
+| [Currency-Exchage2](https://github.com/Ikigai-del/Currency-Exchage2) | [Ikigai-del](https://github.com/Ikigai-del) | Java |  |  |
+| [CurrencyExchange](https://github.com/xcvqqz/CurrencyExchange) | [xcvqqz](https://github.com/xcvqqz) | Java |  |  |
+| [Project_3_Currency_exchange.git](https://github.com/igarick/Project_3_Currency_exchange.git) | [igarick](https://github.com/igarick) | Java | 📝 [Заметки](https://github.com/urantech/review/blob/main/content/iiv_igor_currency-exchanger.md) | Роман [@urantech](https://t.me/urantech) |
+| [CurrencyExchangePub.git](https://github.com/phoboy725/CurrencyExchangePub) | [phoboy725](https://github.com/phoboy725) | Java | 📝 [Заметки](https://gist.github.com/Rinvel/f0dec74daa35b263d07f5ff9500aacf5) | Люба [@rinvellqt](https://t.me/rinvellqt) |
+| [Converter](https://github.com/SamoylovSt/Converter) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
+| [CurrencyExchange](https://github.com/mandalorianec/CurrencyExchange) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [Exchanger](https://github.com/JeckDrk/Exchanger) | [JeckDrk](https://github.com/JeckDrk) | Java |  |  |

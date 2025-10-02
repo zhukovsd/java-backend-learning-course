@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-209 реализаций на Java, Python, Go, PHP, C#, Kotlin, JavaScript, OCaml. 133 ревью.
+214 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 141 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -219,7 +219,12 @@ bookTOC = false
 | [nature-lifecycle-simulation](https://github.com/cakeslayer00/nature-lifecycle-simulation) | [cakeslayer00](https://github.com/cakeslayer00) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim096-v-cakeslayer00.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation.git](https://github.com/FrankCHL/Simulation.git) | [FrankCHL](https://github.com/FrankCHL) | Java |  |  |
 | [Simulation](https://github.com/DMgen10/Simulation) | [DMgen10](https://github.com/DMgen10) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim097-dmitry-DMgen10.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [simulation](https://github.com/40iron/simulation) | [40iron](https://github.com/40iron) | Java |  |  |
-| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
-| [phSimulation](https://github.com/prplhd/phSimulation) | [prplhd](https://github.com/prplhd) | Java |  |  |
-| [simulation-game-csharp](https://github.com/JavaThugNGG/simulation-game-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C# |  |  |
+| [simulation](https://github.com/40iron/simulation) | [40iron](https://github.com/40iron) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim100-user-40iron.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/45cad007b452595a6a682e2b36bc43fd) | Виктор [@csatom](https://t.me/csatom) |
+| [phSimulation](https://github.com/prplhd/phSimulation) | [prplhd](https://github.com/prplhd) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim098-plhd-prplhd.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-game-csharp](https://github.com/JavaThugNGG/simulation-game-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C\# | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim103-sabaka-JavaThugNGG-cs.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [IT_Mentor_Simulation](https://github.com/KoFeVarKaA/IT_Mentor_Simulation) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/Asenim/caa267f998dad9a97ddc442f7bb4303a) | Альф [@Asinim](https://t.me/Asinim) |
+| [simulation](https://github.com/nikita-webdev/simulation) | [nikita-webdev](https://github.com/nikita-webdev) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim101-nikita-nikita-webdev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [project-2](https://github.com/writer366/project-2) | [writer366](https://github.com/writer366) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim102-connoisseur-writer366.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation2](https://github.com/SamoylovSt/Simulation2) | [SamoylovSt](https://github.com/SamoylovSt) | Java | 📝 [Заметки](https://gist.github.com/prplhd/0e930c89d3e7bcdf629a07ce33f402fe) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Simulation](https://github.com/Metty1337/Simulation) | [Metty1337](https://github.com/Metty1337) | Java |  |  |
