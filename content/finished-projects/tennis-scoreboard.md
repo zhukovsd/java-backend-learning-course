@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-136 реализаций на Java, Python, Kotlin, Go, PHP, Ruby. 48 ревью.
+142 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 48 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -150,3 +150,9 @@ bookTOC = false
 | [tennis-scoreboard-app](https://github.com/JavaThugNGG/tennis-scoreboard-app) | [JavaThugNGG](https://github.com/JavaThugNGG) | Java |  |  |
 | [tennis-scoreboard-pet](https://github.com/WillSalas2002/tennis-scoreboard-pet) | [WillSalas2002](https://github.com/WillSalas2002) | Java |  |  |
 | [tennis-scoreboard.git](https://github.com/artem-harper/tennis-scoreboard.git) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
+| [TennisScoreBoardH.git](https://github.com/PancoManco/TennisScoreBoardH.git) | [PancoManco](https://github.com/PancoManco) | Java |  |  |
+| [tennis_scoreboard](https://github.com/ferty460/tennis_scoreboard) | [ferty460](https://github.com/ferty460) | Java |  |  |
+| [tennis-scoreboard](https://github.com/Luri1337/tennis-scoreboard) | [Luri1337](https://github.com/Luri1337) | Java |  |  |
+| [tennis-scoreboard-app-csharp](https://github.com/JavaThugNGG/tennis-scoreboard-app-csharp) | [JavaThugNGG](https://github.com/JavaThugNGG) | C\# |  |  |
+| [tennisScoreBoard](https://github.com/rzah94/tennisScoreBoard) | [rzah94](https://github.com/rzah94) | Java |  |  |
+| [score-board](https://github.com/romalxr/score-board) | [romalxr](https://github.com/romalxr) | Java |  |  |
