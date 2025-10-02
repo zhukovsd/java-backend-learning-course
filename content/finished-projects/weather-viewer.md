@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-118 реализаций на Java, Python, Kotlin, C#, Go, PHP. 46 ревью.
+124 реализаций на Java, Python, Kotlin, C#, Go, PHP. 46 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -132,3 +132,9 @@ bookTOC = false
 | [WeatherApp](https://github.com/IlPl123454/WeatherApp) | [IlPl123454](https://github.com/IlPl123454) | Java |  |  |
 | [weather-tracker.git](https://github.com/ilyutsik/weather-tracker.git) | [ilyutsik](https://github.com/ilyutsik) | Java |  |  |
 | [Weather](https://github.com/EGladki/Weather) | [EGladki](https://github.com/EGladki) | Java |  |  |
+| [weather-viewer](https://github.com/OlegTihii/weather-viewer) | [OlegTihii](https://github.com/OlegTihii) | Java |  |  |
+| [Weather](https://github.com/Nataliya1111/Weather) | [Nataliya1111](https://github.com/Nataliya1111) | Java |  |  |
+| [Weather](https://github.com/ProgWrite/Weather) | [ProgWrite](https://github.com/ProgWrite) | Java |  |  |
+| [weather](https://github.com/Apchupio/weather) | [Apchupio](https://github.com/Apchupio) | Java |  |  |
+| [weatherApp](https://github.com/D0cCT0R/weatherApp) | [D0cCT0R](https://github.com/D0cCT0R) | Java |  |  |
+| [weather-app.git](https://github.com/artem-harper/weather-app.git) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
