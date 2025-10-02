@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-90 реализаций на Java, Python, PHP, Go, Kotlin. 33 ревью.
+92 реализаций на Java, Python, PHP, Go, Kotlin. 33 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -104,3 +104,5 @@ bookTOC = false
 | [Cloud](https://github.com/GogAndMagog/Cloud) | [GogAndMagog](https://github.com/GogAndMagog) | Java |  |  |
 | [cloud](https://github.com/JaGenn/cloud) | [JaGenn](https://github.com/JaGenn) | Java |  |  |
 | [CloudFileStorage](https://github.com/kivislime/CloudFileStorage) | [kivislime](https://github.com/kivislime) | Java |  |  |
+| [cloud-file-storage](https://github.com/VladislavGav/cloud-file-storage) | [VladislavGav](https://github.com/VladislavGav) | Java |  |  |
+| [cloudStorage](https://github.com/RadomirGross/cloudStorage) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |
