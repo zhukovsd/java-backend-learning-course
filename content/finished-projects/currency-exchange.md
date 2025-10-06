@@ -233,3 +233,4 @@ bookTOC = false
 | [Converter](https://github.com/SamoylovSt/Converter) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
 | [CurrencyExchange](https://github.com/mandalorianec/CurrencyExchange) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
 | [Exchanger](https://github.com/JeckDrk/Exchanger) | [JeckDrk](https://github.com/JeckDrk) | Java |  |  |
+| [ExcangeCourse](https://github.com/aspakaramych/ExcangeCourse) | [aspakaramych](https://github.com/aspakaramych) | C# |  |  |
