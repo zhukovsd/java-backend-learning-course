@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-219 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 70 ревью.
+227 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 73 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -151,7 +151,6 @@ bookTOC = false
 | [currency_exchange_backendv=1](https://github.com/RadomirGross/currency_exchange_backendv=1) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |
 | [currency-exchanger](https://github.com/nebarrow/currency-exchanger) | [nebarrow](https://github.com/nebarrow) | Java |  |  |
 | [CurrencyExchange](https://github.com/ApostolFet/CurrencyExchange) | [ApostolFet](https://github.com/ApostolFet) | Python |  |  |
-| [CurrencyExchange](https://github.com/legotin212/CurrencyExchange) | [legotin212](https://github.com/legotin212) | Java |  |  |
 | [CurrencyConversion](https://github.com/progrohan/CurrencyConversion) | [progrohan](https://github.com/progrohan) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/8eae690bc5d840398f44f129b5ee150a) | Евгений [@zhekadoe](https://t.me/zhekadoe) |
 | [CurrencyExchange](https://github.com/fernerman/CurrencyExchange) | [fernerman](https://github.com/fernerman) | Java | 📝 [#1](https://gist.github.com/liemartt/7def1142680868522fd0145f7afdda56), 📝 [#2](https://gist.github.com/gonertheowner/0052bed0ad7af424dac8985a1ffdef18) | Артем [@liemartt](https://t.me/liemartt), Кирилл [@gonertheowner](https://t.me/gonertheowner) |
 | [currencyExchangeFastAPI](https://github.com/EgorFurman/currencyExchangeFastAPI) | [EgorFurman](https://github.com/EgorFurman) | Python |  |  |
@@ -232,5 +231,13 @@ bookTOC = false
 | [CurrencyExchangePub.git](https://github.com/phoboy725/CurrencyExchangePub) | [phoboy725](https://github.com/phoboy725) | Java | 📝 [Заметки](https://gist.github.com/Rinvel/f0dec74daa35b263d07f5ff9500aacf5) | Люба [@rinvellqt](https://t.me/rinvellqt) |
 | [Converter](https://github.com/SamoylovSt/Converter) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
 | [CurrencyExchange](https://github.com/mandalorianec/CurrencyExchange) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
-| [Exchanger](https://github.com/JeckDrk/Exchanger) | [JeckDrk](https://github.com/JeckDrk) | Java |  |  |
-| [ExcangeCourse](https://github.com/aspakaramych/ExcangeCourse) | [aspakaramych](https://github.com/aspakaramych) | C# |  |  |
+| [Exchanger](https://github.com/JeckDrk/Exchanger) | [JeckDrk](https://github.com/JeckDrk) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/204381a356099cad3a5eea0e555dbfee) | Настя [@Fiafvo](https://t.me/Fiafvo) |
+| [currency-exchanger](https://github.com/lcursusl/currency-exchanger) | [lcursusl](https://github.com/lcursusl) | Java |  |  |
+| [Currency_Exchange](https://github.com/vasiliy-spb/Currency_Exchange) | [vasiliy-spb](https://github.com/vasiliy-spb) | Java |  |  |
+| [currency_exchange](https://github.com/Prontoelder/currency_exchange) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/3912bed220e885a8c68c5e47152a7d22) | Виктор [@csatom](https://t.me/csatom) |
+| [currency-exchange](https://github.com/van0mas/currency-exchange) | [van0mas](https://github.com/van0mas) | Java |  |  |
+| [currency-exchange](https://github.com/ramaoao/currency-exchange) | [ramaoao](https://github.com/ramaoao) | Java |  |  |
+| [CurrencyExchange](https://github.com/Metty1337/CurrencyExchange) | [Metty1337](https://github.com/Metty1337) | Java | 📝 [Заметки](https://github.com/urantech/review/blob/main/content/metty1337_currency_exchange.md) | Роман [@urantech](https://t.me/urantech) |
+| [CurrencyExchangeRate](https://github.com/Ciltonn/CurrencyExchangeRate) | [Ciltonn](https://github.com/Ciltonn) | Java |  |  |
+| [currency](https://github.com/esipovAlex/currency) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
+| [Currency-exchanger](https://github.com/L1nkolln/Currency-exchanger) | [L1nkolln](https://github.com/L1nkolln) | Java |  |  |
