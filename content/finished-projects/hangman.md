@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-366 реализаций на Java, Python, Go, Kotlin, PHP, C#, Rust, Gleam, OCaml, Prolog. 227 ревью.
+398 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 254 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -92,7 +92,7 @@ bookTOC = false
 | [hangman-kotlin](https://github.com/krios2146/hangman-kotlin) | [krios2146](https://github.com/krios2146) | Kotlin |  |  |
 | [Hangman_Game](https://github.com/AlisaDank/Hangman_Game/) | [AlisaDank](https://github.com/AlisaDank) | Java |  |  |
 | [Hangman](https://github.com/qudest/Hangman) | [qudest](https://github.com/qudest) | Java |  |  |
-| [BaldaGame](https://github.com/matveev123/BaldaGame) | [matveev123](https://github.com/matveev123) | Java |  |  |
+| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java |  |  |
 | [Hangman-MVC](https://github.com/cardinalnsk/Hangman-MVC) | [cardinalnsk](https://github.com/cardinalnsk) | Java |  |  |
 | [Hangman](https://github.com/Guzaliya1997/Hangman) | [Guzaliya1997](https://github.com/Guzaliya1997) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a42c973de263d68274f9a7a43c65215e) | Илья [@coderilya](https://t.me/coderilya) |
 | [hangman_Game](https://github.com/Solo83/hangman_Game) | [Solo83](https://github.com/Solo83) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ab987f63d782712eaa32f029701eeaa8) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
@@ -380,3 +380,35 @@ bookTOC = false
 | [HangMan](https://github.com/bubble-sort-master/HangMan) | [bubble-sort-master](https://github.com/bubble-sort-master) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm125-Gleb-bubble-sort-master.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman-game](https://github.com/Sibiryaq/hangman-game) | [Sibiryaq](https://github.com/Sibiryaq) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm126-sibiryaq-Sibiryaq.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangmanTheGame](https://github.com/Kirillzhukov737/hangmanTheGame) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm127-kirillzhukov-Kirillzhukov737.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [gallows_oop](https://github.com/Anik-p/gallows_oop) | [Anik-p](https://github.com/Anik-p) | Python | 📝 [#1](https://gist.github.com/OlegTihii/327f1c992c73701f152566bb5417aeee), 📝 [#2](https://gist.github.com/OlegTihii/97cf85ebca892a1083f679c712ce3717) | Дмитрий [@DmMaff](https://t.me/DmMaff), Виктор [@csatom](https://t.me/csatom) |
+| [HangmanGame](https://github.com/KhudopayMA/HangmanGame) | [KhudopayMA](https://github.com/KhudopayMA) | Java | 📝 [Заметки](https://gist.github.com/prplhd/3713002cb0bc7c84c66a0daa2e82a58b) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [hangman-game](https://github.com/codleto/hangman-game) | [codleto](https://github.com/codleto) | Java | 📝 [Заметки](https://gist.github.com/prplhd/78bee3e0f7bb326a85a6055e2d61bfcb) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [hangman](https://gitlab.com/foreacherevko/hangman) | [foreacherevko](https://gitlab.com/foreacherevko) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm128-evgeny-foreacherevko.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/J-Bakuli/Hangman) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [Заметки](https://gist.github.com/prplhd/0a5c81b2fc7298cc38cc7833001c8738) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [ya_ne_pishu_shit_v_gite](https://github.com/n1veamen/ya_ne_pishu_shit_v_gite) | [n1veamen](https://github.com/n1veamen) | Java |  |  |
+| [hangman](https://github.com/purificatio/hangman) | [purificatio](https://github.com/purificatio) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm129-kyryl-purificatio.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/Kamil1developer/Hangman) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm130-kamilkhusainov-Kamil1developer.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Project-1-Gallows](https://github.com/IgorJordanJJJ/Project-1-Gallows) | [IgorJordanJJJ](https://github.com/IgorJordanJJJ) | Java |  |  |
+| [roadmap_1](https://github.com/Rinat820/roadmap_1) | [Rinat820](https://github.com/Rinat820) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/4675d25e7ec45aa1234f2de0b42831d7) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
+| [01-gallows](https://github.com/Parralon/01-gallows) | [Parralon](https://github.com/Parralon) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm131-gadza-Parralon.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangmanidiomatic](https://github.com/saymkarjat/hangmanidiomatic) | [saymkarjat](https://github.com/saymkarjat) | Kotlin |  |  |
+| [hangman](https://github.com/zpenr/hangman) | [zpenr](https://github.com/zpenr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b9e5dbefbb4386db5b2158523962e0ff) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [Hangman.git](https://github.com/DariaPanenkova/Hangman.git) | [DariaPanenkova](https://github.com/DariaPanenkova) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm132-dariapanenkova-DariaPanenkova.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/beryerkdahee/hangman) | [beryerkdahee](https://github.com/beryerkdahee) | Java | 📝 [Заметки](https://gist.github.com/prplhd/f1bd6dc9607cf7a847989f5615398d8d) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Hangman](https://github.com/Aleksko4nes/Hangman) | [Aleksko4nes](https://github.com/Aleksko4nes) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm133-aleksanderkochetkov-Aleksko4nes.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Gallows](https://github.com/LinkerMak/Gallows) | [LinkerMak](https://github.com/LinkerMak) | Java | 📝 [Заметки](https://gist.github.com/prplhd/3c95e321932acb7a2e2038d7d9878a0d) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [hangman](https://github.com/avkalabin/hangman) | [avkalabin](https://github.com/avkalabin) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm134-andreykalabin-avkalabin.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [HangmanGame](https://github.com/Egor-Tikunov2000/HangmanGame) | [Egor-Tikunov2000](https://github.com/Egor-Tikunov2000) | C# | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm136-egor-Egor-Tikunov2000.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [GallowsGame](https://github.com/NastyaPowerr/GallowsGame) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java | 📝 [Заметки](https://gist.github.com/prplhd/7f612933b788455bab1cd4e6eff5cbce) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Hangman](https://github.com/makarikhin-n/Hangman) | [makarikhin-n](https://github.com/makarikhin-n) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm135-rg-makarikhin-n.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [HangmanGame](https://github.com/Blackened07/HangmanGame) | [Blackened07](https://github.com/Blackened07) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm137-timofey-Blackened07.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/ElenaVasilkova/hangman) | [ElenaVasilkova](https://github.com/ElenaVasilkova) | Python |  |  |
+| [hangman-clean](https://github.com/j0797/hangman-clean) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm138-j-j0797.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/CTY6A/hangman) | [CTY6A](https://github.com/CTY6A) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm139-vadzimstubeda-CTY6A.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/MyNameIsN0body/hangman) | [MyNameIsN0body](https://github.com/MyNameIsN0body) | Java | 📝 [Заметки](https://gist.github.com/prplhd/24749d415a33d9a88321a73960c081ad) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Hangman](https://github.com/insomn1acc/Hangman) | [insomn1acc](https://github.com/insomn1acc) | Java | 📝 [Заметки](https://gist.github.com/prplhd/b6c34c116195f723339a2fd26afe0936) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [task](https://github.com/dab1231/task) | [dab1231](https://github.com/dab1231) | Java | 📝 [Заметки](https://github.com/Hawoline/HangmanReview/blob/main/Review0.md) | Биликто [@Hawoline](https://t.me/Hawoline) |
+| [Hangman---Java](https://github.com/VeraAtnagullova15/Hangman---Java) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm140-veraatnagullova-VeraAtnagullova15.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java |  |  |
+| [Hangman_OOP](https://github.com/TIER4547/Hangman_OOP) | [TIER4547](https://github.com/TIER4547) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm141-tier-TIER4547.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simpleGames](https://github.com/esipovAlex/simpleGames) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
