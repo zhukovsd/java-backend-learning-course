@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-92 реализаций на Java, Python, PHP, Go, Kotlin. 33 ревью.
+104 реализаций на Java, Python, PHP, Go, Kotlin. 36 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -106,3 +106,15 @@ bookTOC = false
 | [CloudFileStorage](https://github.com/kivislime/CloudFileStorage) | [kivislime](https://github.com/kivislime) | Java |  |  |
 | [cloud-file-storage](https://github.com/VladislavGav/cloud-file-storage) | [VladislavGav](https://github.com/VladislavGav) | Java |  |  |
 | [cloudStorage](https://github.com/RadomirGross/cloudStorage) | [RadomirGross](https://github.com/RadomirGross) | Java |  |  |
+| [CloudStorage.git](https://github.com/walkmanx21/CloudStorage.git) | [walkmanx21](https://github.com/walkmanx21) | Java |  |  |
+| [cloud-file-storage.git](https://github.com/artem-harper/cloud-file-storage.git) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
+| [cloud-files](https://github.com/fanat1kq/cloud-files) | [fanat1kq](https://github.com/fanat1kq) | Java |  |  |
+| [cloud-file-storage](https://github.com/ZandanRybdylov/cloud-file-storage) | [ZandanRybdylov](https://github.com/ZandanRybdylov) | Java |  |  |
+| [Cloud_storage](https://github.com/FiSheNiR/Cloud_storage) | [FiSheNiR](https://github.com/FiSheNiR) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/74004867c06a881d31289c17e22862b8) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-storage](https://github.com/Dimas-Ukimas/cloud-storage) | [Dimas-Ukimas](https://github.com/Dimas-Ukimas) | Java |  |  |
+| [cloud-file-storage](https://github.com/D0cCT0R/cloud-file-storage) | [D0cCT0R](https://github.com/D0cCT0R) | Java |  |  |
+| [cloud-file-storage](https://github.com/a333werfser/cloud-file-storage) | [a333werfser](https://github.com/a333werfser) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv1-a333werfser.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloudStorage](https://github.com/muted987/cloudStorage) | [muted987](https://github.com/muted987) | Java |  |  |
+| [CloudDrive-Dev](https://github.com/PivovarJV/CloudDrive-Dev) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
+| [CloudStorage.git](https://github.com/ProgWrite/CloudStorage) | [ProgWrite](https://github.com/ProgWrite) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv2-ProgWrite.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage](https://github.com/AriiSib/cloud-storage) | [AriiSib](https://github.com/AriiSib) | Java |  |  |
