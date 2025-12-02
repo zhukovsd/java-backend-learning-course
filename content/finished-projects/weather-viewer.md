@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-124 реализаций на Java, Python, Kotlin, C#, Go, PHP. 46 ревью.
+136 реализаций на Java, Python, Kotlin, C#, Go, PHP. 49 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -138,3 +138,15 @@ bookTOC = false
 | [weather](https://github.com/Apchupio/weather) | [Apchupio](https://github.com/Apchupio) | Java |  |  |
 | [weatherApp](https://github.com/D0cCT0R/weatherApp) | [D0cCT0R](https://github.com/D0cCT0R) | Java |  |  |
 | [weather-app.git](https://github.com/artem-harper/weather-app.git) | [artem-harper](https://github.com/artem-harper) | Java |  |  |
+| [weather-viewer](https://github.com/LuzhinLoop/weather-viewer) | [LuzhinLoop](https://github.com/LuzhinLoop) | Java |  |  |
+| [weather-viewer](https://github.com/LlqWst/weather-viewer) | [LlqWst](https://github.com/LlqWst) | Java |  |  |
+| [WeatherApp](https://github.com/vltolstov/WeatherApp) | [vltolstov](https://github.com/vltolstov) | Java |  |  |
+| [weather-forecast](https://github.com/red-eyed-99/weather-forecast) | [red-eyed-99](https://github.com/red-eyed-99) | Java | 📝 [Заметки](https://github.com/urantech/review/blob/main/content/red_eyed_99_weather_forecast.md) | Роман [@urantech](https://t.me/urantech) |
+| [WeatherWebApplication](https://github.com/mthbttrfl/WeatherWebApplication) | [mthbttrfl](https://github.com/mthbttrfl) | Java | 📝 [Заметки](https://github.com/urantech/review/blob/main/content/mthbttrfl_weather_web_application.md) | Роман [@urantech](https://t.me/urantech) |
+| [weather-viewer](https://github.com/WillSalas2002/weather-viewer) | [WillSalas2002](https://github.com/WillSalas2002) | Java |  |  |
+| [WeatherPet](https://github.com/homasapienss/WeatherPet) | [homasapienss](https://github.com/homasapienss) | Java |  |  |
+| [weather-tracker](https://github.com/lcursusl/weather-tracker) | [lcursusl](https://github.com/lcursusl) | Java |  |  |
+| [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [weather](https://github.com/van0mas/weather) | [van0mas](https://github.com/van0mas) | Java |  |  |
+| [weather-tracker](https://github.com/damvih03/weather-tracker) | [damvih03](https://github.com/damvih03) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/b8a287dff1911b1c2ff935860acad48a) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [weather-app.git](https://github.com/Ghennadi-Berezovschi/weather-app.git) | [Ghennadi-Berezovschi](https://github.com/Ghennadi-Berezovschi) | Java |  |  |
