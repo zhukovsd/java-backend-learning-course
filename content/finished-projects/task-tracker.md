@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-23 реализаций на Java, Go, Python. 6 ревью.
+23 реализаций на Java, Go, Python. 7 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -36,4 +36,4 @@ bookTOC = false
 | [Task-Tracker-1](https://github.com/Egor250625/Task-Tracker-1) | [Egor250625](https://github.com/Egor250625) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/20ccf210aaa1107aaeffbd67b1a215e1) | Иван [@makeitvsolo](https://t.me/makeitvsolo) |
 | [task-tracker](https://github.com/giv13/task-tracker) | [giv13](https://github.com/giv13) | Java |  |  |
 | [task-tracker](https://github.com/Oleg-Zv/task-tracker) | [Oleg-Zv](https://github.com/Oleg-Zv) | Java |  |  |
-| [task-tracker](https://github.com/fanat1kq/task-tracker) | [fanat1kq](https://github.com/fanat1kq) | Java |  |  |
+| [task-tracker](https://github.com/fanat1kq/task-tracker) | [fanat1kq](https://github.com/fanat1kq) | Java | 📝 [Заметки](https://github.com/reviewer-project/task-tracker-review/blob/main/rv1-fanat1kq.md) | Александр [@anelfer](https://t.me/anelfer) |
