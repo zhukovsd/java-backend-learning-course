@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-153 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 53 ревью.
+157 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 56 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -90,6 +90,7 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/as1iva/tennis-scoreboard) | [as1iva](https://github.com/as1iva) | Java |  |  |
 | [tennis-score-board](https://github.com/Faust32/tennis-score-board) | [Faust32](https://github.com/Faust32) | Java |  |  |
 | [TennisScoreboard](https://github.com/anton-kulakov/TennisScoreboard) | [anton-kulakov](https://github.com/anton-kulakov) | Java |  |  |
+| [tennis-scoreboard](https://github.com/Runaumov/tennis-scoreboard) | [Runaumov](https://github.com/Runaumov) | Java |  |  |
 | [tennis_board](https://github.com/Daniyal-Akhadov/tennis_board) | [Daniyal-Akhadov](https://github.com/Daniyal-Akhadov) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/0a2b8b685f56f5127f566124f8c2e876) | Степан [@xseeljvm](https://t.me/xseeljvm) |
 | [com.saymk.tennistable](https://github.com/saymkarjat/com.saymk.tennistable) | [saymkarjat](https://github.com/saymkarjat) | Java | 📝 [Заметки](https://gist.github.com/liemartt/0c0b669964a5fcc8936ef9800edf1048) | Артем [@liemartt](https://t.me/liemartt) |
 | [Tennis](https://github.com/Sss330/Tennis) | [Sss330](https://github.com/Sss330) | Java | 📝 [Заметки](https://gist.github.com/ArturChegur/3610bcfe4e82fabb643c87f0a8545be1) | Артур [@ArturChegur](https://t.me/ArturChegur) |
@@ -161,9 +162,12 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/lcursusl/tennis-scoreboard) | [lcursusl](https://github.com/lcursusl) | Java |  |  |
 | [tennis-score](https://github.com/nosabr/tennis-score) | [nosabr](https://github.com/nosabr) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/nosabrtg-nosabr-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [Project_4_tennis.git](https://github.com/igarick/Project_4_tennis.git) | [igarick](https://github.com/igarick) | Java |  |  |
-| [scoreboard](https://github.com/WayneHays/scoreboard) | [WayneHays](https://github.com/WayneHays) | Java |  |  |
+| [scoreboard](https://github.com/WayneHays/scoreboard) | [WayneHays](https://github.com/WayneHays) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/wayne_hays-WayneHays-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-score](https://github.com/van0mas/tennis-score) | [van0mas](https://github.com/van0mas) | Java | 📝 [Заметки](https://github.com/reviewer-project/tennis-score-review/blob/main/rv1-van0mas.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [tennis-match-scoreboard](https://github.com/SamoylovSt/tennis-match-scoreboard) | [SamoylovSt](https://github.com/SamoylovSt) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/Stanislav_Ss-SamoylovSt-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/xcvqqz/tennis-scoreboard) | [xcvqqz](https://github.com/xcvqqz) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/breakmeaway-xcvqqz-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [Tennis_Match_Scoreboard](https://github.com/George11pro/Tennis_Match_Scoreboard) | [George11pro](https://github.com/George11pro) | Python |  |  |
-| [tennis-scope-board](https://github.com/esipovAlex/tennis-scope-board) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
+| [tennis-scope-board](https://github.com/esipovAlex/tennis-scope-board) | [esipovAlex](https://github.com/esipovAlex) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/Alex46volokno-esipovAlex-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [TennisScoreboard](https://github.com/Metty1337/TennisScoreboard) | [Metty1337](https://github.com/Metty1337) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/c137_morty3-Metty1337-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [TennisScoreBoard.git](https://github.com/phoboy725/TennisScoreBoard.git) | [phoboy725](https://github.com/phoboy725) | Java |  |  |
+| [tennis-scoreboard](https://github.com/PetrovYegor/tennis-scoreboard) | [PetrovYegor](https://github.com/PetrovYegor) | Java |  |  |
