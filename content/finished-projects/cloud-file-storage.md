@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-104 реализаций на Java, Python, PHP, Go, Kotlin. 36 ревью.
+113 реализаций на Java, Python, PHP, Go, Kotlin. 37 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -117,4 +117,13 @@ bookTOC = false
 | [cloudStorage](https://github.com/muted987/cloudStorage) | [muted987](https://github.com/muted987) | Java |  |  |
 | [CloudDrive-Dev](https://github.com/PivovarJV/CloudDrive-Dev) | [PivovarJV](https://github.com/PivovarJV) | Java |  |  |
 | [CloudStorage.git](https://github.com/ProgWrite/CloudStorage) | [ProgWrite](https://github.com/ProgWrite) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv2-ProgWrite.md) | Александр [@anelfer](https://t.me/anelfer) |
-| [cloud-storage](https://github.com/AriiSib/cloud-storage) | [AriiSib](https://github.com/AriiSib) | Java |  |  |
+| [cloud-storage](https://github.com/AriiSib/cloud-storage) | [AriiSib](https://github.com/AriiSib) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv3-AriiSib.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage](https://github.com/Ar4ik4ik/cloud-storage) | [Ar4ik4ik](https://github.com/Ar4ik4ik) | Java |  |  |
+| [FileStorage](https://github.com/vltolstov/FileStorage) | [vltolstov](https://github.com/vltolstov) | Java |  |  |
+| [cloude-file-storage](https://github.com/Runaumov/cloude-file-storage) | [Runaumov](https://github.com/Runaumov) | Java |  |  |
+| [cloud-storage](https://github.com/WillSalas2002/cloud-storage) | [WillSalas2002](https://github.com/WillSalas2002) | Java |  |  |
+| [CloudStorage](https://github.com/EGladki/CloudStorage) | [EGladki](https://github.com/EGladki) | Java |  |  |
+| [cloud-storage](https://github.com/Lagovchin/cloud-storage) | [Lagovchin](https://github.com/Lagovchin) | Java |  |  |
+| [cloud_file_storage](https://github.com/esipovAlex/cloud_file_storage) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
+| [cloud-file-storage](https://github.com/damvih03/cloud-file-storage) | [damvih03](https://github.com/damvih03) | Java |  |  |
+| [cloud-drive](https://github.com/LuzhinLoop/cloud-drive) | [LuzhinLoop](https://github.com/LuzhinLoop) | Java |  |  |
