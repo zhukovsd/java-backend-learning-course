@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-398 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 254 ревью.
+405 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 262 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -92,7 +92,7 @@ bookTOC = false
 | [hangman-kotlin](https://github.com/krios2146/hangman-kotlin) | [krios2146](https://github.com/krios2146) | Kotlin |  |  |
 | [Hangman_Game](https://github.com/AlisaDank/Hangman_Game/) | [AlisaDank](https://github.com/AlisaDank) | Java |  |  |
 | [Hangman](https://github.com/qudest/Hangman) | [qudest](https://github.com/qudest) | Java |  |  |
-| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java |  |  |
+| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm143-ilyamatveev-matveev123.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Hangman-MVC](https://github.com/cardinalnsk/Hangman-MVC) | [cardinalnsk](https://github.com/cardinalnsk) | Java |  |  |
 | [Hangman](https://github.com/Guzaliya1997/Hangman) | [Guzaliya1997](https://github.com/Guzaliya1997) | Java | 📝 [Заметки](https://gist.github.com/Asenim/a42c973de263d68274f9a7a43c65215e) | Илья [@coderilya](https://t.me/coderilya) |
 | [hangman_Game](https://github.com/Solo83/hangman_Game) | [Solo83](https://github.com/Solo83) | Java | 📝 [Заметки](https://gist.github.com/Asenim/ab987f63d782712eaa32f029701eeaa8) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
@@ -405,10 +405,17 @@ bookTOC = false
 | [hangman](https://github.com/ElenaVasilkova/hangman) | [ElenaVasilkova](https://github.com/ElenaVasilkova) | Python |  |  |
 | [hangman-clean](https://github.com/j0797/hangman-clean) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm138-j-j0797.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman](https://github.com/CTY6A/hangman) | [CTY6A](https://github.com/CTY6A) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm139-vadzimstubeda-CTY6A.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [hangman](https://github.com/MyNameIsN0body/hangman) | [MyNameIsN0body](https://github.com/MyNameIsN0body) | Java | 📝 [Заметки](https://gist.github.com/prplhd/24749d415a33d9a88321a73960c081ad) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [hangman](https://github.com/MyNameIsN0body/hangman) | [MyNameIsN0body](https://github.com/MyNameIsN0body) | Java | 📝 [#1](https://gist.github.com/prplhd/24749d415a33d9a88321a73960c081ad), 📝 [#2](https://github.com/Hawoline/HangmanReview/blob/main/ReviewMyNameIsNObody.md) | Дмитрий [@prplhd](https://t.me/prplhd), Биликто [@Hawoline](https://t.me/Hawoline) |
 | [Hangman](https://github.com/insomn1acc/Hangman) | [insomn1acc](https://github.com/insomn1acc) | Java | 📝 [Заметки](https://gist.github.com/prplhd/b6c34c116195f723339a2fd26afe0936) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [task](https://github.com/dab1231/task) | [dab1231](https://github.com/dab1231) | Java | 📝 [Заметки](https://github.com/Hawoline/HangmanReview/blob/main/Review0.md) | Биликто [@Hawoline](https://t.me/Hawoline) |
 | [Hangman---Java](https://github.com/VeraAtnagullova15/Hangman---Java) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm140-veraatnagullova-VeraAtnagullova15.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java |  |  |
+| [Hangman](https://github.com/matveev123/Hangman) | [matveev123](https://github.com/matveev123) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm143-ilyamatveev-matveev123.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Hangman_OOP](https://github.com/TIER4547/Hangman_OOP) | [TIER4547](https://github.com/TIER4547) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm141-tier-TIER4547.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simpleGames](https://github.com/esipovAlex/simpleGames) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
+| [Hangman](https://github.com/NitroShadowGT/Hangman) | [NitroShadowGT](https://github.com/NitroShadowGT) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/Hangman/NitroShadowGT-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [hangman](https://github.com/dartimfont/hangman) | [dartimfont](https://github.com/dartimfont) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm144-goshasokorev-dartimfont.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [HangmanGame](https://github.com/skipaq/HangmanGame) | [skipaq](https://github.com/skipaq) | Java |  |  |
+| [hangman](https://github.com/XanderGI/hangman) | [XanderGI](https://github.com/XanderGI) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm142-alexander-XanderGI.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [HangmanGame](https://github.com/nadillustrator/HangmanGame) | [nadillustrator](https://github.com/nadillustrator) | Java | 📝 [#1](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/hangman-27-12-25.md), 📝 [#2](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm145-nadiapopova-nadillustrator.md) | Сергей [@serchg_george](https://t.me/serchg_george), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/nj32gmail/Hangman) | [nj32gmail](https://github.com/nj32gmail) | Java |  |  |
+| [hangman-java.git](https://github.com/Shach1/hangman-java.git) | [Shach1](https://github.com/Shach1) | Java |  |  |
