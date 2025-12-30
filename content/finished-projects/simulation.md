@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-228 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 152 ревью.
+238 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 163 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -238,7 +238,17 @@ bookTOC = false
 | [Simulation1.1.git](https://github.com/Ivan-cyber-code/Simulation1.1.git) | [Ivan-cyber-code](https://github.com/Ivan-cyber-code) | Java |  |  |
 | [simulation](https://github.com/avkalabin/simulation) | [avkalabin](https://github.com/avkalabin) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim112-andreykalabin-avkalabin.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation_app](https://github.com/aleksLiss/simulation_app) | [aleksLiss](https://github.com/aleksLiss) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim113-leha47-aleksLiss.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [SimulationJava](https://github.com/LeonidEreminW/SimulationJava) | [LeonidEreminW](https://github.com/LeonidEreminW) | Java |  |  |
+| [SimulationJava](https://github.com/LeonidEreminW/SimulationJava) | [LeonidEreminW](https://github.com/LeonidEreminW) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim114-leonideremin-LeonidEreminW.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulator](https://github.com/Aleksko4nes/Simulator) | [Aleksko4nes](https://github.com/Aleksko4nes) | Java |  |  |
-| [simulation-project](https://github.com/haushekmiva/simulation-project) | [haushekmiva](https://github.com/haushekmiva) | Java |  |  |
-| [simul](https://github.com/esipovAlex/simul) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
+| [simulation-project](https://github.com/haushekmiva/simulation-project) | [haushekmiva](https://github.com/haushekmiva) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim115-artemon-haushekmiva.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simul](https://github.com/esipovAlex/simul) | [esipovAlex](https://github.com/esipovAlex) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/Simulation/esipovAlex-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [task2](https://github.com/dab1231/task2) | [dab1231](https://github.com/dab1231) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim116-nikita-dab1231.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/sinahatake/Simulation) | [sinahatake](https://github.com/sinahatake) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim117-anastasia-sinahatake.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/Kirillzhukov737/simulation) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim119-kirillzhukov-Kirillzhukov737.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/NikitaPopovsky/Simulation) | [NikitaPopovsky](https://github.com/NikitaPopovsky) | Java | 📝 [#1](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim118-nikita-xidora.md), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim124-nikita-nikitapopovsky-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/thatPhill/Simulation) | [thatPhill](https://github.com/thatPhill) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim120-phil-thatPhil.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation.git](https://github.com/codleto/Simulation.git) | [codleto](https://github.com/codleto) | Java |  |  |
+| [simulation](https://github.com/aneG200229/simulation) | [aneG200229](https://github.com/aneG200229) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim122-aneg-aneG200229.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
+| [simulationMap](https://github.com/Blackened07/simulationMap) | [Blackened07](https://github.com/Blackened07) | Java |  |  |
+| [Simulation_Bakuli](https://github.com/J-Bakuli/Simulation_Bakuli) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim123-julyabakulina-J-Bakul.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
