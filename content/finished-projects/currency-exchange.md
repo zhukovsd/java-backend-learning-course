@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-234 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 78 ревью.
+238 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 81 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -244,7 +244,11 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/prplhd/CurrencyExchange) | [prplhd](https://github.com/prplhd) | Java |  |  |
 | [roadmap_3](https://github.com/Rinat820/roadmap_3) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
 | [currency-exchange](https://github.com/haushekmiva/currency-exchange) | [haushekmiva](https://github.com/haushekmiva) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/haushekmiva-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
-| [currency-exchange](https://github.com/Kirillzhukov737/currency-exchange) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java |  |  |
+| [currency-exchange](https://github.com/Kirillzhukov737/currency-exchange) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/Kirillzhukov737-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [CurrencyExchange](https://github.com/ASmolenkov/CurrencyExchange) | [ASmolenkov](https://github.com/ASmolenkov) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/ASmolenkov-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [CurrencyExchangeFastAPI](https://github.com/mandalorianec/CurrencyExchangeFastAPI) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
 | [CurrencyExchanger](https://github.com/yosakoo/CurrencyExchanger) | [yosakoo](https://github.com/yosakoo) | Go |  |  |
+| [currency-exchange](https://github.com/KittieFoxxy/currency-exchange) | [KittieFoxxy](https://github.com/KittieFoxxy) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/KittieFoxxy-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currency-exchange](https://github.com/dmitrykitty/currency-exchange) | [dmitrykitty](https://github.com/dmitrykitty) | Java | 📝 [Заметки](https://github.com/techptr/review/blob/main/content/dmitrykitty_currency_exchange.md) | Роман [@urantech](https://t.me/urantech) |
+| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
+| [java_roadmap_currency](https://github.com/Vlad06091992/java_roadmap_currency) | [Vlad06091992](https://github.com/Vlad06091992) | Java |  |  |
