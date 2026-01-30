@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-405 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 262 ревью.
+415 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, OCaml, Prolog. 272 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -414,8 +414,18 @@ bookTOC = false
 | [simpleGames](https://github.com/esipovAlex/simpleGames) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
 | [Hangman](https://github.com/NitroShadowGT/Hangman) | [NitroShadowGT](https://github.com/NitroShadowGT) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/Hangman/NitroShadowGT-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [hangman](https://github.com/dartimfont/hangman) | [dartimfont](https://github.com/dartimfont) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm144-goshasokorev-dartimfont.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [HangmanGame](https://github.com/skipaq/HangmanGame) | [skipaq](https://github.com/skipaq) | Java |  |  |
+| [HangmanGame](https://github.com/skipaq/HangmanGame) | [skipaq](https://github.com/skipaq) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm146-skp-skp-skipaq.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman](https://github.com/XanderGI/hangman) | [XanderGI](https://github.com/XanderGI) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm142-alexander-XanderGI.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [HangmanGame](https://github.com/nadillustrator/HangmanGame) | [nadillustrator](https://github.com/nadillustrator) | Java | 📝 [#1](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/hangman-27-12-25.md), 📝 [#2](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm145-nadiapopova-nadillustrator.md) | Сергей [@serchg_george](https://t.me/serchg_george), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Hangman](https://github.com/nj32gmail/Hangman) | [nj32gmail](https://github.com/nj32gmail) | Java |  |  |
+| [Hangman](https://github.com/nj32gmail/Hangman) | [nj32gmail](https://github.com/nj32gmail) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm147-krasnytelefon-nj32gmail.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman-java.git](https://github.com/Shach1/hangman-java.git) | [Shach1](https://github.com/Shach1) | Java |  |  |
+| [hangman](https://github.com/rftq/hangman) | [rftq](https://github.com/rftq) | Java | 📝 [Заметки](https://gist.github.com/prplhd/c034ab815593846f50c09fd7d8e0b97b) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [SimulationApp.git](https://github.com/PronovichV1/SimulationApp.git) | [PronovichV1](https://github.com/PronovichV1) | Java |  |  |
+| [hangman](https://github.com/AlenaBormatova/hangman) | [AlenaBormatova](https://github.com/AlenaBormatova) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm148-alena-AlenaBormatova.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [gallow](https://github.com/Abalyk/gallow) | [Abalyk](https://github.com/Abalyk) | Java | 📝 [Заметки](https://gist.github.com/prplhd/8d5dcdd44c166c54eb4a0502feccf658) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [HangMan](https://github.com/aglazovv77-svg/HangMan) | [aglazovv77-svg](https://github.com/aglazovv77-svg) | Java | 📝 [#1](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm149-alexey-aglazovv77-svg.md), 📝 [#2](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/hangman-14.01.2026.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az), Сергей [@serchg_george](https://t.me/serchg_george) |
+| [hangman](https://github.com/Mihail233/hangman) | [Mihail233](https://github.com/Mihail233) | Java |  |  |
+| [hangman](https://github.com/roadmapjava/hangman) | [roadmapjava](https://github.com/roadmapjava) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/74dff2e4d3f494aa664566929039e6f8) | Дмитрий [@drfkndoom](https://t.me/drfkndoom) |
+| [Hangman](https://github.com/qpd1salas/Hangman) | [qpd1salas](https://github.com/qpd1salas) | Java | 📝 [Заметки](https://gist.github.com/drfkndoom/4f9708db6a4a627fcecbd29c5d2116a3) | Дмитрий [@drfkndoom](https://t.me/drfkndoom) |
+| [hangman-game.git](https://github.com/Sh1iba/hangman-game.git) | [Sh1iba](https://github.com/Sh1iba) | Java |  |  |
+| [Hangman.git](https://github.com/finezhulidov-create/Hangman) | [finezhulidov-create](https://github.com/finezhulidov-create) | Java | 📝 [Заметки](https://gist.github.com/KittieFoxxy/09811f8d5dde2839a56e5414bb1849dc) | Екатерина [@kittyfoxxy](https://t.me/kittyfoxxy) |
