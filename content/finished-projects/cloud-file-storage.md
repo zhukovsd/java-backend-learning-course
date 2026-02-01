@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-113 реализаций на Java, Python, PHP, Go, Kotlin. 37 ревью.
+119 реализаций на Java, Python, PHP, Go, Kotlin. 40 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -127,3 +127,9 @@ bookTOC = false
 | [cloud_file_storage](https://github.com/esipovAlex/cloud_file_storage) | [esipovAlex](https://github.com/esipovAlex) | Java |  |  |
 | [cloud-file-storage](https://github.com/damvih03/cloud-file-storage) | [damvih03](https://github.com/damvih03) | Java |  |  |
 | [cloud-drive](https://github.com/LuzhinLoop/cloud-drive) | [LuzhinLoop](https://github.com/LuzhinLoop) | Java |  |  |
+| [cloud-storage](https://github.com/IlPl123454/cloud-storage) | [IlPl123454](https://github.com/IlPl123454) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv7-IlPl123454.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-file-storage](https://github.com/LlqWst/cloud-file-storage) | [LlqWst](https://github.com/LlqWst) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv5-LlqWst.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage](https://github.com/red-eyed-99/cloud-storage) | [red-eyed-99](https://github.com/red-eyed-99) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv6-red-eyed-99.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage-service](https://github.com/arsnyan/cloud-storage-service) | [arsnyan](https://github.com/arsnyan) | Java |  |  |
+| [cloud-storage](https://github.com/van0mas/cloud-storage) | [van0mas](https://github.com/van0mas) | Java |  |  |
+| [cloud-storage-spring-boot](https://github.com/nosabr/cloud-storage-spring-boot) | [nosabr](https://github.com/nosabr) | Java |  |  |

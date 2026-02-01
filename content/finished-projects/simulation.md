@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-238 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 163 ревью.
+252 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 174 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -250,5 +250,19 @@ bookTOC = false
 | [Simulation.git](https://github.com/codleto/Simulation.git) | [codleto](https://github.com/codleto) | Java |  |  |
 | [simulation](https://github.com/aneG200229/simulation) | [aneG200229](https://github.com/aneG200229) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim122-aneg-aneG200229.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
-| [simulationMap](https://github.com/Blackened07/simulationMap) | [Blackened07](https://github.com/Blackened07) | Java |  |  |
+| [simulationMap](https://github.com/Blackened07/simulationMap) | [Blackened07](https://github.com/Blackened07) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim125-timofey-Blackened07.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation_Bakuli](https://github.com/J-Bakuli/Simulation_Bakuli) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim123-julyabakulina-J-Bakul.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [WorldSimulation](https://github.com/KhudopayMA/WorldSimulation) | [KhudopayMA](https://github.com/KhudopayMA) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim127-mihail-KhudopayMA.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-clean](https://github.com/j0797/simulation-clean) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim126-j-j0797.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/Eug4n4/simulation) | [Eug4n4](https://github.com/Eug4n4) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim131-evgeny-Eug4n4.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/KittieFoxxy/simulation) | [KittieFoxxy](https://github.com/KittieFoxxy) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim129-catfox-KittieFoxxy.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/TIER4547/Simulation) | [TIER4547](https://github.com/TIER4547) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim130-tier-TIER4547.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [SimulationProject](https://github.com/Creocist/SimulationProject) | [Creocist](https://github.com/Creocist) | Java |  |  |
+| [Simulation.git](https://github.com/Kamil1developer/Simulation) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [#1](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim132-kamilkhusainov-Kamil1developer.md), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim134-kamilkhusainov-Kamil1developer-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation.git](https://github.com/bychenkv/simulation) | [bychenkv](https://github.com/bychenkv) | Java | 📝 [Заметки](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/simulation-AI-review-17.01.2026.md) | Сергей [@serchg_george](https://t.me/serchg_george) |
+| [java_roadmap_simulation](https://github.com/Vlad06091992/java_roadmap_simulation) | [Vlad06091992](https://github.com/Vlad06091992) | Java | 📝 [Заметки](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/simulation-review-19.01.2026.md) | Сергей [@serchg_george](https://t.me/serchg_george) |
+| [simulation](https://github.com/murlov/simulation) | [murlov](https://github.com/murlov) | Java |  |  |
+| [SimulationProject](https://github.com/NastyaPowerr/SimulationProject) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim133-nastya-NastyaPowerr.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Abalyk/Simulation) | [Abalyk](https://github.com/Abalyk) | Java |  |  |
+| [simulation](https://github.com/Anik-p/simulation) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
+| [SimulationGame](https://github.com/XanderGI/SimulationGame) | [XanderGI](https://github.com/XanderGI) | Java |  |  |
