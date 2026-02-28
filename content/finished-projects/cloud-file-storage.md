@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-119 реализаций на Java, Python, PHP, Go, Kotlin. 40 ревью.
+127 реализаций на Java, Python, PHP, Go, Kotlin. 45 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -132,4 +132,12 @@ bookTOC = false
 | [cloud-storage](https://github.com/red-eyed-99/cloud-storage) | [red-eyed-99](https://github.com/red-eyed-99) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv6-red-eyed-99.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [cloud-storage-service](https://github.com/arsnyan/cloud-storage-service) | [arsnyan](https://github.com/arsnyan) | Java |  |  |
 | [cloud-storage](https://github.com/van0mas/cloud-storage) | [van0mas](https://github.com/van0mas) | Java |  |  |
-| [cloud-storage-spring-boot](https://github.com/nosabr/cloud-storage-spring-boot) | [nosabr](https://github.com/nosabr) | Java |  |  |
+| [cloud-storage-spring-boot](https://github.com/nosabr/cloud-storage-spring-boot) | [nosabr](https://github.com/nosabr) | Java | 📝 [Заметки](https://github.com/techptr/review/blob/main/content/nosabr_cloud_storage.md) | Роман [@urantech](https://t.me/urantech) |
+| [CloudStorage](https://github.com/AquaProdigy/CloudStorage) | [AquaProdigy](https://github.com/AquaProdigy) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv8-AquaProdigy.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [Project_6_cloud](https://github.com/igarick/Project_6_cloud) | [igarick](https://github.com/igarick) | Java |  |  |
+| [Cloud_file_storage](https://github.com/bardTulpan/Cloud_file_storage) | [bardTulpan](https://github.com/bardTulpan) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv10-bardTulpan.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud_storage](https://github.com/GANZO9055/cloud_storage) | [GANZO9055](https://github.com/GANZO9055) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv9-GANZO9055.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage](https://github.com/SamoylovSt/cloud-storage) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
+| [Project6](https://github.com/pshekek/Project6) | [pshekek](https://github.com/pshekek) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv11-pshekek.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python |  |  |
+| [spring-boot-filestorage](https://github.com/klimov-project/spring-boot-filestorage) | [klimov-project](https://github.com/klimov-project) | Java |  |  |
