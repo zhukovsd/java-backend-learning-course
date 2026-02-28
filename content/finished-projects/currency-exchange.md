@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-238 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 81 ревью.
+246 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 90 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -250,5 +250,13 @@ bookTOC = false
 | [CurrencyExchanger](https://github.com/yosakoo/CurrencyExchanger) | [yosakoo](https://github.com/yosakoo) | Go |  |  |
 | [currency-exchange](https://github.com/KittieFoxxy/currency-exchange) | [KittieFoxxy](https://github.com/KittieFoxxy) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/KittieFoxxy-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [currency-exchange](https://github.com/dmitrykitty/currency-exchange) | [dmitrykitty](https://github.com/dmitrykitty) | Java | 📝 [Заметки](https://github.com/techptr/review/blob/main/content/dmitrykitty_currency_exchange.md) | Роман [@urantech](https://t.me/urantech) |
-| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
-| [java_roadmap_currency](https://github.com/Vlad06091992/java_roadmap_currency) | [Vlad06091992](https://github.com/Vlad06091992) | Java |  |  |
+| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [#1](https://gist.github.com/OlegTihii/cc95ff9624c8ed16a461c0f0e764ea47), 📝 [#2](https://github.com/Victor-Smirnoff/review/blob/main/content/ikorepanov_currency_exchange.md) | Сергей [@grandpraline](https://t.me/grandpraline), Виктор [@csatom](https://t.me/csatom) |
+| [java_roadmap_currency](https://github.com/Vlad06091992/java_roadmap_currency) | [Vlad06091992](https://github.com/Vlad06091992) | Java | 📝 [Заметки](https://github.com/techptr/review/blob/main/content/Vlad06091992_currency_exchange.md) | Роман [@urantech](https://t.me/urantech) |
+| [currency-exchange-api](https://github.com/sinahatake/currency-exchange-api) | [sinahatake](https://github.com/sinahatake) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/sinahatake-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [Currency_exchange](https://github.com/Olegarh86/Currency_exchange) | [Olegarh86](https://github.com/Olegarh86) | Java |  |  |
+| [currencies](https://github.com/zpenr/currencies) | [zpenr](https://github.com/zpenr) | Python |  |  |
+| [CurrencyExchanger](https://github.com/NastyaPowerr/CurrencyExchanger) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/NastyaPowerr-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
+| [task3](https://github.com/dab1231/task3) | [dab1231](https://github.com/dab1231) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a4ee6a18f09ea3593171f59b4f4906a6) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Currency-Exchange](https://github.com/aneG200229/Currency-Exchange) | [aneG200229](https://github.com/aneG200229) | Java | 📝 [Заметки](https://gist.github.com/prplhd/1dbea4b3de9e2a6275b77bc253b029d7) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Exchanger_ferever](https://github.com/Olegarh86/Exchanger_ferever) | [Olegarh86](https://github.com/Olegarh86) | Java | 📝 [Заметки](https://github.com/serchg0george/IT-Mentor-Chat-Reviews/blob/main/currency_exchange_15.02.2026.md) | Сергей [@serchg_george](https://t.me/serchg_george) |
