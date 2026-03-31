@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-127 реализаций на Java, Python, PHP, Go, Kotlin. 45 ревью.
+133 реализаций на Java, Python, PHP, Go, Kotlin. 49 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -140,4 +140,10 @@ bookTOC = false
 | [cloud-storage](https://github.com/SamoylovSt/cloud-storage) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
 | [Project6](https://github.com/pshekek/Project6) | [pshekek](https://github.com/pshekek) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv11-pshekek.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python |  |  |
-| [spring-boot-filestorage](https://github.com/klimov-project/spring-boot-filestorage) | [klimov-project](https://github.com/klimov-project) | Java |  |  |
+| [spring-boot-filestorage](https://github.com/klimov-project/spring-boot-filestorage) | [klimov-project](https://github.com/klimov-project) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv13-klimov-project.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloudfilestorage](https://github.com/nikita70022/cloudfilestorage) | [nikita70022](https://github.com/nikita70022) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv12-nikita70022.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage-api](https://github.com/mthbttrfl/cloud-storage-api) | [mthbttrfl](https://github.com/mthbttrfl) | Java |  |  |
+| [storage_app](https://github.com/aleksLiss/storage_app) | [aleksLiss](https://github.com/aleksLiss) | Java |  |  |
+| [file-storage](https://github.com/UmarShabazov/file-storage) | [UmarShabazov](https://github.com/UmarShabazov) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv14-UmarShabazov.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud_storage](https://github.com/KeshaVoz/cloud_storage) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c448955de96bcf453777ce77bedaa8a5) | Альф [@Asinim](https://t.me/Asinim) |
+| [CloudStorage](https://github.com/romilMasnaviev/CloudStorage) | [romilMasnaviev](https://github.com/romilMasnaviev) | Java |  |  |
