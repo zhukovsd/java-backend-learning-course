@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-148 реализаций на Java, Python, Kotlin, C#, Go, PHP. 54 ревью.
+151 реализаций на Java, Python, Kotlin, C#, Go, PHP. 54 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -162,3 +162,6 @@ bookTOC = false
 | [weather_app](https://github.com/ferty460/weather_app) | [ferty460](https://github.com/ferty460) | Java |  |  |
 | [Weather](https://github.com/Metty1337/Weather) | [Metty1337](https://github.com/Metty1337) | Java | 📝 [Заметки](https://github.com/reviewer-project/weather-review/blob/main/rv3-Metty1337.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [Weather-Viewer](https://github.com/ramaoao/Weather-Viewer) | [ramaoao](https://github.com/ramaoao) | Java |  |  |
+| [Weather](https://github.com/aneG200229/Weather) | [aneG200229](https://github.com/aneG200229) | Java |  |  |
+| [weather](https://github.com/Kirillzhukov737/weather) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java |  |  |
+| [weather](https://github.com/no-fedov/weather) | [no-fedov](https://github.com/no-fedov) | Java |  |  |
