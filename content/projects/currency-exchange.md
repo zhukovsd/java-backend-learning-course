@@ -378,14 +378,14 @@ HTTP коды ответов:
 
 ## Расширенные материалы
 
-Для проекта созданы расширенные материалы - [https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b)
+Для проекта созданы расширенные материалы в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/).
 
 #### Для кого созданы материалы и какую проблему решают
 
 - Доведение проекта до конца и рефакторинг до качественного уровня
 - Помощь в преодолении трудностей 
 
-Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - [https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21](https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21).
+Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - [https://zhukovsd.it/posts/my-first-product-extended-roadmap/](https://zhukovsd.it/posts/my-first-product-extended-roadmap/).
 
 #### Что внутри
 
