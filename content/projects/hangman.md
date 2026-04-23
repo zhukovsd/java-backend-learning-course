@@ -69,14 +69,14 @@ weight = 1
 
 ## Расширенные материалы
 
-Для проекта созданы расширенные материалы - [https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8).
+Для проекта созданы расширенные материалы в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/).
 
 #### Для кого созданы материалы и какую проблему решают
 
 - Доведение проекта до конца и рефакторинг до качественного уровня
 - Помощь в преодолении трудностей 
 
-Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - [https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21](https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21).
+Подробнее про цель продукта, баланс между открытыми и закрытыми материалами - [https://zhukovsd.it/posts/my-first-product-extended-roadmap/](https://zhukovsd.it/posts/my-first-product-extended-roadmap/).
 
 #### Что внутри
 
