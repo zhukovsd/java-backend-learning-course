@@ -9,6 +9,10 @@ weight = 4
 
 Комментарии по проекту - [https://www.youtube.com/watch?v=zAOiNa24jpg](https://www.youtube.com/watch?v=zAOiNa24jpg).
 
+Работу над проектом можно обсуждать в чатах:
+- Основной чат сообщества - [https://t.me/zhukovsd_it_chat](@zhukovsd_it_chat)
+- Чат сообщества по работе над проектами, где каждому проекту посвящена отдельная ветка - [https://t.me/zhukovsd_projects_it_chat](@zhukovsd_projects_it_chat)
+
 ## Что нужно знать
 
 - [Java](../technologies/java.md) - коллекции, ООП
@@ -200,19 +204,15 @@ MVCS - архитектурный паттерн, особенно хорошо 
 ## Ресурсы для работы над ошибками
 
 - [Реализации проекта](../finished-projects/tennis-scoreboard.md) другими студентами и мои ревью этих реализаций
-- Присылайте законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects/tennis-scoreboard.md), сообщество делает ревью проектов
+- Чеклист для самопроверки с типовыми ошибками (ниже)
 
-## [Учебная подписка](https://zhukovsd.it/services/student-subscription/)
+## Ревью на ваш проект
 
-Суть - понятный и формализованный способ получить доступ ко всей имеющейся поддержке на учебном пути и дальше.
+Лучший способ получить максимум пользы от проекта - получить ревью и сделать работу над ошибками.
 
-- Гарантированные ревью на все проекты. Примеры ревью можно найти в [коллекции реализаций](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/)
-- Все доступные на данный момент эталонные реализации. Код проекта, плюс 2-3 часа моих лекций
-- Приоритет на участие в [командном проекте](https://zhukovsd.it/posts/team-project-announce/)
-- Возможность заранее обсудить и зафиксировать договоренности на [менторство по трудоустройству](https://zhukovsd.it/services/employment-mentorship/)
+Делитесь ссылкой на реализованный проект в чате сообщества - [https://t.me/zhukovsd_it_chat](@zhukovsd_it_chat). Мы ведём [коллекцию](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) всех реализаций и ревью.
 
-### Гарантированные ревью на все проекты
-
-Всем подписчикам доступны ревью на их Java, Kotlin, Python проекты от менторов сообщества.
-
-## [Группа сообщества в Telegram](https://t.me/zhukovsd_it_chat)
+Способы получить ревью:
+- [Учебная подписка](https://zhukovsd.it/services/student-subscription/) гарантирует 1 ревью в месяц на ваши проекты
+- Заказать ревью у конкретного ментора сообщества, [цены и условия](https://docs.google.com/spreadsheets/d/1DkIIcE6oUtcK9jjfrOyUgatb6DIxL5GXEn3kvUp4Lms/edit?gid=0#gid=0)
+- Я спонсирую ревью 10-15 проектов в месяц
