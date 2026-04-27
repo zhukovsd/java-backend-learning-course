@@ -105,27 +105,28 @@
 - Начать работу над проектами и изучение необходимой теории
 - Поддерживать контакт со мной и другими студентами для тематического общения и менторства
 
-## Расширенные материалы
+## [Учебная подписка](https://zhukovsd.it/services/student-subscription/)
 
 Итогом полутора лет развития роадмапа стали 270 реализаций проектов, 80 ревью. Видя, что проект приносит пользу, я хочу продолжать его развивать, полностью сохранив бесплатность и доступность тех материалов, что уже созданы.
 
-Логичным развитием проекта стали расширенные материалы. Что внутри для каждого проекта:
+Логичным развитием проекта стали расширенные материалы в рамках [учебной подписки](https://zhukovsd.it/services/student-subscription/). Что внутри для каждого проекта:
 
 - Эталонная реализация по шагам.
 - Лекция по каждому шагу, включая деплой (20-30 минут на лекцию).
 - Разбор типовых ошибок (пример такого списка) - демонстрация в одной из студенческих реализаций, объяснение проблемы и того, как стоило сделать, на примере эталонной реализации (40-60 минут).
 
-[Подробнее](https://telegra.ph/Moj-pervyj-produkt---rasshirennaya-versiya-roadmapa-04-21) про материалы, какую проблему решают и из чего состоят.
+[Подробнее](https://zhukovsd.it/posts/my-first-product-extended-roadmap/) про материалы, какую проблему решают и из чего состоят.
 
-По состоянию на январь 2025:
+По состоянию на апрель 2026:
 
-- Виселица - [https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8](https://boosty.to/zhukovsd/posts/07961b26-59a9-449f-80c5-53c4c070e2b8)
-- Симуляция - в работе
-- Обмен валют - [https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b](https://boosty.to/zhukovsd/posts/08a542e8-5503-4331-a82b-7b6bcf04314b)
+- Виселица - [https://zhukovsd.it/posts/extended-roadmap-hangman-release/](https://zhukovsd.it/posts/extended-roadmap-hangman-release/)
+- Симуляция - [https://zhukovsd.it/posts/extended-roadmap-simulation-sponsr-release/](https://zhukovsd.it/posts/extended-roadmap-simulation-sponsr-release/)
+- Обмен валют - [https://zhukovsd.it/posts/extended-roadmap-currency-exchange-release/](https://zhukovsd.it/posts/extended-roadmap-currency-exchange-release/)
 
 ## Помощь и поддержка
 
 Материально:
+- [Учебная подписка](https://zhukovsd.it/services/student-subscription/)
 - [https://boosty.to/zhukovsd](https://boosty.to/zhukovsd)
 - Рассмотрите мои [личные консультуации](https://telegra.ph/Konsultacii--IT-Mentor--Sergej-ZHukov-11-11) и расширенные материалы
 
