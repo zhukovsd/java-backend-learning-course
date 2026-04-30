@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-175 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 63 ревью.
+183 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 65 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -178,7 +178,8 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/haushekmiva/tennis-scoreboard) | [haushekmiva](https://github.com/haushekmiva) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/chuminito-haushekmiva-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [Tennis](https://github.com/Ciltonn/Tennis) | [Ciltonn](https://github.com/Ciltonn) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/Cltonn-Ciltonn-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-match-board](https://github.com/zpenr/tennis-match-board) | [zpenr](https://github.com/zpenr) | Python |  |  |
-| [Tennis-Scoreboard](https://github.com/aneG200229/Tennis-Scoreboard) | [aneG200229](https://github.com/aneG200229) | Java |  |  |
+| [Tennis-Scoreboard](https://github.com/aneG200229/Tennis-Scoreboard) | [aneG200229](https://github.com/aneG200229) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/qwerty0629-aneG200229-review_styled.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [TennisScoreboard](https://github.com/Frytes/TennisScoreboard) | [Frytes](https://github.com/Frytes) | Java |  |  |
 | [tennis-scoreboard](https://github.com/diman3f/tennis-scoreboard) | [diman3f](https://github.com/diman3f) | Java |  |  |
 | [TennisScoreboard](https://github.com/prplhd/TennisScoreboard) | [prplhd](https://github.com/prplhd) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/prplhd-prplhd-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [TennisBoard](https://github.com/AquaProdigy/TennisBoard) | [AquaProdigy](https://github.com/AquaProdigy) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/Code-Review/blob/main/tennis-scoreboard/nsndxj-AquaProdigy-review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
@@ -189,3 +190,10 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/AleksandrTuev/tennis-scoreboard) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java |  |  |
 | [Tennis](https://github.com/AntonFeoktistov/Tennis) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [tennis-scoreboard](https://github.com/Sibiryaq/tennis-scoreboard) | [Sibiryaq](https://github.com/Sibiryaq) | Java |  |  |
+| [tennisBoard](https://github.com/vlahty/tennisBoard) | [vlahty](https://github.com/vlahty) | Java |  |  |
+| [python-tennis-scoreboard](https://github.com/Worker2088/python-tennis-scoreboard) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/825dc7b2c8a98d28c2f17f8bc5085274) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [tennis_scoreboard](https://github.com/Vlad06091992/tennis_scoreboard) | [Vlad06091992](https://github.com/Vlad06091992) | Java |  |  |
+| [TennisScoreboard](https://github.com/vadvah775/TennisScoreboard) | [vadvah775](https://github.com/vadvah775) | Java |  |  |
+| [TennisScoreboard](https://github.com/XanderGI/TennisScoreboard) | [XanderGI](https://github.com/XanderGI) | Java |  |  |
+| [tennis-scoreboard](https://github.com/j0797/tennis-scoreboard) | [j0797](https://github.com/j0797) | Java |  |  |
+| [tennis-scoreboard](https://github.com/CTY6A/tennis-scoreboard) | [CTY6A](https://github.com/CTY6A) | Java |  |  |
