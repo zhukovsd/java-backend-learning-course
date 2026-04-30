@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-26 реализаций на Java, C#, Go, Python. 7 ревью.
+27 реализаций на Java, C#, Go, Python. 8 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -40,3 +40,4 @@ bookTOC = false
 | [task-tracker-microservices](https://github.com/kostinvv/task-tracker-microservices) | [kostinvv](https://github.com/kostinvv) | C# |  |  |
 | [Task-Tracker](https://github.com/nosabr/Task-Tracker) | [nosabr](https://github.com/nosabr) | Java |  |  |
 | [task-tracker](https://github.com/SamoylovSt/task-tracker) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
+| [task-tracker](https://github.com/OnEseil/task-tracker) | [OnEseil](https://github.com/OnEseil) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/a3542051875e199e9ef21ba087867c57) | Александр [@sahapwnz](https://t.me/sahapwnz) |
