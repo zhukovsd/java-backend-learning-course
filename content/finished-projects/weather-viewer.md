@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-151 реализаций на Java, Python, Kotlin, C#, Go, PHP. 54 ревью.
+153 реализаций на Java, Python, Kotlin, C#, Go, PHP. 57 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -164,4 +164,6 @@ bookTOC = false
 | [Weather-Viewer](https://github.com/ramaoao/Weather-Viewer) | [ramaoao](https://github.com/ramaoao) | Java |  |  |
 | [Weather](https://github.com/aneG200229/Weather) | [aneG200229](https://github.com/aneG200229) | Java |  |  |
 | [weather](https://github.com/Kirillzhukov737/weather) | [Kirillzhukov737](https://github.com/Kirillzhukov737) | Java |  |  |
-| [weather](https://github.com/no-fedov/weather) | [no-fedov](https://github.com/no-fedov) | Java |  |  |
+| [weather](https://github.com/no-fedov/weather) | [no-fedov](https://github.com/no-fedov) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/575b7c3d95f59713027972355e4c8436) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [weather](https://github.com/Danil6789/weather) | [Danil6789](https://github.com/Danil6789) | Java | 📝 [Заметки](https://github.com/reviewer-project/weather-review/blob/main/rv5-Danil6789.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [WeatherTracker](https://github.com/phoboy725/WeatherTracker) | [phoboy725](https://github.com/phoboy725) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/1503862e0a9ec863c8f2ff73fc20c2fb) | Александр [@sahapwnz](https://t.me/sahapwnz) |
