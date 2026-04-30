@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-268 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 190 ревью.
+274 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 194 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -279,6 +279,12 @@ bookTOC = false
 | [Sumulation](https://github.com/AntonFeoktistov/Sumulation) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Java |  |  |
 | [simulation](https://github.com/roadmapjava/simulation) | [roadmapjava](https://github.com/roadmapjava) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim147-rg-roadmapjava.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/red8sh/simulation) | [red8sh](https://github.com/red8sh) | Java | 📝 [Заметки](https://github.com/Hawoline/SimulationReview/blob/main/Red8sh.md) | Биликто [@Hawoline](https://t.me/Hawoline) |
-| [simulation](https://github.com/danila11042004/simulation) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
-| [simulation](https://github.com/AlenaBormatova/simulation) | [AlenaBormatova](https://github.com/AlenaBormatova) | Java |  |  |
+| [simulation](https://github.com/danila11042004/simulation) | [danila11042004](https://github.com/danila11042004) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim148-danila-danila11042004.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/AlenaBormatova/simulation) | [AlenaBormatova](https://github.com/AlenaBormatova) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim150-alena-AlenaBormatova.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Sumulation_Stranger_Things](https://github.com/VeraAtnagullova15/Sumulation_Stranger_Things) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim143-VeraAtnagirl-VeraAtnagullova15.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/Artur290795/simulation) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aaaa1a39b2584f0d1bb7fef9d028367e) | Альф [@Asinim](https://t.me/Asinim) |
+| [Simulation2](https://github.com/VeraAtnagullova15/Simulation2) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim149-VeraAtnagirl-VeraAtnagullova15-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [newSimulation](https://github.com/danila11042004/newSimulation) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
+| [Simulation.git](https://github.com/nikn808/Simulation.git) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [Simulation](https://github.com/HipaHopa808/Simulation) | [HipaHopa808](https://github.com/HipaHopa808) | Java |  |  |
+| [Simulation2](https://github.com/RocknRollNotDead/Simulation2) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
