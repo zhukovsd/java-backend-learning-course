@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-257 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 97 ревью.
+268 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 105 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -267,7 +267,18 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/AntonFeoktistov/CurrencyExchange) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [CurrencyExchange](https://github.com/XanderGI/CurrencyExchange) | [XanderGI](https://github.com/XanderGI) | Java | 📝 [Заметки](https://gist.github.com/prplhd/d00aa2d1006f01b5b757137535c63a17) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [currency-exchange](https://github.com/AleksandrTuev/currency-exchange) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java | 📝 [Заметки](https://gist.github.com/prplhd/86f76f88593537f908c53723f44ff1e4) | Дмитрий [@prplhd](https://t.me/prplhd) |
-| [currency_exchange](https://github.com/ZloyPomidor/currency_exchange) | [ZloyPomidor](https://github.com/ZloyPomidor) | Java |  |  |
+| [currency_exchange](https://github.com/ZloyPomidor/currency_exchange) | [ZloyPomidor](https://github.com/ZloyPomidor) | Java | 📝 [Заметки](https://gist.github.com/prplhd/fbc3a767761e5f304b31a24f58a0b82d) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [currency-exchange](https://github.com/Sibiryaq/currency-exchange) | [Sibiryaq](https://github.com/Sibiryaq) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/Sibiryaq-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [currency_exchange](https://github.com/toshikator/currency_exchange) | [toshikator](https://github.com/toshikator) | Java |  |  |
-| [currency-exchange](https://github.com/CTY6A/currency-exchange) | [CTY6A](https://github.com/CTY6A) | Java |  |  |
+| [currency-exchange](https://github.com/CTY6A/currency-exchange) | [CTY6A](https://github.com/CTY6A) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a6637b8ff76754d8ee93a7a457e2705c) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [currency-exchange](https://github.com/aveasura/currency-exchange) | [aveasura](https://github.com/aveasura) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/aveasura-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
+| [Currency-exchange](https://github.com/cyptonik/Currency-exchange) | [cyptonik](https://github.com/cyptonik) | Java |  |  |
+| [CurrencyExchangeJB](https://github.com/J-Bakuli/CurrencyExchangeJB) | [J-Bakuli](https://github.com/J-Bakuli) | Java |  |  |
+| [CurrencyExchange](https://github.com/Kamil1developer/CurrencyExchange) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://gist.github.com/prplhd/744e2d4052698045613570c5e5be65ef) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Currency-Exchange](https://github.com/Mihail233/Currency-Exchange) | [Mihail233](https://github.com/Mihail233) | Java | 📝 [Заметки](https://gist.github.com/prplhd/869170319b272b5fecd9883d24ad7de1) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [currency-exchange](https://github.com/mom4uk/currency-exchange) | [mom4uk](https://github.com/mom4uk) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/mom4uk-exchanger.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [CurrencyExchange](https://github.com/Hawoline/CurrencyExchange) | [Hawoline](https://github.com/Hawoline) | Java |  |  |
+| [Currency-Exchange](https://gitlab.com/fanatioon/Currency-Exchange) | [fanatioon](https://gitlab.com/fanatioon) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [currency-exchanger](https://github.com/MonYamau/currency-exchanger) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки]() | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [CurrencyExchange-API](https://github.com/VictorGotsenko/CurrencyExchange-API) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java |  |  |
