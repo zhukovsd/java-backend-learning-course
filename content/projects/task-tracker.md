@@ -8,8 +8,8 @@ weight = 7
 Многопользовательский планировщик задач. Пользователи могут использовать его в качестве TODO листа. Источником вдохновения для проекта является Trello.
 
 Работу над проектом можно обсуждать в чатах:
-- Основной чат сообщества - [https://t.me/zhukovsd_it_chat](@zhukovsd_it_chat)
-- Чат сообщества по работе над проектами, где каждому проекту посвящена отдельная ветка - [https://t.me/zhukovsd_projects_it_chat](@zhukovsd_projects_it_chat)
+- Основной чат сообщества - [https://t.me/zhukovsd_it_chat](https://t.me/zhukovsd_it_chat)
+- Чат сообщества по работе над проектами, где каждому проекту посвящена отдельная ветка - [https://t.me/zhukovsd_projects_it_chat](https://t.me/zhukovsd_projects_it_chat)
 
 ## Что нужно знать
 

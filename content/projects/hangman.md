@@ -10,8 +10,8 @@ weight = 1
 Комментарии по проекту - [https://www.youtube.com/watch?v=kqLklwFjr5g](https://www.youtube.com/watch?v=kqLklwFjr5g).
 
 Работу над проектом можно обсуждать в чатах:
-- Основной чат сообщества - [https://t.me/zhukovsd_it_chat](@zhukovsd_it_chat)
-- Чат сообщества по работе над проектами, где каждому проекту посвящена отдельная ветка - [https://t.me/zhukovsd_projects_it_chat](@zhukovsd_projects_it_chat)
+- Основной чат сообщества - [https://t.me/zhukovsd_it_chat](https://t.me/zhukovsd_it_chat)
+- Чат сообщества по работе над проектами, где каждому проекту посвящена отдельная ветка - [https://t.me/zhukovsd_projects_it_chat](https://t.me/zhukovsd_projects_it_chat)
 
 ## Что нужно знать
 
