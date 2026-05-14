@@ -127,7 +127,7 @@ weight = 2
 
 Лучший способ получить максимум пользы от проекта - получить ревью и сделать работу над ошибками.
 
-Делитесь ссылкой на реализованный проект в чате сообщества - [https://t.me/zhukovsd_it_chat](@zhukovsd_it_chat). Мы ведём [коллекцию](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) всех реализаций и ревью.
+Делитесь ссылкой на реализованный проект в чате сообщества - [https://t.me/zhukovsd_it_chat](https://t.me/zhukovsd_it_chat). Мы ведём [коллекцию](https://zhukovsd.github.io/java-backend-learning-course/finished-projects/) всех реализаций и ревью.
 
 Способы получить ревью:
 - [Учебная подписка](https://zhukovsd.it/services/student-subscription/) гарантирует 1 ревью в месяц на ваши проекты
