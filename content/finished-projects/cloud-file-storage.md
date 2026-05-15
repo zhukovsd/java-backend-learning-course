@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-141 реализаций на Java, Python, Kotlin, PHP, Go. 54 ревью.
+145 реализаций на Java, Python, Kotlin, PHP, Go. 55 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -155,3 +155,7 @@ bookTOC = false
 | [cloud-storage-api](https://github.com/pocamest/cloud-storage-api) | [pocamest](https://github.com/pocamest) | Python | 📝 [Заметки](https://gist.github.com/u-cha/a542a946b75a9d85114b3f506c7841f4) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [Cloud-file-storage](https://github.com/falom07/Cloud-file-storage) | [falom07](https://github.com/falom07) | Java |  |  |
 | [cloud-storage](https://gitlab.com/Alf51/cloud-storage) | [Alf51](https://gitlab.com/Alf51) | Kotlin |  |  |
+| [Cloud-Storage](https://github.com/ramaoao/Cloud-Storage) | [ramaoao](https://github.com/ramaoao) | Java |  |  |
+| [cloud-storage](https://github.com/WayneHays/cloud-storage) | [WayneHays](https://github.com/WayneHays) | Java | 📝 [Заметки]() | Александр [@anelfer](https://t.me/anelfer) |
+| [cloud-storage](https://github.com/Danil6789/cloud-storage) | [Danil6789](https://github.com/Danil6789) | Java |  |  |
+| [cloud-file-storage](https://github.com/Nurbolat-yes/cloud-file-storage) | [Nurbolat-yes](https://github.com/Nurbolat-yes) | Java |  |  |
