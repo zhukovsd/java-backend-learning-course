@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-183 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 65 ревью.
+185 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 65 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -197,3 +197,5 @@ bookTOC = false
 | [TennisScoreboard](https://github.com/XanderGI/TennisScoreboard) | [XanderGI](https://github.com/XanderGI) | Java |  |  |
 | [tennis-scoreboard](https://github.com/j0797/tennis-scoreboard) | [j0797](https://github.com/j0797) | Java |  |  |
 | [tennis-scoreboard](https://github.com/CTY6A/tennis-scoreboard) | [CTY6A](https://github.com/CTY6A) | Java |  |  |
+| [tennis-scoreboard](https://github.com/codleto/tennis-scoreboard) | [codleto](https://github.com/codleto) | Java |  |  |
+| [tennis-scoreboard](https://github.com/ghubnob/tennis-scoreboard) | [ghubnob](https://github.com/ghubnob) | Java |  |  |
