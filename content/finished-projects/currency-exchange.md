@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-268 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 105 ревью.
+270 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 105 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -280,5 +280,7 @@ bookTOC = false
 | [currency-exchange](https://github.com/mom4uk/currency-exchange) | [mom4uk](https://github.com/mom4uk) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/mom4uk-exchanger.md) | Юра [@yosakohf](https://t.me/yosakohf) |
 | [CurrencyExchange](https://github.com/Hawoline/CurrencyExchange) | [Hawoline](https://github.com/Hawoline) | Java |  |  |
 | [Currency-Exchange](https://gitlab.com/fanatioon/Currency-Exchange) | [fanatioon](https://gitlab.com/fanatioon) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
-| [currency-exchanger](https://github.com/MonYamau/currency-exchanger) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки]() | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [currency-exchanger](https://github.com/MonYamau/currency-exchanger) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a95fcad8392a43389a7eb8a59382094b) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [CurrencyExchange-API](https://github.com/VictorGotsenko/CurrencyExchange-API) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java |  |  |
+| [Currency-Exchange](https://github.com/Shach1/Currency-Exchange) | [Shach1](https://github.com/Shach1) | Java |  |  |
+| [currency-exchange](https://github.com/danila11042004/currency-exchange) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
