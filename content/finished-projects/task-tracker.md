@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-27 реализаций на Java, C#, Go, Python. 8 ревью.
+28 реализаций на Java, C#, Go, Python. 9 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -41,3 +41,4 @@ bookTOC = false
 | [Task-Tracker](https://github.com/nosabr/Task-Tracker) | [nosabr](https://github.com/nosabr) | Java |  |  |
 | [task-tracker](https://github.com/SamoylovSt/task-tracker) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
 | [task-tracker](https://github.com/OnEseil/task-tracker) | [OnEseil](https://github.com/OnEseil) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/a3542051875e199e9ef21ba087867c57) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [tracker-docker-start](https://github.com/AquaProdigy/tracker-docker-start) | [AquaProdigy](https://github.com/AquaProdigy) | Java | 📝 [Заметки](https://github.com/reviewer-project/task-tracker-review/blob/main/rv2-AquaProdigy.md) | Александр [@anelfer](https://t.me/anelfer) |
