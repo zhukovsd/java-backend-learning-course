@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-450 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, Lua, OCaml, Prolog. 296 ревью.
+455 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, Lua, OCaml, Prolog. 301 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -458,9 +458,14 @@ bookTOC = false
 | [Hangman](https://github.com/HuviHonor/Hangman) | [HuviHonor](https://github.com/HuviHonor) | Java |  |  |
 | [HangmanGame](https://github.com/FilimonovDev/HangmanGame) | [FilimonovDev](https://github.com/FilimonovDev) | Go |  |  |
 | [hangman-simple-console-game.git](https://github.com/AmanbekAzizUulu/hangman-simple-console-game.git) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java |  |  |
-| [hangmango2](https://github.com/romalxr/hangmango2) | [romalxr](https://github.com/romalxr) | Go |  |  |
-| [Hangman2](https://github.com/STimur/Hangman2) | [STimur](https://github.com/STimur) | Java |  |  |
+| [hangmango2](https://github.com/romalxr/hangmango2) | [romalxr](https://github.com/romalxr) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/hangman/hangmango2-hangman.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Hangman2](https://github.com/STimur/Hangman2) | [STimur](https://github.com/STimur) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm166-timursalakhetdinov-STimur.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hungman](https://github.com/RocknRollNotDead/hungman) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm153-videoreview-tema-RocknRollNotDead.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [hangman.git](https://github.com/rasulovtolib/hangman.git) | [rasulovtolib](https://github.com/rasulovtolib) | Java |  |  |
-| [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python |  |  |
-| [Hangman](https://github.com/Geleihad/Hangman) | [Geleihad](https://github.com/Geleihad) | Java |  |  |
+| [hangman](https://github.com/rasulovtolib/hangman) | [rasulovtolib](https://github.com/rasulovtolib) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm167-tolibrasulov-rasulovtolib.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/touddadon/python_hangman/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Hangman](https://github.com/Geleihad/Hangman) | [Geleihad](https://github.com/Geleihad) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm168-rg-Geleihad.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman](https://github.com/ggrimnir/hangman) | [ggrimnir](https://github.com/ggrimnir) | Java |  |  |
+| [Gallows_Game](https://github.com/nurmuhammadx/Gallows_Game) | [nurmuhammadx](https://github.com/nurmuhammadx) | Java |  |  |
+| [Hangman-v2](https://github.com/kimche2/Hangman-v2) | [kimche2](https://github.com/kimche2) | Java |  |  |
+| [petProjects](https://github.com/denegas/petProjects) | [denegas](https://github.com/denegas) | Java |  |  |
+| [go-hangman](https://github.com/KostaPo/go-hangman) | [KostaPo](https://github.com/KostaPo) | Go |  |  |
