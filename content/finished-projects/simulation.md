@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-278 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 194 ревью.
+283 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 202 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -284,11 +284,16 @@ bookTOC = false
 | [Sumulation_Stranger_Things](https://github.com/VeraAtnagullova15/Sumulation_Stranger_Things) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim143-VeraAtnagirl-VeraAtnagullova15.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/Artur290795/simulation) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aaaa1a39b2584f0d1bb7fef9d028367e) | Альф [@Asinim](https://t.me/Asinim) |
 | [Simulation2](https://github.com/VeraAtnagullova15/Simulation2) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim149-VeraAtnagirl-VeraAtnagullova15-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [newSimulation](https://github.com/danila11042004/newSimulation) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
-| [Simulation.git](https://github.com/nikn808/Simulation.git) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [newSimulation](https://github.com/danila11042004/newSimulation) | [danila11042004](https://github.com/danila11042004) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim152-danila-danila11042004-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/nikn808/Simulation) | [nikn808](https://github.com/nikn808) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/nikn808/Simulation/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation](https://github.com/HipaHopa808/Simulation) | [HipaHopa808](https://github.com/HipaHopa808) | Java |  |  |
-| [Simulation2](https://github.com/RocknRollNotDead/Simulation2) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
-| [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python |  |  |
+| [Simulation2](https://github.com/RocknRollNotDead/Simulation2) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim151-tema-RocknRollNotDead.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/Benfych/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation](https://github.com/LinkerMak/Simulation) | [LinkerMak](https://github.com/LinkerMak) | Java |  |  |
-| [Simulation](https://github.com/STimur/Simulation) | [STimur](https://github.com/STimur) | Java |  |  |
-| [Simulation](https://github.com/ETOOOOOOCHAAAAAAAAAAI/Simulation) | [ETOOOOOOCHAAAAAAAAAAI](https://github.com/ETOOOOOOCHAAAAAAAAAAI) | Go |  |  |
+| [Simulation](https://github.com/STimur/Simulation) | [STimur](https://github.com/STimur) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim153-timursalakhetdinov-STimur.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/ETOOOOOOCHAAAAAAAAAAI/Simulation) | [ETOOOOOOCHAAAAAAAAAAI](https://github.com/ETOOOOOOCHAAAAAAAAAAI) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/etochai-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Simulation](https://github.com/ptkvlsk/Simulation) | [ptkvlsk](https://github.com/ptkvlsk) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim154-alexeyboo4er-ptkvlsk.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-go](https://github.com/romalxr/simulation-go) | [romalxr](https://github.com/romalxr) | Go |  |  |
+| [Simulation](https://github.com/HuviHonor/Simulation) | [HuviHonor](https://github.com/HuviHonor) | Java |  |  |
+| [simulation-go](https://github.com/Iposhka54/simulation-go) | [Iposhka54](https://github.com/Iposhka54) | Go |  |  |
