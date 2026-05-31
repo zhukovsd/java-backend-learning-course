@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-270 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 105 ревью.
+271 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 108 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -281,6 +281,7 @@ bookTOC = false
 | [CurrencyExchange](https://github.com/Hawoline/CurrencyExchange) | [Hawoline](https://github.com/Hawoline) | Java |  |  |
 | [Currency-Exchange](https://gitlab.com/fanatioon/Currency-Exchange) | [fanatioon](https://gitlab.com/fanatioon) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
 | [currency-exchanger](https://github.com/MonYamau/currency-exchanger) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a95fcad8392a43389a7eb8a59382094b) | Дмитрий [@prplhd](https://t.me/prplhd) |
-| [CurrencyExchange-API](https://github.com/VictorGotsenko/CurrencyExchange-API) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java |  |  |
+| [CurrencyExchange-API](https://github.com/VictorGotsenko/CurrencyExchange-API) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/review-VictorGotsenko.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [Currency-Exchange](https://github.com/Shach1/Currency-Exchange) | [Shach1](https://github.com/Shach1) | Java |  |  |
-| [currency-exchange](https://github.com/danila11042004/currency-exchange) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
+| [currency-exchange](https://github.com/danila11042004/currency-exchange) | [danila11042004](https://github.com/danila11042004) | Java | 📝 [Заметки](https://gist.github.com/prplhd/26c0ce5093c11ff6cd3405792c6df017) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Currency_Exchange](https://github.com/VeraAtnagullova15/Currency_Exchange) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://gist.github.com/prplhd/1f7655469778774d26a4f803b797cc1d) | Дмитрий [@prplhd](https://t.me/prplhd) |

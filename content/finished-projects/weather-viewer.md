@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-155 реализаций на Java, Python, Kotlin, C#, Go, PHP. 57 ревью.
+162 реализаций на Java, Python, Kotlin, Go, C#, PHP. 59 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -169,3 +169,10 @@ bookTOC = false
 | [WeatherTracker](https://github.com/phoboy725/WeatherTracker) | [phoboy725](https://github.com/phoboy725) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/1503862e0a9ec863c8f2ff73fc20c2fb) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [weather_repository](https://github.com/finnreed1/weather_repository) | [finnreed1](https://github.com/finnreed1) | Java |  |  |
 | [java_roadmap_weather_spring-mvc](https://github.com/Vlad06091992/java_roadmap_weather_spring-mvc) | [Vlad06091992](https://github.com/Vlad06091992) | Java |  |  |
+| [WeatherHub](https://github.com/ghubnob/WeatherHub) | [ghubnob](https://github.com/ghubnob) | Java |  |  |
+| [weather](https://github.com/dab1231/weather) | [dab1231](https://github.com/dab1231) | Java |  |  |
+| [python-weather](https://github.com/Worker2088/python-weather) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
+| [Weather](https://github.com/NastyaPowerr/Weather) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java |  |  |
+| [weather](https://github.com/prplhd/weather) | [prplhd](https://github.com/prplhd) | Java | 📝 [Заметки](https://raw.githubusercontent.com/reviewer-project/weather-review/refs/heads/main/rv7-prplhd.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [WeatherApp](https://github.com/xcvqqz/WeatherApp) | [xcvqqz](https://github.com/xcvqqz) | Java |  |  |
+| [weather-viewer](https://github.com/mom4uk/weather-viewer) | [mom4uk](https://github.com/mom4uk) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/weather-app/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
