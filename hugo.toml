@@ -7,6 +7,7 @@ enableGitInfo = true
 [params]
     BookTheme = 'auto'
     BookSection = '*'
+    BookFavicon = 'favicon_java/favicon.svg'
     BookPortableLinks = true
     BookRepo = 'https://github.com/zhukovsd/java-backend-learning-course'
     BookCommitPath = 'commit'
