@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-455 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Gleam, Lua, OCaml, Prolog. 301 ревью.
+459 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Awk, Gleam, Lua, OCaml, Prolog. 301 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -469,3 +469,7 @@ bookTOC = false
 | [Hangman-v2](https://github.com/kimche2/Hangman-v2) | [kimche2](https://github.com/kimche2) | Java |  |  |
 | [petProjects](https://github.com/denegas/petProjects) | [denegas](https://github.com/denegas) | Java |  |  |
 | [go-hangman](https://github.com/KostaPo/go-hangman) | [KostaPo](https://github.com/KostaPo) | Go |  |  |
+| [hangman-awk](https://github.com/krios2146/hangman-awk) | [krios2146](https://github.com/krios2146) | Awk |  |  |
+| [Hangman](https://github.com/AlekseyVY/Hangman) | [AlekseyVY](https://github.com/AlekseyVY) | Java |  |  |
+| [VisilicaGame](https://github.com/rustamizteleu/VisilicaGame) | [rustamizteleu](https://github.com/rustamizteleu) | Java |  |  |
+| [Gallows](https://github.com/anna-chaika8/Gallows) | [anna-chaika8](https://github.com/anna-chaika8) | Java |  |  |
