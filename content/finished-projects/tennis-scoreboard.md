@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-188 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 73 ревью.
+189 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 73 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -202,3 +202,4 @@ bookTOC = false
 | [TennisScoreBoard](https://github.com/Kamil1developer/TennisScoreBoard) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_kamulhus-Kamil1developer/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-board](https://github.com/danila11042004/tennis-board) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
 | [Tennis-scoreboard](https://github.com/Olegarh86/Tennis-scoreboard) | [Olegarh86](https://github.com/Olegarh86) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Olegarhische-Olegarh86/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis.git](https://github.com/almasdii/tennis.git) | [almasdii](https://github.com/almasdii) | Java |  |  |
