@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-283 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 202 ревью.
+285 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 202 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -297,3 +297,5 @@ bookTOC = false
 | [simulation-go](https://github.com/romalxr/simulation-go) | [romalxr](https://github.com/romalxr) | Go |  |  |
 | [Simulation](https://github.com/HuviHonor/Simulation) | [HuviHonor](https://github.com/HuviHonor) | Java |  |  |
 | [simulation-go](https://github.com/Iposhka54/simulation-go) | [Iposhka54](https://github.com/Iposhka54) | Go |  |  |
+| [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [simulation-simple-implementation](https://github.com/AmanbekAzizUulu/simulation-simple-implementation) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java |  |  |
