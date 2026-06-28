@@ -52,55 +52,179 @@ weight = 4
 - Матч играется до двух сетов (best of 3)
 - При счёте 6/6 в сете, играется тай-брейк до 7 очков
 
-## Интерфейс приложения
+## REST API
 
-### Главная страница
+### Ответ в случае ошибки
 
-- Ссылки, ведущие на страницы нового матча и списка завершенных матчей
+Для всех запросов, в случае ошибки, ответ должен выглядеть так:
+```json
+{
+    "message": "Валюта не найдена"
+}
+```
 
-### Страница нового матча
+Значение `message` зависит от того, какая именно ошибка произошла.
 
-Адрес - `/new-match`.
+### Создание нового матча
 
-Интерфейс:
-- HTML форма с полями “Имя игрока 1”, “Имя игрока 2” и кнопкой “начать”. Для упрощения допустим, что имена игроков уникальны. Игрок не может играть сам с собой.
-- Нажатие кнопки “начать” приводить к POST запросу по адресу `/new-match`
+`POST /matches`
 
-Обработчик POST запроса:
-- Проверяет существование игроков в таблице `Players`. Если игрока с таким именем не существует, создаём
-- Создаём экземпляр класса, содержащего айди игроков и текущий счёт, и кладём в коллекцию текущих матчей (существующую только в памяти приложения, либо в key-value storage). Ключом коллекции является UUID, значением - счёт в матче
-- Редирект на страницу `/match-score?uuid=$match_id`
+Тело запроса (`Content-Type: application/json`)
+```json
+{
+  "firstPlayerName": "First Player",
+  "secondPlayerName": "Second Player"
+}
+```
 
-### Страница счёта матча - `/match-score`
+Ответ в случае успеха: `201 Created`
 
-Адрес - `/match-score?uuid=$match_id`. GET параметр `uuid` содержит UUID матча.
+```json
+{
+  "id": "1d5e5fb4-5203-4933-8278-486f3d8db2ca"
+}
+```
 
-Интерфейс:
-- Таблица с именами игроков, текущим счётом
-- Формы и кнопки для действий - "игрок 1 выиграл текущее очко", "игрок 2 выиграл текущее очко"
-- Нажатие кнопок приводит к POST запросу по адресу `/match-score?uuid=$match_id`, в полях отправленной формы содержится айди выигравшего очко игрока
+Коды ошибок:
 
-Обработчик POST запроса:
-- Извлекает из коллекции экземпляр класса Match
-- В соответствии с тем, какой игрок выиграл очко, обновляет счёт матча
-- Если матч не закончился - рендерится таблица счёта матча с кнопками, описанными выше
-- Если матч закончился:
-    - Удаляем матч из коллекции текущих матчей
-    - Записываем законченный матч в SQL базу данных
-    - Рендерим финальный счёт
+- 400 - ошибки валидации
 
-### Страница сыгранных матчей - `/matches`
+### Начисление очков и получение счёта
 
-Адрес - `/matches?page=$page_number&filter_by_player_name=$player_name`. GET параметры:
-- `page` - номер страницы. Если параметр не задан, подразумевается первая страница
-- `filter_by_player_name` - имя игрока, матчи которого ищем. Если параметр не задан, отображаются все матчи
+`POST /matches/{uuid}/point`
 
-Постранично отображает список сыгранных матчей. Позволяет искать матчи игрока по его имени. Для постраничного отображения потребуется реализация пагинации.
+Параметры пути:
 
-Интерфейс:
-- Форма с фильтром по имени игрока. Поле ввода для имени и кнопка "искать". По нажатию формируется GET запрос вида `/matches?filter_by_player_name=${NAME}`
-- Список найденных матчей
-- Переключатель страниц, если матчей найдено больше, чем влезает на одну страницу
+- `uuid`
+
+Тело запроса (`Content-Type: application/json`)
+```json
+{
+  "name": "First Player"
+}
+```
+
+Ответ в случае успеха: `200 OK`
+
+В обычном гейме поля `*TieBreakPoints` равны `null` (или отсутствуют в JSON).
+
+```json
+{
+  "firstPlayerName": "First Player",
+  "secondPlayerName": "Second Player",
+  "firstPlayerPoints": "40",
+  "secondPlayerPoints": "AD",
+  "firstPlayerGames": 2,
+  "secondPlayerGames": 3,
+  "firstPlayerSets": 0,
+  "secondPlayerSets": 1,
+  "firstPlayerTieBreakPoints": null,
+  "secondPlayerTieBreakPoints": null,
+  "winnerName": null
+}
+```
+
+В тай-брейке поля `*PlayerPoints` равны `null` (или отсутствуют в JSON).
+
+```json
+{
+  "firstPlayerName": "First Player",
+  "secondPlayerName": "Second Player",
+  "firstPlayerPoints": null,
+  "secondPlayerPoints": null,
+  "firstPlayerGames": 6,
+  "secondPlayerGames": 6,
+  "firstPlayerSets": 0,
+  "secondPlayerSets": 0,
+  "firstPlayerTieBreakPoints": 5,
+  "secondPlayerTieBreakPoints": 4,
+  "winnerName": null
+}
+```
+
+Коды ошибок:
+
+- 404 - матч с таким uuid не найден
+
+### Получение счёта
+
+`GET /matches/{uuid}`
+
+Параметры пути:
+
+- `uuid`
+
+Ответ в случае успеха: `200 OK`
+
+В обычном гейме поля `*TieBreakPoints` равны `null` (или отсутствуют в JSON).
+
+```json
+{
+  "firstPlayerName": "First Player",
+  "secondPlayerName": "Second Player",
+  "firstPlayerPoints": "40",
+  "secondPlayerPoints": "AD",
+  "firstPlayerGames": 2,
+  "secondPlayerGames": 3,
+  "firstPlayerSets": 0,
+  "secondPlayerSets": 1,
+  "firstPlayerTieBreakPoints": null,
+  "secondPlayerTieBreakPoints": null,
+  "winnerName": null
+}
+```
+
+В тай-брейке поля `*PlayerPoints` равны `null` (или отсутствуют в JSON).
+
+```json
+{
+  "firstPlayerName": "First Player",
+  "secondPlayerName": "Second Player",
+  "firstPlayerPoints": null,
+  "secondPlayerPoints": null,
+  "firstPlayerGames": 6,
+  "secondPlayerGames": 6,
+  "firstPlayerSets": 0,
+  "secondPlayerSets": 0,
+  "firstPlayerTieBreakPoints": 5,
+  "secondPlayerTieBreakPoints": 4,
+  "winnerName": null
+}
+```
+
+Коды ошибок:
+
+- 404 - матч с таким uuid не найден
+
+### Список завершённых матчей
+
+`GET /matches`
+
+Параметры запроса:
+
+- `page` - число, необязательный
+- `player_name` - строка, необязательный
+
+Ответ в случае успеха: `200 OK`
+
+```json
+{
+  "matches": [
+    {
+      "firstPlayerName": "First Player",
+      "secondPlayerName": "Second Player",
+      "winnerName": "Second Player"
+    },
+    {
+      "firstPlayerName": "First Player",
+      "secondPlayerName": "Second Player",
+      "winnerName": "First Player"
+    }
+  ],
+  "currentPage": 0,
+  "totalPages": 10
+}
+```
 
 ## Фронтенд
 
