@@ -252,21 +252,14 @@ weight = 4
 
 ## Фронтенд
 
-На 26 июня 2026 для проекта существуют свёрстанные страницы, без Javascript кода для запросов к REST API.
+Для тестирования ваших реализаций и визуализации результата, написан фронтенд - [https://github.com/zhukovsd/tennis-scoreboard-frontend](https://github.com/zhukovsd/tennis-scoreboard-frontend).
 
-Репозиторий с версткой - [https://github.com/zhukovsd/tennis-scoreboard-html-layouts](https://github.com/zhukovsd/tennis-scoreboard-html-layouts).
-
-Что внутри - макеты четырёх страниц, адаптивная верстка (десктопы, телефоны). Минимальный Javascript для показа меню навигации на телефонах.
-
-Задеплоенные на GitHub Pages страницы для демонстрации:
-- [Главная страница](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/)
-- [Новый матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/new-match.html)
-- [Счёт текущего матч](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/match-score.html)
-- [Завершенные матчи](https://zhukovsd.github.io/tennis-scoreboard-html-layouts/matches.html)
+Фронтенд представляет из себя набор статических HTML/CSS/JS файлов и состоит из четырёх веб-страниц, отвечающих за работу со всеми эндпоинтами API.
 
 Как пользоваться:
-- Перенести в проект нужные для веб-страниц ресурсы - CSS, картинки, HTML
-- Реализовать Ajax запросы к REST API с помощью Javascript
+- Положите статические файлы фронтенда внутрь нашего проекта, чтобы index.html был доступен по корневому пути
+- Поднимите проект
+- Проверьте что браузер может загрузить JS/CSS файлы, а нажатия на кнопки на интерфейсе корректно вызывают API эндпоинты
 
 ## Богатая доменная модель
 
