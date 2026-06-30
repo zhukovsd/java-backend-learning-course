@@ -12,6 +12,7 @@ title: Главная страница
 
 Адаптации роадмапа для других языков программирования:
 - Python - [https://zhukovsd.github.io/python-backend-learning-course/](https://zhukovsd.github.io/python-backend-learning-course/)
+- Go - [https://zhukovsd.github.io/golang-backend-learning-course/](https://zhukovsd.github.io/golang-backend-learning-course/)
 
 ## Обо мне
 
