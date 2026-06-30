@@ -36,7 +36,7 @@ title: Главная страница
 
 #### Матрица навыков и проектов
 
-![Screenshot 2024-10-06 at 23 33 30](https://github.com/user-attachments/assets/22adc0ec-fd03-4c60-bd62-6540ebb9c697)
+![Матрица проектов](/java-backend-learning-course/images/java-roadmap-project-matrix.png)
 
 Идея матрицы - визуализировать, как проекты охватывают всё больше и больше сфер знаний.
 
