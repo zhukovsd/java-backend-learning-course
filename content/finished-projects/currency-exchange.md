@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-271 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 108 ревью.
+283 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 112 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -282,6 +282,18 @@ bookTOC = false
 | [Currency-Exchange](https://gitlab.com/fanatioon/Currency-Exchange) | [fanatioon](https://gitlab.com/fanatioon) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/currenyExchange/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
 | [currency-exchanger](https://github.com/MonYamau/currency-exchanger) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a95fcad8392a43389a7eb8a59382094b) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [CurrencyExchange-API](https://github.com/VictorGotsenko/CurrencyExchange-API) | [VictorGotsenko](https://github.com/VictorGotsenko) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/review-VictorGotsenko.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
-| [Currency-Exchange](https://github.com/Shach1/Currency-Exchange) | [Shach1](https://github.com/Shach1) | Java |  |  |
+| [Currency-Exchange](https://github.com/Shach1/Currency-Exchange) | [Shach1](https://github.com/Shach1) | Java | 📝 [Заметки](https://gist.github.com/prplhd/84caf4e5b344901531007674aceaefb6) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [currency-exchange](https://github.com/danila11042004/currency-exchange) | [danila11042004](https://github.com/danila11042004) | Java | 📝 [Заметки](https://gist.github.com/prplhd/26c0ce5093c11ff6cd3405792c6df017) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [Currency_Exchange](https://github.com/VeraAtnagullova15/Currency_Exchange) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://gist.github.com/prplhd/1f7655469778774d26a4f803b797cc1d) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [CurenncyExchangeDRF](https://github.com/KhudopayMA/CurenncyExchangeDRF) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
+| [Currency-Exchange](https://github.com/ETOOOOOOCHAAAAAAAAAAI/Currency-Exchange) | [ETOOOOOOCHAAAAAAAAAAI](https://github.com/ETOOOOOOCHAAAAAAAAAAI) | Go |  |  |
+| [CurrencyExchanger3](https://github.com/konvict1204/CurrencyExchanger3) | [konvict1204](https://github.com/konvict1204) | Java | 📝 [Заметки](https://gist.github.com/prplhd/6c8314c435c12fc68613318491cfb2af) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [currency-exchange](https://github.com/nikn808/currency-exchange) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [go-currency-exchange-converter](https://github.com/KostaPo/go-currency-exchange-converter) | [KostaPo](https://github.com/KostaPo) | Go |  |  |
+| [CurrencyEx](https://github.com/LinkerMak/CurrencyEx) | [LinkerMak](https://github.com/LinkerMak) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/LinkerMak-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [simple-currency-exchange-service](https://github.com/AmanbekAzizUulu/simple-currency-exchange-service) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/AmanbekAzizUulu-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currency-exchange](https://github.com/timk01/currency-exchange) | [timk01](https://github.com/timk01) | Java |  |  |
+| [exchange](https://github.com/redsunv/exchange) | [redsunv](https://github.com/redsunv) | Java |  |  |
+| [CurrencyExchange](https://github.com/STimur/CurrencyExchange) | [STimur](https://github.com/STimur) | Java |  |  |
+| [currencies-exchanger](https://github.com/Ephirious/currencies-exchanger) | [Ephirious](https://github.com/Ephirious) | Java |  |  |
+| [currency-exchange](https://github.com/RocknRollNotDead/currency-exchange) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
