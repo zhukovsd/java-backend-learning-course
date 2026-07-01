@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-146 реализаций на Java, Python, Kotlin, PHP, Go. 56 ревью.
+149 реализаций на Java, Python, Kotlin, PHP, Go. 60 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -159,4 +159,7 @@ bookTOC = false
 | [cloud-storage](https://github.com/WayneHays/cloud-storage) | [WayneHays](https://github.com/WayneHays) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv20-WayneHays.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [cloud-storage](https://github.com/Danil6789/cloud-storage) | [Danil6789](https://github.com/Danil6789) | Java |  |  |
 | [cloud-file-storage](https://github.com/Nurbolat-yes/cloud-file-storage) | [Nurbolat-yes](https://github.com/Nurbolat-yes) | Java |  |  |
-| [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python |  |  |
+| [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python | 📝 [Заметки](https://gist.github.com/Asenim/24aa98874ad9166150b7c12e09a2daf7) | Альф [@Asinim](https://t.me/Asinim) |
+| [filecloud](https://github.com/ghubnob/filecloud) | [ghubnob](https://github.com/ghubnob) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/b34cd7943a77d97f77cd6e42002119fe) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud_file_storage](https://github.com/Aslamkhanov/cloud_file_storage) | [Aslamkhanov](https://github.com/Aslamkhanov) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv22-Aslamkhanov.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
