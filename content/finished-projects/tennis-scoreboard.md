@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-188 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 73 ревью.
+193 реализаций на Java, Python, Kotlin, C\#, Go, PHP, Ruby. 78 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -194,11 +194,16 @@ bookTOC = false
 | [python-tennis-scoreboard](https://github.com/Worker2088/python-tennis-scoreboard) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/825dc7b2c8a98d28c2f17f8bc5085274) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [tennis_scoreboard](https://github.com/Vlad06091992/tennis_scoreboard) | [Vlad06091992](https://github.com/Vlad06091992) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Vlad_VS92-Vlad06091992/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [TennisScoreboard](https://github.com/vadvah775/TennisScoreboard) | [vadvah775](https://github.com/vadvah775) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Not_spec1fed-vadvah775/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
-| [TennisScoreboard](https://github.com/XanderGI/TennisScoreboard) | [XanderGI](https://github.com/XanderGI) | Java |  |  |
+| [TennisScoreboard](https://github.com/XanderGI/TennisScoreboard) | [XanderGI](https://github.com/XanderGI) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_X75473-XanderGI/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/j0797/tennis-scoreboard) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_j0797/tree/code-review) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/CTY6A/tennis-scoreboard) | [CTY6A](https://github.com/CTY6A) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_CTY6A-CTY6A/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/codleto/tennis-scoreboard) | [codleto](https://github.com/codleto) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_codleto-codleto/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/ghubnob/tennis-scoreboard) | [ghubnob](https://github.com/ghubnob) | Java |  |  |
 | [TennisScoreBoard](https://github.com/Kamil1developer/TennisScoreBoard) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_kamulhus-Kamil1developer/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
-| [tennis-board](https://github.com/danila11042004/tennis-board) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
+| [tennis-board](https://github.com/danila11042004/tennis-board) | [danila11042004](https://github.com/danila11042004) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Dadanila676-danila11042004/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [Tennis-scoreboard](https://github.com/Olegarh86/Tennis-scoreboard) | [Olegarh86](https://github.com/Olegarh86) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Olegarhische-Olegarh86/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis](https://github.com/almasdii/tennis) | [almasdii](https://github.com/almasdii) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_almasdii-almasdii/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis-match-scoreboard](https://github.com/MonYamau/tennis-match-scoreboard) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки](https://github.com/reviewer-project/tennis-score-review/blob/main/rv3-MonYamau.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [TennisMatchScoreboard](https://github.com/J-Bakuli/TennisMatchScoreboard) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Yulia_Bakulina-J-Bakuli/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis_scoreboard](https://github.com/toshikator/tennis_scoreboard) | [toshikator](https://github.com/toshikator) | Java |  |  |
+| [TennisScoreBoard](https://github.com/LinkerMak/TennisScoreBoard) | [LinkerMak](https://github.com/LinkerMak) | Java |  |  |

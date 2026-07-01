@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-162 реализаций на Java, Python, Kotlin, Go, C#, PHP. 59 ревью.
+167 реализаций на Java, Python, Kotlin, Go, C#, PHP. 60 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -174,5 +174,10 @@ bookTOC = false
 | [python-weather](https://github.com/Worker2088/python-weather) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
 | [Weather](https://github.com/NastyaPowerr/Weather) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java |  |  |
 | [weather](https://github.com/prplhd/weather) | [prplhd](https://github.com/prplhd) | Java | 📝 [Заметки](https://raw.githubusercontent.com/reviewer-project/weather-review/refs/heads/main/rv7-prplhd.md) | Александр [@anelfer](https://t.me/anelfer) |
-| [WeatherApp](https://github.com/xcvqqz/WeatherApp) | [xcvqqz](https://github.com/xcvqqz) | Java |  |  |
+| [WeatherApp](https://github.com/xcvqqz/WeatherApp) | [xcvqqz](https://github.com/xcvqqz) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/580072f2a8c02b5e94d14d899f06edda) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [weather-viewer](https://github.com/mom4uk/weather-viewer) | [mom4uk](https://github.com/mom4uk) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/weather-app/review.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [weather-app](https://github.com/AleksandrTuev/weather-app) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java |  |  |
+| [Weather2](https://github.com/AntonFeoktistov/Weather2) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [WeatherApp](https://github.com/vadvah775/WeatherApp) | [vadvah775](https://github.com/vadvah775) | Java |  |  |
+| [weather-viewer](https://github.com/haushekmiva/weather-viewer) | [haushekmiva](https://github.com/haushekmiva) | Java |  |  |
+| [weather-app](https://github.com/codleto/weather-app) | [codleto](https://github.com/codleto) | Java |  |  |
