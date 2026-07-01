@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-283 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 202 ревью.
+289 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 208 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -294,6 +294,12 @@ bookTOC = false
 | [Simulation](https://github.com/ETOOOOOOCHAAAAAAAAAAI/Simulation) | [ETOOOOOOCHAAAAAAAAAAI](https://github.com/ETOOOOOOCHAAAAAAAAAAI) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/etochai-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
 | [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation](https://github.com/ptkvlsk/Simulation) | [ptkvlsk](https://github.com/ptkvlsk) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim154-alexeyboo4er-ptkvlsk.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [simulation-go](https://github.com/romalxr/simulation-go) | [romalxr](https://github.com/romalxr) | Go |  |  |
-| [Simulation](https://github.com/HuviHonor/Simulation) | [HuviHonor](https://github.com/HuviHonor) | Java |  |  |
-| [simulation-go](https://github.com/Iposhka54/simulation-go) | [Iposhka54](https://github.com/Iposhka54) | Go |  |  |
+| [simulation-go](https://github.com/romalxr/simulation-go) | [romalxr](https://github.com/romalxr) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/romalxr-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Simulation](https://github.com/HuviHonor/Simulation) | [HuviHonor](https://github.com/HuviHonor) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim155-huvi-HuviHonor.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-go](https://github.com/Iposhka54/simulation-go) | [Iposhka54](https://github.com/Iposhka54) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/Iposhka54-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [simulation-simple-implementation](https://github.com/AmanbekAzizUulu/simulation-simple-implementation) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/Simulation/AmanbekAzizUulu-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [Simulation](https://github.com/Sh1iba/Simulation) | [Sh1iba](https://github.com/Sh1iba) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim156-marimo-Sh1iba.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/rustamizteleu/Simulation) | [rustamizteleu](https://github.com/rustamizteleu) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim157-rustam-rustamizteleu.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/ppixiss/simulation) | [ppixiss](https://github.com/ppixiss) | Java |  |  |
+| [Ecosystem](https://github.com/Geleihad/Ecosystem) | [Geleihad](https://github.com/Geleihad) | Java |  |  |
