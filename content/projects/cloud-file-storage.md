@@ -217,7 +217,7 @@ weight = 6
 
 **Переименование/перемещение ресурса**
 
-`GET /resource/move?from=$from&to=$to`
+`POST /resource/move?from=$from&to=$to`
 
 GET параметры - старый и новый полные пути к ресурсу в URL-encoded формате.
 
