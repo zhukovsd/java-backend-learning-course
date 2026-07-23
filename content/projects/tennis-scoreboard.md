@@ -132,38 +132,48 @@ weight = 4
 
 Ответ в случае успеха: `200 OK`
 
-В обычном гейме поля `*TieBreakPoints` равны `null` (или отсутствуют в JSON).
+JSON содержит вложенные объекты `firstPlayer` и `secondPlayer`, каждый из которых описывает счёт конкретного игрока.
+
+В обычном гейме поле `tieBreakPoints` равно `null` (или отсутствует в JSON).
 
 ```json
 {
-  "firstPlayerName": "First Player",
-  "secondPlayerName": "Second Player",
-  "firstPlayerPoints": "40",
-  "secondPlayerPoints": "AD",
-  "firstPlayerGames": 2,
-  "secondPlayerGames": 3,
-  "firstPlayerSets": 0,
-  "secondPlayerSets": 1,
-  "firstPlayerTieBreakPoints": null,
-  "secondPlayerTieBreakPoints": null,
+  "firstPlayer": {
+    "name": "First Player",
+    "points": "40",
+    "games": 2,
+    "sets": 0,
+    "tieBreakPoints": null
+  },
+  "secondPlayer": {
+    "name": "Second Player",
+    "points": "AD",
+    "games": 3,
+    "sets": 1,
+    "tieBreakPoints": null
+  },
   "winnerName": null
 }
 ```
 
-В тай-брейке поля `*PlayerPoints` равны `null` (или отсутствуют в JSON).
+В тай-брейке поле `points` равно `null` (или отсутствует в JSON).
 
 ```json
 {
-  "firstPlayerName": "First Player",
-  "secondPlayerName": "Second Player",
-  "firstPlayerPoints": null,
-  "secondPlayerPoints": null,
-  "firstPlayerGames": 6,
-  "secondPlayerGames": 6,
-  "firstPlayerSets": 0,
-  "secondPlayerSets": 0,
-  "firstPlayerTieBreakPoints": 5,
-  "secondPlayerTieBreakPoints": 4,
+  "firstPlayer": {
+    "name": "First Player",
+    "points": null,
+    "games": 6,
+    "sets": 0,
+    "tieBreakPoints": 5
+  },
+  "secondPlayer": {
+    "name": "Second Player",
+    "points": null,
+    "games": 6,
+    "sets": 0,
+    "tieBreakPoints": 4
+  },
   "winnerName": null
 }
 ```
@@ -182,38 +192,48 @@ weight = 4
 
 Ответ в случае успеха: `200 OK`
 
-В обычном гейме поля `*TieBreakPoints` равны `null` (или отсутствуют в JSON).
+JSON содержит вложенные объекты `firstPlayer` и `secondPlayer`, каждый из которых описывает счёт конкретного игрока.
+
+В обычном гейме поле `tieBreakPoints` равно `null` (или отсутствует в JSON).
 
 ```json
 {
-  "firstPlayerName": "First Player",
-  "secondPlayerName": "Second Player",
-  "firstPlayerPoints": "40",
-  "secondPlayerPoints": "AD",
-  "firstPlayerGames": 2,
-  "secondPlayerGames": 3,
-  "firstPlayerSets": 0,
-  "secondPlayerSets": 1,
-  "firstPlayerTieBreakPoints": null,
-  "secondPlayerTieBreakPoints": null,
+  "firstPlayer": {
+    "name": "First Player",
+    "points": "40",
+    "games": 2,
+    "sets": 0,
+    "tieBreakPoints": null
+  },
+  "secondPlayer": {
+    "name": "Second Player",
+    "points": "AD",
+    "games": 3,
+    "sets": 1,
+    "tieBreakPoints": null
+  },
   "winnerName": null
 }
 ```
 
-В тай-брейке поля `*PlayerPoints` равны `null` (или отсутствуют в JSON).
+В тай-брейке поле `points` равно `null` (или отсутствует в JSON).
 
 ```json
 {
-  "firstPlayerName": "First Player",
-  "secondPlayerName": "Second Player",
-  "firstPlayerPoints": null,
-  "secondPlayerPoints": null,
-  "firstPlayerGames": 6,
-  "secondPlayerGames": 6,
-  "firstPlayerSets": 0,
-  "secondPlayerSets": 0,
-  "firstPlayerTieBreakPoints": 5,
-  "secondPlayerTieBreakPoints": 4,
+  "firstPlayer": {
+    "name": "First Player",
+    "points": null,
+    "games": 6,
+    "sets": 0,
+    "tieBreakPoints": 5
+  },
+  "secondPlayer": {
+    "name": "Second Player",
+    "points": null,
+    "games": 6,
+    "sets": 0,
+    "tieBreakPoints": 4
+  },
   "winnerName": null
 }
 ```
