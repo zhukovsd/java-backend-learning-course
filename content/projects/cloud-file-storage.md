@@ -24,7 +24,7 @@ weight = 6
   - Spring Data JPA
   - Миграции
   - Представление о NoSQL хранилищах
-- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
+- [Frontend](../technologies/frontend.md) - интеграция фронтенда в форме одностраничного веб-приложения на React
 - [Тесты](../technologies/tests.md) - интеграционное тестирование, JUnit, Testcontainers
 - [Docker](../technologies/microservices.md#docker) - контейнеры, образы, volumes, Docker Compose
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux, Tomcat
