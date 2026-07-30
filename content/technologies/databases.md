@@ -75,7 +75,7 @@ ORM - инструмент для стирания границ между за�
 
 - [Видео](https://www.youtube.com/watch?v=5XUjsCL3KaU) по Flyway от dmdev, [документация](https://documentation.red-gate.com/flyway/flyway-cli-and-api/welcome-to-flyway)
 - [Видео](https://www.youtube.com/watch?v=prLt2LHbA8o) по Liquibase от Константина Шибкова, [документация](https://docs.liquibase.com/home.html)
-- Практика - проекты с 5 по 7 
+- Практика - проекты 5 и 6
 
 ## NoSQL базы данных
 

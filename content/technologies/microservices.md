@@ -29,8 +29,8 @@ Docker - основная технология контейнеризации, �
 - Курс ["Docker Mastery"](https://www.udemy.com/course/docker-mastery/) (English)
 - ["Docker - Полный курс"](https://www.udemy.com/course/docker-ru/) от Богдана Стащука
 - Практика:
-  - Проект #6 ["Облачное хранилище"](../projects/cloud-file-storage.md) - написание Docker Compose стека с базами данных (SQL, MinIO, Redis), деплой
-  - Проект #7 ["Планировщик задач"](../projects/task-tracker.md) - упаковка Spring Boot приложения в Docker образ, написание своего Docker Compose стека (Spring Boot сервисы, хранилища), сборка образов в CI/CD пайплайне, деплой
+  - Проект #5 ["Облачное хранилище"](../projects/cloud-file-storage.md) - написание Docker Compose стека с базами данных (SQL, MinIO, Redis), деплой
+  - Проект #6 ["Планировщик задач"](../projects/task-tracker.md) - упаковка Spring Boot приложения в Docker образ, написание своего Docker Compose стека (Spring Boot сервисы, хранилища), сборка образов в CI/CD пайплайне, деплой
 
 Что дальше (уровень middle и выше):
 - Kubernetes
@@ -52,7 +52,7 @@ Docker - основная технология контейнеризации, �
 - Kafka:
   - Документация модуля Spring Kafka - [https://docs.spring.io/spring-kafka/reference/index.html](https://docs.spring.io/spring-kafka/reference/index.html)
 - Практика:
-  - Проект #7 ["Планировщик задач"](../projects/task-tracker.md) - разработка проекта в миросервисном стиле (3 сервиса на Spring Boot и 1 сервис для фронтенда), кросс-сервисное общение через брокер сообщений Kafka
+  - Проект #6 ["Планировщик задач"](../projects/task-tracker.md) - разработка проекта в миросервисном стиле (3 сервиса на Spring Boot и 1 сервис для фронтенда), кросс-сервисное общение через брокер сообщений Kafka
 
 Что дальше (уровень middle и выше):
 - Проектирование микросервисных систем, микросервисные паттерны

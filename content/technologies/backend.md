@@ -77,7 +77,7 @@ JWT расшифровывается как Json Web Token. Информация
 - JWT:
   - [https://jwt.io/introduction](https://jwt.io/introduction)
   - Интеграция JWT со Spring - [https://www.bezkoder.com/spring-boot-jwt-authentication/](https://www.bezkoder.com/spring-boot-jwt-authentication/)
-- Практика - проекты #5 ["Погода"](../projects/weather-viewer.md) и #6 ["Облачное хранилище файлов"](../projects/cloud-file-storage.md) (сессии), #7 ["Планировщик задач"](../projects/task-tracker.md) - JWT
+- Практика - проект #5 ["Облачное хранилище файлов"](../projects/cloud-file-storage.md) (сессии), #6 ["Планировщик задач"](../projects/task-tracker.md) (JWT)
 
 ## REST API
 
@@ -92,7 +92,7 @@ REST - набор правил взаимодействия клиента и с
 - Статьи по REST на хабре - [#1](https://habr.com/ru/post/483202/), [#2](https://habr.com/ru/post/351890/)
 - [Моя лекция](https://www.youtube.com/watch?v=yWzesBoTOvE) по HTTP, API, REST
 - Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508)
-- Практика - проекты #3 ["Обмен валют"](../projects/currency-exchange.md) и #7 ["Планировщик задач"](../projects/task-tracker.md) содержат примеры дизайна REST API
+- Практика - проекты с #3 по #6
 
 ## Java
 
