@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-289 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 208 ревью.
+292 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 212 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -301,5 +301,8 @@ bookTOC = false
 | [simulation-simple-implementation](https://github.com/AmanbekAzizUulu/simulation-simple-implementation) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/Simulation/AmanbekAzizUulu-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [Simulation](https://github.com/Sh1iba/Simulation) | [Sh1iba](https://github.com/Sh1iba) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim156-marimo-Sh1iba.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/rustamizteleu/Simulation) | [rustamizteleu](https://github.com/rustamizteleu) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim157-rustam-rustamizteleu.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [simulation](https://github.com/ppixiss/simulation) | [ppixiss](https://github.com/ppixiss) | Java |  |  |
-| [Ecosystem](https://github.com/Geleihad/Ecosystem) | [Geleihad](https://github.com/Geleihad) | Java |  |  |
+| [simulation](https://github.com/ppixiss/simulation) | [ppixiss](https://github.com/ppixiss) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim159-anastasia-ppixiss.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Ecosystem](https://github.com/Geleihad/Ecosystem) | [Geleihad](https://github.com/Geleihad) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim160-rg-Geleihad.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/aglazovv77-svg/Simulation) | [aglazovv77-svg](https://github.com/aglazovv77-svg) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim161-alexey-aglazovv77.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/themidnightdev404/simulation) | [themidnightdev404](https://github.com/themidnightdev404) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/themidnightdev404-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [Simulation](https://github.com/denegas/Simulation) | [denegas](https://github.com/denegas) | Java |  |  |

@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-28 реализаций на Java, C#, Go, Python. 9 ревью.
+33 реализаций на Java, Go, Python, C#. 12 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -42,3 +42,8 @@ bookTOC = false
 | [task-tracker](https://github.com/SamoylovSt/task-tracker) | [SamoylovSt](https://github.com/SamoylovSt) | Java |  |  |
 | [task-tracker](https://github.com/OnEseil/task-tracker) | [OnEseil](https://github.com/OnEseil) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/a3542051875e199e9ef21ba087867c57) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [tracker-docker-start](https://github.com/AquaProdigy/tracker-docker-start) | [AquaProdigy](https://github.com/AquaProdigy) | Java | 📝 [Заметки](https://github.com/reviewer-project/task-tracker-review/blob/main/rv2-AquaProdigy.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [task_tracker](https://github.com/KeshaVoz/task_tracker) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/KeshaVoz_task_tracker_review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [ToDoAppSevenProject](https://github.com/PancoManco/ToDoAppSevenProject) | [PancoManco](https://github.com/PancoManco) | Java |  |  |
+| [task-tracker](https://gitlab.com/mmeow/task-tracker) | [mmeow](https://gitlab.com/mmeow) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/task-tracker-review/mmeow-task-tracker.md) | Юра [@yosakohf](https://t.me/yosakohf) |
+| [/task-tracker](https://github.com/FanatiooN/task-tracker/) | [FanatiooN](https://github.com/FanatiooN) | Go |  |  |
+| [task-tracker](https://github.com/ghubnob/task-tracker) | [ghubnob](https://github.com/ghubnob) | Java | 📝 [Заметки](https://github.com/reviewer-project/task-tracker-review/blob/main/rv3-ghubnob.md) | Александр [@anelfer](https://t.me/anelfer) |
