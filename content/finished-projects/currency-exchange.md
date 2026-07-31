@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-283 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 112 ревью.
+290 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 118 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -292,8 +292,15 @@ bookTOC = false
 | [go-currency-exchange-converter](https://github.com/KostaPo/go-currency-exchange-converter) | [KostaPo](https://github.com/KostaPo) | Go |  |  |
 | [CurrencyEx](https://github.com/LinkerMak/CurrencyEx) | [LinkerMak](https://github.com/LinkerMak) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/LinkerMak-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
 | [simple-currency-exchange-service](https://github.com/AmanbekAzizUulu/simple-currency-exchange-service) | [AmanbekAzizUulu](https://github.com/AmanbekAzizUulu) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/AmanbekAzizUulu-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
-| [currency-exchange](https://github.com/timk01/currency-exchange) | [timk01](https://github.com/timk01) | Java |  |  |
+| [currency-exchange](https://github.com/timk01/currency-exchange) | [timk01](https://github.com/timk01) | Java | 📝 [Заметки](https://gist.github.com/prplhd/41eae043eb6aa29086aaa8411392fcaf) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [exchange](https://github.com/redsunv/exchange) | [redsunv](https://github.com/redsunv) | Java |  |  |
-| [CurrencyExchange](https://github.com/STimur/CurrencyExchange) | [STimur](https://github.com/STimur) | Java |  |  |
-| [currencies-exchanger](https://github.com/Ephirious/currencies-exchanger) | [Ephirious](https://github.com/Ephirious) | Java |  |  |
-| [currency-exchange](https://github.com/RocknRollNotDead/currency-exchange) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
+| [CurrencyExchange](https://github.com/STimur/CurrencyExchange) | [STimur](https://github.com/STimur) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/STimur-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currencies-exchanger](https://github.com/Ephirious/currencies-exchanger) | [Ephirious](https://github.com/Ephirious) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/Ephirious-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currency-exchange](https://github.com/RocknRollNotDead/currency-exchange) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java | 📝 [Заметки](https://github.com/Metty1337/Code-Review/blob/main/ExchangeRate/RocknRollNotDead-review.md) | Антон [@c137_morty3](https://t.me/c137_morty3) |
+| [currency-exchange](https://github.com/decxdence/currency-exchange) | [decxdence](https://github.com/decxdence) | Java |  |  |
+| [currency-exchanger-go](https://github.com/Nurlan270/currency-exchanger-go) | [Nurlan270](https://github.com/Nurlan270) | Java |  |  |
+| [Currency-Exchange-REST-API](https://github.com/Vadim-Neshytoi/Currency-Exchange-REST-API) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [currency-exchange](https://github.com/roadmapjava/currency-exchange) | [roadmapjava](https://github.com/roadmapjava) | Java | 📝 [Заметки](https://gist.github.com/prplhd/827ec4b4be16ae20911d1efe1b4d72cc) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [currency-exchange](https://github.com/atroshchenkoi/currency-exchange) | [atroshchenkoi](https://github.com/atroshchenkoi) | Java | 📝 [Заметки](https://gist.github.com/prplhd/87bc63f5ecfe41a9b3f74bb9674942bd) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [Currency_Exchange_App](https://github.com/PronovichV1/Currency_Exchange_App) | [PronovichV1](https://github.com/PronovichV1) | Java |  |  |
+| [currency-exchanger](https://github.com/nibirietz/currency-exchanger) | [nibirietz](https://github.com/nibirietz) | Python |  |  |
