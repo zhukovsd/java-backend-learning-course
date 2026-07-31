@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-467 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Awk, Gleam, Lua, OCaml, Prolog, Zig. 308 ревью.
+471 реализаций на Java, Python, Go, Kotlin, C#, PHP, Rust, Awk, Gleam, Lua, OCaml, Prolog, Zig. 312 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -471,7 +471,7 @@ bookTOC = false
 | [go-hangman](https://github.com/KostaPo/go-hangman) | [KostaPo](https://github.com/KostaPo) | Go |  |  |
 | [hangman-awk](https://github.com/krios2146/hangman-awk) | [krios2146](https://github.com/krios2146) | Awk |  |  |
 | [Hangman](https://github.com/AlekseyVY/Hangman) | [AlekseyVY](https://github.com/AlekseyVY) | Java |  |  |
-| [VisilicaGame](https://github.com/rustamizteleu/VisilicaGame) | [rustamizteleu](https://github.com/rustamizteleu) | Java |  |  |
+| [VisilicaGame](https://github.com/rustamizteleu/VisilicaGame) | [rustamizteleu](https://github.com/rustamizteleu) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm176-rustam-rustamizteleu.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Gallows](https://github.com/anna-chaika8/Gallows) | [anna-chaika8](https://github.com/anna-chaika8) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm171-annachaika-anna-chaika8.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [hangman-go](https://github.com/Nurlan270/hangman-go) | [Nurlan270](https://github.com/Nurlan270) | Go |  |  |
 | [hangman](https://github.com/themidnightdev404/hangman) | [themidnightdev404](https://github.com/themidnightdev404) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/hangman/hangman-midnight.md) | Юра [@yosakohf](https://t.me/yosakohf) |
@@ -479,5 +479,9 @@ bookTOC = false
 | [hangman-golang](https://github.com/Sss330/hangman-golang) | [Sss330](https://github.com/Sss330) | Go |  |  |
 | [hangman-zig](https://github.com/krios2146/hangman-zig) | [krios2146](https://github.com/krios2146) | Zig |  |  |
 | [hangman_TDD](https://github.com/dvbusyrev/hangman_TDD) | [dvbusyrev](https://github.com/dvbusyrev) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm173-dmitry-dvbusyrev.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [hangman](https://github.com/danilscheglov/hangman) | [danilscheglov](https://github.com/danilscheglov) | Java |  |  |
-| [Hangman.git](https://github.com/icefek0505/Hangman.git) | [icefek0505](https://github.com/icefek0505) | Java |  |  |
+| [hangman](https://github.com/danilscheglov/hangman) | [danilscheglov](https://github.com/danilscheglov) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm174-danilscheglov-danilscheglov.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/icefek0505/Hangman) | [icefek0505](https://github.com/icefek0505) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm175-mocnygaz-icefek0505.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [hangman-go](https://github.com/fanat1kq/hangman-go) | [fanat1kq](https://github.com/fanat1kq) | Go |  |  |
+| [FirstProjectHangman](https://github.com/Waklak/FirstProjectHangman) | [Waklak](https://github.com/Waklak) | Java | 📝 [Заметки](https://github.com/raketareview/hangman-review/blob/master/content/rev-hm177-konstantin-Waklak.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Hangman](https://github.com/Totsamyq/Hangman) | [Totsamyq](https://github.com/Totsamyq) | Java |  |  |
+| [HangmanConsole](https://github.com/artemkoloshva/HangmanConsole) | [artemkoloshva](https://github.com/artemkoloshva) | Java |  |  |
