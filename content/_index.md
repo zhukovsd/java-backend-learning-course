@@ -121,11 +121,12 @@ title: Главная страница
 
 [Подробнее](https://zhukovsd.it/posts/my-first-product-extended-roadmap/) про материалы, какую проблему решают и из чего состоят.
 
-По состоянию на апрель 2026:
+По состоянию на август 2026:
 
 - Виселица - [https://zhukovsd.it/posts/extended-roadmap-hangman-release/](https://zhukovsd.it/posts/extended-roadmap-hangman-release/)
 - Симуляция - [https://zhukovsd.it/posts/extended-roadmap-simulation-sponsr-release/](https://zhukovsd.it/posts/extended-roadmap-simulation-sponsr-release/)
 - Обмен валют - [https://zhukovsd.it/posts/extended-roadmap-currency-exchange-release/](https://zhukovsd.it/posts/extended-roadmap-currency-exchange-release/)
+- Теннисное табло - [https://zhukovsd.it/posts/extended-roadmap-tennis-scoreboard-release/](https://zhukovsd.it/posts/extended-roadmap-tennis-scoreboard-release/)
 
 ## Помощь и поддержка
 
