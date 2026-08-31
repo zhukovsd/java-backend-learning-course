@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-292 реализаций на Java, Python, Go, PHP, Kotlin, C#, C\#, JavaScript, OCaml. 212 ревью.
+298 реализаций на Java, Python, Go, Kotlin, PHP, C#, C\#, JavaScript, OCaml. 218 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -305,4 +305,10 @@ bookTOC = false
 | [Ecosystem](https://github.com/Geleihad/Ecosystem) | [Geleihad](https://github.com/Geleihad) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim160-rg-Geleihad.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation](https://github.com/aglazovv77-svg/Simulation) | [aglazovv77-svg](https://github.com/aglazovv77-svg) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim161-alexey-aglazovv77.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/themidnightdev404/simulation) | [themidnightdev404](https://github.com/themidnightdev404) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/simlulation/themidnightdev404-simulation.md) | Юра [@yosakohf](https://t.me/yosakohf) |
-| [Simulation](https://github.com/denegas/Simulation) | [denegas](https://github.com/denegas) | Java |  |  |
+| [Simulation](https://github.com/denegas/Simulation) | [denegas](https://github.com/denegas) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim162-dfirius-denegas.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-project-2-7-zhukovs-pet-project](https://github.com/dymonwesa/simulation-project-2-7-zhukovs-pet-project) | [dymonwesa](https://github.com/dymonwesa) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim163-rg-dymonwesa.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/motr3x/simulation) | [motr3x](https://github.com/motr3x) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim164-matvey-motr3x.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/J03MAMAD3ZZ/Simulation) | [J03MAMAD3ZZ](https://github.com/J03MAMAD3ZZ) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim165-avessalom-J03MAMAD3ZZ.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/kkhuzzyatov/Simulation) | [kkhuzzyatov](https://github.com/kkhuzzyatov) | Kotlin |  |  |
+| [Simulation](https://github.com/veprintsev-ivan/Simulation) | [veprintsev-ivan](https://github.com/veprintsev-ivan) | Java | 📝 [#1](https://gist.github.com/OlegTihii/f47620426e70a4795435f147e216e306), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim166-ivanveprintsev-veprintsev-ivan.md) | Камиль [@kkhuzzyatov](https://t.me/kkhuzzyatov), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/nakedborn666/simulation) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
