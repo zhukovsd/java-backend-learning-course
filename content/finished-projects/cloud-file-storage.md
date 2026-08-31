@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-157 реализаций на Java, Python, Kotlin, PHP, Go. 64 ревью.
+163 реализаций на Java, Python, Kotlin, PHP, Go. 69 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -165,9 +165,15 @@ bookTOC = false
 | [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [cloud-file-storage](https://github.com/prplhd/cloud-file-storage) | [prplhd](https://github.com/prplhd) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/f7113441b14d37490ae49121273e0ad8#file-review20-md) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-storage](https://github.com/moltecore/cloud-storage) | [moltecore](https://github.com/moltecore) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv26-moltecore.md) | Александр [@anelfer](https://t.me/anelfer) |
-| [cloud-file-storage](https://github.com/AleksandrTuev/cloud-file-storage) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java |  |  |
+| [cloud-file-storage](https://github.com/AleksandrTuev/cloud-file-storage) | [AleksandrTuev](https://github.com/AleksandrTuev) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/ffe05959487af5fa1e4dd2ccd0d06206) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-file-storage](https://github.com/ChestnutLord/cloud-file-storage) | [ChestnutLord](https://github.com/ChestnutLord) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv25-ChestnutLord.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [CloudStorage](https://github.com/NastyaPowerr/CloudStorage) | [NastyaPowerr](https://github.com/NastyaPowerr) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv27-NastyaPowerr.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [cloud-file-storage](https://github.com/gomode13/cloud-file-storage) | [gomode13](https://github.com/gomode13) | Python |  |  |
-| [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/DRFiles_by_AntonFeoktistov/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [cloud-file-storage](https://github.com/RocknRollNotDead/cloud-file-storage) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
+| [cloud-storage](https://github.com/apollobing/cloud-storage) | [apollobing](https://github.com/apollobing) | Java |  |  |
+| [CloudFileStorage](https://github.com/phoboy725/CloudFileStorage) | [phoboy725](https://github.com/phoboy725) | Java |  |  |
+| [cloud-file-storage](https://github.com/LinkerMak/cloud-file-storage) | [LinkerMak](https://github.com/LinkerMak) | Java |  |  |
+| [CloudFileStorage](https://github.com/J-Bakuli/CloudFileStorage) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [#1](https://gist.github.com/SahaPWNZ/1916c580d28a1006b05bc1fdb8357284), 📝 [#2](https://gist.github.com/SahaPWNZ/1916c580d28a1006b05bc1fdb8357284) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-file-storage](https://github.com/haushekmiva/cloud-file-storage) | [haushekmiva](https://github.com/haushekmiva) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/2e9a81772b97a32c4b04d05d7e35714c) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-storage](https://github.com/timk01/cloud-storage) | [timk01](https://github.com/timk01) | Java |  |  |
