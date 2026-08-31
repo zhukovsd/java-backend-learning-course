@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-33 реализаций на Java, Go, Python, C#. 12 ревью.
+38 реализаций на Java, Go, Python, C#. 16 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -45,5 +45,10 @@ bookTOC = false
 | [task_tracker](https://github.com/KeshaVoz/task_tracker) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/KeshaVoz_task_tracker_review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [ToDoAppSevenProject](https://github.com/PancoManco/ToDoAppSevenProject) | [PancoManco](https://github.com/PancoManco) | Java |  |  |
 | [task-tracker](https://gitlab.com/mmeow/task-tracker) | [mmeow](https://gitlab.com/mmeow) | Go | 📝 [Заметки](https://github.com/yosakoo/roadmapReview/blob/main/task-tracker-review/mmeow-task-tracker.md) | Юра [@yosakohf](https://t.me/yosakohf) |
-| [/task-tracker](https://github.com/FanatiooN/task-tracker/) | [FanatiooN](https://github.com/FanatiooN) | Go |  |  |
+| [/task-tracker](https://github.com/FanatiooN/task-tracker/) | [FanatiooN](https://github.com/FanatiooN) | Go | 📝 [Заметки]() | Юра [@yosakohf](https://t.me/yosakohf) |
 | [task-tracker](https://github.com/ghubnob/task-tracker) | [ghubnob](https://github.com/ghubnob) | Java | 📝 [Заметки](https://github.com/reviewer-project/task-tracker-review/blob/main/rv3-ghubnob.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [task-tracker-backend](https://github.com/RocknRollNotDead/task-tracker-backend) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java | 📝 [Заметки](https://codeberg.org/ione/revdoc/src/branch/main/doc/7.2026-07-27.RocknRollNotDead.md) | Иван [@makeitvsolo](https://t.me/makeitvsolo) |
+| [task-scheduler](https://github.com/kkhuzzyatov/task-scheduler) | [kkhuzzyatov](https://github.com/kkhuzzyatov) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/774c9a51795161f8b467d5dc964142fa) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [task-tracker](https://github.com/prplhd/task-tracker) | [prplhd](https://github.com/prplhd) | Java |  |  |
+| [alf-tracker](https://gitlab.com/Alf51/alf-tracker) | [Alf51](https://gitlab.com/Alf51) | Java |  |  |
+| [task-planner](https://github.com/anivik27/task-planner) | [anivik27](https://github.com/anivik27) | Java | 📝 [Заметки]() | Александр [@anelfer](https://t.me/anelfer) |

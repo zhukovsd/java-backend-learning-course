@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-172 реализаций на Java, Python, Go, Kotlin, C#, PHP. 60 ревью.
+175 реализаций на Java, Python, Go, Kotlin, C#, PHP. 63 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -181,8 +181,11 @@ bookTOC = false
 | [WeatherApp](https://github.com/vadvah775/WeatherApp) | [vadvah775](https://github.com/vadvah775) | Java |  |  |
 | [weather-viewer](https://github.com/haushekmiva/weather-viewer) | [haushekmiva](https://github.com/haushekmiva) | Java |  |  |
 | [weather-app](https://github.com/codleto/weather-app) | [codleto](https://github.com/codleto) | Java |  |  |
-| [WeatherViewer](https://github.com/XanderGI/WeatherViewer) | [XanderGI](https://github.com/XanderGI) | Go |  |  |
-| [weather-viewer](https://github.com/j0797/weather-viewer) | [j0797](https://github.com/j0797) | Java |  |  |
-| [Weather](https://github.com/Olegarh86/Weather) | [Olegarh86](https://github.com/Olegarh86) | Java |  |  |
+| [WeatherViewer](https://github.com/XanderGI/WeatherViewer) | [XanderGI](https://github.com/XanderGI) | Java |  |  |
+| [weather-viewer](https://github.com/j0797/weather-viewer) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/16cfd032740de72829d31f72f0719567) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [Weather](https://github.com/Olegarh86/Weather) | [Olegarh86](https://github.com/Olegarh86) | Java | 📝 [Заметки](https://github.com/reviewer-project/weather-review/blob/main/rv9-Olegarh86.md) | Александр [@anelfer](https://t.me/anelfer) |
 | [weather-app](https://github.com/PetrovYegor/weather-app) | [PetrovYegor](https://github.com/PetrovYegor) | Java |  |  |
 | [WeatherApp](https://github.com/romalxr/WeatherApp) | [romalxr](https://github.com/romalxr) | Java |  |  |
+| [weather-go](https://github.com/Nurlan270/weather-go) | [Nurlan270](https://github.com/Nurlan270) | Go |  |  |
+| [spring-weather-viewer](https://github.com/Kamil1developer/spring-weather-viewer) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/9036492f89dba57684a9a51172877318) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [WeatherProject](https://github.com/Ciltonn/WeatherProject) | [Ciltonn](https://github.com/Ciltonn) | Java |  |  |
