@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-209 реализаций на Java, Python, Go, Kotlin, C\#, PHP, Ruby. 88 ревью.
+213 реализаций на Java, Python, Go, Kotlin, C\#, PHP, Ruby. 93 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -217,9 +217,13 @@ bookTOC = false
 | [tennis_scoreboard](https://github.com/dotogo/tennis_scoreboard) | [dotogo](https://github.com/dotogo) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_soutpri-dotogo/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard-go](https://github.com/Nurlan270/tennis-scoreboard-go) | [Nurlan270](https://github.com/Nurlan270) | Go |  |  |
 | [Tennis_score](https://github.com/VeraAtnagullova15/Tennis_score) | [VeraAtnagullova15](https://github.com/VeraAtnagullova15) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_VeraAtnagirl-VeraAtnagullova15/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
-| [Tennis-Match-Table](https://github.com/Ephirious/Tennis-Match-Table) | [Ephirious](https://github.com/Ephirious) | Java |  |  |
+| [Tennis-Match-Table](https://github.com/Ephirious/Tennis-Match-Table) | [Ephirious](https://github.com/Ephirious) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_Ephirious-Ephirious/blob/code-review/backend/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [tennis-scoreboard](https://github.com/decxdence/tennis-scoreboard) | [decxdence](https://github.com/decxdence) | Java | 📝 [Заметки](https://gist.github.com/OlegTihii/c6b953e709f1759dfca1e236e4a4de45) | Камиль [@kkhuzzyatov](https://t.me/kkhuzzyatov) |
 | [tennis_scoreboard](https://github.com/gomode13/tennis_scoreboard) | [gomode13](https://github.com/gomode13) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_gomode13/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [tennis_scoreboard](https://github.com/KeshaVoz/tennis_scoreboard) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_KeshaVoz/review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [TennisScoreBoard](https://github.com/Hawoline/TennisScoreBoard) | [Hawoline](https://github.com/Hawoline) | Java |  |  |
-| [tennis-scoreboard](https://github.com/KozlovskiyKirill/tennis-scoreboard) | [KozlovskiyKirill](https://github.com/KozlovskiyKirill) | Java |  |  |
+| [tennis-scoreboard](https://github.com/KozlovskiyKirill/tennis-scoreboard) | [KozlovskiyKirill](https://github.com/KozlovskiyKirill) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_manch1ster-KozlovskiyKirill/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis_scoreboard](https://github.com/roadmapjava/tennis_scoreboard) | [roadmapjava](https://github.com/roadmapjava) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_roadmapjava-roadmapjava/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis-scoreboard](https://github.com/erkoshqq/tennis-scoreboard) | [erkoshqq](https://github.com/erkoshqq) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_techn0phobia-erkoshqq/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [ScoreBoard](https://github.com/konvict1204/ScoreBoard) | [konvict1204](https://github.com/konvict1204) | Java |  |  |
+| [Tableboard](https://github.com/Ikigai-del/Tableboard) | [Ikigai-del](https://github.com/Ikigai-del) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_M_K_N_05-Ikigai-del/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |

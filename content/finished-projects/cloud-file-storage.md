@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-163 реализаций на Java, Python, Kotlin, PHP, Go. 69 ревью.
+171 реализаций на Java, Python, Kotlin, PHP, Go. 76 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -172,8 +172,16 @@ bookTOC = false
 | [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/DRFiles_by_AntonFeoktistov/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [cloud-file-storage](https://github.com/RocknRollNotDead/cloud-file-storage) | [RocknRollNotDead](https://github.com/RocknRollNotDead) | Java |  |  |
 | [cloud-storage](https://github.com/apollobing/cloud-storage) | [apollobing](https://github.com/apollobing) | Java |  |  |
-| [CloudFileStorage](https://github.com/phoboy725/CloudFileStorage) | [phoboy725](https://github.com/phoboy725) | Java |  |  |
+| [CloudFileStorage](https://github.com/phoboy725/CloudFileStorage) | [phoboy725](https://github.com/phoboy725) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/b3d350aea49af1eaaf02c9a2348b8132) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-file-storage](https://github.com/LinkerMak/cloud-file-storage) | [LinkerMak](https://github.com/LinkerMak) | Java |  |  |
 | [CloudFileStorage](https://github.com/J-Bakuli/CloudFileStorage) | [J-Bakuli](https://github.com/J-Bakuli) | Java | 📝 [#1](https://gist.github.com/SahaPWNZ/1916c580d28a1006b05bc1fdb8357284), 📝 [#2](https://gist.github.com/SahaPWNZ/1916c580d28a1006b05bc1fdb8357284) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-file-storage](https://github.com/haushekmiva/cloud-file-storage) | [haushekmiva](https://github.com/haushekmiva) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/2e9a81772b97a32c4b04d05d7e35714c) | Александр [@sahapwnz](https://t.me/sahapwnz) |
-| [cloud-storage](https://github.com/timk01/cloud-storage) | [timk01](https://github.com/timk01) | Java |  |  |
+| [cloud-storage](https://github.com/timk01/cloud-storage) | [timk01](https://github.com/timk01) | Java | 📝 [Заметки](https://github.com/reviewer-project/cloud-storage-review/blob/main/rv28-timk01.md) | Александр [@anelfer](https://t.me/anelfer) |
+| [CloudFileStorage](https://github.com/XanderGI/CloudFileStorage) | [XanderGI](https://github.com/XanderGI) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/bd6b7c0d53dff96b359afccf4a07a0c9) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-file-storage](https://github.com/MonYamau/cloud-file-storage) | [MonYamau](https://github.com/MonYamau) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/87b488686cd62d179ff1c9dc00ceb864) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-file-storage](https://github.com/DmtritPlesko/cloud-file-storage) | [DmtritPlesko](https://github.com/DmtritPlesko) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/ee142918f0c8b431a673530d8b1ac72e) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-file-storage](https://gitlab.com/blazing-group1/cloud-file-storage) | [blazing-group1](https://gitlab.com/blazing-group1) | Python |  |  |
+| [CloudStorage](https://github.com/Sweit2326/CloudStorage) | [Sweit2326](https://github.com/Sweit2326) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/27cddd463903186583ddde17c6b1198e) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-file-roadmap](https://github.com/Kamil1developer/cloud-file-roadmap) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/970d34e1a4f974fa372a250cb0a3368d) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-storage](https://github.com/nikn808/cloud-storage) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [cloud-file-storage](https://github.com/j0797/cloud-file-storage) | [j0797](https://github.com/j0797) | Java |  |  |

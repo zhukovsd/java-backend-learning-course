@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-298 реализаций на Java, Python, Go, Kotlin, PHP, C#, C\#, JavaScript, OCaml. 218 ревью.
+304 реализаций на Java, Python, Go, Kotlin, PHP, C#, C\#, JavaScript, OCaml. 222 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -312,3 +312,9 @@ bookTOC = false
 | [Simulation](https://github.com/kkhuzzyatov/Simulation) | [kkhuzzyatov](https://github.com/kkhuzzyatov) | Kotlin |  |  |
 | [Simulation](https://github.com/veprintsev-ivan/Simulation) | [veprintsev-ivan](https://github.com/veprintsev-ivan) | Java | 📝 [#1](https://gist.github.com/OlegTihii/f47620426e70a4795435f147e216e306), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim166-ivanveprintsev-veprintsev-ivan.md) | Камиль [@kkhuzzyatov](https://t.me/kkhuzzyatov), Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [simulation](https://github.com/nakedborn666/simulation) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
+| [CreatureSimConsole](https://github.com/artemkoloshva/CreatureSimConsole) | [artemkoloshva](https://github.com/artemkoloshva) | Java |  |  |
+| [Simulation](https://github.com/Tunyaa/Simulation) | [Tunyaa](https://github.com/Tunyaa) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim167-sergeym-Tunyaa.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/fynkoR/simulation) | [fynkoR](https://github.com/fynkoR) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim169-rg-fynkoR.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation2](https://github.com/ArtemYaskov03/Simulation2) | [ArtemYaskov03](https://github.com/ArtemYaskov03) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim168-peen-ArtemYaskov03-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [ProjectTwoSimulation](https://github.com/KruachenkaDB/ProjectTwoSimulation) | [KruachenkaDB](https://github.com/KruachenkaDB) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim170-kruachenya-KruachenkaDB.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/Totsamyq/Simulation) | [Totsamyq](https://github.com/Totsamyq) | Java |  |  |
