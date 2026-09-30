@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-175 реализаций на Java, Python, Go, Kotlin, C#, PHP. 63 ревью.
+176 реализаций на Java, Python, Go, Kotlin, C#, PHP. 63 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -189,3 +189,4 @@ bookTOC = false
 | [weather-go](https://github.com/Nurlan270/weather-go) | [Nurlan270](https://github.com/Nurlan270) | Go |  |  |
 | [spring-weather-viewer](https://github.com/Kamil1developer/spring-weather-viewer) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/9036492f89dba57684a9a51172877318) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [WeatherProject](https://github.com/Ciltonn/WeatherProject) | [Ciltonn](https://github.com/Ciltonn) | Java |  |  |
+| [Weather](https://github.com/Mihail233/Weather) | [Mihail233](https://github.com/Mihail233) | Java |  |  |
