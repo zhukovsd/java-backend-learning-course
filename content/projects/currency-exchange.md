@@ -169,6 +169,7 @@ HTTP коды ответов:
 
 HTTP коды ответов:
 - Успех - 200
+- Base currency совпадает с target currency - 400
 - Ошибка (например, база данных недоступна) - 500
 
 #### GET `/exchangeRate/USDRUB`
