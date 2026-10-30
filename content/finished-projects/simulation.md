@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-304 реализаций на Java, Python, Go, Kotlin, PHP, C#, C\#, JavaScript, OCaml. 222 ревью.
+311 реализаций на Java, Python, Go, Kotlin, PHP, C#, C\#, JavaScript, OCaml. 230 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -317,4 +317,11 @@ bookTOC = false
 | [simulation](https://github.com/fynkoR/simulation) | [fynkoR](https://github.com/fynkoR) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim169-rg-fynkoR.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [Simulation2](https://github.com/ArtemYaskov03/Simulation2) | [ArtemYaskov03](https://github.com/ArtemYaskov03) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim168-peen-ArtemYaskov03-v2.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
 | [ProjectTwoSimulation](https://github.com/KruachenkaDB/ProjectTwoSimulation) | [KruachenkaDB](https://github.com/KruachenkaDB) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim170-kruachenya-KruachenkaDB.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
-| [Simulation](https://github.com/Totsamyq/Simulation) | [Totsamyq](https://github.com/Totsamyq) | Java |  |  |
+| [Simulation](https://github.com/Totsamyq/Simulation) | [Totsamyq](https://github.com/Totsamyq) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim171-egor-Totsamyq.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/AlbertComander/Simulation) | [AlbertComander](https://github.com/AlbertComander) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim172-trebla-AlbertComander.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation_by_Toanio](https://github.com/Toanio/simulation_by_Toanio) | [Toanio](https://github.com/Toanio) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim174-toantran-Toanio.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [Simulation](https://github.com/khaliuss/Simulation) | [khaliuss](https://github.com/khaliuss) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim173-khalid-khaliuss.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation-java](https://github.com/timuekov/simulation-java) | [timuekov](https://github.com/timuekov) | Java | 📝 [Заметки](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim175-Timur-timuekov.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |
+| [simulation](https://github.com/ambal333/simulation) | [ambal333](https://github.com/ambal333) | Python |  |  |
+| [Simulation](https://github.com/MYTAHT86/Simulation) | [MYTAHT86](https://github.com/MYTAHT86) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/Simulation_by_MYTAHT86/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [simulation](https://github.com/xoaltie/simulation) | [xoaltie](https://github.com/xoaltie) | Java | 📝 [#1](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim176-dariam-xoaltie.md), 📝 [#2](https://github.com/raketareview/simulation_review/blob/master/content/rev-sim176-dariam-xoaltie.md) | Алексей [@Raketa4000az](https://t.me/Raketa4000az) |

@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-41 реализаций на Java, Go, Python, C#. 17 ревью.
+42 реализаций на Java, Go, Python, C#. 19 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -54,4 +54,5 @@ bookTOC = false
 | [task-planner](https://github.com/anivik27/task-planner) | [anivik27](https://github.com/anivik27) | Java | 📝 [Заметки]() | Александр [@anelfer](https://t.me/anelfer) |
 | [task-tracker](https://github.com/gomode13/task-tracker) | [gomode13](https://github.com/gomode13) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/task-tracker_by_gomode13/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [task-tracker](https://github.com/danila11042004/task-tracker) | [danila11042004](https://github.com/danila11042004) | Java |  |  |
-| [Scheduler](https://github.com/timk01/Scheduler) | [timk01](https://github.com/timk01) | Java |  |  |
+| [Scheduler](https://github.com/timk01/Scheduler) | [timk01](https://github.com/timk01) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/b77ad7d46e6ae9f3302d22f6fadccc25) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [task-tracker](https://github.com/okhanzhin/task-tracker) | [okhanzhin](https://github.com/okhanzhin) | Java | 📝 [Заметки]() | Александр [@anelfer](https://t.me/anelfer) |

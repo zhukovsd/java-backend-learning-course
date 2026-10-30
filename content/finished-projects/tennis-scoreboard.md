@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-213 реализаций на Java, Python, Go, Kotlin, C\#, PHP, Ruby. 93 ревью.
+218 реализаций на Java, Python, Go, Kotlin, C\#, PHP, Ruby. 94 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -227,3 +227,8 @@ bookTOC = false
 | [tennis-scoreboard](https://github.com/erkoshqq/tennis-scoreboard) | [erkoshqq](https://github.com/erkoshqq) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_techn0phobia-erkoshqq/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 | [ScoreBoard](https://github.com/konvict1204/ScoreBoard) | [konvict1204](https://github.com/konvict1204) | Java |  |  |
 | [Tableboard](https://github.com/Ikigai-del/Tableboard) | [Ikigai-del](https://github.com/Ikigai-del) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_M_K_N_05-Ikigai-del/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [Tennis-Match-Scoreboard-](https://github.com/Vadim-Neshytoi/Tennis-Match-Scoreboard-) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [TennisScoreboard](https://github.com/STimur/TennisScoreboard) | [STimur](https://github.com/STimur) | Java | 📝 [Заметки](https://github.com/vasiliy-spb/review_tennis-scoreboard_for_timshas-STimur/blob/code-review/code-review/REVIEW_README.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [tennis-scoreboard](https://github.com/PronovichV1/tennis-scoreboard) | [PronovichV1](https://github.com/PronovichV1) | Java |  |  |
+| [tennis-scoreboard](https://github.com/fynkoR/tennis-scoreboard) | [fynkoR](https://github.com/fynkoR) | Java |  |  |
+| [tennis-scoreboard](https://github.com/maff1337/tennis-scoreboard) | [maff1337](https://github.com/maff1337) | Python |  |  |
