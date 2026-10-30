@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-298 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 127 ревью.
+303 реализаций на Java, Python, Go, Kotlin, PHP, C++, C\#, OCaml, Perl. 130 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -312,3 +312,8 @@ bookTOC = false
 | [currency-exchange](https://github.com/TheEmpressDiadema/currency-exchange) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
 | [Currency-Exchange-Service](https://github.com/artemkoloshva/Currency-Exchange-Service) | [artemkoloshva](https://github.com/artemkoloshva) | Java | 📝 [Заметки](https://gist.github.com/prplhd/fc9f1a3fb9e638db14144f7161c2711f) | Дмитрий [@prplhd](https://t.me/prplhd) |
 | [exchanger](https://github.com/maff1337/exchanger) | [maff1337](https://github.com/maff1337) | Python |  |  |
+| [currency-exchange](https://github.com/ptkvlsk/currency-exchange) | [ptkvlsk](https://github.com/ptkvlsk) | Java | 📝 [Заметки](https://gist.github.com/prplhd/cf94715046705c8cf0c48bdb8a48c355) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [CurrencyExchange](https://github.com/nakedborn666/CurrencyExchange) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
+| [currency_exchange_by_Toanio](https://github.com/Toanio/currency_exchange_by_Toanio) | [Toanio](https://github.com/Toanio) | Java | 📝 [Заметки](https://gist.github.com/prplhd/776322d5bbd7f68f229ce304025b526e) | Дмитрий [@prplhd](https://t.me/prplhd) |
+| [ProjectThreeCurrencyExchange](https://github.com/KruachenkaDB/ProjectThreeCurrencyExchange) | [KruachenkaDB](https://github.com/KruachenkaDB) | Java |  |  |
+| [currency-exchange](https://github.com/fynkoR/currency-exchange) | [fynkoR](https://github.com/fynkoR) | Java | 📝 [Заметки](https://gist.github.com/prplhd/a546dca4a734a997576b4c0cc29f22e8) | Дмитрий [@prplhd](https://t.me/prplhd) |
