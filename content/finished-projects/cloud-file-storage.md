@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/cloud-file-storage.md)
 
-171 реализаций на Java, Python, Kotlin, PHP, Go. 76 ревью.
+174 реализаций на Java, Python, Kotlin, PHP, Go. 79 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
@@ -184,4 +184,7 @@ bookTOC = false
 | [CloudStorage](https://github.com/Sweit2326/CloudStorage) | [Sweit2326](https://github.com/Sweit2326) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/27cddd463903186583ddde17c6b1198e) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-file-roadmap](https://github.com/Kamil1developer/cloud-file-roadmap) | [Kamil1developer](https://github.com/Kamil1developer) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/970d34e1a4f974fa372a250cb0a3368d) | Александр [@sahapwnz](https://t.me/sahapwnz) |
 | [cloud-storage](https://github.com/nikn808/cloud-storage) | [nikn808](https://github.com/nikn808) | Python |  |  |
-| [cloud-file-storage](https://github.com/j0797/cloud-file-storage) | [j0797](https://github.com/j0797) | Java |  |  |
+| [cloud-file-storage](https://github.com/j0797/cloud-file-storage) | [j0797](https://github.com/j0797) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/a26d37472c44a3a092df38886ea4b8ab) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [cloud-storage](https://gitlab.com/pet777/cloud-storage) | [pet777](https://gitlab.com/pet777) | Python |  |  |
+| [Cloud-v2](https://github.com/Ciltonn/Cloud-v2) | [Ciltonn](https://github.com/Ciltonn) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/0b5168b7e93fcd15a50455fddcf09571) | Александр [@sahapwnz](https://t.me/sahapwnz) |
+| [Cloud-file-storage](https://github.com/grunder-96/Cloud-file-storage) | [grunder-96](https://github.com/grunder-96) | Java | 📝 [Заметки](https://gist.github.com/SahaPWNZ/585017f0eae41bfca6f5f745b8f1e3c8) | Александр [@sahapwnz](https://t.me/sahapwnz) |
